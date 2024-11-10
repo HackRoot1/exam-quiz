@@ -1,19 +1,23 @@
 import React from "react";
 import "./App.css";
-import QuizContainer from "./components/QuizContainer";
-import Header from "./components/Header";
-import Footer from "./components/Footer";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import Home from "./pages/Home";
+import NoPage from "./pages/NoPage";
+import Login from "./pages/Login";
+import Register from "./pages/Register";
+
 
 function App() {
     return (
         <>
-            <div className="flex flex-col h-screen">
-                <Header />
-                <main class="grow bg-blue-200">
-                    <QuizContainer />
-                </main>
-                <Footer />
-            </div>
+            <BrowserRouter>
+                <Routes>
+                    <Route path="/" element={<Home />} />
+                    <Route path="/login" element={<Login />} />
+                    <Route path="/register" element={<Register />} />
+                    <Route path="*" element={<NoPage />} />
+                </Routes>
+            </BrowserRouter>
         </>
     );
 }

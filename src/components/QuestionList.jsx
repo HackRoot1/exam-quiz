@@ -10,7 +10,7 @@ const QuestionList = ({
     return (
         <div className="flex flex-col gap-2 cursor-pointer h-96">
             <div id="reasoning" className="flex justify-between items-center">
-                <div>Reasoning</div>
+                <div>Combined Questions</div>
                 <div>
                     <span aria-label="Toggle Reasoning Section">
                         <svg

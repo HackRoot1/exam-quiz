@@ -93,9 +93,11 @@ const QuizContainer = () => {
         <>
             {!isSubmitted ? (
                 <>
-                    <Timer onTimeUp={handleSubmit} duration={5400} />
-                    <div class="flex h-full px-10 pt-10">
-                        <section class="w-4/5 p-5 pb-10">
+                    <div className="h-[50px] flex justify-center items-center">
+                        <Timer onTimeUp={handleSubmit} duration={5400} />
+                    </div>
+                    <div className="flex h-full px-10 pt-10">
+                        <section className="w-4/5 p-5 pb-10">
                             <>
                                 {questions.length > 0 && (
                                     <Question
@@ -109,7 +111,7 @@ const QuizContainer = () => {
                                     />
                                 )}
 
-                                <div class="flex justify-between mt-10">
+                                <div className="flex justify-between mt-10">
                                     <button
                                         className="bg-blue-400 hover:bg-blue-500 text-white px-5 py-2"
                                         onClick={handleMarkQuestion}
@@ -162,7 +164,7 @@ const QuizContainer = () => {
                             </>
                         </section>
 
-                        <section class="w-1/5 p-5 flex flex-col gap-2">
+                        <section className="w-1/5 p-5 flex flex-col gap-2">
                             <QuestionList
                                 questions={questions}
                                 onNavigateToQuestion={handleNavigateToQuestion}
@@ -174,7 +176,9 @@ const QuizContainer = () => {
                     </div>
                 </>
             ) : (
-                <Result answers={answers} questions={questions} />
+                <div className="flex justify-center items-center h-full">
+                    <Result answers={answers} questions={questions} />
+                </div>
             )}
         </>
     );

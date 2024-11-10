@@ -7,9 +7,9 @@ import Footer from "./components/Footer";
 function App() {
     return (
         <>
-            <div className="App">
+            <div className="flex flex-col h-screen">
                 <Header />
-                <main class="flex-1 bg-blue-200">
+                <main class="grow bg-blue-200">
                     <QuizContainer />
                 </main>
                 <Footer />

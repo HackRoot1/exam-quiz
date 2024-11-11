@@ -30,7 +30,7 @@ const Home = () => {
         <div className="flex flex-col h-dvh">
             <Header />
             <button onClick={handleLogout}>Logout</button>
-            <main class="grow bg-blue-200">
+            <main className="grow bg-blue-200">
                 <QuizContainer />
             </main>
             <Footer />

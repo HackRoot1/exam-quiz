@@ -27,38 +27,88 @@ const Register = () => {
     };
 
     return (
-        <div className="register-container">
-            <h2>Register</h2>
-            <form onSubmit={handleRegister}>
-                <label>Email</label>
-                <input
-                    type="email"
-                    value={email}
-                    onChange={(e) => setEmail(e.target.value)}
-                    required
-                />
+        <div className="bg-gray-100 flex items-center justify-center min-h-screen">
+            <div className="w-full max-w-md">
+                <div className="bg-white shadow-lg rounded-lg px-8 py-6">
+                    <h2 className="text-2xl font-bold text-gray-800 text-center mb-4">
+                        Register
+                    </h2>
 
-                <label>Password</label>
-                <input
-                    type="password"
-                    value={password}
-                    onChange={(e) => setPassword(e.target.value)}
-                    required
-                />
+                    <form onSubmit={handleRegister}>
+                        <div className="mb-4">
+                            <label
+                                className="block text-start text-gray-700 text-sm font-bold mb-2"
+                                for="email"
+                            >
+                                Email
+                            </label>
+                            <input
+                                type="email"
+                                id="email"
+                                value={email}
+                                onChange={(e) => setEmail(e.target.value)}
+                                placeholder="Enter your email"
+                                className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                                required
+                            />
+                        </div>
 
-                <label>Confirm Password</label>
-                <input
-                    type="password"
-                    value={confirmPassword}
-                    onChange={(e) => setConfirmPassword(e.target.value)}
-                    required
-                />
+                        <div className="mb-4">
+                            <label
+                                className="block text-start text-gray-700 text-sm font-bold mb-2"
+                                for="password"
+                            >
+                                Password
+                            </label>
+                            <input
+                                type="password"
+                                id="password"
+                                value={password}
+                                onChange={(e) => setPassword(e.target.value)}
+                                placeholder="Enter your password"
+                                className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                                required
+                            />
+                        </div>
 
-                <button type="submit">Register</button>
-                <p>
-                    Already have an account? <a href="/login">Login</a>
-                </p>
-            </form>
+                        <div className="mb-4">
+                            <label
+                                className="block text-start text-gray-700 text-sm font-bold mb-2"
+                                for="confirm-password"
+                            >
+                                Confirm Password
+                            </label>
+                            <input
+                                type="password"
+                                id="confirm-password"
+                                value={confirmPassword}
+                                onChange={(e) =>
+                                    setConfirmPassword(e.target.value)
+                                }
+                                placeholder="Confirm your password"
+                                className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                                required
+                            />
+                        </div>
+
+                        <div className="mb-4">
+                            <button
+                                type="submit"
+                                className="w-full mx-0 bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                            >
+                                Register
+                            </button>
+                        </div>
+                    </form>
+
+                    <p className="mt-4 text-center text-gray-600 text-sm">
+                        Already have an account? {" "}
+                        <a href="/login" className="text-blue-500 hover:underline">
+                            Log in
+                        </a>
+                    </p>
+                </div>
+            </div>
         </div>
     );
 };

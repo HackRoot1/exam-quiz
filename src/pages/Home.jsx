@@ -28,8 +28,8 @@ const Home = () => {
 
     return (
         <div className="flex flex-col h-dvh">
-            <Header />
-            <button onClick={handleLogout}>Logout</button>
+            <Header handleLogout = {handleLogout} />
+            {/* <button onClick={handleLogout}>Logout</button> */}
             <main className="grow bg-blue-200">
                 <QuizContainer />
             </main>

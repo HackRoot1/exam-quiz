@@ -29,6 +29,9 @@ const QuizContainer = () => {
         setMarkedQuestions((prev) => [
             ...new Set([...prev, currentQuestionIndex]),
         ]);
+        setCurrentQuestionIndex(
+            (prev) => prev + 1
+        );
     };
 
     const handleNavigateToQuestion = (index) => {

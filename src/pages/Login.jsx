@@ -21,9 +21,9 @@ const Login = () => {
     };
 
     return (
-        <div className="bg-gray-100 flex items-center justify-center min-h-screen">
-            <div className="w-full max-w-md">
-                <div className="bg-white shadow-lg rounded-lg px-8 py-6">
+        <div className="bg-gray-100 flex md:items-center md:justify-center min-h-dvh">
+            <div className="w-full md:max-w-md">
+                <div className="bg-white h-full flex flex-col justify-center md:shadow-lg md:rounded-lg px-8 py-6">
                     <h2 className="text-2xl font-bold text-gray-800 text-center mb-4">
                         Login
                     </h2>
@@ -74,6 +74,7 @@ const Login = () => {
                             Login
                         </button>
                     </form>
+
                     <p className="mt-4 text-center text-gray-600 text-sm">
                         Don't have an account? { " " }
                         <a href="/register" className="text-blue-500 hover:underline">

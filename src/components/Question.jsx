@@ -7,14 +7,14 @@ const Question = ({ questionData, selectedAnswer, onAnswerSelect }) => {
 
     return (
         <>
-            <div className="flex flex-col gap-2 px-3 text-white">
-                <div className="text-start">{questionData.question}</div>
+            <div className="flex flex-col gap-2 px-3 text-black">
+                <div className="text-start font-bold">{questionData.question}</div>
 
                 <div className="flex flex-col gap-2">
                     {questionData.options.map((option, index) => (
                         <div className="flex items-center" key={index}>
                             <label
-                                className="grow text-start cursor-pointer"
+                                className="grow text-start cursor-pointer font-semibold"
                                 htmlFor={`question-${index}-option-${index}`}
                             >
                                 {index + 1}. {option}

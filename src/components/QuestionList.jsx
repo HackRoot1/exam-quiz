@@ -8,7 +8,7 @@ const QuestionList = ({
     markedQuestions,
 }) => {
     return (
-        <div className="flex flex-col gap-2 cursor-pointer h-96">
+        <div className="flex flex-col gap-5 cursor-pointer md:h-96">
             <div id="reasoning" className="flex justify-between items-center">
                 <div>Combined Questions</div>
                 <div>
@@ -33,7 +33,7 @@ const QuestionList = ({
 
             <div
                 id="open-reasoning"
-                className="flex flex-wrap gap-2 overflow-y-auto"
+                className="flex md:flex-wrap gap-2 md:overflow-y-auto md:overflow-x-hidden overflow-x-scroll"
             >
                 {questions.map((_, index) => {
                     // Determine the question status

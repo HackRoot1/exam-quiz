@@ -96,11 +96,11 @@ const QuizContainer = () => {
         <>
             {!isSubmitted ? (
                 <>
-                    <div className="h-[50px] flex justify-center items-center">
+                    <div className="h-[30px] md:h-[50px] flex justify-center items-center">
                         <Timer onTimeUp={handleSubmit} duration={5400} />
                     </div>
-                    <div className="flex h-full px-10 pt-10">
-                        <section className="w-4/5 p-5 pb-10">
+                    <div className="flex flex-col md:flex-row h-full px-3 md:px-10 pt-10">
+                        <section className="w-full md:w-4/5 p-5 pb-10">
                             <>
                                 {questions.length > 0 && (
                                     <Question
@@ -116,14 +116,16 @@ const QuizContainer = () => {
 
                                 <div className="flex justify-between mt-10">
                                     <button
-                                        className="bg-blue-400 hover:bg-blue-500 text-white px-5 py-2"
+                                        className="bg-blue-400 hover:bg-blue-500 rounded-lg md:rounded-none font-bold text-white px-2 py-1 md:px-5 md:py-2"
                                         onClick={handleMarkQuestion}
                                     >
                                         Mark for Review
                                     </button>
-                                    <div>
+                                    
+
+                                    <div className="flex">
                                         <button
-                                            className="bg-red-400 hover:bg-red-500 text-white px-5 py-2"
+                                            className="bg-red-500 hover:bg-red-600 rounded-lg md:rounded-none font-bold text-white px-2 py-1 md:px-5 md:py-2"
                                             onClick={() => {
                                                 if (currentQuestionIndex > 0) {
                                                     setCurrentQuestionIndex(
@@ -138,7 +140,7 @@ const QuizContainer = () => {
                                             Previous
                                         </button>
                                         <button
-                                            className="bg-green-400 hover:bg-green-500 text-white px-5 py-2"
+                                            className="bg-green-400 hover:bg-green-500 rounded-lg md:rounded-none font-bold text-white px-2 py-1 md:px-5 md:py-2"
                                             onClick={() => {
                                                 if (
                                                     currentQuestionIndex <
@@ -157,7 +159,7 @@ const QuizContainer = () => {
                                             Next
                                         </button>
                                         <button
-                                            className="bg-blue-400 hover:bg-blue-500 text-white px-5 py-2"
+                                            className="bg-blue-500 hover:bg-blue-600 rounded-lg md:rounded-none font-bold text-white px-2 py-1 md:px-5 md:py-2"
                                             onClick={handleSubmit}
                                         >
                                             Submit
@@ -167,7 +169,7 @@ const QuizContainer = () => {
                             </>
                         </section>
 
-                        <section className="w-1/5 p-5 flex flex-col gap-2">
+                        <section className="w-full md:w-1/5 p-5 flex flex-col gap-2">
                             <QuestionList
                                 questions={questions}
                                 onNavigateToQuestion={handleNavigateToQuestion}

@@ -3,7 +3,8 @@ import Question from "./Question";
 import Timer from "./Timer";
 import Result from "./Result";
 import QuestionList from "./QuestionList";
-import questionsData from "../data/questions";
+// import questionsData from "../data/questions";
+import questionsData from "../data/questionPaperNtpc";
 import { getRandomQuestions } from "../utils/shuffleQuestions";
 
 const QuizContainer = () => {
@@ -29,9 +30,7 @@ const QuizContainer = () => {
         setMarkedQuestions((prev) => [
             ...new Set([...prev, currentQuestionIndex]),
         ]);
-        setCurrentQuestionIndex(
-            (prev) => prev + 1
-        );
+        setCurrentQuestionIndex((prev) => prev + 1);
     };
 
     const handleNavigateToQuestion = (index) => {
@@ -100,7 +99,7 @@ const QuizContainer = () => {
                         <Timer onTimeUp={handleSubmit} duration={5400} />
                     </div>
                     <div className="flex flex-col md:flex-row h-full px-3 md:px-10 pt-10">
-                        <section className="w-full md:w-4/5 p-5 pb-10">
+                        <section className="w-full md:w-4/5 p-5 pb-10 flex flex-col mb-2 justify-between">
                             <>
                                 {questions.length > 0 && (
                                     <Question
@@ -110,6 +109,7 @@ const QuizContainer = () => {
                                         selectedAnswer={
                                             answers[currentQuestionIndex]
                                         }
+                                        questionNo = {currentQuestionIndex}
                                         onAnswerSelect={handleAnswerSelect}
                                     />
                                 )}
@@ -121,7 +121,6 @@ const QuizContainer = () => {
                                     >
                                         Mark for Review
                                     </button>
-                                    
 
                                     <div className="flex">
                                         <button

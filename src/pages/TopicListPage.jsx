@@ -1,13 +1,14 @@
 import React, { useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import Header from "../components/Header";
-// import QuizContainer from "../components/QuizContainer";
 import Footer from "../components/Footer";
-import { onAuthStateChanged } from "firebase/auth";
 import { auth } from "../firebaseConfig";
+import { onAuthStateChanged } from "firebase/auth";
 
-const Home = () => {
+
+const TopicListPage = () => {
     const navigate = useNavigate();
+
 
     useEffect(() => {
         const unsubscribe = onAuthStateChanged(auth, (user) => {
@@ -24,32 +25,47 @@ const Home = () => {
         auth.signOut();
         navigate("/login");
     };
-
     return (
         <div className="flex flex-col min-h-dvh">
             <Header handleLogout={handleLogout} />
-            {/* <button onClick={handleLogout}>Logout</button> */}
+
             <main className="grow bg-slate-100">
-                {/* <a href="/ntpc-question-paper-1">NTPC Question Paper</a> */}
                 <div className="flex flex-wrap justify-center items-center gap-6 p-6">
                     <a
-                        href="/ntpc"
+                        href="/ppsaci-marathi"
                         className="w-48 h-48 bg-blue-200 shadow-lg flex justify-center items-center rounded-xl font-bold text-center"
                     >
-                        RRB NTPC
+                        Marathi
                     </a>
                     <a
-                        href="/ppsaci"
+                        href="/ppsaci-question-paper"
                         className="w-48 h-48 bg-blue-200 shadow-lg flex justify-center items-center rounded-xl font-bold text-center"
                     >
-                        PPSACI
+                        English
+                    </a>
+                    <a
+                        href="/ppsaci-question-paper"
+                        className="w-48 h-48 bg-blue-200 shadow-lg flex justify-center items-center rounded-xl font-bold text-center"
+                    >
+                        Maths (Reasoning)
+                    </a>
+                    <a
+                        href="/ppsaci-question-paper"
+                        className="w-48 h-48 bg-blue-200 shadow-lg flex justify-center items-center rounded-xl font-bold text-center"
+                    >
+                        Maths (Algebra)
+                    </a>
+                    <a
+                        href="/ppsaci-question-paper"
+                        className="w-48 h-48 bg-blue-200 shadow-lg flex justify-center items-center rounded-xl font-bold text-center"
+                    >
+                        General Knowledge
                     </a>
                 </div>
-                {/* <QuizContainer /> */}
             </main>
             <Footer />
         </div>
     );
 };
 
-export default Home;
+export default TopicListPage;

@@ -3,9 +3,10 @@ import Question from "./Question";
 import Timer from "./Timer";
 import Result from "./Result";
 import QuestionList from "./QuestionList";
-// import questionsData from "../data/questions";
+import ppsaciMarathi from "../data/questions";
 import questionsData from "../data/questionPaperNtpc";
 import { getRandomQuestions } from "../utils/shuffleQuestions";
+import { useLocation } from "react-router-dom";
 
 const QuizContainer = () => {
     const [questions, setQuestions] = useState([]);
@@ -16,10 +17,15 @@ const QuizContainer = () => {
     const [showSubmitPrompt, setShowSubmitPrompt] = useState(false);
     const [showMarkedPrompt, setShowMarkedPrompt] = useState(false);
     const [hasStarted, setHasStarted] = useState(false);
+    const location = useLocation();
 
     useEffect(() => {
-        setQuestions(getRandomQuestions(questionsData));
-    }, []);
+        if(location.pathname === "/ntpc-question-paper-1") {
+            setQuestions(getRandomQuestions(questionsData, location.pathname));
+        }else if (location.pathname === "/ppsaci-marathi") {
+            setQuestions(getRandomQuestions(ppsaciMarathi, location.pathname));
+        }
+    }, [location.pathname]);
 
     const handleAnswerSelect = (answer) => {
         setAnswers((prev) => ({ ...prev, [currentQuestionIndex]: answer }));
@@ -109,7 +115,7 @@ const QuizContainer = () => {
                                         selectedAnswer={
                                             answers[currentQuestionIndex]
                                         }
-                                        questionNo = {currentQuestionIndex}
+                                        questionNo={currentQuestionIndex}
                                         onAnswerSelect={handleAnswerSelect}
                                     />
                                 )}

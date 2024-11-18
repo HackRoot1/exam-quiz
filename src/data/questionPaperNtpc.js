@@ -747,23 +747,31 @@ const questions = {
         },
         {
             id: 87,
-            question: "The given table shows the marks of various students in a class. Study the table and answer the question that follows. \n What is the maximum overall percentage (average of percentages obtained in all subjects by any student) of marks obtained by any student among A, B, C, D and E?",
+            question:
+                "The given table shows the marks of various students in a class. Study the table and answer the question that follows. \n What is the maximum overall percentage (average of percentages obtained in all subjects by any student) of marks obtained by any student among A, B, C, D and E?",
             image: "q87.png",
             options: ["93.40%", "93.60%", "92.60%", "92.40%"],
             answer: "93.60%",
         },
         {
             id: 88,
-            question: "The given table shows the marks of various students in a class. Study the table and answer the question that follows. \n Which two students have the least difference of marks between them?",
+            question:
+                "The given table shows the marks of various students in a class. Study the table and answer the question that follows. \n Which two students have the least difference of marks between them?",
             image: "q88.png",
             options: ["B and C", "A and D", "B and E", "E and D"],
             answer: "B and E",
         },
         {
             id: 89,
-            question: "The given table shows the marks of various students in a class. Study the table and answer the question that follows. \n If we rank students on the basis of all five subjects and then we rank them only on the basis of physics, chemistry and maths then what will happen to the arrangement of ranks in both cases?",
+            question:
+                "The given table shows the marks of various students in a class. Study the table and answer the question that follows. \n If we rank students on the basis of all five subjects and then we rank them only on the basis of physics, chemistry and maths then what will happen to the arrangement of ranks in both cases?",
             image: "q89.png",
-            options: ["All ranks will be different", "The ranks will remains the same in both cases", "Only the top two ranks will be different", "Only the bottom two ranks will be different"],
+            options: [
+                "All ranks will be different",
+                "The ranks will remains the same in both cases",
+                "Only the top two ranks will be different",
+                "Only the bottom two ranks will be different",
+            ],
             answer: "The ranks will remains the same in both cases",
         },
         {

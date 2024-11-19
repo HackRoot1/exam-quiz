@@ -209,6 +209,7 @@ const questions = {
             answer: "फक्त c",
         },
     ],
+
     generalknowledge: [
         {
             id: 19,

@@ -7,7 +7,7 @@ export const getRandomQuestions = (questions, pathname) => {
         selectedQuestions.push(...questions.questionPaperNtpc);
     } else if (pathname === "/ppsaci-marathi") {
         selectedQuestions.push(
-            ...questions.marathi.sort(() => 0.5 - Math.random()).slice(0, 3)
+            ...questions.marathi
         );
     } else if (pathname === "/ppsaci-english") {
         selectedQuestions.push(

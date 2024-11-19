@@ -25,7 +25,7 @@ const QuestionPage = () => {
         navigate("/login");
     };
     return (
-        <div className="flex flex-col h-dvh">
+        <div className="flex flex-col min-h-dvh">
             <Header handleLogout={handleLogout} />
             <main className="grow bg-white">
                 <QuizContainer />

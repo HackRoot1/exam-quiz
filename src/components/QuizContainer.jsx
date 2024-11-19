@@ -3,7 +3,7 @@ import Question from "./Question";
 import Timer from "./Timer";
 import Result from "./Result";
 import QuestionList from "./QuestionList";
-import ppsaciMarathi from "../data/questions";
+import ppsaciQuestionData from "../data/questions";
 import questionsData from "../data/questionPaperNtpc";
 import { getRandomQuestions } from "../utils/shuffleQuestions";
 import { useLocation } from "react-router-dom";
@@ -20,10 +20,28 @@ const QuizContainer = () => {
     const location = useLocation();
 
     useEffect(() => {
-        if(location.pathname === "/ntpc-question-paper-1") {
+        if (location.pathname === "/ntpc-question-paper-1") {
             setQuestions(getRandomQuestions(questionsData, location.pathname));
-        }else if (location.pathname === "/ppsaci-marathi") {
-            setQuestions(getRandomQuestions(ppsaciMarathi, location.pathname));
+        } else if (location.pathname === "/ppsaci-marathi") {
+            setQuestions(
+                getRandomQuestions(ppsaciQuestionData, location.pathname)
+            );
+        } else if (location.pathname === "/ppsaci-english") {
+            setQuestions(
+                getRandomQuestions(ppsaciQuestionData, location.pathname)
+            );
+        } else if (location.pathname === "/ppsaci-maths-reasoning") {
+            setQuestions(
+                getRandomQuestions(ppsaciQuestionData, location.pathname)
+            );
+        } else if (location.pathname === "/ppsaci-maths-algebra") {
+            setQuestions(
+                getRandomQuestions(ppsaciQuestionData, location.pathname)
+            );
+        } else if (location.pathname === "/ppsaci-general-knowledge") {
+            setQuestions(
+                getRandomQuestions(ppsaciQuestionData, location.pathname)
+            );
         }
     }, [location.pathname]);
 

@@ -5,10 +5,8 @@ import Footer from "../components/Footer";
 import { auth } from "../firebaseConfig";
 import { onAuthStateChanged } from "firebase/auth";
 
-
 const TopicListPage = () => {
     const navigate = useNavigate();
-
 
     useEffect(() => {
         const unsubscribe = onAuthStateChanged(auth, (user) => {
@@ -30,34 +28,34 @@ const TopicListPage = () => {
             <Header handleLogout={handleLogout} />
 
             <main className="grow bg-slate-100">
-                <div className="flex flex-wrap justify-center items-center gap-6 p-6">
+                <div className="flex flex-wrap md:justify-center md:items-center gap-6 p-6">
                     <a
                         href="/ppsaci-marathi"
-                        className="w-48 h-48 bg-blue-200 shadow-lg flex justify-center items-center rounded-xl font-bold text-center"
+                        className="w-full md:w-48 h-20 md:h-48 bg-blue-200 shadow-lg flex justify-center items-center rounded-xl font-bold text-center"
                     >
                         Marathi
                     </a>
                     <a
-                        href="/ppsaci-question-paper"
-                        className="w-48 h-48 bg-blue-200 shadow-lg flex justify-center items-center rounded-xl font-bold text-center"
+                        href="/ppsaci-english"
+                        className="w-full md:w-48 h-20 md:h-48 bg-blue-200 shadow-lg flex justify-center items-center rounded-xl font-bold text-center"
                     >
                         English
                     </a>
                     <a
-                        href="/ppsaci-question-paper"
-                        className="w-48 h-48 bg-blue-200 shadow-lg flex justify-center items-center rounded-xl font-bold text-center"
+                        href="/ppsaci-maths-reasoning"
+                        className="w-full md:w-48 h-20 md:h-48 bg-blue-200 shadow-lg flex justify-center items-center rounded-xl font-bold text-center"
                     >
                         Maths (Reasoning)
                     </a>
                     <a
-                        href="/ppsaci-question-paper"
-                        className="w-48 h-48 bg-blue-200 shadow-lg flex justify-center items-center rounded-xl font-bold text-center"
+                        href="/ppsaci-maths-algebra"
+                        className="w-full md:w-48 h-20 md:h-48 bg-blue-200 shadow-lg flex justify-center items-center rounded-xl font-bold text-center"
                     >
                         Maths (Algebra)
                     </a>
                     <a
-                        href="/ppsaci-question-paper"
-                        className="w-48 h-48 bg-blue-200 shadow-lg flex justify-center items-center rounded-xl font-bold text-center"
+                        href="/ppsaci-general-knowledge"
+                        className="w-full md:w-48 h-20 md:h-48 bg-blue-200 shadow-lg flex justify-center items-center rounded-xl font-bold text-center"
                     >
                         General Knowledge
                     </a>

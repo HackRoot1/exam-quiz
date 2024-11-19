@@ -1,6 +1,6 @@
 import React from "react";
 
-const Header = ({handleLogout}) => {
+const Header = ({ handleLogout }) => {
     return (
         <>
             <header className="flex-none h-[70px] bg-red-400">
@@ -8,7 +8,10 @@ const Header = ({handleLogout}) => {
                     <h2 className="font-bold text-2xl">RRB Exam</h2>
                     <div className="flex justify-between items-center gap-3">
                         <span className="font-bold">Username</span>
-                        <div onClick={handleLogout} className="flex justify-center items-center bg-slate-50 px-3 py-1 rounded-lg cursor-pointer gap-2">
+                        <div
+                            onClick={handleLogout}
+                            className="flex justify-center items-center bg-slate-50 px-3 py-1 rounded-lg cursor-pointer gap-2"
+                        >
                             <span>Logout</span>
                             <svg
                                 xmlns="http://www.w3.org/2000/svg"

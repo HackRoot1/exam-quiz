@@ -34,7 +34,7 @@ const Ntpc = () => {
                     <div className="flex flex-wrap justify-center items-center gap-6 p-6">
                         <a
                             href="/ntpc-question-paper-1"
-                            className="w-48 h-48 bg-blue-200 shadow-lg flex justify-center items-center rounded-xl font-bold text-center"
+                            className="w-full md:w-48 h-20 md:h-48 bg-blue-200 shadow-lg flex justify-center items-center rounded-xl font-bold text-center"
                         >
                             Question Paper Set 1
                         </a>

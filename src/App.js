@@ -16,17 +16,35 @@ function App() {
                 <Routes>
                     {/* Home Route */}
                     <Route path="/" element={<Home />} />
-                    
+
                     {/* Ntpc Paper Routes */}
                     <Route path="/ntpc" element={<Ntpc />} />
-                    <Route path="/ntpc-question-paper-1" element={<QuestionPage />} />
-                    
+                    <Route
+                        path="/ntpc-question-paper-1"
+                        element={<QuestionPage />}
+                    />
+
                     {/* PPSACI Paper Routes */}
                     <Route path="/ppsaci" element={<TopicListPage />} />
-                    <Route path="/ppsaci-question-paper" element={<QuestionPage />} />
+                    <Route
+                        path="/ppsaci-question-paper"
+                        element={<QuestionPage />}
+                    />
                     <Route path="/ppsaci-marathi" element={<QuestionPage />} />
-                    
-                    
+                    <Route path="/ppsaci-english" element={<QuestionPage />} />
+                    <Route
+                        path="/ppsaci-maths-reasoning"
+                        element={<QuestionPage />}
+                    />
+                    <Route
+                        path="/ppsaci-maths-algebra"
+                        element={<QuestionPage />}
+                    />
+                    <Route
+                        path="/ppsaci-general-knowledge"
+                        element={<QuestionPage />}
+                    />
+
                     {/* Authentication Routes */}
                     <Route path="/login" element={<Login />} />
                     <Route path="/register" element={<Register />} />

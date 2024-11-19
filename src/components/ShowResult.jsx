@@ -1,44 +1,32 @@
 import React from "react";
 
-const Question = ({
-    questionData,
-    selectedAnswer,
-    onAnswerSelect,
-    questionNo,
-}) => {
-    const handleChange = (event) => {
-        onAnswerSelect(event.target.value);
-    };
+const ShowResult = ({ answers, questions }) => {
+    console.log(questions);
 
     return (
         <>
             <div className="flex flex-col gap-2 px-3 text-black">
                 <div className="text-start font-bold">
-                    {questionNo + 1 + ") "}
-                    {
-                        questionData.question.includes("\n") // Check if the questionData.question has new lines
-                            ? questionData.question
-                                  .split("\n")
-                                  .map((line, index) => (
-                                      <span key={index}>
-                                          {line}
-                                          <br />
-                                      </span>
-                                  ))
-                            : questionData.question 
-                    }
+                    {questions.question.includes("\n") // Check if the questions.question has new lines
+                        ? questions.question.split("\n").map((line, index) => (
+                              <span key={index}>
+                                  {line}
+                                  <br />
+                              </span>
+                          ))
+                        : questions.question}
                 </div>
 
-                {questionData.image && (
+                {questions.image && (
                     <img
                         className="h-[100px] md:h-[150px] md:w-1/2"
-                        src={`./images/${questionData.image}`}
+                        src={`./images/${questions.image}`}
                         alt="not found"
                     />
                 )}
 
                 <div className="flex flex-col gap-2">
-                    {questionData.options.map((option, index) => (
+                    {questions.options.map((option, index) => (
                         <div className="flex items-center" key={index}>
                             <label
                                 className="grow text-start cursor-pointer font-semibold"
@@ -60,8 +48,7 @@ const Question = ({
                                 type="radio"
                                 name="answer"
                                 value={option}
-                                checked={selectedAnswer === option}
-                                onChange={handleChange}
+                                checked={answers[index] === option}
                             />
                         </div>
                     ))}
@@ -71,4 +58,4 @@ const Question = ({
     );
 };
 
-export default Question;
+export default ShowResult;

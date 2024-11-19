@@ -49,7 +49,7 @@ const questions = {
             answer: "Shady",
         },
     ],
-    hindi: [
+    marathi: [
         {
             id: 9,
             question: "Translate 'apple' in Hindi",
@@ -111,7 +111,143 @@ const questions = {
             answer: "Father",
         },
     ],
-    maths: [
+    generalknowledge: [
+        {
+            id: 19,
+            question: "2 + 2 = ?",
+            options: ["3", "4", "5", "6"],
+            answer: "4",
+        },
+        {
+            id: 20,
+            question: "5 * 3 = ?",
+            options: ["15", "10", "8", "12"],
+            answer: "15",
+        },
+        {
+            id: 21,
+            question: "12 / 4 = ?",
+            options: ["3", "4", "2", "6"],
+            answer: "3",
+        },
+        {
+            id: 22,
+            question: "7 - 3 = ?",
+            options: ["2", "3", "4", "5"],
+            answer: "4",
+        },
+        {
+            id: 23,
+            question: "3 - 3 = ?",
+            options: ["2", "3", "4", "5"],
+            answer: "3",
+        },
+        {
+            id: 24,
+            question: "12 / 4 = ?",
+            options: ["3", "4", "2", "6"],
+            answer: "3",
+        },
+        {
+            id: 25,
+            question: "7 - 3 = ?",
+            options: ["2", "3", "4", "5"],
+            answer: "4",
+        },
+        {
+            id: 26,
+            question: "3 - 3 = ?",
+            options: ["2", "3", "4", "5"],
+            answer: "3",
+        },
+        {
+            id: 27,
+            question: "12 / 4 = ?",
+            options: ["3", "4", "2", "6"],
+            answer: "3",
+        },
+        {
+            id: 28,
+            question: "7 - 3 = ?",
+            options: ["2", "3", "4", "5"],
+            answer: "4",
+        },
+        {
+            id: 29,
+            question: "3 - 3 = ?",
+            options: ["2", "3", "4", "5"],
+            answer: "3",
+        },
+    ],
+    mathsReasoning: [
+        {
+            id: 19,
+            question: "2 + 2 = ?",
+            options: ["3", "4", "5", "6"],
+            answer: "4",
+        },
+        {
+            id: 20,
+            question: "5 * 3 = ?",
+            options: ["15", "10", "8", "12"],
+            answer: "15",
+        },
+        {
+            id: 21,
+            question: "12 / 4 = ?",
+            options: ["3", "4", "2", "6"],
+            answer: "3",
+        },
+        {
+            id: 22,
+            question: "7 - 3 = ?",
+            options: ["2", "3", "4", "5"],
+            answer: "4",
+        },
+        {
+            id: 23,
+            question: "3 - 3 = ?",
+            options: ["2", "3", "4", "5"],
+            answer: "3",
+        },
+        {
+            id: 24,
+            question: "12 / 4 = ?",
+            options: ["3", "4", "2", "6"],
+            answer: "3",
+        },
+        {
+            id: 25,
+            question: "7 - 3 = ?",
+            options: ["2", "3", "4", "5"],
+            answer: "4",
+        },
+        {
+            id: 26,
+            question: "3 - 3 = ?",
+            options: ["2", "3", "4", "5"],
+            answer: "3",
+        },
+        {
+            id: 27,
+            question: "12 / 4 = ?",
+            options: ["3", "4", "2", "6"],
+            answer: "3",
+        },
+        {
+            id: 28,
+            question: "7 - 3 = ?",
+            options: ["2", "3", "4", "5"],
+            answer: "4",
+        },
+        {
+            id: 29,
+            question: "3 - 3 = ?",
+            options: ["2", "3", "4", "5"],
+            answer: "3",
+        },
+    ],
+    mathsAlgebra: [
         {
             id: 19,
             question: "2 + 2 = ?",

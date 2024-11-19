@@ -28,24 +28,21 @@ const Home = () => {
     return (
         <div className="flex flex-col min-h-dvh">
             <Header handleLogout={handleLogout} />
-            {/* <button onClick={handleLogout}>Logout</button> */}
             <main className="grow bg-slate-100">
-                {/* <a href="/ntpc-question-paper-1">NTPC Question Paper</a> */}
                 <div className="flex flex-wrap justify-center items-center gap-6 p-6">
                     <a
                         href="/ntpc"
-                        className="w-48 h-48 bg-blue-200 shadow-lg flex justify-center items-center rounded-xl font-bold text-center"
+                        className="w-full md:w-48 h-20 md:h-48 bg-blue-200 shadow-lg flex justify-center items-center rounded-xl font-bold text-center"
                     >
                         RRB NTPC
                     </a>
                     <a
                         href="/ppsaci"
-                        className="w-48 h-48 bg-blue-200 shadow-lg flex justify-center items-center rounded-xl font-bold text-center"
+                        className="w-full md:w-48 h-20 md:h-48 bg-blue-200 shadow-lg flex justify-center items-center rounded-xl font-bold text-center"
                     >
                         PPSACI
                     </a>
                 </div>
-                {/* <QuizContainer /> */}
             </main>
             <Footer />
         </div>

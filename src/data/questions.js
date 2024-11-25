@@ -509,6 +509,193 @@ const questions = {
             options: ["group", "Pride", "many", "lot"],
             answer: "Pride",
         },
+        {
+            id: 76,
+            question:
+                "Which one of the following sentences is grammatically correct?",
+            options: [
+                "Those books are of I.",
+                "Those books are my.",
+                "Those books are mine.",
+                "Those books are I's.",
+            ],
+            answer: "Those books are mine.",
+        },
+        {
+            id: 77,
+            question: "Which of these addresses is correct?",
+            options: ["your?", "your’s", "you all’s?", "yours?"],
+            answer: "yours?",
+        },
+        {
+            id: 78,
+            question: "Which one of the following sentences is correct?",
+            options: [
+                "It is me who has done this.",
+                "It is me who have done this.",
+                "It is I who has done this.",
+                "It is I who have done this.",
+            ],
+            answer: "It is I who have done this.",
+        },
+        {
+            id: 79,
+            question:
+                "Fill in the blank with appropriate pronoun. 'One should not boast of ________ merits.'",
+            options: ["his", "hers", "one's", "its"],
+            answer: "one's",
+        },
+        {
+            id: 80,
+            question:
+                "Fill in the blank with the proper alternative. ________ did you give the letter to?",
+            options: ["Which", "Who", "Whom", "None of these"],
+            answer: "Whom",
+        },
+        {
+            id: 81,
+            question:
+                "Fill in the blank in the given sentence with appropriate word from the given alternatives. ‘We are much stronger than ________ at football.’",
+            options: ["they", "them", "us", "themselves"],
+            answer: "they",
+        },
+        {
+            id: 82,
+            question:
+                "Pick out the correct pronoun to fill in the blank in the following sentence. I tell my wife all ________ happens in my college.",
+            options: ["which", "what", "that", "whatever"],
+            answer: "that",
+        },
+        {
+            id: 83,
+            question: "Which of the following sentence is correct?",
+            options: [
+                "It is me who has written this letter.",
+                "It is I who has written this letter.",
+                "It is me who have written this letter.",
+                "It is I who have written this letter.",
+            ],
+            answer: "It is I who have written this letter.",
+        },
+        {
+            id: 84,
+            question:
+                "Fill in the blank with appropriate pronoun. One cannot be careful of ________ good name.",
+            options: ["his", "my", "one's", "their"],
+            answer: "one's",
+        },
+        {
+            id: 85,
+            question:
+                "Fill in the blank with proper alternative form of 'self.' They found ________ in a tight corner.",
+            options: ["himself", "herself", "themselves", "itself"],
+            answer: "themselves",
+        },
+        {
+            id: 86,
+            question:
+                "Pick out a sentence with an agreement between the subject and the pronoun.",
+            options: [
+                "Each of the girls gave her own version of affairs.",
+                "The girls gave her own version of affairs.",
+                "He gave her own version of affairs.",
+                "They gave her own version of affairs.",
+            ],
+            answer: "Each of the girls gave her own version of affairs.",
+        },
+        {
+            id: 87,
+            question:
+                "Fill in the blank with the correct alternative. She went to the movie with ________ two children.",
+            options: ["his", "him", "her", "she"],
+            answer: "her",
+        },
+        {
+            id: 88,
+            question: "Pick out the correct sentence:",
+            options: [
+                "Each of the two candidates have paid their fees.",
+                "A crowd of the university students have surrounded the vice-chancellor.",
+                "Many a flower is born to blush unseen.",
+                "Two weeks are a long time.",
+            ],
+            answer: "Many a flower is born to blush unseen.",
+        },
+        {
+            id: 89,
+            question:
+                "Choose the appropriate relative pronoun to fill in the gap in the following statement: The person ________ gave us this present, was my great uncle.",
+            options: ["that", "who", "whose", "none"],
+            answer: "who",
+        },
+        {
+            id: 90,
+            question: "They offered ________ a good job.",
+            options: ["I", "me", "mine", "myself"],
+            answer: "me",
+        },
+        {
+            id: 91,
+            question:
+                "Select the proper pronoun. One should be proud of ________ Motherland.",
+            options: ["his", "ones", "one's", "once"],
+            answer: "one's",
+        },
+        {
+            id: 92,
+            question: "Nobody but ________ was present.",
+            options: ["me", "I", "myself", "mine"],
+            answer: "I",
+        },
+        {
+            id: 93,
+            question:
+                "Choose correct pronoun to complete the sentence. ________ is the best player of the team.",
+            options: ["His", "He", "It", "Her"],
+            answer: "He",
+        },
+        {
+            id: 94,
+            question: "________ is an American dog.",
+            options: ["It's", "They", "It", "He"],
+            answer: "It",
+        },
+        {
+            id: 95,
+            question: "________ work in a company.",
+            options: ["We", "He", "She", "It"],
+            answer: "We",
+        },
+        {
+            id: 96,
+            question: "________ speaks very well.",
+            options: ["We", "They", "We", "She"],
+            answer: "She",
+        },
+        {
+            id: 97,
+            question: "I saw ________ at the Bus stop.",
+            options: ["them", "they", "their", "theirs"],
+            answer: "them",
+        },
+        {
+            id: 98,
+            question: "The teacher punished ________.",
+            options: ["he", "his", "him", "none of these"],
+            answer: "him",
+        },
+        {
+            id: 99,
+            question: "Let ________ go.",
+            options: ["I", "my", "myself", "me"],
+            answer: "me",
+        },
+        {
+            id: 100,
+            question: "Let ________ have a nice picnic.",
+            options: ["We", "our", "us", "ours"],
+            answer: "us",
+        },
     ],
     marathi: [
         {

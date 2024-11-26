@@ -696,6 +696,2912 @@ const questions = {
             options: ["We", "our", "us", "ours"],
             answer: "us",
         },
+        {
+            id: 101,
+            question: "Let ________ ask their problems.",
+            options: ["they", "them", "their", "theirs"],
+            answer: "them",
+        },
+        {
+            id: 102,
+            question: "One should be careful about ________ study.",
+            options: ["once", "one’s", "his", "her"],
+            answer: "one’s",
+        },
+        {
+            id: 103,
+            question: "One should not boast about ________.",
+            options: ["hisself", "himself", "oneself", "ourselves"],
+            answer: "oneself",
+        },
+        {
+            id: 104,
+            question:
+                "The lady, ________ the police caught, was a terrorist. Choose the correct word to fill in the blanks.",
+            options: ["who", "whose", "whom", "which"],
+            answer: "whom",
+        },
+        {
+            id: 105,
+            question: "The man ________ is honest, is trusted.",
+            options: ["whom", "who", "which", "whose"],
+            answer: "who",
+        },
+        {
+            id: 106,
+            question: "She is the most loving woman ________ ever lived.",
+            options: ["who", "which", "whose", "that"],
+            answer: "who",
+        },
+        {
+            id: 107,
+            question: "We bought a car ________ is red.",
+            options: ["who", "which", "whose", "whom"],
+            answer: "which",
+        },
+        {
+            id: 108,
+            question: "I solved a problem ________ was very difficult.",
+            options: ["who", "whose", "which", "whom"],
+            answer: "which",
+        },
+        {
+            id: 109,
+            question: "The man, ________ bag is lost, is very angry.",
+            options: ["who", "whom", "whose", "which"],
+            answer: "whose",
+        },
+        {
+            id: 110,
+            question:
+                "Choose the sentence in which 'That' is used as a ‘Relative Pronoun’.",
+            options: [
+                "That is my brother.",
+                "This is all that makes life interesting.",
+                "That is the problem",
+                "I told everything to that man,",
+            ],
+            answer: "This is all that makes life interesting.",
+        },
+        {
+            id: 111,
+            question:
+                "Choose ‘Distributive Pronoun’ from following alternatives.",
+            options: ["some", "few", "Either", "All"],
+            answer: "Either",
+        },
+        {
+            id: 112,
+            question:
+                "Fill in the blank with correct ‘Distributive Pronoun’ boy is good.",
+            options: ["Neither", "All", "some", "Few"],
+            answer: "Neither",
+        },
+        {
+            id: 113,
+            question:
+                "‘Each has a bicycle’, The underlined word is used as ________.",
+            options: [
+                "Relative Pronoun",
+                "Distributive Pronoun",
+                "Interrogative Pronoun",
+                "Indefinite Pronoun",
+            ],
+            answer: "Distributive Pronoun",
+        },
+        {
+            id: 114,
+            question:
+                "Sachin and Rahul blamed ________. Complete the given sentence.",
+            options: [
+                "one another",
+                "each other",
+                "one to other",
+                "none of these",
+            ],
+            answer: "each other",
+        },
+        {
+            id: 115,
+            question:
+                "Many players greeted ________. Complete the sentence with correct expression.",
+            options: ["Each one", "any other", "one another", "each other"],
+            answer: "one another",
+        },
+        {
+            id: 116,
+            question: "What! Are you mad? The underlined word is ________.",
+            options: [
+                "Interrogative Pronoun",
+                "Relative Pronoun",
+                "Distributive Pronoun",
+                "Exclamatory Pronoun",
+            ],
+            answer: "Exclamatory Pronoun",
+        },
+        {
+            id: 117,
+            question:
+                "Water is needed to sustain life on the earth. Choose correct Wh-type question to get underlined part as answer.",
+            options: [
+                "Who is needed to sustain life on the earth?",
+                "What is needed to sustain life on the earth?",
+                "Which is needed to sustain life on the earth?",
+                "Whose is needed to sustain life on the earth?",
+            ],
+            answer: "What is needed to sustain life on the earth?",
+        },
+        {
+            id: 118,
+            question:
+                "This is Gopal’s bag. Choose the correct Wh-type question to get underlined part as answer.",
+            options: [
+                "Whose bag is this?",
+                "Which bag is this?",
+                "Who bag is this?",
+                "Why bag is this?",
+            ],
+            answer: "Whose bag is this?",
+        },
+        {
+            id: 119,
+            question: "Choose the sentence which has ‘Interrogative Pronoun’.",
+            options: [
+                "Who is there?",
+                "The man, who is honest, is trusted.",
+                "This is the boy who won the first prize.",
+                "Why bag is this?",
+            ],
+            answer: "Who is there?",
+        },
+        {
+            id: 120,
+            question: "Choose ‘Interrogative Pronoun’ from following.",
+            options: ["Why", "Where", "Which", "When"],
+            answer: "Which",
+        },
+        {
+            id: 121,
+            question: "Choose ‘Interrogative Pronoun’ from following.",
+            options: ["Who", "Where", "Why", "When"],
+            answer: "Who",
+        },
+        {
+            id: 122,
+            question:
+                "Which is the best book in the market? The underlined word is used as ________ in the sentence.",
+            options: [
+                "Relative Pronoun",
+                "Indefinite Pronoun",
+                "Distributive Pronoun",
+                "Interrogative Pronoun",
+            ],
+            answer: "Interrogative Pronoun",
+        },
+        {
+            id: 123,
+            question: "________ have bicycles.",
+            options: ["No one", "Some one", "Everybody", "Few"],
+            answer: "Some one",
+        },
+        {
+            id: 124,
+            question: "________ of the persons has a car.",
+            options: ["All", "Some", "Few", "Everybody"],
+            answer: "Some",
+        },
+        {
+            id: 125,
+            question: "________ have good storybooks.",
+            options: ["Many", "Everybody", "Someone", "Nobody"],
+            answer: "Everybody",
+        },
+        {
+            id: 126,
+            question:
+                "‘Walmiki wrote Ramayana’. Choose correct Wh-type question to get underlined part answer.",
+            options: [
+                "Who wrote Ramayana?",
+                "Which wrote Ramayana?",
+                "Whose wrote Ramayana?",
+                "Whom wrote Ramayana?",
+            ],
+            answer: "Who wrote Ramayana?",
+        },
+        {
+            id: 127,
+            question:
+                "That is his sister. Choose correct Wh-type question to get underlined part as answer.",
+            options: [
+                "Who is his sister?",
+                "Which is his sister?",
+                "Whose is his sister?",
+                "When is his sister?",
+            ],
+            answer: "Who is his sister?",
+        },
+        {
+            id: 128,
+            question:
+                "Choose correct Reflexive pronoun for the blank place. The king saw ________ into the mirror.",
+            options: ["Herself", "Himself", "Itself", "Ourselves"],
+            answer: "Himself",
+        },
+        {
+            id: 129,
+            question: "She blamed ________.",
+            options: ["Himself", "Herself", "Itself", "None of these"],
+            answer: "Herself",
+        },
+        {
+            id: 130,
+            question: "They went ________.",
+            options: ["Ourselves", "Themselves", "Ourselves", "Himself"],
+            answer: "Themselves",
+        },
+        {
+            id: 131,
+            question: "Choose correct plural form of 'Self'.",
+            options: ["Selfs", "Selfes", "Selves", "None of these"],
+            answer: "Selves",
+        },
+        {
+            id: 132,
+            question: "I ________ said so.",
+            options: ["Himself", "Myself", "Ourselves", "Themselves"],
+            answer: "Myself",
+        },
+        {
+            id: 133,
+            question: "The king ________ went to see the queen.",
+            options: ["Himself", "Myself", "Itself", "Ourselves"],
+            answer: "Himself",
+        },
+        {
+            id: 134,
+            question: "We ________ came out of the jungle.",
+            options: ["Ourselves", "Ourself", "Himself", "Themselves"],
+            answer: "Ourselves",
+        },
+        {
+            id: 135,
+            question:
+                "________ is a boy. Choose correct 'Demonstrative Pronoun'.",
+            options: ["These", "Those", "This", "He"],
+            answer: "This",
+        },
+        {
+            id: 136,
+            question:
+                "________ is my car. Choose correct ‘Demonstrative Pronoun’.",
+            options: ["That", "These", "Whose", "Those"],
+            answer: "That",
+        },
+        {
+            id: 137,
+            question:
+                "________ are my cars. Choose correct ‘Demonstrative Pronoun’.",
+            options: ["This", "That", "Those", "They"],
+            answer: "Those",
+        },
+        {
+            id: 138,
+            question: "Choose 'Indefinite Pronoun'.",
+            options: ["He", "They", "Some one", "Myself"],
+            answer: "Some one",
+        },
+        {
+            id: 139,
+            question:
+                "Choose correct ‘Indefinite Pronoun’ for filling the blanks. ________ is there.",
+            options: ["Someone", "He", "She", "They"],
+            answer: "Someone",
+        },
+        {
+            id: 140,
+            question:
+                "Choose correct 'Indefinite Pronoun' for blank places. ________ are called, but ________ are chosen.",
+            options: ["He, she", "They, we", "You, she", "Many, few"],
+            answer: "Many, few",
+        },
+        {
+            id: 141,
+            question:
+                "________ are present. Choose correct 'Indefinite Pronoun' for filling the blanks.",
+            options: ["He", "She", "They", "All"],
+            answer: "They",
+        },
+        {
+            id: 142,
+            question:
+                "________ is wrong. Choose correct 'Indefinite Pronoun' for filling the blanks.",
+            options: ["He", "You", "Something", "We"],
+            answer: "Something",
+        },
+        {
+            id: 143,
+            question:
+                "________ are punished. Choose correct 'Indefinite Pronoun' for filling the blanks.",
+            options: ["Someone", "Any one", "Somebody", "Few"],
+            answer: "Somebody",
+        },
+        {
+            id: 144,
+            question:
+                "________ flower is beautiful. Choose correct 'Indefinite Pronoun' for filling the blanks.",
+            options: ["Many", "A great many", "Many a", "None of these"],
+            answer: "Many a",
+        },
+        {
+            id: 145,
+            question:
+                "________ men were punished. Choose correct 'Indefinite Pronoun' for filling the blanks.",
+            options: ["Many a", "A great many", "Somebody", "None of these"],
+            answer: "A great many",
+        },
+        {
+            id: 146,
+            question:
+                "________ is there. Choose correct 'Indefinite Pronoun' for filling the blanks.",
+            options: ["All", "Few", "No one", "Some"],
+            answer: "No one",
+        },
+        {
+            id: 147,
+            question:
+                "Choose the correct Relative pronoun. I have forgotten ________ gave us this book.",
+            options: ["Who", "Why", "Whose", "Which"],
+            answer: "Who",
+        },
+        {
+            id: 148,
+            question:
+                "Fill in the blank with appropriate pronoun: I wish I knew the man ________ wrote the story.",
+            options: ["Who", "Which", "That", "Whom"],
+            answer: "Who",
+        },
+        {
+            id: 149,
+            question:
+                "Choose the appropriate relative pronoun to fill in the gap in the following statement: I know the man ________ painted this picture.",
+            options: ["Who", "Whom", "Whose", "Which"],
+            answer: "Who",
+        },
+        {
+            id: 150,
+            question:
+                "Choose the correct pronoun to fill in the blank: Ashoka was a wise king. ________ lived more than 2000 years ago.",
+            options: ["Their", "They", "It", "He"],
+            answer: "He",
+        },
+        {
+            id: 151,
+            question:
+                "Choose the correct pronoun to fill in the blank: Cats are very useful ________ can catch mice.",
+            options: ["She", "They", "It", "He"],
+            answer: "They",
+        },
+        {
+            id: 152,
+            question:
+                "Find the correct form of pronoun of underlined word: I prefer black shoes to brown <u>ones</u>.",
+            options: [
+                "Demonstrative pronoun",
+                "Relative Pronoun",
+                "Indefinite Pronoun",
+                "Personal pronoun",
+            ],
+            answer: "Indefinite Pronoun",
+        },
+        {
+            id: 153,
+            question:
+                "The boy who made the top score is my cousin. The underlined word is ________.",
+            options: [
+                "Demonstrative pronoun",
+                "Personal Pronoun",
+                "Relative pronoun",
+                "Reflective pronoun",
+            ],
+            answer: "Relative pronoun",
+        },
+        {
+            id: 154,
+            question:
+                "Which one of the following alternatives is not a ‘pronoun’?",
+            options: ["Most", "His", "Those", "Which"],
+            answer: "Most",
+        },
+        {
+            id: 155,
+            question: "________ of the rooms is good to me.",
+            options: ["Every", "Each", "Some", "All"],
+            answer: "Each",
+        },
+        {
+            id: 156,
+            question:
+                "Choose correct form of pronoun to fill in the blanks. They never admitted ________ faults.",
+            options: ["Them", "Their", "Theirs", "None"],
+            answer: "Their",
+        },
+        {
+            id: 157,
+            question:
+                "Choose the correct word to complete the following sentence. He is friend of ________.",
+            options: ["Me", "Mine", "My", "None"],
+            answer: "Mine",
+        },
+        {
+            id: 158,
+            question: "The moment ________ is lost, is lost forever.",
+            options: ["That", "Which", "When", "What"],
+            answer: "That",
+        },
+        {
+            id: 159,
+            question:
+                "There is no doubt that one has to keep ________ with the changing times.",
+            options: ["Aside", "Tuning", "Oneself", "Pace"],
+            answer: "Pace",
+        },
+        {
+            id: 160,
+            question:
+                "Fill in the blank with the appropriate relative pronoun: The opportunity ________ is lost is lost for ever.",
+            options: ["Those", "Who", "What", "Which"],
+            answer: "Which",
+        },
+        {
+            id: 161,
+            question:
+                "Fill in the blank with the correct option: A friend bought the car for ________.",
+            options: ["Mine", "Hers", "Us", "We"],
+            answer: "Us",
+        },
+        {
+            id: 162,
+            question:
+                "Choose the incorrect part of the sentence: This is (1) of course (2) strictly between (3) you and I (4).",
+            answer: "3) you and I",
+        },
+        {
+            id: 163,
+            question:
+                "Choose the incorrect part of the sentence: Let you (1) and I (2) share (3) this secret (4).",
+            answer: "1) Let you and I",
+        },
+        {
+            id: 164,
+            question:
+                "Choose the incorrect part of the sentence: I remember (1) all (2) what (3) he said (4).",
+            answer: "2) what",
+        },
+        {
+            id: 165,
+            question:
+                "Choose the incorrect part of the sentence: This is one of the (1) best novels (2) that has (3) come out recently (4).",
+            answer: "3) that has",
+        },
+        {
+            id: 166,
+            question:
+                "Choose the correct sentence from the given alternatives.",
+            options: [
+                "The boy has been punished by the headmaster who has broken the window pane.",
+                "The boy who has broken the window pane has been punished by the headmaster.",
+                "The boy has been who punished by the headmaster has broken the window pane.",
+                "None is correct.",
+            ],
+            answer: "The boy who has broken the window pane has been punished by the headmaster.",
+        },
+        {
+            id: 167,
+            question:
+                "Rajan will meet Umesh at the shop in the evening to deliver the message. Which 'wh' word should the question begin with to get the underlined word as answer?",
+            options: ["Who", "Whom", "Where", "Why"],
+            answer: "Where",
+        },
+        {
+            id: 168,
+            question:
+                "Which of the following sentences is correct? (A) Both did not go. (B) Neither went.",
+            options: [
+                "Only (A)",
+                "Only (B)",
+                "Both (A) and (B)",
+                "Neither (A) nor (B)",
+            ],
+            answer: "Only (B)",
+        },
+        {
+            id: 169,
+            question:
+                "Which of the following sentences is correct? (A) He is older than I. (B) He is elder than I.",
+            options: [
+                "Only (A)",
+                "Only (B)",
+                "Both (A) and (B)",
+                "Neither (A) nor (B)",
+            ],
+            answer: "Only (A)",
+        },
+        {
+            id: 170,
+            question:
+                "The mother was carrying a baby in ________ arms. Choose appropriate option from the following to fill in the blank.",
+            options: ["His", "Her", "Your", "Their"],
+            answer: "Her",
+        },
+        {
+            id: 171,
+            question:
+                "I ________ will tell you the truth. Choose the appropriate option to fill in blank in the above sentence.",
+            options: ["Herself", "Himself", "Yourself", "Myself"],
+            answer: "Myself",
+        },
+        {
+            id: 172,
+            question:
+                "The porter was carrying a heavy burden on ________ back. Choose proper word from the following to fill in the blank.",
+            options: ["His", "Her", "Your", "Their"],
+            answer: "His",
+        },
+        {
+            id: 173,
+            question:
+                "I have found the book ________ I lost yesterday. Choose the correct option to fill in the blank.",
+            options: ["Who", "Whom", "Which", "When"],
+            answer: "Which",
+        },
+        {
+            id: 174,
+            question:
+                "Pick out the incorrect part of the following sentence: 'Taj Mahal is one of the wonder of the world.'",
+            options: ["Taj Mahal is", "One of", "The wonder", "Of the world"],
+            answer: "3) The wonder",
+        },
+        {
+            id: 175,
+            question:
+                "Find out number of pronouns in the following sentence: I planted these coconut trees five years ago, one has started yielding coconuts, the other hasn't.",
+            options: ["01", "02", "03", "04"],
+            answer: "03",
+        },
+        {
+            id: 176,
+            question:
+                "Fill in the blank with the correct word from the choices given below: The principal scolded the students ________ project work was not complete.",
+            options: ["What", "Whose", "Who", "Which"],
+            answer: "Whose",
+        },
+        {
+            id: 177,
+            question:
+                "Choose the correct pronoun from the following alternatives to fill in the blank: You and ________ have both been placed first in the competition.",
+            options: ["Me", "Mine", "I", "My"],
+            answer: "I",
+        },
+        {
+            id: 178,
+            question:
+                "Identify the grammatically correct sentence(s):\n a) None of the brothers has their father’s talents.\n b) None of the brothers have their father’s talents.\n c) None of the brothers had their father’s talents.\n d) None of the brothers had their father’s talents.",
+            options: [
+                "Only (a) and (c) correct",
+                "Only (b) and (d) correct",
+                "Only (a), (b), and (c) are correct",
+                "All correct",
+            ],
+            answer: "Only (a) and (c) correct",
+        },
+        {
+            id: 179,
+            question:
+                "Pick out the correct alternative to complete the sentence given below: I know the man ________.",
+            options: [
+                "That was here yesterday",
+                "Who was here yesterday.",
+                "If he was here yesterday",
+                "Which was here yesterday",
+            ],
+            answer: "Who was here yesterday.",
+        },
+        {
+            id: 180,
+            question:
+                "I have done this work <u>myself</u>. Identify the type of underlined pronoun in the above sentence.",
+            options: ["Relative", "Reflexive", "Emphatic", "Personal"],
+            answer: "Emphatic",
+        },
+        {
+            id: 181,
+            question:
+                "Identify incorrect sentence(s):\n a) The basket of apples and pears were hanging from a hook.\n b) This must be one of the best plays that has been staged at Stratford this season.\n c) Each of the candidates are well qualified.",
+            options: ["a only", "a and b", "b and c", "a, b, c"],
+            answer: "b and c",
+        },
+        {
+            id: 182,
+            question:
+                "Which one of the following two sentences is correct?\n a) Who did this? \n b) He and I are brothers.",
+            options: ["Only a", "Only b", "Both", "Neither"],
+            answer: "Both",
+        },
+        {
+            id: 183,
+            question:
+                "Which one of the following two sentences is correct?\n a) He enjoyed during the holidays.\n b) I asked for my pencil, but he did not give me.",
+            options: ["Only a", "Only b", "Both", "Neither"],
+            answer: "Only b",
+        },
+        {
+            id: 184,
+            question:
+                "Which one of the following two sentences is incorrect?\n a) One of my servants tells me.\n b) Both did not go.",
+            options: ["Only a", "Only b", "Both", "Neither"],
+            answer: "Only b",
+        },
+        {
+            id: 185,
+            question:
+                "Choose the incorrect sentence(s):\n a) What a nonsense to have a picnic in such a bad weather!\n b) If your braces are loose, your trousers come down.\n c) The football team is having its bath.",
+            options: ["Only a", "Only b", "a and b", "a and c"],
+            answer: "a and b",
+        },
+        {
+            id: 186,
+            question:
+                "Either Ravi or Mohan have done his work.\n You are more lethargic than she.\n Identify the correct sentence.",
+            options: [
+                "Only I is correct",
+                "Only II is correct",
+                "Both I and II are correct",
+                "Both I and II are incorrect",
+            ],
+            answer: "Only II is correct",
+        },
+        {
+            id: 187,
+            question:
+                "Identify the correct verb agreement:\n The introduction of English, Marathi, and other regional languages ________ profound effect on the students' linguistic competence.",
+            options: ["Has had", "Have had", "Are", "Have"],
+            answer: "Has had",
+        },
+        {
+            id: 188,
+            question:
+                "a) The host and the hostess were kind to us.\n b) Bread and butter is my favourite food.\n Identify the correct sentence.",
+            options: [
+                "Only a is correct",
+                "Only b is correct",
+                "Both a and b are correct",
+                "Both a and b are incorrect",
+            ],
+            answer: "Both a and b are correct",
+        },
+        {
+            id: 189,
+            question:
+                "Identify the correct sentence(s):\n a) The minister, accompanied by his officers, is visiting the town tomorrow.\n b) Each of the employees was given a bonus.",
+            options: [
+                "Only a is correct",
+                "Only b is correct",
+                "Both a and b are correct",
+                "Both a and b are incorrect",
+            ],
+            answer: "Both a and b are correct",
+        },
+        {
+            id: 190,
+            question:
+                "Identify the grammatically correct sentence(s):\n a) Every man and woman is welcome.\n b) Neither of the two boys were successful.",
+            options: [
+                "Only a is correct",
+                "Only b is correct",
+                "Both a and b are correct",
+                "Both a and b are incorrect",
+            ],
+            answer: "Only a is correct",
+        },
+        {
+            id: 191,
+            question: "Which one of the following is a distributive pronoun?",
+            options: ["Those", "Some", "Each", "Whose"],
+            answer: "Each",
+        },
+        {
+            id: 192,
+            question:
+                "Choose the correct alternative to fill in the blank: ________ unemployed persons were present at the demonstration.",
+            options: ["Much", "Many a", "A great many", "A many"],
+            answer: "A great many",
+        },
+        {
+            id: 193,
+            question:
+                "Choose the correct option to fill in the blanks in the following sentences:\n a) Ten pounds ________ a lot of money.\n b) Twenty miles ________ not a great distance in these days of rapid travel.\n c) There ________ eggs and bacon for breakfast.",
+            options: [
+                "Are, is, is",
+                "Is, is, is",
+                "Are, are, are",
+                "Is, are, is",
+            ],
+            answer: "Is, is, is",
+        },
+        {
+            id: 194,
+            question:
+                "Identify the correct sentence:\n 1) The price is depended on the quality.\n 2) The price is made to depend on the quality.\n 3) The price depends on the quality.\n 4) The price was depended on the quality.",
+            answer: "The price depends on the quality.",
+        },
+        {
+            id: 195,
+            question:
+                "Identify the correct sentence(s):\n a) The ship was wrecked and every man, woman, and child was drowned.\n b) The ship was wrecked and every man, woman, and child were drowned.\n c) The ship was wrecked and every man, woman, and child had drowned.",
+            options: ["Only b", "Only c", "Only a", "Both b and c"],
+            answer: "Only a",
+        },
+        {
+            id: 196,
+            question:
+                "Choose the sentences containing correctly used pronouns:\n a) That book is her.\n b) That idea of yours is excellent.\n c) This book is mine.",
+            options: ["a only", "c only", "a and b only", "b and c only"],
+            answer: "b and c only",
+        },
+        {
+            id: 197,
+            question:
+                "Select the grammatically correct sentence(s):\n a) Each of the employees was given bonus.\n b) Neither of the accusations is true.",
+            options: [
+                "Only a and c",
+                "Only b and c",
+                "Only b and d",
+                "Only a and d",
+            ],
+            answer: "Only b and c",
+        },
+        {
+            id: 198,
+            question:
+                "Identify the incorrect sentence(s):\n a) A course of lectures was delivered.\n b) Silver as well as gold is used for ornaments.",
+            options: ["Only a", "Only b", "Both", "Neither"],
+            answer: "Neither",
+        },
+        {
+            id: 199,
+            question:
+                "Choose the correct pronouns to fill in the blanks:\n a) Every student passed examination.\n b) Everyone had to show ticket.\n c) We have lost dog.",
+            options: [
+                "His, his, our",
+                "Their, his, our",
+                "His, their, our",
+                "His, his, ours",
+            ],
+            answer: "His, his, our",
+        },
+        {
+            id: 200,
+            question:
+                "He and his five brothers love ________ very much. Which one of the following pronouns correctly fills in the blank in the sentence above?",
+            options: ["Each other", "Themselves", "One another", "One other"],
+            answer: "Each other",
+        },
+        {
+            id: 201,
+            question:
+                "The committee ________ considered your request. The verb which agrees with the subject 'The committee' in notional concord is:",
+            options: ["Are", "Is", "Has", "Have"],
+            answer: "Has",
+        },
+        {
+            id: 202,
+            question:
+                "a) Some of the TV serial is worth watching today.\n b) Some of the TV serials are worth watching today.\n c) None of the TV serials is worth watching today.\n d) None of the TV serials are worth watching today.\n The grammatically incorrect sentences among these are:",
+            options: ["a and d", "a and b", "c and d", "b and c"],
+            answer: "a and d",
+        },
+        {
+            id: 203,
+            question:
+                "Identify the sentence(s) grammatically correct:\n a) The committee is divided on some issues.\n b) The committee are divided on some issues.\n c) The committee has issued its report.\n d) The committee have issued their report.",
+            options: [
+                "Only a and c",
+                "Only b and c",
+                "Only a and d",
+                "Only b and d",
+            ],
+            answer: "Only a and c",
+        },
+        {
+            id: 204,
+            question: "Find out the incorrect sentence from the following:",
+            options: [
+                "Fifty thousand rupees is a big amount.",
+                "Ten miles are not a short distance.",
+                "Five years is a long period.",
+                "One of the books is damaged.",
+            ],
+            answer: "Ten miles are not a short distance.",
+        },
+        {
+            id: 205,
+            question:
+                "Choose the correct sentence:\n a) Leap years that have 366 days contain an extra day in February.\n b) Leap years, which have 366 days, contain an extra day in February.",
+            options: [
+                "(a) only",
+                "(b) only",
+                "Both (a) and (b)",
+                "None of the above",
+            ],
+            answer: "Both (a) and (b)",
+        },
+        {
+            id: 206,
+            question:
+                "Fill in the blanks:\n a) His excuses, ________ were not convincing, angered his sister.\n b) I made the dress I intend ________.\n c) The organisers invited entries ________ did not exceed 1000 words.",
+            options: [
+                "Since, to wear, that",
+                "Which, to wear, that",
+                "Because, wearing, that",
+                "Which, wearing, that",
+            ],
+            answer: "Which, to wear, that",
+        },
+        {
+            id: 207,
+            question:
+                "Find out objective personal pronouns from the following:\n 1, WE, MY, Our, Me, Thou, Us, You, Thee, Your.",
+            options: [
+                "I, We, My, Our, Thou",
+                "I, We, My, Your",
+                "Me, Us, Thee, You",
+                "None of these above",
+            ],
+            answer: "Me, Us, Thee, You",
+        },
+        {
+            id: 208,
+            question:
+                "Choose the correct sentence:\n a) The cat licked it's paw.\n b) The club cheered for its team.\n c) It's five hours until my birthday.",
+            options: [
+                "Only a is correct",
+                "Only b is correct",
+                "Only c is correct",
+                "Both b & c are correct",
+            ],
+            answer: "Both b & c are correct",
+        },
+        {
+            id: 209,
+            question:
+                "Don't annoy that bull or ________ may attack you. 'Which one of the following pronouns correctly agrees with the noun ‘bull’ and fills in the blank in the sentence above?",
+            options: ["They", "It", "She", "He"],
+            answer: "It",
+        },
+        {
+            id: 210,
+            question:
+                "What type of pronoun is the underlined word used in the given sentence:\n 'You will hurt <u>yourself</u>'.",
+            options: [
+                "It is Demonstrative Pronoun",
+                "It is Emphatic Pronoun",
+                "It is Reflexive Pronoun",
+                "It is Distributive Pronoun",
+            ],
+            answer: "It is Reflexive Pronoun",
+        },
+        {
+            id: 211,
+            question:
+                "(a) Ram or Hari must lend his hand.\n (b) He and myself were working together.\n (c) None but the brave deserves the fair.\n Identify the correct sentence(s).",
+            options: [
+                "Only (a) and (c)",
+                "Only (b) and (c)",
+                "Only (c)",
+                "Only (b)",
+            ],
+            answer: "Only (a) and (c)",
+        },
+        {
+            id: 212,
+            question:
+                "Choose correct phrase to complete the sentence:\n He put all the books beside ________.",
+            options: [
+                "Each other",
+                "Each other’s",
+                "One another",
+                "One another’s",
+            ],
+            answer: "One another",
+        },
+        {
+            id: 213,
+            question:
+                "Choose the correct sentences:\n a) Give me them books.\n b) They who go by train must leave now.\n c) The story that I read was good.",
+            options: [
+                "(a) and (b) only",
+                "(b) only",
+                "(c) only",
+                "(a), (b), and (c)",
+            ],
+            answer: "(c) only",
+        },
+        {
+            id: 214,
+            question:
+                "(a) Rama or Hari must lend their hands.\n (b) None of my lost books were found.\n (c) Each of the employees was given bonus.\n Identify the correct sentence(s).",
+            options: [
+                "Only (a) and (b)",
+                "Only (a) and (c)",
+                "Only (a)",
+                "Only (b) and (c)",
+            ],
+            answer: "Only (b) and (c)",
+        },
+        {
+            id: 215,
+            question: "Pick out the wrong adjective.",
+            options: [
+                "Father - Paternal",
+                "Brother - Fraternal",
+                "Death - Mortal",
+                "Earth - Earthal",
+            ],
+            answer: "Earth - Earthal",
+        },
+        {
+            id: 216,
+            question:
+                "Fill in the blank with the correct adjective from the options given below: Chennai is _______ from Delhi than Calcutta.",
+            options: ["Further", "Farther", "Father", "Far more"],
+            answer: "Farther",
+        },
+        {
+            id: 217,
+            question: "Pick out the correct sentence.",
+            options: [
+                "It is good to starve than beg.",
+                "It is better to starve than beg.",
+                "It is best to starve than beg.",
+                "It is the best to starve than beg.",
+            ],
+            answer: "It is better to starve than beg.",
+        },
+        {
+            id: 218,
+            question: "This is <u>my</u> bag. The underlined word is:",
+            options: [
+                "Interrogative Adjective",
+                "Adjective of number",
+                "Possessive Adjective",
+                "Emphasizing Adjective",
+            ],
+            answer: "Possessive Adjective",
+        },
+        {
+            id: 219,
+            question:
+                "Choose the right adjective and fill in the blank: Could you lend me _______ money?",
+            options: ["Some", "Any", "Much", "Little"],
+            answer: "Some",
+        },
+        {
+            id: 220,
+            question: "Write an adjective form of 'distinction.'",
+            options: [
+                "Distinctive",
+                "Distinctly",
+                "Distinctness",
+                "Distinctively",
+            ],
+            answer: "Distinctive",
+        },
+        {
+            id: 221,
+            question:
+                "'She looks like a girl <u>next</u> door.' The underlined word in the above sentence functions as:",
+            options: ["An adjective", "An adverb", "A preposition", "A noun"],
+            answer: "An adjective",
+        },
+        {
+            id: 222,
+            question: "Fill in the blanks: I do not have _______ money.",
+            options: ["Enough", "Sufficient", "Plenty of", "More"],
+            answer: "Enough",
+        },
+        {
+            id: 223,
+            question: "Give the adjective form of the following word: Move.",
+            options: ["Move", "Movable", "Movement", "Motion"],
+            answer: "Movable",
+        },
+        {
+            id: 224,
+            question: "Give the adjective form of the following word: Herb.",
+            options: ["Herbious", "Heard", "Hard", "Herbal"],
+            answer: "Herbal",
+        },
+        {
+            id: 225,
+            question: "Give the adjective form of the following word: Male.",
+            options: ["Masculine", "Female", "Man", "Manly"],
+            answer: "Masculine",
+        },
+        {
+            id: 226,
+            question: "Give the adjective form of the following word: Line.",
+            options: ["Long", "Lineal", "Linely", "Inline"],
+            answer: "Lineal",
+        },
+        {
+            id: 227,
+            question: "Give the adjective form of the following word: Honour.",
+            options: ["Honourable", "Honorous", "Honoraly", "Honoured"],
+            answer: "Honourable",
+        },
+        {
+            id: 228,
+            question:
+                "He lives _______ door. Choose the correct adjective to fill in the blank.",
+            options: ["Nearest", "Next", "Nearby", "Close"],
+            answer: "Next",
+        },
+        {
+            id: 229,
+            question: "I don’t have _______ books.",
+            options: ["Some", "Any", "Few", "Less"],
+            answer: "Any",
+        },
+        {
+            id: 230,
+            question:
+                "Choose the correct form of the adjective: Lata is _______ than her sister.",
+            options: ["Wise", "Wiser", "Wisest", "More wise"],
+            answer: "Wiser",
+        },
+        {
+            id: 231,
+            question: "She is the _______ hard-working girl of the class.",
+            options: ["Most", "More", "Much", "Many"],
+            answer: "Most",
+        },
+        {
+            id: 232,
+            question:
+                "Mohan is my _______ brother. Choose the correct form of the adjective.",
+            options: ["Elder", "Older", "Eldest", "More old"],
+            answer: "Elder",
+        },
+        {
+            id: 233,
+            question: "Taj Mahal is _______ than Usha Kiran.",
+            options: ["Old", "Oldest", "Older", "Equal"],
+            answer: "Older",
+        },
+        {
+            id: 234,
+            question:
+                "There is _______ sugar left in the jar, I can’t give you any. Choose the correct word for the blank place.",
+            options: ["Little", "The little", "A little", "Much little"],
+            answer: "Little",
+        },
+        {
+            id: 235,
+            question:
+                "There is _______ hope of his recovery, we have to take him to a good hospital. Choose the correct word.",
+            options: ["A little", "The little", "Little", "None of these"],
+            answer: "Little",
+        },
+        {
+            id: 236,
+            question:
+                "_______ hope, I had, is lost. Choose the correct word to fill in the blanks.",
+            options: ["A little", "Little", "The little", "None of these"],
+            answer: "The little",
+        },
+        {
+            id: 237,
+            question:
+                "Choose the sentence in which the noun is used as an adjective.",
+            options: [
+                "She is a beautiful girl.",
+                "This is a hot cup of tea.",
+                "I won a running race.",
+                "I have a story book.",
+            ],
+            answer: "I have a story book.",
+        },
+        {
+            id: 238,
+            question:
+                "Choose the sentence in which the present participle is used as an adjective.",
+            options: [
+                "Recently we have bought a folding chair.",
+                "There is a water tank.",
+                "I saw a wounded tiger.",
+                "She is a beautiful girl.",
+            ],
+            answer: "Recently we have bought a folding chair.",
+        },
+        {
+            id: 239,
+            question:
+                "Choose the sentence in which the past participle is used as an adjective.",
+            options: [
+                "He is a very hard-working man.",
+                "I have a broken cup.",
+                "I need some cold water.",
+                "He is a little boy.",
+            ],
+            answer: "I have a broken cup.",
+        },
+        {
+            id: 240,
+            question: "Choose Adjective of Number from the following:",
+            options: ["Clever", "Much", "Five", "Some"],
+            answer: "Five",
+        },
+        {
+            id: 241,
+            question:
+                "Choose Adjective of Indefinite Number from the following:",
+            options: ["Many", "Little", "Much", "Honest"],
+            answer: "Many",
+        },
+        {
+            id: 242,
+            question:
+                "Choose the correct word which takes a prefix while changing into the superlative degree.",
+            options: ["Industrious", "Easy", "Hard", "Clever"],
+            answer: "Industrious",
+        },
+        {
+            id: 243,
+            question:
+                "Choose the correct word which takes a suffix while changing into the superlative form.",
+            options: ["Beautiful", "Honest", "Hardworking", "Clever"],
+            answer: "Beautiful",
+        },
+        {
+            id: 244,
+            question: "Choose the correct superlative form:",
+            options: ["Good", "Best", "Better", "Bad"],
+            answer: "Best",
+        },
+        {
+            id: 245,
+            question: "Choose the comparative form of 'bad'.",
+            options: ["Very bad", "Worst", "Worse", "None of the above"],
+            answer: "Worse",
+        },
+        {
+            id: 246,
+            question:
+                "Choose the sentence in which 'Interrogative Adjective' is used.",
+            options: [
+                "Who is there?",
+                "When will the meeting start?",
+                "Why am I?",
+                "Which books do you want?",
+            ],
+            answer: "Which books do you want?",
+        },
+        {
+            id: 247,
+            question:
+                "<u>Each</u> boy was punished. The underlined word is used as:",
+            options: [
+                "Adjective of Quality",
+                "Distributive Adjective",
+                "Interrogative Adjective",
+                "Possessive Adjective",
+            ],
+            answer: "Distributive Adjective",
+        },
+        {
+            id: 248,
+            question: "Choose the ordinal from the following.",
+            options: ["Five", "Four", "Hundred", "Third"],
+            answer: "Third",
+        },
+        {
+            id: 249,
+            question: "Those horses are mine. The underlined word is used as:",
+            options: [
+                "Adjective of Quality",
+                "Emphasizing Adjective",
+                "Distributive Adjective",
+                "Demonstrative Adjective",
+            ],
+            answer: "Demonstrative Adjective",
+        },
+        {
+            id: 250,
+            question:
+                "The two <u>ugly</u> boys had gone <u>home</u> just now. The parts of speech of the underlined words respectively are:",
+            options: [
+                "Adverb, Noun",
+                "Adjective, Adverb",
+                "Adjective, Noun",
+                "Adverb, Adverb",
+            ],
+            answer: "Adjective, Noun",
+        },
+        {
+            id: 251,
+            question:
+                "Choose the correct alternative to fill in the blank: The _______ part of the film was not very interesting.",
+            options: ["Late", "Later", "Latter", "Latest"],
+            answer: "Latter",
+        },
+        {
+            id: 252,
+            question:
+                "Choose the correct option and fill in the blank: The _______ past of India is inspiring for today’s generation.",
+            options: ["Dubious", "Glorious", "Glory", "Outrageous"],
+            answer: "Glorious",
+        },
+        {
+            id: 253,
+            question:
+                "(a) Gavaskar was the star of Indian cricket.\n (b) An elephant is a wise animal.\n Pick out the correct sentences.",
+            options: [
+                "Only (a) is correct",
+                "Only (b) is correct",
+                "Both (a) & (b) are correct",
+                "Both (a) & (b) are incorrect",
+            ],
+            answer: "Both (a) & (b) are correct",
+        },
+        {
+            id: 254,
+            question: "Which one of the following is not an 'adjective'?",
+            options: ["Friendly", "Carefully", "Monthly", "Only"],
+            answer: "Carefully",
+        },
+        {
+            id: 255,
+            question: "Give the adjective form of: 'Significance'.",
+            options: ["Signify", "Signific", "Significant", "Signifying"],
+            answer: "Significant",
+        },
+        {
+            id: 256,
+            question:
+                "Choose the alternative: Shyam was a _______ man in his family.",
+            options: ["Shred", "Shrewd", "Shrew", "Shrewed"],
+            answer: "Shrewd",
+        },
+        {
+            id: 257,
+            question:
+                "Point out the number of adjectives involved in: 'It is safer to send important letters by registered post than by ordinary post.'",
+            options: ["04", "03", "02", "01"],
+            answer: "03",
+        },
+        {
+            id: 258,
+            question:
+                "These apples are _______. Choose the correct alternative to complete the sentence.",
+            options: ["Soar", "Sour", "Sore", "Soer"],
+            answer: "Sour",
+        },
+        {
+            id: 259,
+            question:
+                "Which one of the following two sentences is incorrect?\n a) He is a tall gentleman.\n b) He took insult at this.",
+            options: ["Only a", "Only b", "Both", "Neither"],
+            answer: "Only b",
+        },
+        {
+            id: 260,
+            question:
+                "Choose the correct article to complete the sentence: John is my _______ brother.\n a) Old\n b) Older\n c) Elder\n d) Eldest",
+            options: ["a & b", "c & d", "b & c", "All four"],
+            answer: "b & c",
+        },
+        {
+            id: 261,
+            question:
+                "Fill the blank with the most appropriate of the words given below: Everybody congratulated him on his _______ achievement.",
+            options: ["Momentous", "Momentary", "Momentive", "Momental"],
+            answer: "Momentous",
+        },
+        {
+            id: 262,
+            question:
+                "Locate the grammatically correct sentences.\n a) The uniquest feature of this vehicle is its gearbox.\n b) The most unique feature of this vehicle is its gearbox.\n c) The unique feature of this vehicle is its gearbox.",
+            options: [
+                "Only (a) is correct",
+                "Only (b) is correct",
+                "Only (c) is correct",
+                "All three are correct",
+            ],
+            answer: "Only (c) is correct",
+        },
+        {
+            id: 263,
+            question:
+                "Supply the proper form (comparative or superlative) of the adjective. How is your brother today? Is he _______ ?",
+            options: ["Good", "Better", "Well", "None of the above"],
+            answer: "Better",
+        },
+        {
+            id: 264,
+            question:
+                "Identify the part of speech of the underlined word: He is an <u>idle</u> boy, he does not work.",
+            options: ["Noun", "Verb", "Adjective", "Adverb"],
+            answer: "Adjective",
+        },
+        {
+            id: 265,
+            question: "Make the adjective form of 'occasion.'",
+            options: [
+                "Occasioned",
+                "Accusational",
+                "Occasional",
+                "Occasionally",
+            ],
+            answer: "Occasional",
+        },
+        {
+            id: 266,
+            question:
+                "Find out which are the correct sentences:\n a) These kind of books do not appeal to me.\n b) Those kinds of books do not appeal to me.\n c) These kinds of books do not appeal to me.\n d) This kind of book does not appeal to me.",
+            options: ["Only a", "Only b", "Both a and b", "b, c and d"],
+            answer: "b, c and d",
+        },
+        {
+            id: 267,
+            question:
+                "Choose the correct word to fill in the blank in the following sentence: He is _______ than I expected.",
+            options: ["Latter", "Last", "Later", "Lastly"],
+            answer: "Later",
+        },
+        {
+            id: 268,
+            question:
+                "Choose the correct sentence:\n a) My older brother is a doctor.\n b) Pankaj is elder than his friend.\n c) He is the oldest member of the club.\n d) This is the older pair of shoes I have.",
+            options: [
+                "Only a, b and c are correct",
+                "Only b, c and d are correct",
+                "Only a is correct",
+                "Only c is correct",
+            ],
+            answer: "Only a, b and c are correct",
+        },
+        {
+            id: 269,
+            question: "What is the adjective form of the word 'balcony'?",
+            options: ["Balconative", "Balconied", "Balconic", "Balconable"],
+            answer: "Balconied",
+        },
+        {
+            id: 270,
+            question:
+                "Choose correct option to fill in the blanks:\n a) I am not feeling _______ today.\n b) I am feeling _______ today.",
+            options: [
+                "Much well, much better",
+                "Very well, much better",
+                "Very well, very better",
+                "Much well, very better",
+            ],
+            answer: "Very well, much better",
+        },
+        {
+            id: 271,
+            question:
+                "Choose correct options to fill in the blanks:\n a) I want this exercise _______ in ink.\n b) Would you like the window _______ ?",
+            options: [
+                "To write, to close",
+                "Writing, closing",
+                "Written, closed",
+                "Writen, close",
+            ],
+            answer: "Written, closed",
+        },
+        {
+            id: 272,
+            question:
+                "Identify the sentence/s which are grammatically correct:\n a) She looks charming.\n b) Gopal is senior to you by two years.\n c) He is the most ideal teacher.\n d) Little money is better than none.",
+            options: [
+                "Only a, b and d",
+                "Only b, c and d",
+                "Only c and d",
+                "Only a and b",
+            ],
+            answer: "Only a, b and d",
+        },
+        {
+            id: 273,
+            question:
+                "Identify the correct and incorrect sentence from the following:\n a) One of the boys told me about Asha’s result.\n b) He has only one woolen trouser.",
+            options: [
+                "(a) is correct (b) is incorrect",
+                "(b) is correct (a) is incorrect",
+                "Both (a) and (b) are correct",
+                "Both (a) and (b) are incorrect",
+            ],
+            answer: "(a) is correct (b) is incorrect",
+        },
+        {
+            id: 274,
+            question:
+                "Use the correct form of adjective in the given sentence: 'This is the _______ point on this mountain range.'",
+            options: ["Further", "Furthest", "Farther", "Farthest"],
+            answer: "Furthest",
+        },
+        {
+            id: 275,
+            question:
+                "Choose the correct type of adjective of the underlined word: <u>Those</u> rascals must be punished.",
+            options: [
+                "Demonstrative adjective",
+                "Distributive adjective",
+                "Quality adjective",
+                "Quantity adjective",
+            ],
+            answer: "Demonstrative adjective",
+        },
+        {
+            id: 276,
+            question:
+                "'Adjectives can sometimes be post-positive.' Which of the following is the correct example of this rule?",
+            options: [
+                "Timed and cowardly fighters do not fight well.",
+                "The earliest girls to teach were in my class.",
+                "They have a much bigger car than yours.",
+                "He wants to work on something larger.",
+            ],
+            answer: "He wants to work on something larger.",
+        },
+        {
+            id: 277,
+            question:
+                "'I have seen falling stars'. Identify the word 'falling'. Choose the option.",
+            options: [
+                "Present Participle",
+                "Past Participle",
+                "Participial Adjective",
+                "None",
+            ],
+            answer: "Present Participle",
+        },
+        {
+            id: 278,
+            question:
+                "Which of the following suffixes correctly forms the adjective of the word 'fog'?\n a) -ish\n b) -gy\n c) -ous\n d) -ic",
+            options: ["Both (a) and (c)", "(d) only", "(b) only", "(a) only"],
+            answer: "Both (a) and (c)",
+        },
+        {
+            id: 279,
+            question:
+                "Identify the sentence in which the word 'mud' is used as an adjective:\n (a) The hut is made of mud.\n (b) He lives in a mud house.",
+            options: [
+                "(a) only",
+                "(a) and (b)",
+                "(b) only",
+                "None of the above",
+            ],
+            answer: "(a) and (b)",
+        },
+        {
+            id: 280,
+            question:
+                "(a) Many a time I remembered you.\n (b) This calf is elder than that.\n (c) My income is lesser than yours.\n (d) Gopal is senior to you by two years.\n Identify the sentence(s) grammatically correct.",
+            options: [
+                "Only (a) and (c)",
+                "Only (b) and (c)",
+                "Only (a) and (d)",
+                "Only (c) and (d)",
+            ],
+            answer: "Only (c) and (d)",
+        },
+        {
+            id: 281,
+            question:
+                "Identify the type of adjective underlined in the given example:\n 'This is the very book I want.'",
+            options: [
+                "Possessive adjective",
+                "Adjective of quality",
+                "Numeral adjective",
+                "Emphasizing adjective",
+            ],
+            answer: "Emphasizing adjective",
+        },
+        {
+            id: 282,
+            question:
+                "Choose the sentence with the meaningful sequence of words:\n (a) He carried his clothes in a black heavy steel trunk.\n (b) He carried his clothes in a heavy black steel trunk.\n (c) He carried in a heavy steel trunk black his clothes.\n (d) His carried clothes black trunk heavy steel.",
+            options: ["Only (b)", "Only (c)", "Only (a)", "Only (d)"],
+            answer: "Only (b)",
+        },
+        {
+            id: 283,
+            question:
+                "Identify the grammatical class of the underlined word in the sentence:\n 'They are <u>school</u> children.'",
+            options: ["Noun", "Adjective", "Verb", "Adverb"],
+            answer: "Adjective",
+        },
+        {
+            id: 284,
+            question:
+                "Choose the correct modal auxiliary in order to replace the underlined phrase in the following example: They <u>were unable to</u> find out any reliable solutions for the problems they encountered.",
+            options: [
+                "Could not find out",
+                "Can not find out",
+                "Might not find out",
+                "Must not find out",
+            ],
+            answer: "Could not find out",
+        },
+        {
+            id: 285,
+            question:
+                "“We ought to work hard.” The modal auxiliary in the above sentence expresses:",
+            options: ["Duty", "Determination", "Threat", "Necessity"],
+            answer: "Duty",
+        },
+        {
+            id: 286,
+            question:
+                "Fill in the blank with the proper modal auxiliary: If you want to succeed, you ________ have strength of character.",
+            options: ["Should", "Could", "Would", "Might"],
+            answer: "Should",
+        },
+        {
+            id: 287,
+            question:
+                "Select the correct modal to express permission: You ________ return my book tomorrow.",
+            options: ["Shall", "Will", "May", "Can"],
+            answer: "May",
+        },
+        {
+            id: 288,
+            question:
+                "He ________ also be an inspiration. (Supply a suitable modal auxiliary showing “ability.”)",
+            options: ["Can", "Could", "Should", "May"],
+            answer: "Can",
+        },
+        {
+            id: 289,
+            question:
+                "Choose the correct auxiliary verb from the following to fill in the blank: Students ________ follow the school regulations.",
+            options: ["Might", "May", "Must", "Mostly"],
+            answer: "Must",
+        },
+        {
+            id: 290,
+            question:
+                "She <u>will</u> help you in this matter. Choose the correct expression to replace the underlined word to show near future.",
+            options: ["Go", "Is going to", "Would", "Can"],
+            answer: "Is going to",
+        },
+        {
+            id: 291,
+            question:
+                "I <u>shall</u> tell you some interesting facts. Choose the correct expression to replace the underlined word.",
+            options: ["Will", "Is going to", "Are going to", "Am going to"],
+            answer: "Will",
+        },
+        {
+            id: 292,
+            question:
+                "Lata <u>can</u> sing a song. Choose the correct phrase to replace the underlined word.",
+            options: [
+                "Was able to",
+                "Are able to",
+                "Is able to",
+                "Were unable to",
+            ],
+            answer: "Is able to",
+        },
+        {
+            id: 293,
+            question:
+                "I <u>can’t</u> help you. Don’t expect anything from me. Choose the correct phrase to replace the underlined word.",
+            options: [
+                "Am able to",
+                "Am unable to",
+                "Are able to",
+                "Are unable to",
+            ],
+            answer: "Am unable to",
+        },
+        {
+            id: 294,
+            question:
+                "You <u>should</u> work hard to get money. Choose the correct modal auxiliary to replace the underlined word.",
+            options: ["Will", "May", "Ought to", "Are"],
+            answer: "Ought to",
+        },
+        {
+            id: 295,
+            question:
+                "Choose the correct modal auxiliary which shows prediction.",
+            options: ["Can", "May", "Ought to", "Might"],
+            answer: "Might",
+        },
+        {
+            id: 296,
+            question:
+                "Choose the correct sentence in which the underlined word shows ‘obligation.’",
+            options: [
+                "You should obey your parents.",
+                "You must complete your homework.",
+                "It may rain today.",
+                "You ought to study hard.",
+            ],
+            answer: "You must complete your homework.",
+        },
+        {
+            id: 297,
+            question:
+                "Replace the underlined word with the correct expression: My father would drive a car.",
+            options: ["Should", "May", "Ought to", "Used to"],
+            answer: "Used to",
+        },
+        {
+            id: 298,
+            question: "Choose the sentence which shows suggestion.",
+            options: [
+                "She must not go out after 8 p.m.",
+                "You should work hard to get success.",
+                "She will go to Pune.",
+                "I may come tomorrow.",
+            ],
+            answer: "You should work hard to get success.",
+        },
+        {
+            id: 299,
+            question:
+                "Choose the best among the options to fill in the blank: He ________ better mind his manners.",
+            options: ["Had", "Should", "Has", "Can"],
+            answer: "Had",
+        },
+        {
+            id: 300,
+            question:
+                "It is a <u>terribly hot</u> climate. Identify the parts of speech of the underlined words.",
+            options: [
+                "Main verb, Adjective, Adverb",
+                "Aux. verb, Adverb, Adjective",
+                "Main verb, Adverb, Adjective",
+                "Aux. verb, Adjective, Adverb",
+            ],
+            answer: "Main verb, Adverb, Adjective",
+        },
+        {
+            id: 301,
+            question:
+                "Police ________ looking for a man with one eye. Choose the correct verb to agree with the subject.",
+            options: ["Is", "Are", "Had", "Has been"],
+            answer: "Are",
+        },
+        {
+            id: 302,
+            question:
+                "To die is better than to surrender. Which one of the following sentences substitutes a gerund for the infinitive in the sentence above?",
+            options: [
+                "Dying is better than to surrender.",
+                "To die is better than surrendering.",
+                "Dying is better than surrendering.",
+                "Dying and surrendering are better.",
+            ],
+            answer: "Dying is better than surrendering.",
+        },
+        {
+            id: 303,
+            question:
+                "Choose the correct verb-form: She ran because she ________ in a hurry.",
+            options: ["Is", "Was", "Must be", "Could be"],
+            answer: "Was",
+        },
+        {
+            id: 304,
+            question: "Choose from the following the verb form of “liberty”:",
+            options: ["Libertine", "Liberation", "Liberality", "Liberate"],
+            answer: "Liberate",
+        },
+        {
+            id: 305,
+            question:
+                "Choose the sentence with correct use of modal auxiliary:\n a) She didn't eat much of breakfast.\n b) You can't see much of a country in a week.",
+            options: [
+                "Only a is correct",
+                "Only b is correct",
+                "Both a and b are correct",
+                "Both a and b are incorrect",
+            ],
+            answer: "Both a and b are correct",
+        },
+        {
+            id: 306,
+            question:
+                "Choose the correct sentence:\n a) We entered the house.\n b) I ordered coffee.\n c) What is the time by your watch?",
+            options: ["Only b", "Only a and b", "Only a and c", "Only b and c"],
+            answer: "Only a and b",
+        },
+        {
+            id: 307,
+            question:
+                "He said he ________ hire an auto. Fill in the modal auxiliary to indicate the possibility of hiring an auto.",
+            options: ["May", "Might", "Can", "Would"],
+            answer: "Might",
+        },
+        {
+            id: 308,
+            question:
+                "I ________ pay the bill today; it’s the last date. Fill in the appropriate modal auxiliary.",
+            options: ["Should", "May", "Can", "Must"],
+            answer: "Must",
+        },
+        {
+            id: 309,
+            question:
+                "Fill in the blank with the correct option: ________ I have a word with you?",
+            options: ["Was", "Could", "If", "Am"],
+            answer: "Could",
+        },
+        {
+            id: 310,
+            question:
+                "Choose the correct alternative: He walked so fast that I ________ not overtake him.",
+            options: ["Can", "Could", "Will", "Would"],
+            answer: "Could",
+        },
+        {
+            id: 311,
+            question:
+                "The train <u>should</u> arrive any time now. The underlined modal expresses:",
+            options: [
+                "Obligation",
+                "Anticipation",
+                "Suggestion",
+                "Instruction",
+            ],
+            answer: "Anticipation",
+        },
+        {
+            id: 312,
+            question:
+                "Choose the correct verb from the options: The dentist decided to ________ my decayed tooth.",
+            options: ["Exhale", "Extort", "Extract", "Exit"],
+            answer: "Extract",
+        },
+        {
+            id: 313,
+            question:
+                "Choose the correct alternative: I (am to leave, would leave, was to leave, was to have left) on Thursday. But on Thursday I had a terrible cold, so I decided to wait till Saturday.",
+            options: [
+                "Am to leave",
+                "Would leave",
+                "Was to leave",
+                "Was to have left",
+            ],
+            answer: "Was to leave",
+        },
+        {
+            id: 314,
+            question:
+                "(a) The tallest of the players was injured.\n (b) Ram as well as Shyam was present.\n Identify the correct sentences.",
+            options: [
+                "Only (a) is correct",
+                "Only (b) is correct",
+                "Both (a) & (b) are correct",
+                "Both (a) & (b) are incorrect",
+            ],
+            answer: "Both (a) & (b) are correct",
+        },
+        {
+            id: 315,
+            question:
+                "I need interpreters in my surgery who speak Punjabi, Urdu, and Gujarati. Pick out the correct alternative to make the sentence meaningful.",
+            options: ["May", "Should", "Must", "Can"],
+            answer: "Must",
+        },
+        {
+            id: 316,
+            question: "Which of the following sentences indicate ability?",
+            options: [
+                "I could lift the box by myself.",
+                "I may lift the box by myself.",
+                "I will lift the box by myself.",
+                "I can lift the box by myself.",
+            ],
+            answer: "I can lift the box by myself.",
+        },
+        {
+            id: 317,
+            question:
+                "Which of the following words are written alike but pronounced differently?\n a) Raid\n b) Read\n c) Red\n d) Read",
+            options: [
+                "a and c only",
+                "b and d only",
+                "a and d only",
+                "b and c only",
+            ],
+            answer: "b and d only",
+        },
+        {
+            id: 318,
+            question:
+                "Identify the correct sentence:\n a) His shoes are made of canvass.\n b) I am canvassing for my own candidate.",
+            options: [
+                "Only a is correct",
+                "Only b is correct",
+                "Both a and b are correct",
+                "Both a and b are incorrect",
+            ],
+            answer: "Only b is correct",
+        },
+        {
+            id: 319,
+            question:
+                "Which verb will be suitable to fill in the blank? My daughter Madhavi ________ a good memory.",
+            options: ["Has been", "Has", "Is", "Will be"],
+            answer: "Has",
+        },
+        {
+            id: 320,
+            question:
+                "Choose the correct alternative from the following to fill in the blank: They agreed that the election ________ be held at an early date.",
+            options: ["Should", "Would", "Shall", "Will"],
+            answer: "Should",
+        },
+        {
+            id: 321,
+            question:
+                "Which of the following sentences reflects the polite form of request?",
+            options: [
+                "I shall be grateful if you allow me to use your bike for five minutes.",
+                "You can allow me to use your bike for five minutes.",
+                "Would you mind using your bike for five minutes?",
+                "Will you allow me to use your bike for five minutes?",
+            ],
+            answer: "I shall be grateful if you allow me to use your bike for five minutes.",
+        },
+        {
+            id: 322,
+            question:
+                "You must pay for the mistakes you made in your life. In this sentence, 'must' is:",
+            options: [
+                "A principal auxiliary",
+                "A modal auxiliary",
+                "The main verb",
+                "None of these",
+            ],
+            answer: "A modal auxiliary",
+        },
+        {
+            id: 323,
+            question:
+                "Which of the following sentence(s) is/are incorrect?\n a) I used to lived in Bombay.\n b) My wife is used for getting up early.\n c) We are used to the noise our neighbour makes, though we don't like it.",
+            options: ["a only", "b and c only", "a, b and c", "a and b only"],
+            answer: "a and b only",
+        },
+        {
+            id: 324,
+            question:
+                "To follow his advice seemed logical. The subject of the above clause is ________.",
+            options: ["Infinitive", "Adjective", "Adverbial", "None of these"],
+            answer: "Infinitive",
+        },
+        {
+            id: 325,
+            question:
+                "Fill in the blanks with the correct word: The bird will ________ in no time.",
+            options: ["Sore", "Sure", "Soar", "Suar"],
+            answer: "Soar",
+        },
+        {
+            id: 326,
+            question:
+                "Fill in the blank with the appropriate alternative: Mushtaque got the letter registered after ________ it.",
+            options: ["Ceiling", "Sealing", "Seling", "Silling"],
+            answer: "Sealing",
+        },
+        {
+            id: 327,
+            question:
+                "Polygamy is ________ for Hindus in India. Pick out the correct word to complete the sentence meaningfully.",
+            options: ["Prescribed", "Proscribed", "Proceeded", "Presided"],
+            answer: "Proscribed",
+        },
+        {
+            id: 328,
+            question:
+                "What does the underlined modal in the sentence below suggest? You <u>can</u> hurt yourself.",
+            options: ["Ability", "Probability", "Certainty", "Permission"],
+            answer: "Ability",
+        },
+        {
+            id: 329,
+            question:
+                "Fill in the blank with an acceptable form of the verb given in the options: 350 runs ________ quite a decent score.",
+            options: ["Is", "Are", "Are being", "Was become"],
+            answer: "Is",
+        },
+        {
+            id: 330,
+            question: "Choose the correct verb form of the word: Produce.",
+            options: ["Produce", "Product", "Productive", "Productivity"],
+            answer: "Produce",
+        },
+        {
+            id: 331,
+            question:
+                "He <u>is able to</u> swim across the river. Which of the following options can replace the underlined part without changing its meaning in the above sentence?",
+            options: ["May", "Can", "Could", "Will"],
+            answer: "Can",
+        },
+        {
+            id: 332,
+            question:
+                "Identify the sentence in which the verb structure is used wrongly:\n a) The rain began yesterday.\n b) I saw him last evening.\n c) I have just finished the letter.\n d) He has been ill since Monday.",
+            options: [
+                "(a) and (b)",
+                "(b) and (c)",
+                "(a), (b) and (c)",
+                "None of the above",
+            ],
+            answer: "None of the above",
+        },
+        {
+            id: 333,
+            question:
+                "Choose the correct modal indicating moral obligation: I ________ help those who need my help.",
+            options: ["Will", "Shall", "Can", "Should"],
+            answer: "Should",
+        },
+        {
+            id: 334,
+            question: "Gerund is ________.",
+            options: [
+                "Past tense of a verb",
+                "Past participle of a verb",
+                "'-ing form of a verb",
+                "Future tense of a verb",
+            ],
+            answer: "'-ing form of a verb",
+        },
+        {
+            id: 335,
+            question:
+                "Which one of the following alternatives is not a 'type of regular verb'?",
+            options: ["Look", "Study", "Begin", "Travel"],
+            answer: "Begin",
+        },
+        {
+            id: 336,
+            question:
+                "Choose the right option for filling in the blank: We will not be able to ________ so many people in this place.",
+            options: ["Accomoddate", "Accomodate", "Acommodate", "Accommodate"],
+            answer: "Accommodate",
+        },
+        {
+            id: 337,
+            question:
+                "You <u>can</u> get hurt. The underlined modal indicates:",
+            options: ["Probability", "Ability", "Permission", "Offer"],
+            answer: "Ability",
+        },
+        {
+            id: 338,
+            question:
+                "Which one of the following two sentences is correct?\n a) Who did this?\n b) He and I are brothers.",
+            options: ["Only a", "Only b", "Both", "Neither"],
+            answer: "Both",
+        },
+        {
+            id: 339,
+            question:
+                "Choose the correct alternative to complete the sentence: Moral education ________ have been taught in the Universities long back.",
+            options: ["Ought to", "Must", "Should", "Would"],
+            answer: "Ought to",
+        },
+        {
+            id: 340,
+            question:
+                "Identify the incorrect part of the sentence below: He hopes that he hasn't makes a mistake.",
+            options: ["Hopes", "Hasn't", "Makes", "That"],
+            answer: "Makes",
+        },
+        {
+            id: 341,
+            question:
+                "He ________ not wear a neck-tie if he doesn’t want to. To indicate absence of compulsion, the blank should best be filled by:",
+            options: ["May", "Should", "Dare", "Need"],
+            answer: "Need",
+        },
+        {
+            id: 342,
+            question:
+                "Identify the correct sentences:\n a) Two pounds of coffee cost seven and sixpence.\n b) The furnitures are to be delivered today.\n c) He gave me many good advices.",
+            options: [
+                "a only",
+                "b and c only",
+                "a, b and c",
+                "None of the above",
+            ],
+            answer: "a only",
+        },
+        {
+            id: 343,
+            question:
+                "Choose the modal auxiliary for the underlined words in the following sentence: It <u>was not necessary</u> for me to buy it.",
+            options: [
+                "I don't need to buy it.",
+                "I didn't used to buy it.",
+                "I don't used to buy it.",
+                "I didn't need to buy it.",
+            ],
+            answer: "I didn't need to buy it.",
+        },
+        {
+            id: 344,
+            question:
+                "Identify the underlined word: <u>Hearing</u> the noise, the baby woke up.",
+            options: [
+                "Sounds",
+                "Verbal words",
+                "Verb nouns",
+                "Verbal adjective",
+            ],
+            answer: "Verb nouns",
+        },
+        {
+            id: 345,
+            question:
+                "The ship was wrecked and every man, woman and child ________ drowned. The verb that agrees correctly with the subject in the sentence above is:",
+            options: ["Was", "Were", "Had", "Had been"],
+            answer: "Was",
+        },
+        {
+            id: 346,
+            question:
+                "Identify the correct sentence/s:\n a) I could read that book in two hours yesterday.\n b) I was able to read that book in two hours yesterday.",
+            options: ["a only", "b only", "Both a and b", "Neither a nor b"],
+            answer: "b only",
+        },
+        {
+            id: 347,
+            question:
+                "Choose the correct sentences:\n a) I shall get on the first bus that comes.\n b) You must show no-one the note which the attendant will give you.\n c) We shall award the prize to the person who gets the highest marks.",
+            options: [
+                "a and b only",
+                "a and c only",
+                "b and c only",
+                "a, b and c",
+            ],
+            answer: "a and c only",
+        },
+        {
+            id: 348,
+            question:
+                "Identify the sentence/s containing a transitive verb:\n a) Many trees fall in the monsoon.\n b) Woodmen fell trees.\n c) Rise early with the lark.",
+            options: ["a only", "b only", "a and c only", "a, b and c"],
+            answer: "b only",
+        },
+        {
+            id: 349,
+            question:
+                "Fill in the blanks from the alternatives given below:\n a) Barley, wheat and rice ________ cereals.\n b) Twenty miles ________ not a great distance in these days of rapid travel.",
+            options: ["Is, is", "Is, are", "Are, is", "Are, are"],
+            answer: "Are, is",
+        },
+        {
+            id: 350,
+            question:
+                "Identify the correct sentences:\n a) John, write a thousand line poem.\n b) John write a thousand lines poem.\n c) John writes a thousand lines poem.\n d) John doesn't write a thousand lines poem.",
+            options: [
+                "Only c and d are correct",
+                "All a, b, c and d are correct",
+                "Only a, c and d are correct",
+                "All a, b, c and d are wrong",
+            ],
+            answer: "Only c and d are correct",
+        },
+        {
+            id: 351,
+            question:
+                "Choose the incorrect sentences:\n a) Each of the candidates are well qualified.\n b) Neither of those choices were attractive.\n c) My family are punctual and hard-working people.",
+            options: [
+                "(a) only",
+                "(a) and (c) only",
+                "(a) and (b) only",
+                "(a), (b) and (c)",
+            ],
+            answer: "(a), (b) and (c)",
+        },
+        {
+            id: 352,
+            question:
+                "Identify the incorrect sentence/s:\n a) The wages of sin are death.\n b) I have many works to do.\n c) Do not make friends with selfish people.",
+            options: ["a and c", "a and b", "b and c", "Only a"],
+            answer: "a and b",
+        },
+        {
+            id: 353,
+            question:
+                "Fill in the blanks:\n a) I'm _______ a film tonight.\n b) I'll be _______ all day on Sunday.\n c) I'm _______ ask him to return my money.",
+            options: [
+                "Will see, slept, going to",
+                "Seeing, slept, going to",
+                "Seeing, sleeping, going to",
+                "Will see, sleeping, going to",
+            ],
+            answer: "Seeing, sleeping, going to",
+        },
+        {
+            id: 354,
+            question:
+                "Identify the correct sentence/s:\n a) The scissors are blunt.\n b) Statistics was always my worst subject.\n c) The economics behind their policies are unreasonable.\n d) The governing party usually do bad in mid-term by-elections.",
+            options: [
+                "Only (a), (b), (c)",
+                "Only (b), (c), (d)",
+                "Only (a) and (c)",
+                "All the above",
+            ],
+            answer: "Only (a), (b), (c)",
+        },
+        {
+            id: 355,
+            question:
+                "The gerund can be used as:\n a) Subject of a sentence\n b) As a complement of a verb\n c) After prepositions.",
+            options: [
+                "Only a is correct",
+                "Only b is correct",
+                "Only c is correct",
+                "a, b and c are correct",
+            ],
+            answer: "a, b and c are correct",
+        },
+        {
+            id: 356,
+            question: "He struck the table. The underlined verb is ________.",
+            options: [
+                "Intransitive",
+                "Transitive",
+                "Prepositional",
+                "None of the above",
+            ],
+            answer: "Transitive",
+        },
+        {
+            id: 357,
+            question:
+                "Choose the correct sentences:\n a) I am used for getting up early.\n b) Before his marriage, Meeran used to spend a lot of his time in the club.\n c) My wife is used to getting up early.\n d) The Earth’s resources are being used up at an alarming rate.",
+            options: [
+                "Only a and b",
+                "Only b and c",
+                "Only a and c",
+                "Only b, c and d",
+            ],
+            answer: "Only b, c and d",
+        },
+        {
+            id: 358,
+            question:
+                "Which items from the given sentence contain errors? 'Everybody must paid more house rent; the tax on property have gone up.'",
+            options: [
+                "Everybody, must paid",
+                "Must paid, have gone up",
+                "More, house rent",
+                "Tax on, must paid",
+            ],
+            answer: "Must paid, have gone up",
+        },
+        {
+            id: 359,
+            question:
+                "Emma ________ Graham when she was going out with her friend. Choose the correct alternative to complete the sentence.",
+            options: ["Meets", "Has met", "Met", "Had met"],
+            answer: "Met",
+        },
+        {
+            id: 360,
+            question:
+                "Write the correct form of verb in the given sentence: 'Each of these rooms ________ good enough for me.'",
+            options: ["Are", "Is", "Have", "Were"],
+            answer: "Is",
+        },
+        {
+            id: 361,
+            question:
+                "Identify transitive and intransitive verbs in the given sentences:\n a) The rain revived the wilting shrubs.\n b) The dog chased the man.\n c) The choir sang badly that morning.",
+            options: [
+                "Intransitive, Intransitive, Transitive",
+                "Transitive, Intransitive, Transitive",
+                "Intransitive, Transitive, Intransitive",
+                "Transitive, Transitive, Intransitive",
+            ],
+            answer: "Transitive, Transitive, Intransitive",
+        },
+        {
+            id: 362,
+            question:
+                "Choose the modal auxiliary for the underlined words in the following sentence: It <u>was not necessary</u> for me to buy it.",
+            options: [
+                "I don’t need to buy it.",
+                "I didn’t used to buy it.",
+                "I don’t used to buy it.",
+                "I didn’t need to buy it.",
+            ],
+            answer: "I didn’t need to buy it.",
+        },
+        {
+            id: 363,
+            question:
+                "Identify the correct sentence:\n a) The basket of apples and pears are hanging from a hook.\n b) This must be one of the best plays that have staged at Stratford this season.\n c) The success of the new branch is one of the recent developments that justify our faith in the company.",
+            options: ["a and c only", "b and c only", "c only", "a, b and c"],
+            answer: "c only",
+        },
+        {
+            id: 364,
+            question:
+                "The underlined words in the sentences below are:\n a) Not all women are good at <u>cooking</u>.\n b) <u>Blaming</u> others for our own mistakes is a bad habit.\n c) We can't help <u>laughing</u> when the jester is at his best.\n d) <u>Stopping</u> by woods on a darkened evening is dangerous.",
+            options: ["Adverbs", "Present participles", "Gerunds", "Subjects"],
+            answer: "Gerunds",
+        },
+        {
+            id: 365,
+            question:
+                "Select the correct meaning of the underlined modal verb in the following sentence: 'I am tired, now you <u>can</u> drive the car.'",
+            options: ["Possibility", "Ability", "Permission", "Obligation"],
+            answer: "Ability",
+        },
+        {
+            id: 366,
+            question:
+                "'Do' is a lexical verb and as ________ has the full range of forms, including the present participle 'doing' and the past participle 'done'.",
+            options: ["Pro-verb", "Main-verb", "Gerund", "Modal"],
+            answer: "Main-verb",
+        },
+        {
+            id: 367,
+            question:
+                "'I can hear him singing a song.' Identify the word 'singing.' Say whether it is:",
+            options: [
+                "Gerund",
+                "Adverb",
+                "Present Participle",
+                "Participial Adjective",
+            ],
+            answer: "Present Participle",
+        },
+        {
+            id: 368,
+            question:
+                "Fill in the blank with the appropriate verb: 'Neither of the four teachers ________ willing to teach Physics.'",
+            options: ["Are", "Were", "Had", "Is"],
+            answer: "Is",
+        },
+        {
+            id: 369,
+            question:
+                "What will be the past participle of 'Shrink'? Choose correctly.",
+            options: ["Shrunk", "Skunk", "Shrank", "Shrng"],
+            answer: "Shrunk",
+        },
+        {
+            id: 370,
+            question:
+                "The committee ________ considered your request. The verb which agrees with the subject 'The committee' in notional concord is:",
+            options: ["Are", "Is", "Has", "Have"],
+            answer: "Has",
+        },
+        {
+            id: 371,
+            question:
+                "To die is better than to surrender. Which one of the following sentences substitutes a gerund for infinitive in the sentence above?",
+            options: [
+                "Dying is better than to surrender.",
+                "To die is better than surrendering.",
+                "Dying is better than surrendering.",
+                "Dying and surrendering are better.",
+            ],
+            answer: "Dying is better than surrendering.",
+        },
+        {
+            id: 372,
+            question:
+                "Identify the function of the modal auxiliary 'could' in the given sentence: 'One could walk miles in the jungle without seeing even a wild rabbit.'",
+            options: [
+                "Express ability in the past",
+                "Express permission",
+                "Express possibility",
+                "Express obligation",
+            ],
+            answer: "Express possibility",
+        },
+        {
+            id: 373,
+            question:
+                "We eat that we may live. The subjunctive mood in the sentence above expresses ________.",
+            options: [
+                "A desire",
+                "A purpose",
+                "A doubtful condition",
+                "A wish",
+            ],
+            answer: "A purpose",
+        },
+        {
+            id: 374,
+            question:
+                "Choose the correct sentence/s:\n a) You mustn’t driving fast.\n b) You needn’t drive fast.\n c) Don’t you have to go to the office at nine every day?",
+            options: [
+                "(a) and (b) only",
+                "(b) only",
+                "(b) and (c) only",
+                "(a), (b) and (c)",
+            ],
+            answer: "(b) and (c) only",
+        },
+        {
+            id: 375,
+            question:
+                "Identify the grammatically correct sentences:\n a) You are prohibited from smoking here.\n b) Neither pride nor prejudice affects him.\n c) The committee is divided in their opinions.",
+            options: [
+                "Only (a) and (b)",
+                "Only (b)",
+                "Only (b) and (c)",
+                "Only (a) and (c)",
+            ],
+            answer: "Only (a) and (b)",
+        },
+        {
+            id: 376,
+            question:
+                "Choose the most appropriate option from the following to complete the sentence: 'She ________ between cheerfulness and deep despair.'",
+            options: ["Alternates", "Alternately", "Alters", "Alternatively"],
+            answer: "Alternates",
+        },
+        {
+            id: 377,
+            question:
+                "Choose the correct alternative to fill in the blank: Although people buy most of their groceries once a month they usually visit the market ________ to pick up an item or two.",
+            options: ["Frequently", "Reluctantly", "Grudgingly", "Seldom"],
+            answer: "Frequently",
+        },
+        {
+            id: 378,
+            question:
+                "Fill in the blank with the appropriate adverb: He did not recognise her ________ she said they had met before.",
+            options: ["Despite", "Although", "Unless", "However"],
+            answer: "Although",
+        },
+        {
+            id: 379,
+            question:
+                "Mark the sentence in which the word ‘still’ is used as an adverb.",
+            options: [
+                "With his name the mothers <u>still</u> their babies.",
+                "<u>Still</u> waters run deep.",
+                "Her sobs could be heard in the <u>still</u> of night.",
+                "He is <u>still</u> in business.",
+            ],
+            answer: "He is <u>still</u> in business.",
+        },
+        {
+            id: 380,
+            question:
+                "Choose the correct adverb to fill in the blank: ________ he is down with flu, he can’t go to office.",
+            options: ["Since", "When", "But", "So"],
+            answer: "Since",
+        },
+        {
+            id: 381,
+            question:
+                "Complete the sentence by providing the correct adverbial particle from the following: The factory was shut ________ during the installation of new machinery.",
+            options: ["Away", "Down", "Out", "Off"],
+            answer: "Down",
+        },
+        {
+            id: 382,
+            question: "Choose the correct sentence:",
+            options: [
+                "She is too pretty.",
+                "She is very pretty.",
+                "She is too much pretty.",
+                "She is much pretty.",
+            ],
+            answer: "She is very pretty.",
+        },
+        {
+            id: 383,
+            question:
+                "Complete the sentence with the correct alternative: She is ________ well today.",
+            options: ["No", "Not", "None", "Nought"],
+            answer: "Not",
+        },
+        {
+            id: 384,
+            question:
+                "Point out the sentence in which the word ‘why’ is used as a relative adverb.",
+            options: [
+                "Why did you do it?",
+                "I know the reason why he did it.",
+                "Why, it is surely Sujata!",
+                "This is not the time to go into the why and the wherefore of it.",
+            ],
+            answer: "I know the reason why he did it.",
+        },
+        {
+            id: 385,
+            question:
+                "Fill in the blank with the appropriate expression from the following: It is time ________",
+            options: [
+                "When you went.",
+                "Where you went.",
+                "Which you went.",
+                "That you went.",
+            ],
+            answer: "That you went.",
+        },
+        {
+            id: 386,
+            question: "Which is the right place for the word ‘even’?",
+            options: [
+                "They even may decide to come by car.",
+                "They may even decide to come by car.",
+                "They may decide to come by even car.",
+                "They may decide to even come by car.",
+            ],
+            answer: "They may even decide to come by car.",
+        },
+        {
+            id: 387,
+            question:
+                "Choose the correct phrase to complete the sentence: Unless you work ________ you will fail.",
+            options: ["Hard", "Hardly", "Hard and fast", "Hardly and fastly"],
+            answer: "Hard",
+        },
+        {
+            id: 388,
+            question:
+                "Fill in the blank in the sentence so as to complete it meaningfully: I am feeling ________ better today.",
+            options: ["Fairly", "Too", "Very", "Rather"],
+            answer: "Rather",
+        },
+        {
+            id: 389,
+            question: "Adverb form for 'beauty' is ________.",
+            options: ["Beautify", "Beautician", "Beautiful", "Beautifully"],
+            answer: "Beautifully",
+        },
+        {
+            id: 390,
+            question:
+                "Identify the sentence in which the word ‘milk’ is used as an adverb:",
+            options: [
+                "Milk is good for health.",
+                "I gave the baby a milk chocolate.",
+                "He wore a milk white turban.",
+                "(c) only",
+            ],
+            answer: "He wore a milk white turban.",
+        },
+        {
+            id: 391,
+            question: "Old habits die ________.",
+            options: ["Hardly", "Herd", "Heard", "Hard"],
+            answer: "Hard",
+        },
+        {
+            id: 392,
+            question: "Coffee is ________ hot to drink.",
+            options: ["Too", "So", "Very", "More"],
+            answer: "Too",
+        },
+        {
+            id: 393,
+            question:
+                "The ship sank ________ the water was deepest. Choose the correct word for the blank place.",
+            options: ["When", "Where", "Which", "Why"],
+            answer: "Where",
+        },
+        {
+            id: 394,
+            question: "I don't know ________ she was crying.",
+            options: ["Where", "Why", "Which", "How"],
+            answer: "Why",
+        },
+        {
+            id: 395,
+            question: "Choose adverb of time from the following.",
+            options: ["Tomorrow", "There", "Because", "Too"],
+            answer: "Tomorrow",
+        },
+        {
+            id: 396,
+            question: "Choose adverb of manner from the following.",
+            options: ["Immediately", "Yesterday", "Where", "Why"],
+            answer: "Immediately",
+        },
+        {
+            id: 397,
+            question: "We followed them ________ they went.",
+            options: ["Where", "Why", "When", "How"],
+            answer: "Where",
+        },
+        {
+            id: 398,
+            question: "She is my mother, I respect her.",
+            options: ["Because", "Since", "So", "Now"],
+            answer: "Because",
+        },
+        {
+            id: 399,
+            question: "I respect her ________ she is my mother.",
+            options: ["Because", "Since", "When", "So"],
+            answer: "Because",
+        },
+        {
+            id: 400,
+            question:
+                "Choose the sentence in which Interrogative Adverb of time is used.",
+            options: [
+                "When did he go to America?",
+                "Why is she?",
+                "How are you?",
+                "Where are you?",
+            ],
+            answer: "When did he go to America?",
+        },
+        {
+            id: 401,
+            question:
+                "Choose the sentence in which Interrogative Adverb of place is used.",
+            options: [
+                "Where is the boot?",
+                "When does the bus go?",
+                "How is she?",
+                "What is this?",
+            ],
+            answer: "Where is the boot?",
+        },
+        {
+            id: 402,
+            question: "Choose the sentence of Relative Adverb.",
+            options: [
+                "Who are you?",
+                "How many children do you have?",
+                "I shall start painting when you give the paper.",
+                "What type of man is he?",
+            ],
+            answer: "I shall start painting when you give the paper.",
+        },
+        {
+            id: 403,
+            question:
+                "________ he is poor, he is honest. Choose the correct Adverb for the blank place.",
+            options: ["Because", "Since", "Although", "That"],
+            answer: "Although",
+        },
+        {
+            id: 404,
+            question: "Point out the incorrect adverb.",
+            options: ["Speedily", "Slowly", "Fastly", "Gradually"],
+            answer: "Fastly",
+        },
+        {
+            id: 405,
+            question: "Which one of the following words is not an adverb?",
+            options: ["Frequently", "Always", "Happy", "Fast"],
+            answer: "Happy",
+        },
+        {
+            id: 406,
+            question:
+                "Fill in the gap with a suitable option: He has looked ________, but he cannot find his spectacles.",
+            options: ["Everything", "Everywhere", "Something", "Somewhere"],
+            answer: "Everywhere",
+        },
+        {
+            id: 407,
+            question:
+                "Which one of the following is a grammatically correct sentence?",
+            options: [
+                "He seldom or never refuses requests.",
+                "He seldom or ever refuses a request.",
+                "He seldom or often refuses requests.",
+                "He seldom or refuses to request.",
+            ],
+            answer: "He seldom or never refuses requests.",
+        },
+        {
+            id: 408,
+            question:
+                "Fill in the blank with correct option: I have not travelled by plane ________.",
+            options: ["Yet", "Till now", "As of now", "None of these"],
+            answer: "Yet",
+        },
+        {
+            id: 409,
+            question:
+                "Which one of the following is a grammatically correct sentence?",
+            options: [
+                "He was kind enough to grant my request.",
+                "He was enough kind to grant my request.",
+                "He was kind enough for granting my request.",
+                "He was kindly enough to grant my request.",
+            ],
+            answer: "He was kind enough to grant my request.",
+        },
+        {
+            id: 410,
+            question:
+                "Mark the sentence in which the word 'after' is used as an adverb.",
+            options: [
+                "He takes after his father.",
+                "After ages shall sing his glory.",
+                "We went away after they had left.",
+                "They arrived soon after.",
+            ],
+            answer: "They arrived soon after.",
+        },
+        {
+            id: 411,
+            question:
+                "The best sources of electricity, ________, include water, wind and solar power.",
+            options: ["But", "However", "Yet", "Though"],
+            answer: "However",
+        },
+        {
+            id: 412,
+            question:
+                "Choose the correct alternative to fill in the blank: I am ________ pleased to see you.",
+            options: ["Too", "Very", "Much", "To"],
+            answer: "Very",
+        },
+        {
+            id: 413,
+            question:
+                "Choose the correct alternative to complete the following sentence: When 'beautiful' is suffixed with -ly, ________.",
+            options: [
+                "It converts noun into adjective.",
+                "It converts adjective into adverb.",
+                "It converts adverb into adjective.",
+                "It maintains the original word class.",
+            ],
+            answer: "It converts adjective into adverb.",
+        },
+        {
+            id: 414,
+            question:
+                "Provide correct adverb for the blank: The minister spoke ________ about the problems that the State faced.",
+            options: ["Fairly", "Hardly", "Frankly", "Superbly"],
+            answer: "Frankly",
+        },
+        {
+            id: 415,
+            question:
+                "Choose the correct sentence/s:\n a) He has made quite a fortune.\n b) You gave me quite a shock.\n c) He often comes to school late.",
+            options: ["a only", "a and b", "b and c", "c only"],
+            answer: "a and b",
+        },
+        {
+            id: 416,
+            question:
+                "This journal is published <u>weekly</u>. Identify the part of speech underlined.",
+            options: ["Noun", "Adjective", "Adverb", "Verb"],
+            answer: "Adverb",
+        },
+        {
+            id: 417,
+            question:
+                "Fill in the blanks with the correct word pair from the ones given below: He was walking ________ while the others were quite ________.",
+            options: [
+                "Fastly and slowly",
+                "Fast and slow",
+                "Fastly and slow",
+                "Fast and slowly",
+            ],
+            answer: "Fast and slowly",
+        },
+        {
+            id: 418,
+            question:
+                "He was ________ dressed for the party. Choose the right antonym of the word ‘immaculately’ for filling the blank.",
+            options: [
+                "Imperfectly",
+                "Incompletely",
+                "Irresponsibly",
+                "Moderately",
+            ],
+            answer: "Imperfectly",
+        },
+        {
+            id: 419,
+            question:
+                "Identify the parts of speech of the underlined word:\n a) He is a <u>fast</u> talker.\n b) I was observing a <u>fast</u>.\n c) Muslims <u>fast</u> during the Ramadhan.\n d) She drove <u>fast</u>.",
+            options: [
+                "Adjective, Adverb, Noun, Verb",
+                "Adjective, Noun, Verb, Adverb",
+                "Adverb, Verb, Noun, Adjective",
+                "Adjective, Noun, Adverb, Verb",
+            ],
+            answer: "Adjective, Noun, Verb, Adverb",
+        },
+        {
+            id: 420,
+            question:
+                "Choose the correct sentences:\n a) He was so changed in appearance that I hardly know him.\n b) This typewriter is as good as new; it has hard been used.\n c) Every morning this week she has arrived late.",
+            options: [
+                "Only a and b",
+                "Only b and c",
+                "Only a and c",
+                "a, b and c",
+            ],
+            answer: "a, b and c",
+        },
+        {
+            id: 421,
+            question:
+                "Choose the sentence/s containing correct ‘adverb/s.\n a) Balraj’s mother serves always an excellent dinner.\n b) Do you go often fishing?\n c) He is grumbling always about his ill-luck.\n d) I seldom eat more than this at lunch.",
+            options: [
+                "Only a and d",
+                "Only d",
+                "Only a, b and c",
+                "Only a, c and d",
+            ],
+            answer: "Only d",
+        },
+        {
+            id: 422,
+            question:
+                "Choose the correct sentence: We did not hardly have time to eat.",
+            options: [
+                "We did not eat.",
+                "We didn't have time.",
+                "We hardly had time to eat.",
+                "Hardly we did not eat on time.",
+            ],
+            answer: "We hardly had time to eat.",
+        },
+        {
+            id: 423,
+            question:
+                "Choose the correct alternative to fill in the blanks in the following sentences:\n a) The lecture was ________ boring.\n b) It is ________ a pity to cut down those trees.",
+            options: [
+                "Fairly, Rather",
+                "Rather, Fairly",
+                "Rather, Rather",
+                "Fairly, Fairly",
+            ],
+            answer: "Rather, Fairly",
+        },
+        {
+            id: 424,
+            question:
+                "Fill in the blanks:\n a) In a few States ________ Kerala, there are more women than men.\n b) I like classical music ________ film songs.",
+            options: [
+                "Dislike, Of",
+                "As well as, Like",
+                "Unlike, From",
+                "Like, As well as",
+            ],
+            answer: "Unlike, From",
+        },
+        {
+            id: 425,
+            question:
+                "Identify the correct sentence from the following sentences:\n a) Is there enough cake for everyone?\n b) I have enough had of your excuses.\n c) I don’t think he is really experienced enough for this sort of job.\n d) I hope my instructions are clear enough.",
+            options: ["(a), (b)", "(b), (c)", "(a), (c), (d)", "(a), (b), (d)"],
+            answer: "(a), (c), (d)",
+        },
+        {
+            id: 426,
+            question:
+                "Select the correct cohesive devices for the following sentences:\n ________, people fear the outbreak of the nuclear war. Over the continuing pollution of the environment. ________, they are concerned.",
+            options: [
+                "Firstly, Secondly",
+                "To begin with, Secondly",
+                "Firstly, Besides",
+                "Both (1) and (2)",
+            ],
+            answer: "To begin with, Secondly",
+        },
+        {
+            id: 427,
+            question:
+                "She sings good. Identify the correct sentence/s:\n a) She sings good.\n b) She sings well.\n c) I did it anyhow.",
+            options: ["Only (a)", "Only (b)", "Only (c)", "Only (b) and (c)"],
+            answer: "Only (b)",
+        },
+        {
+            id: 428,
+            question:
+                "Which of the following is the correct example of pre-modifying degree of adverb?",
+            options: [
+                "How thirsty are they?",
+                "The gossip is totally false.",
+                "This is my very best book.",
+                "They have nearly finished their lunch.",
+            ],
+            answer: "The gossip is totally false.",
+        },
+        {
+            id: 429,
+            question:
+                "Identify the incorrect sentence:\n a) Almost each visitor stopped and stared.\n b) I go to the dentist every six months.\n c) The entire building has recently been renovated.",
+            options: ["Only a", "Only b", "Only c", "None of these"],
+            answer: "Only a",
+        },
+        {
+            id: 430,
+            question:
+                "An adverb qualifies:\n a) A verb\n b) Another adverb\n c) An adjective\n d) Pronoun",
+            options: [
+                "a is incorrect",
+                "d is incorrect",
+                "b and c are incorrect",
+                "a and c are incorrect",
+            ],
+            answer: "d is incorrect",
+        },
+        {
+            id: 431,
+            question:
+                "Choose the correct sentence/s:\n a) Scarcely anyone turned up, did they?\n b) Scarcely no one turned up.",
+            options: [
+                "Only a is correct",
+                "Only b is correct",
+                "Both a and b are correct",
+                "Both a and b are incorrect",
+            ],
+            answer: "Only a is correct",
+        },
+        {
+            id: 432,
+            question:
+                "Identify the incorrect adverb/s:\n a) Fastly\n b) Contemptuously\n c) Slowly\n d) Academically\n e) Seemly",
+            options: ["b and a", "a and e", "c and d", "a and d"],
+            answer: "a and e",
+        },
+        {
+            id: 433,
+            question:
+                "Identify the parts of speech for the underlined adverbs:\n a) All the freedom-fighters were <u>badly</u> treated by the British Government.\n b) We <u>blindly</u> neglect the passing of time in our life.\n c) Madhu <u>often</u> wakes up early in the morning.\n d) Virat plays <u>extremely</u> well.",
+            options: ["Pronouns", "Adjectives", "Adverbs", "Verbs"],
+            answer: "Adverbs",
+        },
+        {
+            id: 434,
+            question:
+                "Choose the correct sentences regarding the use of adverbs:\n a) She dropped here the bag.\n b) He plays very well tennis.\n c) Did you see my bag anywhere?\n d) Rarely go to movies.",
+            options: [
+                "Only a and d",
+                "Only c and d",
+                "Only b and c",
+                "Only a, b and c",
+            ],
+            answer: "Only c and d",
+        },
+        {
+            id: 435,
+            question:
+                "Identify the kind of adverb used in the sentence: 'He writes quite beautifully.'",
+            options: [
+                "Adverb of place",
+                "Adverb of manner",
+                "Adverb of degree",
+                "Adverb of time",
+            ],
+            answer: "Adverb of manner",
+        },
+        {
+            id: 436,
+            question:
+                "Fill in the blanks in the sentence: Are ________ roses in the garden?",
+            options: ["There, Much", "Those, Much", "There, Any", "This, Any"],
+            answer: "There, Any",
+        },
+
+        
     ],
     marathi: [
         {

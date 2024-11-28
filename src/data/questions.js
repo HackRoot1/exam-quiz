@@ -3601,7 +3601,1565 @@ const questions = {
             answer: "There, Any",
         },
 
-        
+        {
+            id: 437,
+            question: "He lived _______ Dadar _______ Mumbai.",
+            options: ["In, In", "At, At", "In, At", "At, In"],
+            answer: "In, At",
+        },
+        {
+            id: 438,
+            question: "Don't hanker _______ money.",
+            options: ["For", "After", "To", "Towards"],
+            answer: "After",
+        },
+        {
+            id: 439,
+            question: "In spite _______ his illness, he attended that meeting.",
+            options: ["Of", "To", "At", "Not necessary"],
+            answer: "Of",
+        },
+        {
+            id: 440,
+            question: "She is proud _______ her beauty.",
+            options: ["For", "To", "Of", "Above"],
+            answer: "Of",
+        },
+        {
+            id: 441,
+            question: "He is writing _______ a pencil.",
+            options: ["With", "By", "From", "In"],
+            answer: "With",
+        },
+        {
+            id: 442,
+            question: "She wrote the article _______ a pen.",
+            options: ["By", "From", "To", "With"],
+            answer: "With",
+        },
+        {
+            id: 443,
+            question: "Sit _______ your place.",
+            options: ["On", "Upon", "In", "At"],
+            answer: "At",
+        },
+        {
+            id: 444,
+            question: "My mother has fondness _______ children.",
+            options: ["For", "Of", "Off", "To"],
+            answer: "For",
+        },
+        {
+            id: 445,
+            question: "He is qualified _______ that post.",
+            options: ["For", "To", "Of", "Off"],
+            answer: "For",
+        },
+        {
+            id: 446,
+            question: "My friend was addicted _______ drinking.",
+            options: ["For", "To", "With", "At"],
+            answer: "To",
+        },
+        {
+            id: 447,
+            question: "My brother resembles _______ me.",
+            options: ["As", "Like", "Of", "Not necessary"],
+            answer: "Not necessary",
+        },
+        {
+            id: 448,
+            question: "I always emphasize _______ grammar.",
+            options: ["On", "In", "At", "Not necessary"],
+            answer: "On",
+        },
+        {
+            id: 449,
+            question: "The bridge was _______ the river.",
+            options: ["On", "Upon", "Over", "At"],
+            answer: "Over",
+        },
+        {
+            id: 450,
+            question: "She is expert _______ painting.",
+            options: ["At", "In", "Into", "Of"],
+            answer: "At",
+        },
+        {
+            id: 451,
+            question: "He is good _______ English.",
+            options: ["In", "Into", "At", "To"],
+            answer: "At",
+        },
+        {
+            id: 452,
+            question: "She is accurate _______ typing.",
+            options: ["At", "Into", "In", "For"],
+            answer: "At",
+        },
+        {
+            id: 453,
+            question: "I am fine. Don't worry _______ me.",
+            options: ["On", "Above", "For", "About"],
+            answer: "About",
+        },
+        {
+            id: 454,
+            question: "He was the only witness _______ the accident.",
+            options: ["To", "For", "Of", "Off"],
+            answer: "To",
+        },
+        {
+            id: 455,
+            question: "My father was angry _______ me.",
+            options: ["To", "For", "With", "About"],
+            answer: "With",
+        },
+        {
+            id: 456,
+            question: "He is popular _______ his friends.",
+            options: ["Among", "Between", "With", "For"],
+            answer: "Among",
+        },
+        {
+            id: 457,
+            question: "Many poor people live _______ daily wages.",
+            options: ["On", "In", "At", "By"],
+            answer: "On",
+        },
+        {
+            id: 458,
+            question: "Soon father’s anger melted _______ love.",
+            options: ["In", "Into", "With", "By"],
+            answer: "Into",
+        },
+        {
+            id: 459,
+            question: "There is an understanding _______ the two parties.",
+            options: ["In", "Among", "Between", "Across"],
+            answer: "Between",
+        },
+        {
+            id: 460,
+            question: "My home is _______ the river.",
+            options: ["In", "Below", "Between", "Across"],
+            answer: "Across",
+        },
+        {
+            id: 461,
+            question: "The Mahalaxmi express leaves _______ 12.30.",
+            options: ["In", "On", "At", "For"],
+            answer: "At",
+        },
+        {
+            id: 462,
+            question: "The boy was admitted _______ the school.",
+            options: ["In", "To", "From", "Between"],
+            answer: "To",
+        },
+        {
+            id: 463,
+            question: "Shivaji’s life was full _______ adventures.",
+            options: ["At", "In", "Of", "By"],
+            answer: "Of",
+        },
+        {
+            id: 464,
+            question: "We should be faithful _______ our friends.",
+            options: ["Into", "Upon", "To", "For"],
+            answer: "To",
+        },
+        {
+            id: 465,
+            question: "One must pray _______ God.",
+            options: ["In", "To", "From", "Between"],
+            answer: "To",
+        },
+        {
+            id: 466,
+            question: "I don’t believe _______ such things.",
+            options: ["To", "In", "Into", "From"],
+            answer: "In",
+        },
+        {
+            id: 467,
+            question: "The monkeys disappeared _______ the window.",
+            options: ["In", "Over", "Out", "Through"],
+            answer: "Through",
+        },
+        {
+            id: 468,
+            question: "Choose the correct sentence:",
+            options: [
+                "You should prefer poverty than dishonesty.",
+                "You should prefer poverty to dishonesty.",
+                "You should prefer poverty on dishonesty.",
+                "You should prefer poverty upon dishonesty.",
+            ],
+            answer: "You should prefer poverty to dishonesty.",
+        },
+        {
+            id: 469,
+            question: "My friend wrote my name _______ ink.",
+            options: ["With", "By", "In", "Upon"],
+            answer: "In",
+        },
+        {
+            id: 470,
+            question: "Judging _______ anyone early is a dangerous one.",
+            options: ["Of", "Off", "By", "From"],
+            answer: "By",
+        },
+        {
+            id: 471,
+            question:
+                "I was moved _______ pity to see the child crying with pain.",
+            options: ["From", "By", "With", "For"],
+            answer: "By",
+        },
+        {
+            id: 472,
+            question:
+                "The government of Maharashtra has agreed to give compensation _______ the loss caused to the farmers due to hail storm.",
+            options: ["To", "Through", "At", "For"],
+            answer: "For",
+        },
+        {
+            id: 473,
+            question: "Which hand do you write _______?",
+            options: ["With", "By", "From", "To"],
+            answer: "With",
+        },
+        {
+            id: 474,
+            question:
+                "He has done practically nothing <u>from</u> yesterday. Which of the following will best replace the underlined element?",
+            options: ["Through", "For", "Since", "By"],
+            answer: "Since",
+        },
+        {
+            id: 475,
+            question: "The cat sprang _______ the table.",
+            options: ["Upon", "On", "Over", "Across"],
+            answer: "Upon",
+        },
+        {
+            id: 476,
+            question:
+                "Tagore’s 'Geetanjali’ was translated _______ many languages.",
+            options: ["Into", "In", "From", "To"],
+            answer: "Into",
+        },
+        {
+            id: 477,
+            question: "You shall refrain _______ telling lies.",
+            options: ["For", "From", "With", "To"],
+            answer: "From",
+        },
+        {
+            id: 478,
+            question: "I have been living here _______ 1972.",
+            options: ["From", "Since", "For", "During"],
+            answer: "Since",
+        },
+        {
+            id: 479,
+            question: "Choose the correct sentence:",
+            options: [
+                "I am ready to tell the truth on her face.",
+                "I am ready to tell the truth before her face.",
+                "I am ready to tell the truth to her face.",
+                "I am ready to tell the truth in her face.",
+            ],
+            answer: "I am ready to tell the truth to her face.",
+        },
+        {
+            id: 480,
+            question: "Reading is easier _______ speaking.",
+            options: ["To", "Be", "Than", "For"],
+            answer: "Than",
+        },
+        {
+            id: 481,
+            question: "I am very interested _______ community work.",
+            options: ["In", "On", "Into", "For"],
+            answer: "In",
+        },
+        {
+            id: 482,
+            question: "He is to be blamed equally _______ his brother.",
+            options: ["To", "On", "With", "Of"],
+            answer: "With",
+        },
+        {
+            id: 483,
+            question: "The robbers broke _______ his shop and looted it.",
+            options: ["In", "Into", "Open", "No preposition is necessary"],
+            answer: "Into",
+        },
+        {
+            id: 484,
+            question: "Students should be aware _______ bad habits.",
+            options: ["Of", "Off", "By", "From"],
+            answer: "Of",
+        },
+        {
+            id: 485,
+            question:
+                "The Government has set up a court _______ enquiry to ascertain the facts.",
+            options: ["In", "For", "Of", "About"],
+            answer: "Of",
+        },
+        {
+            id: 486,
+            question: "I have been ill _______ last month.",
+            options: ["For", "Form", "Since", "During"],
+            answer: "Since",
+        },
+        {
+            id: 487,
+            question: "I am very keen _______ seeing the movie.",
+            options: ["On", "For", "In", "Of"],
+            answer: "On",
+        },
+        {
+            id: 488,
+            question: "The sun shines _______ the earth.",
+            options: ["Over", "Above", "On", "Upon"],
+            answer: "Upon",
+        },
+        {
+            id: 489,
+            question:
+                "Which part of speech the word ‘above’ belongs to in the given sentence? The moral law is above the civil.",
+            options: ["Noun", "Adjective", "Preposition", "Adverb"],
+            answer: "Preposition",
+        },
+        {
+            id: 490,
+            question: "Never connive _______ your children’s shortcomings.",
+            options: ["Of", "About", "On", "For"],
+            answer: "At",
+        },
+        {
+            id: 491,
+            question: "I study at home everyday _______ going to school.",
+            options: ["Before", "After", "Just", "For"],
+            answer: "Before",
+        },
+        {
+            id: 492,
+            question:
+                "We reason _______ a person _______ a subject for or against an opinion.",
+            options: ["Of, For", "To, About", "For, To", "With, About"],
+            answer: "With, About",
+        },
+        {
+            id: 493,
+            question:
+                "I felt great pity _______ her when she told me of heart trouble.",
+            options: ["For", "To", "Of", "By"],
+            answer: "For",
+        },
+        {
+            id: 494,
+            question: "I shall take revenge _______ you.",
+            options: ["From", "With", "On", "At"],
+            answer: "On",
+        },
+        {
+            id: 495,
+            question:
+                "In accordance _______ your instruction, we have remitted the amount to your blankets.",
+            options: ["To", "With", "Of", "By"],
+            answer: "With",
+        },
+        {
+            id: 496,
+            question: "This is a custom which exists _______ the tribes.",
+            options: ["Between", "In", "To", "Among"],
+            answer: "Among",
+        },
+        {
+            id: 497,
+            question: "The professor complimented him _______ his success.",
+            options: ["For", "To", "Be", "On"],
+            answer: "On",
+        },
+        {
+            id: 498,
+            question: "Quinine should be used as a remedy _______ malaria.",
+            options: ["Against", "For", "Of", "To"],
+            answer: "For",
+        },
+        {
+            id: 499,
+            question:
+                "The librarian will be _______ leave _______ two weeks _______ the 22nd of this month.",
+            options: [
+                "On, Since, For",
+                "Since, From",
+                "On, For, From",
+                "At, Since, For",
+            ],
+            answer: "On, For, From",
+        },
+        {
+            id: 500,
+            question: "He sent Rohit away _______ gifts.",
+            options: ["From", "To", "By", "With"],
+            answer: "With",
+        },
+        {
+            id: 501,
+            question: "We were held _______ by the traffic.",
+            options: ["Off", "On", "Up", "Out"],
+            answer: "Up",
+        },
+        {
+            id: 502,
+            question: "Here is the book that you had asked _______",
+            options: ["About", "To", "For", "Of"],
+            answer: "For",
+        },
+        {
+            id: 503,
+            question:
+                "He died _______ an accident in 1995, while he was travelling to Mumbai.",
+            options: ["With", "In", "Of", "By"],
+            answer: "In",
+        },
+        {
+            id: 504,
+            question:
+                "There is a correct use of a preposition in one of the following sentences which one is correct?",
+            options: [
+                "I spoke to her in the telephone.",
+                "I spoke to her on the telephone.",
+                "I spoke to her by the telephone.",
+                "I spoke to her from the telephone.",
+            ],
+            answer: "I spoke to her on the telephone.",
+        },
+        {
+            id: 505,
+            question: "Cut this apple _______ four pieces.",
+            options: ["In", "With", "For", "Into"],
+            answer: "Into",
+        },
+        {
+            id: 506,
+            question: "Translate this passage from English _______ Hindi.",
+            options: ["In", "To", "Into", "For"],
+            answer: "Into",
+        },
+        {
+            id: 507,
+            question: "He began to teach _______ 1990.",
+            options: ["Of", "From", "Since", "In"],
+            answer: "In",
+        },
+        {
+            id: 508,
+            question:
+                "Which of the following verb phrases is correct with reference to preposition?",
+            options: [
+                "We look at Gandhiji as the father of the nation.",
+                "We look upon Gandhiji as the father of the nation.",
+                "We look to Gandhiji as the father of the nation.",
+                "We look for Gandhiji as the father of the nation.",
+            ],
+            answer: "We look upon Gandhiji as the father of the nation.",
+        },
+        {
+            id: 510,
+            question: "I can dare say that she resembles _______ her mother.",
+            options: ["with", "to", "after", "no preposition is needed"],
+            answer: "no preposition is needed",
+        },
+        {
+            id: 511,
+            question:
+                "One has to pull _______ a great deal of injustice in this world.",
+            options: ["on", "with", "into", "down"],
+            answer: "with",
+        },
+        {
+            id: 512,
+            question:
+                "I left my friend leaning against the lamp post with a cigarette _______ his lips.",
+            options: ["in", "into", "between", "to"],
+            answer: "between",
+        },
+        {
+            id: 513,
+            question: "He is suffering _______ malaria.",
+            options: ["at", "with", "from", "for"],
+            answer: "from",
+        },
+        {
+            id: 514,
+            question: "He is being accused _______ that.",
+            options: ["of", "at", "with", "off"],
+            answer: "of",
+        },
+        {
+            id: 515,
+            question: "Unfortunately he is blind _______ his own shortcoming.",
+            options: ["of", "to", "from", "with"],
+            answer: "to",
+        },
+        {
+            id: 516,
+            question: "I am not afraid _______ you.",
+            options: ["with", "from", "for", "of"],
+            answer: "of",
+        },
+        {
+            id: 517,
+            question: "He died _______ cholera.",
+            options: ["of", "from", "by", "after"],
+            answer: "of",
+        },
+        {
+            id: 518,
+            question: "He has no affection _______ you.",
+            options: ["with", "for", "about", "towards"],
+            answer: "for",
+        },
+        {
+            id: 519,
+            question: "The main streets were jammed _______ traffic.",
+            options: ["with", "in", "of", "from"],
+            answer: "with",
+        },
+        {
+            id: 520,
+            question: "I am _______ your disposal.",
+            options: ["for", "on", "an", "at"],
+            answer: "at",
+        },
+        {
+            id: 521,
+            question: "The union leader requested to call _______ strike.",
+            options: ["of", "off", "upon", "on"],
+            answer: "off",
+        },
+        {
+            id: 522,
+            question: "He always seeks _______ wealth.",
+            options: ["by", "for", "in", "no preposition needed"],
+            answer: "no preposition is needed",
+        },
+        {
+            id: 523,
+            question: "He sent a letter _______ my address.",
+            options: ["to", "by", "on", "upon"],
+            answer: "to",
+        },
+        {
+            id: 524,
+            question: "The lion sprang _______ the cow.",
+            options: ["on", "upon", "off", "about"],
+            answer: "upon",
+        },
+        {
+            id: 525,
+            question:
+                "Did you put these packages in the drawer _______ the shelf?",
+            options: ["beside", "besides", "over", "on"],
+            answer: "beside",
+        },
+        {
+            id: 526,
+            question:
+                "He gave us a general description of the plan, ‘but did not enter _______ details.",
+            options: ["into", "in", "for", "of"],
+            answer: "into",
+        },
+        {
+            id: 527,
+            question:
+                "The function will take place _______ 8.00 a.m. _______ 10 a.m. Choose the most appropriate pair of prepositions.",
+            options: ["from, and", "since, to", "till, and", "between, and"],
+            answer: "between, and",
+        },
+        {
+            id: 528,
+            question: "Ravina is good _______ Maths but weak _______ English.",
+            options: ["in, in", "into, in", "at, in", "in, at"],
+            answer: "at, in",
+        },
+        {
+            id: 529,
+            question:
+                "Finding myself short _______ money, I wrote _______ my uncle _______ help.",
+            options: [
+                "with; to; for",
+                "of; to; about",
+                "in; to; to",
+                "of; to; for",
+            ],
+            answer: "of; to; for",
+        },
+        {
+            id: 530,
+            question: "Which one of the following is not a ‘preposition’?",
+            options: ["through", "into", "but", "between"],
+            answer: "but",
+        },
+        {
+            id: 531,
+            question: "Why don’t you go _______ your friend?",
+            options: ["with", "by", "along with", "away"],
+            answer: "with",
+        },
+        {
+            id: 532,
+            question:
+                "_______ way of introduction he made some patient remarks.",
+            options: ["of", "by", "with", "for"],
+            answer: "by",
+        },
+        {
+            id: 533,
+            question: "She broke the glass _______ a hundred pieces.",
+            options: ["into", "of", "for", "with"],
+            answer: "into",
+        },
+        {
+            id: 534,
+            question:
+                "The children ran _______ the road. Mother ran after him. Choose the correct alternative.",
+            options: ["in", "on", "across", "by"],
+            answer: "across",
+        },
+        {
+            id: 535,
+            question: "There should not be a prejudice _______ any community.",
+            options: ["with", "for", "of", "against"],
+            answer: "against",
+        },
+        {
+            id: 536,
+            question: "They shall finish the construction _______ a week.",
+            options: ["on", "from", "in", "upon"],
+            answer: "in",
+        },
+        {
+            id: 537,
+            question: "‘We rise _______ the Sun on every Sunday.",
+            options: ["beside", "up", "over", "with"],
+            answer: "with",
+        },
+        {
+            id: 538,
+            question: "The Prime Minister lives in 10 Downing Street.",
+            options: ["True", "False"],
+            answer: "True",
+        },
+        {
+            id: 539,
+            question: "I can dare say that she resembles _______ her mother.",
+            options: ["with", "to", "after", "no preposition is needed"],
+            answer: "no preposition is needed",
+        },
+        {
+            id: 540,
+            question:
+                "One has to pull _______ a great deal of injustice in this world.",
+            options: ["on", "with", "into", "down"],
+            answer: "with",
+        },
+        {
+            id: 541,
+            question:
+                "I left my friend leaning against the lamp post with a cigarette _______ his lips.",
+            options: ["in", "into", "between", "to"],
+            answer: "between",
+        },
+        {
+            id: 542,
+            question: "He is suffering _______ malaria.",
+            options: ["at", "with", "from", "for"],
+            answer: "from",
+        },
+        {
+            id: 543,
+            question: "He is being accused _______ that.",
+            options: ["of", "at", "with", "off"],
+            answer: "of",
+        },
+        {
+            id: 544,
+            question: "Unfortunately he is blind _______ his own shortcoming.",
+            options: ["of", "to", "from", "with"],
+            answer: "to",
+        },
+        {
+            id: 545,
+            question: "I am not afraid _______ you.",
+            options: ["with", "from", "for", "of"],
+            answer: "of",
+        },
+        {
+            id: 546,
+            question: "He died _______ cholera.",
+            options: ["of", "from", "by", "after"],
+            answer: "of",
+        },
+        {
+            id: 547,
+            question: "He has no affection _______ you.",
+            options: ["with", "for", "about", "towards"],
+            answer: "for",
+        },
+        {
+            id: 548,
+            question: "The main streets were jammed _______ traffic.",
+            options: ["with", "in", "of", "from"],
+            answer: "with",
+        },
+        {
+            id: 549,
+            question: "I am _______ your disposal.",
+            options: ["for", "on", "an", "at"],
+            answer: "at",
+        },
+        {
+            id: 550,
+            question: "The union leader requested to call _______ strike.",
+            options: ["of", "off", "upon", "on"],
+            answer: "off",
+        },
+        {
+            id: 551,
+            question: "He always seeks _______ wealth.",
+            options: ["by", "for", "in", "no preposition needed"],
+            answer: "no preposition needed",
+        },
+        {
+            id: 552,
+            question: "He sent a letter _______ my address.",
+            options: ["to", "by", "on", "upon"],
+            answer: "to",
+        },
+        {
+            id: 553,
+            question: "The lion sprang _______ the cow.",
+            options: ["on", "upon", "off", "about"],
+            answer: "upon",
+        },
+        {
+            id: 554,
+            question:
+                "Did you put these packages in the drawer _______ the shelf?",
+            options: ["beside", "besides", "over", "on"],
+            answer: "beside",
+        },
+        {
+            id: 555,
+            question:
+                "He gave us a general description of the plan, ‘but did not enter _______ details.",
+            options: ["into", "in", "for", "of"],
+            answer: "into",
+        },
+        {
+            id: 556,
+            question:
+                "The function will take place _______ 8.00 a.m. _______ 10 a.m. Choose the most appropriate pair of prepositions.",
+            options: ["from, and", "since, to", "till, and", "between, and"],
+            answer: "between, and",
+        },
+        {
+            id: 557,
+            question:
+                "Insert appropriate prepositions : Ravina is good _______ Maths but weak _______ English.",
+            options: ["in, in", "into, in", "at, in", "in, in"],
+            answer: "at, in",
+        },
+        {
+            id: 558,
+            question:
+                "Fill in the blanks with appropriate prepositions : Finding myself short _______ money, I wrote _______ my uncle _______ help.",
+            options: [
+                "with; to; for",
+                "of; to; about",
+                "in; to; to",
+                "of; to; for",
+            ],
+            answer: "of; to; for",
+        },
+        {
+            id: 559,
+            question: "Which one of the following is not a ‘preposition’?",
+            options: ["through", "into", "but", "between"],
+            answer: "but",
+        },
+        {
+            id: 560,
+            question:
+                "Use the right preposition: Why don’t you go _______ your friend?",
+            options: ["With", "By", "Along with", "Away"],
+            answer: "With",
+        },
+        {
+            id: 561,
+            question:
+                "Use the correct alternative: _______ way of introduction he made some patient remarks.",
+            options: ["of", "By", "With", "For"],
+            answer: "By",
+        },
+        {
+            id: 562,
+            question:
+                "Choose the correct alternative: She broke the glass _______ a hundred pieces.",
+            options: ["into", "of", "For", "with"],
+            answer: "into",
+        },
+        {
+            id: 563,
+            question:
+                "The children ran _______ the road. Mother ran after him. Choose the correct alternative.",
+            options: ["In", "on", "across", "By"],
+            answer: "across",
+        },
+        {
+            id: 564,
+            question:
+                "Choose the right alternative: There should not be a prejudice _______ any community.",
+            options: ["With", "for", "of", "against"],
+            answer: "against",
+        },
+        {
+            id: 565,
+            question:
+                "Fill in the blank with the correct preposition from the options given below. They shall finish the construction _______ a week.",
+            options: ["on", "from", "in", "upon"],
+            answer: "in",
+        },
+        {
+            id: 566,
+            question:
+                "Fill in the blank with the correct option: ‘We rise _______ the Sun on every Sunday.",
+            options: ["beside", "up", "over", "with"],
+            answer: "up",
+        },
+        {
+            id: 567,
+            question:
+                "a) T have no further consult with my father's firm.\nb) I have no further consult to my father's firm.\nc) I have no further concern with my father's firm.\nd) I have no further concern to my father's firm.\nThe grammatically correct sentences are",
+            options: ["Both a and c", "Both b and d", "Only a", "Only c"],
+            answer: "Both a and c",
+        },
+        {
+            id: 568,
+            question: "Choose the correct sentence from the following.",
+            options: [
+                "The Prime Minister lives in 10 Downing Street.",
+                "Sherlock Holmes lived in Baker Street.",
+                "His father works into a bank.",
+                "My married sister lives at Manchester.",
+            ],
+            answer: "The Prime Minister lives in 10 Downing Street.",
+        },
+        {
+            id: 569,
+            question:
+                "He deals _______- dry fruits. Pick out the correct alternative to complete the sentence.",
+            options: ["in", "out", "with", "by"],
+            answer: "in",
+        },
+        {
+            id: 570,
+            question:
+                "Here is the train that we have been waiting _______. Choose suitable preposition to complete the above sentence.",
+            options: ["for", "of", "at", "with"],
+            answer: "for",
+        },
+        {
+            id: 571,
+            question: "Choose the correct sentence from the following:",
+            options: [
+                "Everyone attend the party except him.",
+                "Everyone attended the party except him.",
+                "Everyone attended the party accept him.",
+                "Everyone attended the party part of him.",
+            ],
+            answer: "Everyone attended the party except him.",
+        },
+        {
+            id: 572,
+            question:
+                "Choose the correct preposition: The officer would have to change his attitude <u>before</u> the workers.",
+            options: ["After", "towards", "for", "No change"],
+            answer: "towards",
+        },
+        {
+            id: 573,
+            question:
+                "Supply proper preposition for the blank. His capacity _______ hard work seems unlimited.",
+            options: ["to", "for", "in", "with"],
+            answer: "for",
+        },
+        {
+            id: 574,
+            question:
+                "Fill in the most appropriate preposition: These are some tips on candidate's preparation _______ interview.",
+            options: ["of", "for", "on", "about"],
+            answer: "for",
+        },
+        {
+            id: 575,
+            question: "Choose the correct sentence from the alternative given.",
+            options: [
+                "I prefer tea than coffee",
+                "I prefer tea rather than coffee",
+                "I prefer tea to coffee",
+                "I prefer to take tea than coffee",
+            ],
+            answer: "I prefer tea to coffee",
+        },
+        {
+            id: 576,
+            question:
+                "Choose the correct preposition to fill in the blank: These three men quarrelled _______ themselves.",
+            options: ["by", "among", "within", "between"],
+            answer: "among",
+        },
+        {
+            id: 577,
+            question:
+                "Fill the blank spaces with the right pair of words: The bank functions _______ 10.00 a.m. _______ 5.00 pm.",
+            options: ["between, and", "between, to", "from, to", "at, and"],
+            answer: "from, to",
+        },
+        {
+            id: 578,
+            question:
+                "In English structure like 'On Sunday', the word 'on' functions as _______",
+            options: [
+                "preposition of position",
+                "preposition of direction",
+                "preposition of time",
+                "preposition related to verbs",
+            ],
+            answer: "preposition of time",
+        },
+        {
+            id: 579,
+            question:
+                "Choose the correct sentences where prepositions are used correctly.",
+            options: [
+                "I live at Mumbai.",
+                "He was born in 1980.",
+                "He will return in a week.",
+                "I get up in the morning.",
+            ],
+            answer: "He was born in 1980.",
+        },
+        {
+            id: 580,
+            question:
+                "‘I took to cricket as a duck takes _______ water.' Select the correct preposition from the following:",
+            options: ["to", "on", "from", "of"],
+            answer: "to",
+        },
+        {
+            id: 581,
+            question:
+                "Divide this property _______ Alec, Charles and Jane. Pick out the correct alternative to complete the sentence.",
+            options: ["between", "in", "among", "into"],
+            answer: "among",
+        },
+        {
+            id: 582,
+            question: "Point out the correct sentence:",
+            options: [
+                "We shall discuss the problem tomorrow.",
+                "We shall discuss on the problem tomorrow.",
+                "We shall discuss the problem on tomorrow.",
+                "We shall discuss about the problem tomorrow.",
+            ],
+            answer: "We shall discuss the problem tomorrow.",
+        },
+        {
+            id: 583,
+            question:
+                "Identify the sentence/s containing incorrect use of preposition. \na) The river flowed under the bridge. \nb) After the party we did a lot of washing-up. \nc) The repairs in the roof were completed",
+            options: ["a only", "c only", "a and b only", "b and c only"],
+            answer: "c only",
+        },
+        {
+            id: 584,
+            question:
+                "Which of the sentences contain/s correct preposition? \na) Our neighbours are going for a holiday. \nb) We can travel to Goa by bus, train or plane. \nc) We can travel to Goa by bus, by train or by plane.",
+            options: ["a and b", "b and c", "Only b", "only c"],
+            answer: "b and c",
+        },
+        {
+            id: 585,
+            question:
+                "Fill in the blanks with suitable prepositions : _______ order _______ avoid litigation, she accepted her crime.",
+            options: ["For, of", "From, to", "In, from", "In, to"],
+            answer: "In, to",
+        },
+        {
+            id: 586,
+            question:
+                "Fill in the blank with the appropriate preposition. I feel sorry for not being able to attend _______ you.",
+            options: ["for", "to", "with", "no preposition"],
+            answer: "for",
+        },
+        {
+            id: 587,
+            question:
+                "Fill in the blank with the correct preposition. We shouldn't poke fun _______ people who stammer.",
+            options: ["of", "at", "on", "against"],
+            answer: "at",
+        },
+        {
+            id: 588,
+            question:
+                "Which of the following sentences are grammatically correct? \na) The doctor meets his patients between 6.00 p.m 10 9.00 p.m. \nb) Unless you don't work hard, you will not succeed. \nc) The teacher advised me to work harder. \nd) He has been running his business for 40 years now.",
+            options: [
+                "only (a) and (c)",
+                "only (a), (c) and (d)",
+                "only (c) and (d)",
+                "All four",
+            ],
+            answer: "only (a), (c) and (d)",
+        },
+        {
+            id: 589,
+            question:
+                "Choose the correct sentences. \na) Father comes home at five O'clock \nb) Father comes to home at five O'clock. \nc) The children brought a stray kitten home.",
+            options: [
+                "a and b only",
+                "b and c only",
+                "a and c only",
+                "a, b and c",
+            ],
+            answer: "a and c only",
+        },
+        {
+            id: 590,
+            question:
+                "Fill in the blanks with a preposition. \na) He accused me _______ cheating him. \nb) I do not approve _______ your action. \nc) The father was very angry _______ his son.",
+            options: [
+                "for, of, about",
+                "for, of, of",
+                "of, of, with",
+                "None of the above",
+            ],
+            answer: "of, of, with",
+        },
+        {
+            id: 591,
+            question:
+                "Complete the following sentence using the most appropriate preposition. The youngest _______ the three sisters is certainly the wisest.",
+            options: ["between", "among", "of all", "in"],
+            answer: "of all",
+        },
+        {
+            id: 592,
+            question:
+                "Choose the correct sentence/s: \na) I entered the third class compartment. \nb) At the same time the train was come to a stop. \nc) I looked out of the windows and everyone were asking who had pulled the chain.",
+            options: ["a and b only", "b and c only", "a only", "a, b and c"],
+            answer: "a only",
+        },
+        {
+            id: 593,
+            question:
+                "Choose the correct sentences. \na) Here is the information for which you asked for. \nb) Here is the information for which you asked. \nc) Here is the information you asked for.",
+            options: [
+                "only a and b",
+                "only a and c",
+                "only b and c",
+                "a, b and c",
+            ],
+            answer: "only b and c",
+        },
+        {
+            id: 594,
+            question:
+                "Identify the incorrect sentence/s. \na) A bridge was built across the river. \nb) The boy was below twelve. \nc) There is a fan above her head.",
+            options: ["Only a and b", "Only b and c", "only c", "only a"],
+            answer: "Only b and c",
+        },
+        {
+            id: 595,
+            question: "Choose the correct question:",
+            options: [
+                "Are you a member in the committee?",
+                "Are you a member of the committee?",
+                "Are you a member on the committee?",
+                "Are you a member at the committee?",
+            ],
+            answer: "Are you a member of the committee?",
+        },
+        {
+            id: 596,
+            question:
+                "Fill in the blank with appropriate preposition : He has been ill _______ last week.",
+            options: ["ever", "for", "in", "at"],
+            answer: "for",
+        },
+        {
+            id: 597,
+            question:
+                "In nominal wh-clauses, passives and infinitive clauses, the preposition must occur _______",
+            options: [
+                "at the end",
+                "in the middle",
+                "before complement",
+                "at the beginning",
+            ],
+            answer: "at the end",
+        },
+        {
+            id: 598,
+            question:
+                "a. She wants dance to be learnt. \nb. She was confined to bed by fever. \nc. You are ordered to bring the files.\nIdentify the incorrect sentence.",
+            options: ["Only a", "Only b", "Only a and c", "Only a and b"],
+            answer: "Only a",
+        },
+        {
+            id: 599,
+            question:
+                "Fill in the blank with correct preposition : He has been in hospital _______ last week.",
+            options: ["in", "for", "since", "from"],
+            answer: "since",
+        },
+        {
+            id: 600,
+            question:
+                "Pick out the correct sentence from the following: \na) The drought in this year is very serious. \nb) What has he been doing from Tuesday? \nc) He will return at midnight. \nd) I met him on last Monday.",
+            options: [
+                "(a) and (b) are correct",
+                "(c) and (d) are correct",
+                "only (c) is correct",
+                "only (c) is incorrect",
+            ],
+            answer: "only (c) is correct",
+        },
+        {
+            id: 601,
+            question:
+                "Fill in the blank with appropriate pair of prepositions : Jawaharlal Nehru was born _______ Allahabad _______ Uttar Pradesh.",
+            options: ["at,in", "in, at", "in,from", "in,in"],
+            answer: "in, at",
+        },
+        {
+            id: 602,
+            question: "Identify the correct sentence from the following:",
+            options: [
+                "Death is preferable than dishonour.",
+                "Death is preferable to dishonour.",
+                "Dying is preferable to dishonour.",
+                "Dying is most preferable to dishonour.",
+            ],
+            answer: "Death is preferable to dishonour.",
+        },
+        {
+            id: 603,
+            question:
+                "Write the correct preposition in the blank space from the given options : “Hari is inferior _______ Ram in intelligence.",
+            options: ["than", "to", "from", "against"],
+            answer: "to",
+        },
+        {
+            id: 604,
+            question: "They have opened an office _______ 28 Lees Road.",
+            options: ["at", "on", "in", "none of the above"],
+            answer: "at",
+        },
+        {
+            id: 605,
+            question:
+                "Switzerland lies _______ France, Germany and Italy. Which of the following prepositions fills in correctly the blank in the sentence above?",
+            options: ["between", "among", "beside", "besides"],
+            answer: "between",
+        },
+        {
+            id: 606,
+            question:
+                "He managed to get <u>across</u> the field’. In the above sentence the underlined preposition is the example of -",
+            options: [
+                "metaphorical meaning",
+                "resultative meaning",
+                "orientation",
+                "pervasive meaning",
+            ],
+            answer: "orientation",
+        },
+        {
+            id: 607,
+            question:
+                "a. This book resembles to that. \nb. Have you signed that contract? \nc. A modest man does not boast of his merits. \nd. He carefully investigated into the case.\nIdentify the correct sentences.",
+            options: [
+                "Only a and c",
+                "Only b and c",
+                "Only a and d",
+                "Only b and d",
+            ],
+            answer: "Only b and c",
+        },
+        {
+            id: 608,
+            question:
+                "Identify the correct sentence/s. \na) She described me the situation. \nb) We all envied him his lifestyle. \nc) He fixed the tap for me.",
+            options: ["Only a", "Only b", "Only a and c", "Only b and c"],
+            answer: "Only b and c",
+        },
+        {
+            id: 609,
+            question:
+                "He has a narrow escape _______ danger. Which one of the following prepositions correctly fills the blank in the sentence above?",
+            options: ["from", "of", "with", "at"],
+            answer: "from",
+        },
+        {
+            id: 610,
+            question:
+                "Choose the correct sentence. \na) The professor brought out the idea clearly. \nb) The professor brought with the idea clearly. \nc) The professor brought in the idea clearly.",
+            options: ["(a) only", "(c) only", "(a) and (b) only", "(b) only"],
+            answer: "(a) only",
+        },
+        {
+            id: 611,
+            question:
+                "Choose the correct word to complete the following sentence. It is too hot _______ us to go out.",
+            options: ["to", "For", "with", "too"],
+            answer: "for",
+        },
+        {
+            id: 612,
+            question:
+                "He has a narrow escape _______ danger. Which one of the following prepositions correctly fills the blank in the sentence above?",
+            options: ["from", "of", "with", "at"],
+            answer: "from",
+        },
+        {
+            id: 613,
+            question:
+                "Choose the best option to fill in the blanks: \na) _______ his Aunt he has six other female relations. \nb) I do like to be _______ the sea-side.",
+            options: [
+                "Beside, besides",
+                "Beside, beside",
+                "Beside of, besides",
+                "Besides, beside",
+            ],
+            answer: "Besides, beside",
+        },
+        {
+            id: 614,
+            question:
+                "Point out the sentence that has the *preposition of time’.",
+            options: [
+                "Due <u>to</u> corona - pandemic life everywhere is constrained so we do not know where it is leading, us to",
+                "I have not seen my younger brother for months.",
+                "Being <u>in</u> a hurry, I could not notice you crossing the road.",
+                "Yesterday I attended a lecture on Sri Aurobindo.",
+            ],
+            answer: "I have not seen my younger brother for months.",
+        },
+        {
+            id: 615,
+            question:
+                "Identify the functions of the word “after” in the following sentences. \n(a) They arrived soon <u>after</u>.\n(b) He takes <u>after</u> his father.\n(c) <u>After</u> ages shall sing his glory.\n(d) We went away <u>after</u> they had left.",
+            options: [
+                "adjective, preposition, adverb, conjunction",
+                "conjunction, adverb, adjective, preposition",
+                "adverb, preposition, adjective, conjunction",
+                "adverb, adjective, preposition, conjunction",
+            ],
+            answer: "adverb, preposition, adjective, conjunction",
+        },
+        {
+            id: 616,
+            question:
+                "(a) He resembles his brother. \n(b) I am tired with this work. \n(c) He ordered a new car. \n(d) He will combat your views.\nIdentify the grammatically correct sentence/s.",
+            options: [
+                "Only (a) and (b)",
+                "Only (c) and (d)",
+                "Only (b), (c) and (d)",
+                "Only (a), (c) and (d)",
+            ],
+            answer: "Only (a), (c) and (d)",
+        },
+        {
+            id: 617,
+            question:
+                "(a) The table’s leg is broken. \n(b) They had a two hour talk. \n(c) He was absent for last two days.\nIdentify the sentence/s grammatically correct.",
+            options: ["Only(a)and(c)", "Only(b)and(c)", "Only(b)", "Only(a)"],
+            answer: "Only(b)",
+        },
+        {
+            id: 618,
+            question:
+                "(a) He lives in Bapu Nagar in Ahmedabad. \n(b) He reached Mumbai yesterday. \n(c) She lives in a Cottage. \n(d) I will be sixty in next August.\nIdentify the correct sentence/s.",
+            options: [
+                "Only(a)and(b)",
+                "Only(b)and(c)",
+                "Only(a)and(d)",
+                "Only(b), (c) and (d)",
+            ],
+            answer: "Only(b), (c) and (d)",
+        },
+        {
+            id: 619,
+            question:
+                "Choose the correct alternative to fill in the blank: ‘We must wait until the invigilator _______ the question papers.",
+            options: ["given", "would give", "will give", "gives"],
+            answer: "gives",
+        },
+        {
+            id: 620,
+            question:
+                "Choose the correct alternative to fill in the blank: He went away before _______ him.",
+            options: ["can stopped", "could stop", "can stop", "could stopped"],
+            answer: "could stop",
+        },
+        {
+            id: 621,
+            question:
+                "Choose the correct alternative to fill in the blank: After he _______ we thought over his plan.",
+            options: ["had spoken", "spoke", "has spoken", "was speaking"],
+            answer: "had spoken",
+        },
+        {
+            id: 622,
+            question: "I _______ that you have got a new car.",
+            options: ["have heard", "hear", "am hearing", "was hearing"],
+            answer: "have heard",
+        },
+        {
+            id: 623,
+            question: "Choose the correct sentence.",
+            options: [
+                "I forget to post the letter yesterday.",
+                "I am forgetting to post the letter yesterday.",
+                "I forgot posting this a letter yesterday.",
+                "I forgot to post this letter yesterday.",
+            ],
+            answer: "I forgot to post this letter yesterday.",
+        },
+        {
+            id: 624,
+            question:
+                "Select the appropriate verb-phrase from among the alternatives given below to fill in the blank in the following sentence: You _______ a shock when you read the letter.",
+            options: ["would get", "will get", "shall get", "will be getting"],
+            answer: "will get",
+        },
+        {
+            id: 625,
+            question:
+                "Pick out the clause that completes the sentence correctly: Ramesh would like the boys _______ in the field.",
+            options: ["having played", "to playing", "played", "playing"],
+            answer: "playing",
+        },
+        {
+            id: 626,
+            question: "Pick out the correct sentence from the following:",
+            options: [
+                "The last train goes to Kalyan there!",
+                "There is going the last train to Kalyan!",
+                "From there is going the last train for Kalyan!",
+                "There goes the last train for Kalyan!",
+            ],
+            answer: "There goes the last train for Kalyan!",
+        },
+        {
+            id: 627,
+            question:
+                "Choose the correct set of tense forms of the verbs given in the brackets: ‘While you (talk) to me on the phone, somebody (knock) at my door.",
+            options: [
+                "were talking: knocked",
+                "talking; had knocked",
+                "talked; knocking",
+                "had talked; had knocked",
+            ],
+            answer: "were talking: knocked",
+        },
+        {
+            id: 628,
+            question:
+                "Choose the right alternative to fill in the blank in the following sentence. If I had known that he was in the city last week, I _______ him.",
+            options: ["would meet", "would have met", "had met", "might meet"],
+            answer: "would have met",
+        },
+        {
+            id: 629,
+            question:
+                "Choose the correct form of the verb to complete the following sentence: He _______ French before he went to France.",
+            options: ["has learnt", "is learning", "had learnt", "will learn"],
+            answer: "had learnt",
+        },
+        {
+            id: 630,
+            question:
+                "Choose the appropriate form of the verb and complete the sentence: The officer _______ the villager’s problems.",
+            options: [
+                "does not understand",
+                "is not understanding",
+                "do not understand",
+                "was not understanding",
+            ],
+            answer: "does not understand",
+        },
+        {
+            id: 631,
+            question:
+                "I cannot _______ the next word, he has written it so badly. Fill in the blank in the above sentence with the correct verb form from the following:",
+            options: ["make up", "make for", "make out", "make up for"],
+            answer: "make out",
+        },
+        {
+            id: 632,
+            question: "Pick out the correct sentence from the following.",
+            options: [
+                "Ten miles are a long distance.",
+                "Ten miles were a long distance.",
+                "Ten miles is a long distance.",
+                "Ten miles are a long distance.",
+            ],
+            answer: "Ten miles is a long distance.",
+        },
+        {
+            id: 633,
+            question:
+                "Choose the correct tense form: Father _______ reading the newspaper at the moment.",
+            options: ["are", "is", "was", "were"],
+            answer: "is",
+        },
+        {
+            id: 634,
+            question: "They were sitting in a restaurant _______",
+            options: [
+                "when I had seen them.",
+                "when I saw them.",
+                "when I was seeing them.",
+                "when I would see them.",
+            ],
+            answer: "when I saw them.",
+        },
+        {
+            id: 635,
+            question: "Choose the correct sentence from the following.",
+            options: [
+                "She will have completed all her assignments by tomorrow.",
+                "She has completed all her assignments by tomorrow.",
+                "She has to be completing all her assignments by tomorrow.",
+                "She was completed all her assignments by tomorrow.",
+            ],
+            answer: "She will have completed all her assignments by tomorrow.",
+        },
+        {
+            id: 636,
+            question:
+                "Select the correct modal to express permission. You _______ return my book tomorrow.",
+            options: ["shall", "will", "may", "can"],
+            answer: "may",
+        },
+        {
+            id: 637,
+            question:
+                "Choose the correct alternative to fill in the blank: ‘When it _______ dark, we’ll have to stop. We can’t work in the dark.",
+            options: ["will get", "will be getting", "gets", "is getting"],
+            answer: "gets",
+        },
+        {
+            id: 638,
+            question:
+                "Which one of the following sentences is grammatically correct?",
+            options: [
+                "How the books will sell depends on the author.",
+                "How the books will sell is depending on the author.",
+                "How the books will sell depend on the author.",
+                "How the books will sell depended on the author.",
+            ],
+            answer: "How the books will sell depends on the author.",
+        },
+        {
+            id: 639,
+            question:
+                "Complete the following using the correct alternative: He wants to know _______",
+            options: [
+                "when the meeting been start.",
+                "when the meeting had started.",
+                "when the meeting will starting.",
+                "when the meeting will start.",
+            ],
+            answer: "when the meeting will start.",
+        },
+        {
+            id: 640,
+            question:
+                "Choose the correct alternative: He _______ early when he was in Mumbai.",
+            options: [
+                "has got up",
+                "has been getting up",
+                "had got up",
+                "used to get up",
+            ],
+            answer: "used to get up",
+        },
+        {
+            id: 641,
+            question:
+                "Choose the correct alternative to fill in the blank. Good advice _______ not always needed.",
+            options: ["was", "has", "is", "had"],
+            answer: "is",
+        },
+        {
+            id: 642,
+            question: "Select the correct sentence:",
+            options: [
+                "By the end of the year she will have been working for two years.",
+                "By the end of the year she will be working for two years.",
+                "By the end of the year she has been working for two years.",
+                "By the end of the year she is working for two years.",
+            ],
+            answer: "By the end of the year she will have been working for two years.",
+        },
+        {
+            id: 643,
+            question:
+                "Choose the correct alternative to complete the sentence. It _______ continuously since six O’clock this morning.",
+            options: [
+                "is raining",
+                "have rained",
+                "has been raining",
+                "had been raining",
+            ],
+            answer: "has been raining",
+        },
+        {
+            id: 644,
+            question:
+                "Fill in the blank with the correct verb for: 'Wheat and rice _______ cereals.'",
+            options: ["is", "were", "have", "are"],
+            answer: "are",
+        },
+        {
+            id: 645,
+            question: "Choose the correct sentence:",
+            options: [
+                "Neither praise nor blame seem to affect him.",
+                "Neither praise not blame seem to affect him.",
+                "Neither praise not blame seems to affect him.",
+                "Neither praise nor blame seems to affect him.",
+            ],
+            answer: "Neither praise nor blame seems to affect him.",
+        },
+        {
+            id: 646,
+            question:
+                "Choose the correct tense form of the verb in brackets for completing the sentence. “When we _______(have) lunch we will go for a walk.",
+            options: ["had", "shall have", "had had", "have had"],
+            answer: "shall have",
+        },
     ],
     marathi: [
         {

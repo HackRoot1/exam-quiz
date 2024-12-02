@@ -121,7 +121,7 @@ const QuizContainer = () => {
         <>
             {!isSubmitted ? (
                 <>
-                    <div className="h-[30px] md:h-[50px] flex justify-center items-center">
+                    <div className="flex justify-center items-center bg-slate-300 py-3">
                         <Timer onTimeUp={handleSubmit} duration={5400} />
                     </div>
                     <div className="flex flex-col md:flex-row h-full px-3 md:px-10 pt-10">
@@ -208,7 +208,7 @@ const QuizContainer = () => {
                 </>
             ) : (
                 <>
-                    <div className="h-[30px] md:h-[50px] flex justify-center items-center">
+                    <div className="flex justify-center items-center bg-slate-300 py-3">
                         <Result answers={answers} questions={questions} />
                     </div>
                     <div className="flex flex-col md:flex-row h-full px-3 md:px-10 pt-10">
@@ -227,58 +227,6 @@ const QuizContainer = () => {
                                         resultTrue={true}
                                     />
                                 )}
-
-                                <div className="flex justify-between mt-10">
-                                    <button
-                                        className="bg-blue-400 hover:bg-blue-500 rounded-lg md:rounded-none font-bold text-white px-2 py-1 md:px-5 md:py-2"
-                                        onClick={handleMarkQuestion}
-                                    >
-                                        Mark for Review
-                                    </button>
-
-                                    <div className="flex">
-                                        <button
-                                            className="bg-red-500 hover:bg-red-600 rounded-lg md:rounded-none font-bold text-white px-2 py-1 md:px-5 md:py-2"
-                                            onClick={() => {
-                                                if (currentQuestionIndex > 0) {
-                                                    setCurrentQuestionIndex(
-                                                        (prev) => prev - 1
-                                                    );
-                                                }
-                                            }}
-                                            disabled={
-                                                currentQuestionIndex === 0
-                                            }
-                                        >
-                                            Previous
-                                        </button>
-                                        <button
-                                            className="bg-green-400 hover:bg-green-500 rounded-lg md:rounded-none font-bold text-white px-2 py-1 md:px-5 md:py-2"
-                                            onClick={() => {
-                                                if (
-                                                    currentQuestionIndex <
-                                                    questions.length - 1
-                                                ) {
-                                                    setCurrentQuestionIndex(
-                                                        (prev) => prev + 1
-                                                    );
-                                                }
-                                            }}
-                                            disabled={
-                                                currentQuestionIndex ===
-                                                questions.length - 1
-                                            }
-                                        >
-                                            Next
-                                        </button>
-                                        <button
-                                            className="bg-blue-500 hover:bg-blue-600 rounded-lg md:rounded-none font-bold text-white px-2 py-1 md:px-5 md:py-2"
-                                            onClick={handleSubmit}
-                                        >
-                                            Submit
-                                        </button>
-                                    </div>
-                                </div>
                             </>
                         </section>
 

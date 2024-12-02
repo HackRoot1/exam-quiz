@@ -5,6 +5,7 @@ const Question = ({
     selectedAnswer,
     onAnswerSelect,
     questionNo,
+    resultTrue,
 }) => {
     const handleChange = (event) => {
         onAnswerSelect(event.target.value);
@@ -15,18 +16,16 @@ const Question = ({
             <div className="flex flex-col gap-2 px-3 text-black">
                 <div className="text-start font-bold">
                     {questionNo + 1 + ") "}
-                    {
-                        questionData.question.includes("\n") // Check if the questionData.question has new lines
-                            ? questionData.question
-                                  .split("\n")
-                                  .map((line, index) => (
-                                      <span key={index}>
-                                          {line}
-                                          <br />
-                                      </span>
-                                  ))
-                            : questionData.question 
-                    }
+                    {questionData.question.includes("\n") // Check if the questionData.question has new lines
+                        ? questionData.question
+                              .split("\n")
+                              .map((line, index) => (
+                                  <span key={index}>
+                                      {line}
+                                      <br />
+                                  </span>
+                              ))
+                        : questionData.question}
                 </div>
 
                 {questionData.image && (
@@ -62,10 +61,32 @@ const Question = ({
                                 value={option}
                                 checked={selectedAnswer === option}
                                 onChange={handleChange}
+                                disabled={resultTrue}
                             />
                         </div>
                     ))}
                 </div>
+
+                {resultTrue ? (
+                    <>
+                        <div
+                            className={`mt-5 text-start font-bold ${
+                                selectedAnswer === questionData.answer
+                                    ? "bg-green-300"
+                                    : "bg-red-300"
+                            } p-3 rounded-md`}
+                        >
+                            Your Answer: <br />
+                            {selectedAnswer}
+                        </div>
+                        <div className="mt-5 text-start font-bold bg-green-300 p-3 rounded-md">
+                            Correct Answer: <br />
+                            {questionData.answer}
+                        </div>
+                    </>
+                ) : (
+                    ""
+                )}
             </div>
         </>
     );

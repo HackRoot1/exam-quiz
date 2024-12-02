@@ -3229,7 +3229,7 @@ const questions = {
         },
         {
             id: 398,
-            question: "She is my mother, I respect her.",
+            question: "She is my mother, ________ I respect her.",
             options: ["Because", "Since", "So", "Now"],
             answer: "Because",
         },
@@ -5159,6 +5159,4162 @@ const questions = {
                 "Choose the correct tense form of the verb in brackets for completing the sentence. “When we _______(have) lunch we will go for a walk.",
             options: ["had", "shall have", "had had", "have had"],
             answer: "shall have",
+        },
+        {
+            id: 647,
+            question:
+                "Complete the sentence with a suitable verb form. The police _______ of theft by this time.",
+            options: ["are heard", "will hear", "hear", "would have heard"],
+            answer: "would have heard",
+        },
+        {
+            id: 648,
+            question:
+                "Complete the sentence with the correct alternative. She is _______ well today.",
+            options: ["no", "not", "none", "nought"],
+            answer: "not",
+        },
+        {
+            id: 649,
+            question:
+                "Fill in the blank with the correct alternative. One of my friends _______ a fine collection of postage stamps.",
+            options: ["has", "have", "had been", "having"],
+            answer: "has",
+        },
+        {
+            id: 650,
+            question:
+                "Choose the correct alternative to complete the following sentence: 'If someone offered to buy one of these watches, which one ______?'",
+            options: [
+                "you choose",
+                "shall you choose",
+                "would you choose",
+                "will you choose",
+            ],
+            answer: "would you choose",
+        },
+        {
+            id: 651,
+            question:
+                "Select the correct tense form of the verb to complete the sentence: I had never seen such sights until I _______",
+            options: [
+                "go to England.",
+                "shall go to England.",
+                "went to England.",
+                "have gone to England.",
+            ],
+            answer: "went to England.",
+        },
+        {
+            id: 652,
+            question:
+                "Choose the correct tense form: We _______ playing cricket now.",
+            options: ["were", "was", "will", "are"],
+            answer: "are",
+        },
+        {
+            id: 653,
+            question:
+                "'You shall have a holiday tomorrow.' The modal auxiliary in the above sentence expresses",
+            options: ["threat", "command", "promise", "willingness"],
+            answer: "promise",
+        },
+        {
+            id: 654,
+            question:
+                "Choose the correct alternative to fill in the blank. He _______ English for five years.",
+            options: [
+                "studies",
+                "is studying",
+                "are studying",
+                "has been studying",
+            ],
+            answer: "has been studying",
+        },
+        {
+            id: 655,
+            question:
+                "Which of the following sentences has been written in Future Continuous Tense?",
+            options: [
+                "He will have left the place.",
+                "He will have been leaving the place.",
+                "He will be leaving the place.",
+                "He is going to leave the place.",
+            ],
+            answer: "He will be leaving the place.",
+        },
+        {
+            id: 656,
+            question:
+                "Choose the correct alternative to complete the sentence: Modern research _______ that there were invaders even before the Aryans poured into this land.",
+            options: [
+                "Proved",
+                "has been proving",
+                "has proved",
+                "has been proved",
+            ],
+            answer: "has proved",
+        },
+        {
+            id: 657,
+            question:
+                "Fill in the blank with the correct verb form. 'When I saw him, he _______ chess.",
+            options: ["played", "has played", "had played", "was playing"],
+            answer: "was playing",
+        },
+        {
+            id: 658,
+            question:
+                "Which of the following is the correct form to complete the expression? Long _______ the Indian Republic!",
+            options: ["live", "lives", "will live", "should live"],
+            answer: "live",
+        },
+        {
+            id: 659,
+            question:
+                "Choose the correct alternative to complete the sentence. It _______ continuously since six O’clock.",
+            options: [
+                "is rained",
+                "have rained",
+                "has been raining",
+                "had been raining",
+            ],
+            answer: "has been raining",
+        },
+        {
+            id: 660,
+            question:
+                "Would you mind _______ some of your books while you are on your vacation?",
+            options: [
+                "me borrowing",
+                "my borrowing",
+                "me borrow",
+                "me having borrowed",
+            ],
+            answer: "my borrowing",
+        },
+        {
+            id: 661,
+            question:
+                "The fact that you find a thing does not entitle you to _______ it.",
+            options: ["have kept", "for keeping", "keeping", "keep"],
+            answer: "keep",
+        },
+        {
+            id: 662,
+            question: "She had frequent toothaches. So she decided to _______",
+            options: [
+                "have her teeth removed",
+                "remove her teeth",
+                "removing her teeth",
+                "having her teeth removed",
+            ],
+            answer: "have her teeth removed",
+        },
+        {
+            id: 663,
+            question:
+                "He is the most generous man. I _______ him for a long time.",
+            options: ["know", "knew", "had known", "have known"],
+            answer: "have known",
+        },
+        {
+            id: 664,
+            question: "_______ either of your sisters working?",
+            options: ["Are", "Is", "Might", "Ought"],
+            answer: "Is",
+        },
+        {
+            id: 665,
+            question: "No boy and no girl _______ present there.",
+            options: ["was", "were", "are", "have"],
+            answer: "was",
+        },
+        {
+            id: 666,
+            question: "Savings in the bank _______ a great profit.",
+            options: ["is", "are", "has been", "have been"],
+            answer: "are",
+        },
+        {
+            id: 667,
+            question: "When I reached the station, the train _______",
+            options: [
+                "departed",
+                "had already departed",
+                "is departed",
+                "had departed already",
+            ],
+            answer: "had already departed",
+        },
+        {
+            id: 668,
+            question:
+                "One of the TV cameramen was _______ in the leg by a bullet when he was _______ in the middle of a gun fight between two gangs.",
+            options: [
+                "hurt, entered",
+                "shot, caught",
+                "injured, came",
+                "stabbed, trapped",
+            ],
+            answer: "shot, caught",
+        },
+        {
+            id: 669,
+            question:
+                "Complete the following sentence using the correct form of verb: I _______ (write) letters since ten o’clock this morning.",
+            options: [
+                "wrote",
+                "have been writing",
+                "was writing",
+                "had been writing",
+            ],
+            answer: "have been writing",
+        },
+        {
+            id: 670,
+            question: "Heat the oil till it _______ to smoke.",
+            options: ["Began", "Begins", "Will begin", "has began"],
+            answer: "Begins",
+        },
+        {
+            id: 671,
+            question:
+                "Choose the correct alternative to complete the following sentence: I will sing if he _______",
+            options: ["will ask me", "asks me", "asked me", "has asked me"],
+            answer: "asks me",
+        },
+        {
+            id: 672,
+            question:
+                "Use correct verb to complete the given sentence. He _______ do it whether you like it or not.",
+            options: ["would", "will", "will have", "shall have"],
+            answer: "will",
+        },
+        {
+            id: 673,
+            question: "Dump _______ speak.",
+            options: ["Does not", "Do not", "is not", "Was not"],
+            answer: "Do not",
+        },
+        {
+            id: 674,
+            question:
+                "Choose the correct verb to fill in the blank: Each one of our houses _______ to let.",
+            options: ["is", "are", "were", "would"],
+            answer: "is",
+        },
+        {
+            id: 675,
+            question: "Do you like _______ to classical music.",
+            options: ["to listen", "listening", "to listening", "lisning"],
+            answer: "listening",
+        },
+        {
+            id: 676,
+            question:
+                "He loved _______ television in the PerformanceEventTiming.",
+            options: ["watched", "was watching", "watching", "None of this"],
+            answer: "watching",
+        },
+        {
+            id: 677,
+            question: "The little boy _______ frightened and ran away.",
+            options: ["get", "got", "became", "is"],
+            answer: "got",
+        },
+        {
+            id: 678,
+            question:
+                "Choose the correct verb to fill in the blanks: I think you are _______ something.",
+            options: ["saying", "speaking", "talking", "telling"],
+            answer: "saying",
+        },
+        {
+            id: 679,
+            question: "They were sitting in a restaurant _______",
+            options: [
+                "when I had seen them.",
+                "when I was seeing them.",
+                "when I would see them.",
+                "when I saw them.",
+            ],
+            answer: "when I saw them.",
+        },
+        {
+            id: 680,
+            question: "Satish would like boys _______ in the field.",
+            options: ["playing", "played", "having played", "to be playing"],
+            answer: "playing",
+        },
+        {
+            id: 681,
+            question:
+                "I _______ that you have got the job of Sr. Clerk in PWD.",
+            options: ["have heard", "was hearing", "will be hearing", "hear"],
+            answer: "have heard",
+        },
+        {
+            id: 682,
+            question:
+                "Fill in the blank with appropriate form of the verb: If I _______ a King, you should be my Queen.",
+            options: ["were", "was", "am", "will"],
+            answer: "were",
+        },
+        {
+            id: 683,
+            question:
+                "The messenger _______ hardly read or write. Which of the following option would be most appropriate?",
+            options: ["can’t", "doesn’t", "can", "does"],
+            answer: "can",
+        },
+        {
+            id: 684,
+            question:
+                "The general with all his soldiers _______ killed. Which of the following options can fill in the blank?",
+            options: ["were", "are", "is", "was"],
+            answer: "was",
+        },
+        {
+            id: 685,
+            question:
+                "Many a flower _______ born to blush unseen. Which of the following options is correct?",
+            options: ["are", "is", "will", "were"],
+            answer: "is",
+        },
+        {
+            id: 686,
+            question:
+                "A crowd of university students _______ surrounded the vice-chancellor.",
+            options: ["has", "have", "did", "were"],
+            answer: "have",
+        },
+        {
+            id: 687,
+            question: "If you _______ me some money, I _______ buy a scooter.",
+            options: ["give, will", "gave, may", "given, will", "gives, would"],
+            answer: "give, will",
+        },
+        {
+            id: 688,
+            question: "The poet and philosopher _______ my friend.",
+            options: ["is", "are", "have", "were"],
+            answer: "is",
+        },
+        {
+            id: 689,
+            question: "Billiards _______ an expensive game.",
+            options: ["are", "is", "were", "have"],
+            answer: "is",
+        },
+        {
+            id: 690,
+            question: "Either your eyesight or your brakes _______ bad.",
+            options: ["are", "is", "was", "none"],
+            answer: "are",
+        },
+        {
+            id: 691,
+            question: "The teachers or the student _______ wrong.",
+            options: ["were", "are", "will", "is"],
+            answer: "is",
+        },
+        {
+            id: 692,
+            question:
+                "Each of the two candidates _______ paid his subscription.",
+            options: ["are", "has", "have", "were"],
+            answer: "has",
+        },
+        {
+            id: 693,
+            question: "No sooner _______ than the police handcuffed him.",
+            options: ["he come", "did he came", "did he come", "had he come"],
+            answer: "did he come",
+        },
+        {
+            id: 694,
+            question: "The poor should be _______",
+            options: ["feed", "feeding", "fed", "feeds"],
+            answer: "fed",
+        },
+        {
+            id: 695,
+            question: "We had reached the station, before the train _______",
+            options: ["arrive", "arrived", "had arrived", "had been arriving"],
+            answer: "arrived",
+        },
+        {
+            id: 696,
+            question: "When we went to the cinema, the film _______",
+            options: [
+                "already started",
+                "had already started",
+                "would already started",
+                "was started",
+            ],
+            answer: "had already started",
+        },
+        {
+            id: 697,
+            question: "The ship was _______ in the storm.",
+            options: ["wrecked", "wrept", "rapt", "rack"],
+            answer: "wrecked",
+        },
+        {
+            id: 698,
+            question:
+                "Two labour party MPs _______ for rehabilitation of the handicapped in the zero-hour at the parliament today.",
+            options: ["asks", "ask", "are asking", "has asked"],
+            answer: "are asking",
+        },
+        {
+            id: 699,
+            question:
+                "Unless young people are employed there _______ social unrest.",
+            options: ["is not", "was", "will be", "is"],
+            answer: "will be",
+        },
+        {
+            id: 700,
+            question: "Leena _______ in the United States since 1996.",
+            options: [
+                "had been living",
+                "is being living",
+                "has been living",
+                "has lived",
+            ],
+            answer: "has been living",
+        },
+        {
+            id: 701,
+            question:
+                "You _______ study hard, if you wish to pass in the exam.",
+            options: ["would", "can", "must", "tell"],
+            answer: "must",
+        },
+        {
+            id: 702,
+            question:
+                "The rich <u>is</u> not always dishonest. Which of the following options will be used in place of underlined part of the sentence?",
+            options: ["was", "will", "are", "can"],
+            answer: "are",
+        },
+        {
+            id: 703,
+            question: "If I _______ him, I _______ give him your message.",
+            options: [
+                "meet, will",
+                "met, can",
+                "will meet, will",
+                "meeting, will",
+            ],
+            answer: "meet, will",
+        },
+        {
+            id: 704,
+            question: "By whom was the gate _______?",
+            options: ["opened", "had opened", "opening", "opens"],
+            answer: "opened",
+        },
+        {
+            id: 705,
+            question: "Neither he nor his brother _______ there.",
+            options: ["were", "was", "are", "will"],
+            answer: "was",
+        },
+        {
+            id: 706,
+            question: "She jumped off the bus while the bus _______",
+            options: ["moved", "had moved", "was moving", "will move"],
+            answer: "was moving",
+        },
+        {
+            id: 707,
+            question: "She _______ unconscious since four o’clock.",
+            options: ["is", "was", "will", "has been"],
+            answer: "has been",
+        },
+        {
+            id: 708,
+            question: "He behaves as though _______",
+            options: [
+                "he were a king",
+                "he was a king",
+                "he be come a king",
+                "he is a king",
+            ],
+            answer: "he were a king",
+        },
+        {
+            id: 709,
+            question: "If it does not rain _______",
+            options: [
+                "the crops will dry up",
+                "the crop is dried",
+                "the crops will have dry up",
+                "the crop will dry up",
+            ],
+            answer: "the crops will dry up",
+        },
+        {
+            id: 710,
+            question: "Don’t disturb me, I _______ my home work.",
+            options: ["do", "did", "am doing", "will do"],
+            answer: "am doing",
+        },
+        {
+            id: 711,
+            question: "A number of boys were punished for _______",
+            options: ["copy", "to copy", "copying", "copied"],
+            answer: "copying",
+        },
+        {
+            id: 712,
+            question: "The children enjoy _______ in the garden.",
+            options: ["Playing", "to play", "in playing", "to playing"],
+            answer: "Playing",
+        },
+        {
+            id: 713,
+            question:
+                "They _______ money for educational purpose of their children.",
+            options: ["shy", "sign", "shave", "save"],
+            answer: "save",
+        },
+        {
+            id: 714,
+            question: "She _______ her home work before I asked her.",
+            options: [
+                "finished",
+                "has finished",
+                "had finished",
+                "was finishing",
+            ],
+            answer: "had finished",
+        },
+        {
+            id: 715,
+            question: "I can’t remember when I _______ her last.",
+            options: ["had seen", "have seen", "was seen", "saw"],
+            answer: "saw",
+        },
+        {
+            id: 716,
+            question: "Vijay _______ his B.A. Examination in 2005.",
+            options: ["had passed", "passed", "has passed", "is passing"],
+            answer: "passed",
+        },
+        {
+            id: 717,
+            question: "_______ I you, I would help him.",
+            options: ["Were", "Had", "Should", "If"],
+            answer: "Were",
+        },
+        {
+            id: 718,
+            question: "By the time I reach home, mother _______ cooking.",
+            options: [
+                "will finish",
+                "will be finishing",
+                "will have finished",
+                "have finished",
+            ],
+            answer: "will have finished",
+        },
+        {
+            id: 719,
+            question: "Even if you were to try _______",
+            options: [
+                "you would not be able to do it.",
+                "you will not be able to do it.",
+                "you are not able to do it.",
+                "you have not done it.",
+            ],
+            answer: "you would not be able to do it.",
+        },
+        {
+            id: 720,
+            question:
+                "One of the students _______ absent in the class yesterday.",
+            options: ["are", "was", "were", "is"],
+            answer: "was",
+        },
+        {
+            id: 721,
+            question: "They made more mistakes than we _______",
+            options: ["have done", "had done", "would have done", "did"],
+            answer: "did",
+        },
+        {
+            id: 722,
+            question:
+                "Choose the correct alternative. He tried hard but _______",
+            options: [
+                "he had not succeeded",
+                "he did not succeed",
+                "he was not succeeding",
+                "he has not been succeeding",
+            ],
+            answer: "he did not succeed",
+        },
+        {
+            id: 723,
+            question:
+                "Neither the Headmaster nor the Assistant masters _______ present.",
+            options: ["is", "to be", "are", "been"],
+            answer: "are",
+        },
+        {
+            id: 724,
+            question:
+                "Fill in the blank in the following sentence. Choose an appropriate verb form that agrees with the subject. 'The General with all his soldiers _______ killed.'",
+            options: ["has been", "have been", "are", "were"],
+            answer: "were",
+        },
+        {
+            id: 725,
+            question:
+                "Choose the alternative to complete the sentence. If she were selected, she _______ a good secretary.",
+            options: ["will make", "can make", "would have made", "would make"],
+            answer: "would make",
+        },
+        {
+            id: 726,
+            question:
+                "If someone offered to buy one of these watches, which one _______",
+            options: [
+                "you choose",
+                "shall you choose",
+                "would you choose",
+                "will you choose",
+            ],
+            answer: "would you choose",
+        },
+        {
+            id: 727,
+            question: "If I had known about your problem _______",
+            options: [
+                "I would have helped you",
+                "I had helped you",
+                "I would help you",
+                "I will help you",
+            ],
+            answer: "I would have helped you",
+        },
+        {
+            id: 728,
+            question: "It is about time you _______ the tea ready.",
+            options: ["get", "got", "give", "receive"],
+            answer: "got",
+        },
+        {
+            id: 729,
+            question: "He entered the room, looking as if he _______ a ghost.",
+            options: ["witness", "meets", "saw", "passed by"],
+            answer: "saw",
+        },
+        {
+            id: 730,
+            question: "He behaves as if he _______",
+            options: [
+                "is my boss",
+                "was my boss",
+                "were my boss",
+                "could be my boss",
+            ],
+            answer: "were my boss",
+        },
+        {
+            id: 731,
+            question: "He will not come _______",
+            options: ["I think", "I do not think", "I thought", "May think"],
+            answer: "I do not think",
+        },
+        {
+            id: 732,
+            question: "I will see you when I _______ to Bombay.",
+            options: ["come", "will come", "shall come", "am coming"],
+            answer: "come",
+        },
+        {
+            id: 733,
+            question: "If he had been in the city, he _______ the award.",
+            options: [
+                "would receive",
+                "would have received",
+                "should have received",
+                "could receive",
+            ],
+            answer: "would have received",
+        },
+        {
+            id: 734,
+            question: "I will sing if he _______",
+            options: ["will ask me", "asks me", "asked me", "has asked me"],
+            answer: "asks me",
+        },
+        {
+            id: 735,
+            question: "Had he worked hard he _______",
+            options: [
+                "would have passed",
+                "would pass",
+                "will have passed",
+                "passed",
+            ],
+            answer: "would have passed",
+        },
+        {
+            id: 736,
+            question: "If he had been elected he _______",
+            options: [
+                "will be a minister",
+                "would be a minister",
+                "would make a minister",
+                "would have been a minister",
+            ],
+            answer: "would have been a minister",
+        },
+        {
+            id: 737,
+            question:
+                "I don’t mind _______ with the cooking but I won’t wash the dishes.",
+            options: ["To help", "for helping", "in helping", "helping"],
+            answer: "helping",
+        },
+        {
+            id: 738,
+            question: "It _______ continuously since 6'O'clock this morning.",
+            options: [
+                "is raining",
+                "has rained",
+                "has been raining",
+                "had been raining",
+            ],
+            answer: "has been raining",
+        },
+        {
+            id: 739,
+            question: "He will explain to you when he _______ back.",
+            options: ["comes", "came", "come", "go"],
+            answer: "comes",
+        },
+        {
+            id: 740,
+            question: "When we went to the cinema, the film _______",
+            options: [
+                "had already started",
+                "has already stated",
+                "was already started",
+                "none",
+            ],
+            answer: "had already started",
+        },
+        {
+            id: 741,
+            question:
+                "Choose the correct clause to complete the following sentence: If I fail in the examination _______",
+            options: [
+                "I give up my studies.",
+                "I will give up my studies.",
+                "I will have given up my studies.",
+                "I gave up my studies.",
+            ],
+            answer: "I will give up my studies.",
+        },
+        {
+            id: 742,
+            question:
+                "Choose the correct clause: As soon as he heard the news _______",
+            options: [
+                "he had written to me",
+                "he wrote to me",
+                "he will write to me",
+                "none of these",
+            ],
+            answer: "he wrote to me",
+        },
+        {
+            id: 743,
+            question:
+                "Choose the correct clause: You would look better, if _______",
+            options: [
+                "you cut your hair.",
+                "you are cutting your hair.",
+                "you will cut your hair.",
+                "you would have cut your hair.",
+            ],
+            answer: "you cut your hair.",
+        },
+        {
+            id: 744,
+            question:
+                "If I <u>knew</u> how to play the guitar, I <u>would play</u> it every day. Which of the following alternatives can replace the underlined parts in the above sentence to change the nature of the condition?",
+            options: [
+                "Had known, would have played.",
+                "Had known, will have played.",
+                "Had known, have played.",
+                "Had known, would play.",
+            ],
+            answer: "Had known, would have played.",
+        },
+        {
+            id: 745,
+            question:
+                "Pick out the sentence where the underlined word has been used as a verb.",
+            options: [
+                "The police were not satisfied with the <u>answer</u> of the culprit.",
+                "The <u>answer</u> was not approved by any one.",
+                "Ramesh always gives wrong <u>answer</u>.",
+                "The boy could not <u>answer</u> all the questions.",
+            ],
+            answer: "The boy could not <u>answer</u> all the questions.",
+        },
+        {
+            id: 746,
+            question:
+                "I am to seeing him tomorrow. Which of the following parts of the above sentence contains an error in it?",
+            options: ["am", "to seeing", "him", "tomorrow"],
+            answer: "to seeing",
+        },
+        {
+            id: 747,
+            question: "The drunk was very drunk. Identify the tense.",
+            options: [
+                "Simple present",
+                "Simple past",
+                "Past perfect",
+                "Present perfect",
+            ],
+            answer: "Simple past",
+        },
+        {
+            id: 748,
+            question:
+                "Choose from the alternatives, the sentence which is in perfect past tense:",
+            options: [
+                "She has been writing a letter.",
+                "She had been writing a letter.",
+                "She had written a letter.",
+                "She has written a letter.",
+            ],
+            answer: "She had written a letter.",
+        },
+        {
+            id: 749,
+            question: "Choose the correct sentence from the following:",
+            options: [
+                "The train left before we reached the station.",
+                "The train will leave before we reached the station.",
+                "The train had left before we reached the station.",
+                "The train was leaving before we reached the station.",
+            ],
+            answer: "The train had left before we reached the station.",
+        },
+        {
+            id: 750,
+            question:
+                "Choose the correct option: I _______ the child a few minutes ago.",
+            options: ["have seen", "has seen", "saw", "had seen"],
+            answer: "saw",
+        },
+        {
+            id: 751,
+            question: "Choose the correct sentence:",
+            options: [
+                "I usually play tennis on weekends.",
+                "I am usually playing tennis on weekends.",
+                "I was usually playing tennis on weekends.",
+                "None of the above",
+            ],
+            answer: "I usually play tennis on weekends.",
+        },
+        {
+            id: 752,
+            question: "Identify the grammatically correct sentence/s:",
+            options: [
+                "She leaves for London this evening.",
+                "He is having a headache.",
+                "She has finished her work an hour ago.",
+                "It has been raining heavily since two hours.",
+            ],
+            answer: ["She leaves for London this evening."],
+        },
+        {
+            id: 753,
+            question:
+                "Which of the following sentences may indicate a future event?",
+            options: [
+                "The movie starts in ten minutes.",
+                "The sample is being sent for detailed examination.",
+                "You should finish the work before you leave.",
+                "I meet them at the hotel and we start off.",
+            ],
+            answer: ["The movie starts in ten minutes."],
+        },
+        {
+            id: 754,
+            question:
+                "350 runs _______ quite a decent score. Fill in the blank with an acceptable form of the verb given below:",
+            options: ["is", "are", "are being", "was become"],
+            answer: "is",
+        },
+        {
+            id: 755,
+            question: "Mark out the incorrect sentence.",
+            options: [
+                "Barley, wheat, and rice are cereals.",
+                "There are eggs and bacon for breakfast.",
+                "Two pounds of coffee cost seven & six pence.",
+                "The radio which you gave my children works perfectly.",
+            ],
+            answer: ["There are eggs and bacon for breakfast."],
+        },
+        {
+            id: 756,
+            question:
+                "Pick out the correct fill in the blank: I did not know it until you _______",
+            options: ["speaking", "were spoken", "speak", "spoke"],
+            answer: "spoke",
+        },
+        {
+            id: 757,
+            question:
+                "Choose an appropriate form of the verb to fill in the blank: She _______ in America since 1995.",
+            options: [
+                "lives",
+                "is living",
+                "have been living",
+                "has been living",
+            ],
+            answer: "has been living",
+        },
+        {
+            id: 758,
+            question:
+                "She jumped off the bus while it _______. Choose the correct alternative from the following to fill in the blank:",
+            options: ["moved", "was moving", "had moved", "will be moving"],
+            answer: "was moving",
+        },
+        {
+            id: 759,
+            question: "Choose the correct sentence from the following:",
+            options: [
+                "If he had studied hard, he was got a first class.",
+                "If he had studied hard, he would have got a first class.",
+                "If he had studied hard, he have got a first class.",
+                "If he had studied hard, he would got a first class.",
+            ],
+            answer: "If he had studied hard, he would have got a first class.",
+        },
+        {
+            id: 760,
+            question:
+                "Which of the following sentences is correct?\n(A) If I should do wrong, he would punish me.\n(B) If I did wrong, he would punish me.",
+            options: [
+                "Only (A)",
+                "Only (B)",
+                "Both (A) and (B)",
+                "Neither (A) nor (B)",
+            ],
+            answer: "Both (A) and (B)",
+        },
+        {
+            id: 761,
+            question: "Universal truths are stated in _______",
+            options: [
+                "simple past tense",
+                "simple future tense",
+                "simple present tense",
+                "past perfect continuous tense",
+            ],
+            answer: "simple present tense",
+        },
+        {
+            id: 762,
+            question:
+                "Point out the sentence that has the correct use of tense.",
+            options: [
+                "I was getting up at 5 o'clock every morning.",
+                "I got up at 5 o'clock every morning.",
+                "I get up at 5 o'clock every morning.",
+                "I am getting up at 5 o'clock every morning.",
+            ],
+            answer: "I get up at 5 o'clock every morning.",
+        },
+        {
+            id: 763,
+            question:
+                "Choose the correct alternative to complete the sentence. How long has he been sleeping? He _______ for two hours.",
+            options: [
+                "has been sleeping",
+                "was sleeping",
+                "slept",
+                "has slept",
+            ],
+            answer: "has been sleeping",
+        },
+        {
+            id: 764,
+            question:
+                "Complete the sentence using the correct form of verb. If it _______ we shall stay at home. (rain)",
+            options: ["rains", "will rain", "would rain", "had rain"],
+            answer: "rains",
+        },
+        {
+            id: 765,
+            question:
+                "Fill in the blank with the correct word from those given below: The municipal corporation _______ the old buildings to raise a new one.",
+            options: ["changed", "destroyed", "hired", "replaced"],
+            answer: "destroyed",
+        },
+        {
+            id: 766,
+            question: "Find out the correct sentence of future Perfect Tense:",
+            options: [
+                "I will have been complete this book by the end of the year.",
+                "I will have completed this book by the end of the year.",
+                "I will have been completing this book by the end of the year.",
+                "I will be completing this book by the end of the year.",
+            ],
+            answer: "I will have completed this book by the end of the year.",
+        },
+        {
+            id: 767,
+            question:
+                "Choose the correct alternative from the following to fill in the blank: I met Renu after I _______ my work.",
+            options: [
+                "finished",
+                "have finished",
+                "will have finished",
+                "had finished",
+            ],
+            answer: "had finished",
+        },
+        {
+            id: 768,
+            question:
+                "Choose the correct alternative from the following to fill in the blank: When I reached his house, he _______ a letter.",
+            options: [
+                "was writing",
+                "had written",
+                "is writing",
+                "has been writing",
+            ],
+            answer: "was writing",
+        },
+        {
+            id: 769,
+            question:
+                "Choose the correct form of verb from the following to fill in the blank: The news _______ at 7 O'clock every day.",
+            options: ["came", "come", "comes", "coming"],
+            answer: "comes",
+        },
+        {
+            id: 770,
+            question:
+                "In which of the following sentences is future tense expressed?",
+            options: [
+                "The movie begins in a little while.",
+                "Would you be kind enough to meet us after the lunch break?",
+                "He is leaving for the UK this winter.",
+                "You must take care of your studies.",
+            ],
+            answer: "The movie begins in a little while.",
+        },
+        {
+            id: 771,
+            question: "Choose the incorrect sentence/s:",
+            options: [
+                "When did you come back from Delhi?",
+                "I have passed the B.A. degree examination in 1968.",
+                "I passed the B.A. degree examination in 1968.",
+            ],
+            answer: "I have passed the B.A. degree examination in 1968.",
+        },
+        {
+            id: 772,
+            question:
+                "Which of the following sentences may indicate a future event?",
+            options: [
+                "The show starts in a little while.",
+                "He is being sent to the U.K. for further studies.",
+                "They should report to the police immediately.",
+                "We meet for a quick lunch and we start off.",
+            ],
+            answer: "The show starts in a little while.",
+        },
+        {
+            id: 773,
+            question:
+                "Had they _______ (be) properly instructed, they would have _______ (shut) the windows. Use appropriate forms of the verbs in the bracket.",
+            options: [
+                "were, shut",
+                "being, shut",
+                "been, shut",
+                "been, shutting",
+            ],
+            answer: "been, shut",
+        },
+        {
+            id: 774,
+            question:
+                "Choose the correct option to fill in the blank: If you make a promise, you must be sure to _______ it.",
+            options: ["accomplish", "keep", "follow", "succeed"],
+            answer: "keep",
+        },
+        {
+            id: 775,
+            question:
+                "Choose a suitable verb form: The train _______ at 6.30 p.m. every day.",
+            options: ["arrives", "will arrive", "arriving", "would arrive"],
+            answer: "arrives",
+        },
+        {
+            id: 776,
+            question:
+                "Choose the right option: When I was a student, I _______ visit the library frequently.",
+            options: ["would", "used to", "could", "none of these"],
+            answer: "used to",
+        },
+        {
+            id: 777,
+            question:
+                "Choose the correct alternative for the underlined word. I <u>am</u> the Secretary of the Sports Club since its formation five years ago.",
+            options: ["was", "have been", "had been", "no improvement."],
+            answer: "have been",
+        },
+        {
+            id: 778,
+            question:
+                "Fill in the blank with the correct word: They frequently _______ us the same old story.",
+            options: ["tale", "tail", "teal", "tell"],
+            answer: "tell",
+        },
+        {
+            id: 779,
+            question:
+                "Choose the most appropriate word for the blank in the sentence: She learned to _______ when she was eleven.",
+            options: ["sow", "so", "sew", "none of these"],
+            answer: "sew",
+        },
+        {
+            id: 780,
+            question:
+                "Choose the correct verb from the alternatives. The Headmaster _______ to speak to you.",
+            options: ["wanting", "was wanting", "wants", "is wanting"],
+            answer: "wants",
+        },
+        {
+            id: 781,
+            question:
+                "The past subjunctive is the hypothetical subjunctive. It is restricted to:",
+            options: ["Shall", "Will", "Can", "Were"],
+            answer: "Were",
+        },
+        {
+            id: 782,
+            question:
+                "Choose the correct option to fill the blank in the sentence. If _______ late, my boss will fire me.",
+            options: ["I was", "I is", "I fall", "I am"],
+            answer: "I am",
+        },
+        {
+            id: 783,
+            question:
+                "Fill in the blank with the suitable verb form: The dish _______ tasty, if a little less sugar was used in it. (be)",
+            options: ["is", "were", "was", "are"],
+            answer: "is",
+        },
+        {
+            id: 784,
+            question:
+                "Choose the correct form of a verb from the following to fill in the blank: Either my brother or sister taken my pencil.",
+            options: ["has", "have", "have to", "has to"],
+            answer: "has",
+        },
+        {
+            id: 785,
+            question:
+                "We shouted several times, but there _______ no answer. Choose the proper option to fill in the blank.",
+            options: ["is", "are", "was", "were"],
+            answer: "was",
+        },
+        {
+            id: 786,
+            question:
+                "Use the correct form of the verbs given in the brackets: Tell him to bring his bicycle inside. If he (leave) it outside, someone (steal) it.",
+            options: [
+                "leaves and may steal",
+                "will leave and may steal",
+                "left and might steal",
+                "had left and would have stolen",
+            ],
+            answer: "leaves and may steal",
+        },
+        {
+            id: 787,
+            question:
+                "Identify the unit in which there is an error: A group of yachts (a) with brightly coloured banners flying in the wind (b) are entering the harbour. (c)",
+            options: ["Only (a)", "Only (b)", "Only (c)", "No error"],
+            answer: "Only (c)",
+        },
+        {
+            id: 788,
+            question: "Identify the correct sentence/s:",
+            options: [
+                "Fish and chips is not my favourite meal.",
+                "Pen and ink has been displaced by the ballpoint.",
+                "Bread and water was the vagrant’s staple diet in prison.",
+            ],
+            answer: "Fish and chips is not my favourite meal.",
+        },
+        {
+            id: 789,
+            question:
+                "Which of the following statements is/are grammatically correct?",
+            options: [
+                "I leave for office in the next ten minutes.",
+                "He is having many books in his personal library.",
+                "She has met her son's teacher yesterday.",
+                "They have been living in Mumbai since 15 years.",
+            ],
+            answer: "I leave for office in the next ten minutes.",
+        },
+        {
+            id: 790,
+            question:
+                "Fill in the blank with the right form of the verb given in the brackets. The long festering issue of domestic helpers who are employed by the native Arabs _______ (create) a lot of animus among the two communities.",
+            options: ["are creating", "were creating", "create", "has created"],
+            answer: "has created",
+        },
+        {
+            id: 791,
+            question:
+                "If you _______ (trust) me, you would have given me the keys. Fill the blank with the appropriate tense form of the verb given in the brackets.",
+            options: [
+                "trusted",
+                "would have trusted",
+                "had trusted",
+                "would trust",
+            ],
+            answer: "had trusted",
+        },
+        {
+            id: 792,
+            question:
+                "Fill in the blank space with the correct form of the verb given in the brackets: Had she seen him, she _______ (like) him.",
+            options: [
+                "may have liked",
+                "would like",
+                "would have liked",
+                "should have liked",
+            ],
+            answer: "would have liked",
+        },
+        {
+            id: 793,
+            question:
+                "If I _______ the race, I would have been congratulated by all. Select the correct alternative to complete the sentence.",
+            options: ["win", "won", "have won", "had won"],
+            answer: "had won",
+        },
+        {
+            id: 794,
+            question:
+                "Which part of the sentence below contains an error? I never remember (a) to have (b) met this gentleman in Baroda. (c) No error (d)",
+            options: ["a", "b", "c", "d"],
+            answer: "b",
+        },
+        {
+            id: 795,
+            question:
+                "The population of the world _______ very fast. Fill in the blank with an acceptable form of the verb given below:",
+            options: ["rises", "has risen", "is rising", "has been risen"],
+            answer: "is rising",
+        },
+        {
+            id: 796,
+            question:
+                "The ancient Greeks _______ more by conversation with teachers than from books. Complete the sentence choosing the correct alternative.",
+            options: ["study", "have studied", "studied", "had studied"],
+            answer: "studied",
+        },
+        {
+            id: 797,
+            question:
+                "The boys fled in great haste, for they _______ a snake. Complete the sentence choosing the correct alternative.",
+            options: ["have seen", "have been", "saw", "had seen"],
+            answer: "had seen",
+        },
+        {
+            id: 798,
+            question:
+                "Which of the following sentences are grammatically correct?",
+            options: [
+                "The judge ordered that the accused be sent for a medical examination.",
+                "Had I your intelligence, I would have gone abroad.",
+                "Talk.",
+                "If he was innocent, he would not have run away.",
+            ],
+            answer: "The judge ordered that the accused be sent for a medical examination.",
+        },
+        {
+            id: 799,
+            question: "Identify the grammatically correct sentences:",
+            options: [
+                "Except for her eyes, none of her features is remarkable.",
+                "Except for her eyes, none of her features are remarkable.",
+                "Except for her eyes, none of her features was remarkable.",
+                "Except for her eyes, none of her features were remarkable.",
+            ],
+            answer: "Except for her eyes, none of her features is remarkable.",
+        },
+        {
+            id: 800,
+            question:
+                "Choose the option to fill in the blank in the following sentence. Radha _______ six pillow-cases since seven O’clock this morning.",
+            options: [
+                "was making",
+                "is making",
+                "has made",
+                "none of the above",
+            ],
+            answer: "has made",
+        },
+        {
+            id: 801,
+            question:
+                "Choose the correct alternative from those given below: He will win the race if he _______ running regularly.",
+            options: [
+                "practises",
+                "would practise",
+                "will practise",
+                "were to practise",
+            ],
+            answer: "practises",
+        },
+        {
+            id: 802,
+            question:
+                "I am certain <u>of giving</u> you satisfaction. Select the correct alternative that could replace the phrase underlined.",
+            options: [
+                "that I shall give",
+                "that I give",
+                "that I might give",
+                "about giving",
+            ],
+            answer: "that I shall give",
+        },
+        {
+            id: 803,
+            question: "Identify incorrect sentence/s.",
+            options: [
+                "a) Don't fail coming to the meeting.",
+                "b) Have you decided to marry him?",
+                "c) We must avoid to smoke.",
+            ],
+            answer: "a and c only",
+        },
+        {
+            id: 804,
+            question:
+                "Fill in the blank with appropriate tense form. He _______ since 8 o'clock in the morning.",
+            options: [
+                "has been sleeping",
+                "is sleeping",
+                "was sleeping",
+                "had slept",
+            ],
+            answer: "has been sleeping",
+        },
+        {
+            id: 805,
+            question:
+                "Fill in the blank with the answer options given below: Either the children or the milkman _______ knocking at the door.",
+            options: ["are", "is", "were", "have"],
+            answer: "is",
+        },
+        {
+            id: 806,
+            question:
+                "Spot the incorrect sentence where misrelated participle has been used.",
+            options: [
+                "a) After waiting in the queue for ten minutes the bus arrived completely full.",
+                "b) After we had been waiting in the queue for ten minutes the bus arrived completely full.",
+            ],
+            answer: "Only a",
+        },
+        {
+            id: 807,
+            question:
+                "In which of the following sentences does the subject agree correctly with the verb?",
+            options: [
+                "The cat, unlike dogs, has soft paws.",
+                "The cat, unlike dogs, have soft paws.",
+                "The cat, unlike dogs, is having soft paws.",
+                "The cat, unlike dugs, had soft paws.",
+            ],
+            answer: "The cat, unlike dogs, has soft paws.",
+        },
+        {
+            id: 808,
+            question: "Choose the correct sentences.",
+            options: [
+                "a) Hoping for good news, we telephoned the hospital.",
+                "b) Distracted by the noise, our driver was taken the wrong road.",
+                "c) The mechanics started to repairing the engine.",
+            ],
+            answer: "a only",
+        },
+        {
+            id: 809,
+            question: "Identify the correct sentence/s.",
+            options: [
+                "a) I am not understanding this letter.",
+                "b) She arrived at the theatre at 6 pm but the film had already started.",
+                "c) If I get any news, I'll tell you.",
+            ],
+            answer: "b and c only",
+        },
+        {
+            id: 810,
+            question: "Identify the correct sentence/s.",
+            options: [
+                "a) Kapil has been playing cricket for several years.",
+                "b) After depositing the fee to the hostel the boys went.",
+                "c) These girls have been singing nicely.",
+                "d) He is now playing a match.",
+            ],
+            answer: "Only a and c",
+        },
+        {
+            id: 811,
+            question:
+                "Choose the correct alternatives to fill in the blanks in the given sentences.",
+            options: [
+                "a. I have spoken to him on the subject many times.",
+                "b. I have been speaking to him for ten minutes.",
+            ],
+            answer: "Have, have been",
+        },
+        {
+            id: 812,
+            question:
+                "Fill the blanks from the options given below. It _______ already _______ raining when I _______ an umbrella.",
+            options: [
+                "stopped, brought, had",
+                "had, brought, stopped",
+                "brought, stopped, had",
+                "had, stopped, brought",
+            ],
+            answer: "had, stopped, brought",
+        },
+        {
+            id: 813,
+            question:
+                "Choose the correct option to fill in the blank: My eyes are aching now because I _______ since morning.",
+            options: ["am reading", "have read", "have been reading", "read"],
+            answer: "have been reading",
+        },
+        {
+            id: 814,
+            question: "Choose the correct sentence/s.",
+            options: [
+                "a) We too have been wanting to see you.",
+                "b) We too have wanting to see you.",
+                "c) I haven’t been seeing such a lovely place.",
+            ],
+            answer: "a only",
+        },
+        {
+            id: 815,
+            question:
+                "We <u>are going</u> to discuss all the issues in detail. The underlined expression in the sentence above reveals _______.",
+            options: [
+                "definite future",
+                "immediate future",
+                "remote future",
+                "possible future",
+            ],
+            answer: "definite future",
+        },
+        {
+            id: 816,
+            question: "Identify the sentence/s grammatically incorrect.",
+            options: [
+                "a) Raju completes his course next year.",
+                "b) We have just eaten two mangoes.",
+                "c) I have studied this topic for three hours.",
+            ],
+            answer: "Only a",
+        },
+        {
+            id: 817,
+            question: "Identify the sentence grammatically correct:",
+            options: [
+                "1) We knew that India would win the match.",
+                "2) We knew that India will win the match.",
+                "3) We know that India would win the match.",
+                "4) We knew that India can win the match.",
+            ],
+            answer: "We knew that India would win the match.",
+        },
+        {
+            id: 818,
+            question:
+                "The following sentence has an error, correct it by choosing an appropriate alternative: 'She is sitting in the library since 3 O' clock.'",
+            options: [
+                "She was sitting in the library since 3 O' clock.",
+                "She had been sitting in the library since 3 O' clock.",
+                "She has been sitting in the library since 3 O' clock.",
+                "She is sitting in the library for 3 O' clock.",
+            ],
+            answer: "She has been sitting in the library since 3 O' clock.",
+        },
+        {
+            id: 819,
+            question:
+                "Fill in the blank with the correct form of the tense given in bracket. Reena did not go to school yesterday as she _______ (finish) her homework.",
+            options: [
+                "had not finished",
+                "have not finished",
+                "has not finished",
+                "will not finished",
+            ],
+            answer: "had not finished",
+        },
+        {
+            id: 820,
+            question: "Choose the correct sentences:",
+            options: [
+                "a) If it rains, we’ll cancel the match.",
+                "b) If it rained, we’d cancel the match.",
+                "c) If it will rain, we’ll cancel the match.",
+            ],
+            answer: "(a) and (b) only",
+        },
+        {
+            id: 821,
+            question: "Which of the following sentence/s is/are correct:",
+            options: [
+                "(a) If I had known that you were coming, I have met you at the airport.",
+                "(b) If I had known that you were coming, I have meet you at the airport.",
+                "(c) If I had known that you were coming, I would have met you at the airport.",
+                "(d) If I had known that you were coming, I would have meet you at the airport.",
+            ],
+            answer: "(c) and (a)",
+        },
+        {
+            id: 822,
+            question: "Fill in the blanks:",
+            options: [
+                "study, bought, ask",
+                "study, bought, asked",
+                "studying, buy, had asked",
+                "studied, buy, had asked",
+            ],
+            answer: "studied, buy, had asked",
+        },
+        {
+            id: 823,
+            question: "Identify the correct sentence.",
+            options: [
+                "a) It was sure that I had met him before.",
+                "b) On my last visit to Wixton I found that the village didn’t change much.",
+                "c) She admitted that she has stolen the watch.",
+            ],
+            answer: "Only (b)",
+        },
+        {
+            id: 824,
+            question:
+                "Use the correct tense form of the given verb: Look, there she _______ (come)!",
+            options: ["coming", "is coming", "comes", "has been coming"],
+            answer: "is coming",
+        },
+        {
+            id: 825,
+            question:
+                "If he has time, <u>he would telephone.</u> Which one of the following sentences corrects the underlined main clause in the sentence above?",
+            options: [
+                "If he has time, he should telephone.",
+                "If he has time, he will telephone.",
+                "If he has time, he shall telephone.",
+                "If he has time, he has to telephone.",
+            ],
+            answer: "If he has time, he will telephone.",
+        },
+        {
+            id: 826,
+            question:
+                "The barber has cut my hair very short. Identify the correct progressive future tense form of the above sentence.",
+            options: [
+                "The barber is cutting my hair very short.",
+                "The barber will have cut my hair very short.",
+                "The barber will be cutting my hair very short.",
+                "The barber had cut my hair very short.",
+            ],
+            answer: "The barber will be cutting my hair very short.",
+        },
+        {
+            id: 827,
+            question: "Choose the correct sentences/s:",
+            options: [
+                "a) We have lived in the village since 1987.",
+                "b) We have been living in the village since 1987.",
+                "c) We are living in the village since 1987.",
+            ],
+            answer: "both a and b",
+        },
+        {
+            id: 828,
+            question:
+                "Study the following statement/s and answer: Tense is the form of the verb used to indicate _______.",
+            options: [
+                "only a is true",
+                "only b is true",
+                "only c is true",
+                "all statements a, b, and c are true",
+            ],
+            answer: "all statements a, b, and c are true",
+        },
+        {
+            id: 829,
+            question:
+                "'She <u>works</u> in Mumbai' In the above sentence, the underlined word denotes _______",
+            options: [
+                "present state",
+                "present habit",
+                "temporary present",
+                "temporary habit",
+            ],
+            answer: "present habit",
+        },
+        {
+            id: 830,
+            question: "Which of the sentences are correct?",
+            options: [
+                "a) If a bear embraced you, you are crushed to death.",
+                "b) If he asked me, I should marry him.",
+                "c) We shall be excited if we let our imaginations run away with what might have happened?",
+            ],
+            answer: "a and b only",
+        },
+        {
+            id: 831,
+            question:
+                "We have lived in this house since 1952. The use of perfect tense in the above sentence is called _______",
+            options: [
+                "the resultative use",
+                "the perfect of experience",
+                "the continuative use",
+                "the inclusive use",
+            ],
+            answer: "the continuative use",
+        },
+        {
+            id: 832,
+            question:
+                "a. She got up when the alarm clock went off. b. We visited Spain three times last year. Choose the correct sentence from the options given above.",
+            options: [
+                "Both the sentences are incorrect",
+                "Only a is correct",
+                "Only b is correct",
+                "Both the sentences are correct",
+            ],
+            answer: "Both the sentences are correct",
+        },
+        {
+            id: 833,
+            question: "Which of the following sentence/s is/are correct?",
+            options: [
+                "If we had found him earlier we have to save his life.",
+                "If we had found him earlier we might have saved",
+                "If we have found him earlier we might save his life.",
+                "If we will find him earlier we may have saved his life.",
+            ],
+            answer: "If we had found him earlier we might have saved",
+        },
+        {
+            id: 834,
+            question: "Choose the correct sentence:",
+            options: [
+                "The costs of all necessaries has gone up.",
+                "The cost of all necessaries has gone up.",
+                "The cost of all necessaries have gone up.",
+                "The costs of all necessaries have went up.",
+            ],
+            answer: "The cost of all necessaries has gone up.",
+        },
+        {
+            id: 835,
+            question: "Choose the correct sentence.",
+            options: [
+                "She wishes the car belonged to you.",
+                "She wished the car belongs to you.",
+                "She is wishing the car belonged to you.",
+                "She wishes the car is belonging to you.",
+            ],
+            answer: "She wishes the car belonged to you.",
+        },
+        {
+            id: 836,
+            question: "Identify the correct sentence/s:",
+            options: [
+                "The Machine Gunners was one of Robert Westall’s most successful books.",
+                "Among the people invited was the mayor.",
+                "They have been playing since four O’clock.",
+            ],
+            answer: "(b) and (c)",
+        },
+        {
+            id: 837,
+            question: "Point out the incorrect sentence.",
+            options: [
+                "Neither Indian or Pakistan is guilty of enmity that operates at the unconscious level of mind.",
+                "Ninety kilometers is a long distance for a bicycle ride.",
+                "Your daughter and mine are quarrelling at the garden.",
+                "Corrupt political leaders shed crocodile tears on the death of a good citizen.",
+            ],
+            answer: "Your daughter and mine are quarrelling at the garden.",
+        },
+        {
+            id: 838,
+            question: "Choose the sentence/s incorrect",
+            options: [
+                "I have not played cricket since I have left college.",
+                "I have not played cricket since I left college.",
+            ],
+            answer: "I have not played cricket since I have left college.",
+        },
+        {
+            id: 839,
+            question:
+                "We _______ our hotel before it started raining. Which one of the following verb forms expresses the active in Past Perfect in the sentence above?",
+            options: [
+                "reached",
+                "had reached",
+                "were reaching",
+                "tries to reach",
+            ],
+            answer: "had reached",
+        },
+        {
+            id: 840,
+            question:
+                "a) They are preparing lessons for the ensuing examinations. b) Ranjan is doing this important work for the last five days. c) The examinees stopped writing when the invigilator entered the hall. Identify the sentence/s grammatically correct.",
+            options: [
+                "Only (a) and (b)",
+                "Only (b) and (c)",
+                "Only (b)",
+                "Only (a)",
+            ],
+            answer: "Only (a)",
+        },
+        {
+            id: 841,
+            question:
+                "He worked hard that he might pass the examination. Choose the correct simple sentence form of the above sentence.",
+            options: [
+                "He worked hard and passed the examination.",
+                "He worked hard to pass the examination.",
+                "He worked hard so that he could pass the examination.",
+                "If you work hard you may pass the examination.",
+            ],
+            answer: "He worked hard so that he could pass the examination.",
+        },
+        {
+            id: 842,
+            question:
+                "Identify underlined tense form in the given example: e.g. The train will have left by the time you reach the station.",
+            options: [
+                "simple future",
+                "past perfect",
+                "future perfect",
+                "present perfect",
+            ],
+            answer: "future perfect",
+        },
+        {
+            id: 843,
+            question:
+                "a) If we had acted wisely there would have been no partition. b) When the Sun rises birds came out of their nests. c) If he had strength he could have carried his luggage. d) The college bell rings when it strikes ten. Identify the grammatically correct sentence/s.",
+            options: [
+                "Only (a) and (d)",
+                "Only (b) and (d)",
+                "Only (a) and (c)",
+                "Only (b)",
+            ],
+            answer: "Only (a) and (d)",
+        },
+        {
+            id: 844,
+            question:
+                "a) This passenger train is about to leave the station. b) This passenger train is on the point of leaving the station. c) This passenger train is going to leave the station. d) This passenger train might leave the station soon. All the above sentences express the action in the _______",
+            options: [
+                "Simple present tense",
+                "Continuous present tense",
+                "Perfect future tense",
+                "Simple future tense",
+            ],
+            answer: "Simple future tense",
+        },
+
+        {
+            id: 845,
+            question:
+                "Tick mark affirmative sentence of the following. He is not your enemy.",
+            options: [
+                "He is your friend.",
+                "He is your enemy.",
+                "He is not your friend.",
+                "none",
+            ],
+            answer: "He is your friend.",
+        },
+        {
+            id: 846,
+            question: "Choose the imperative sentence from the options.",
+            options: [
+                "Don’t you spit here please?",
+                "You fire!",
+                "Please, you start writing from here",
+                "Stand up on the desk.",
+            ],
+            answer: "Stand up on the desk.",
+        },
+        {
+            id: 847,
+            question: "Which of the following is an imperative mood?",
+            options: [
+                "He made it difficult.",
+                "Have you written a letter?",
+                "I wish I were a doctor.",
+                "Have mercy upon us.",
+            ],
+            answer: "Have mercy upon us.",
+        },
+        {
+            id: 848,
+            question: "People are really good at heart. Make interrogative.",
+            options: [
+                "People are really good.",
+                "How a good at heart people are!",
+                "People are not good at heart.",
+                "Aren’t people really good at heart?",
+            ],
+            answer: "Aren’t people really good at heart?",
+        },
+        {
+            id: 849,
+            question:
+                '"Rajan will meet Umesh at the shop in the evening to deliver the message." Which "Wh word should the question begin with to get the underlined word as answer?',
+            options: ["Who", "Whom", "Where", "Why"],
+            answer: "Whom",
+        },
+        {
+            id: 850,
+            question:
+                "Choose the correct alternative : _______ so many books? How are you going to read them?",
+            options: [
+                "Need you to buy",
+                "Need you buy",
+                "Must you need buy",
+                "Need you have to buy",
+            ],
+            answer: "Need you buy",
+        },
+        {
+            id: 851,
+            question:
+                "Read the answer options and recognise the type of sentence given : Let him be taken away.",
+            options: [
+                "Active - Imperative",
+                "Active - Exclamatory",
+                "Passive - Statement",
+                "Passive - Imperative",
+            ],
+            answer: "Passive - Imperative",
+        },
+        {
+            id: 852,
+            question:
+                "‘How tall you have grown!” What kind of sentence is this?",
+            options: [
+                "Declarative",
+                "Interrogative",
+                "Imperative",
+                "Exclamatory",
+            ],
+            answer: "Exclamatory",
+        },
+        {
+            id: 853,
+            question:
+                "“What piece of work is man!” Identify the type of the sentence correctly.",
+            options: [
+                "Wonderful",
+                "Interrogative",
+                "Affirmative",
+                "Exclamatory",
+            ],
+            answer: "Exclamatory",
+        },
+        {
+            id: 854,
+            question:
+                "What is your father? Choose the suitable answer from the following as per the sense of the question.",
+            options: [
+                "My father is Mr. X.Y. Patil.",
+                "My father is a professor.",
+                "My father is tall.",
+                "My father is very poor.",
+            ],
+            answer: "My father is a professor.",
+        },
+        {
+            id: 855,
+            question: "Imperative sentences are used to _______",
+            options: [
+                "express wonder / fear",
+                "make a request",
+                "ask a question",
+                "issue a command / an order",
+            ],
+            answer: "issue a command / an order",
+        },
+        {
+            id: 856,
+            question: "Which of the question is/are correctly framed?",
+            options: [
+                "Why they are talking so loudly?",
+                "Who is she going to marry?",
+                "Who she is going to marry?",
+            ],
+            answer: "Who is she going to marry?",
+        },
+        {
+            id: 857,
+            question:
+                "What would be the right question for getting the underlined word as answer? Rahul told Saurav to meet him at the station in the evening.",
+            options: [
+                "What did Rahul tell Saurav?",
+                "Who did Rahul want to meet?",
+                "Whom did Rahul talk to?",
+                "Who did Rahul talk to?",
+            ],
+            answer: "Who did Rahul talk to?",
+        },
+        {
+            id: 858,
+            question:
+                "Identify the kind of sentence given below : She must weep or she will die.",
+            options: [
+                "Simple sentence",
+                "Command sentence",
+                "Complex sentence",
+                "Compound sentence",
+            ],
+            answer: "Compound sentence",
+        },
+        {
+            id: 859,
+            question: "Identify incorrect sentence/s.",
+            options: [
+                "We may have some coffee?",
+                "Please, you may post this letter for me?",
+                "You may take off your hat, I can't see the screen.",
+            ],
+            answer: "We may have some coffee?",
+        },
+        {
+            id: 860,
+            question:
+                "Please vote for the member _______ has done the most for our village. Select from the choices the best group of words (phrase) to make the sentence grammatically correct.",
+            options: [
+                "whom you believe",
+                "who you believed",
+                "that you believe",
+                "who you believe",
+            ],
+            answer: "who you believe",
+        },
+        {
+            id: 861,
+            question: "Choose the correct sentence/s.",
+            options: [
+                "The lecturer could not understand the question.",
+                "I could get my B.A. degree although I got ill two weeks before the examination.",
+                "I was able to get my B.A. degree although I got ill two weeks before the examination.",
+            ],
+            answer: "The lecturer could not understand the question.",
+        },
+        {
+            id: 862,
+            question: "Kindly help me. The above sentence is:",
+            options: [
+                "Assertive",
+                "Imperative",
+                "Interrogative",
+                "Exclamatory",
+            ],
+            answer: "Imperative",
+        },
+        {
+            id: 863,
+            question:
+                "Identify the option closest in meaning to the sentence given below : I request that meeting should be postponed.",
+            options: [
+                "I request to postpone the meeting",
+                "I request postponement of the meeting.",
+                "I requested to postpone the meeting.",
+                "I requested postponement of the meeting.",
+            ],
+            answer: "I request postponement of the meeting.",
+        },
+        {
+            id: 864,
+            question: "Identify the sentence(s) in imperative mood:",
+            options: ["God bless you.", "Long live the king.", "Hurry up!"],
+            answer: "Hurry up!",
+        },
+        {
+            id: 865,
+            question: "Identify the correct sentence.",
+            options: [
+                "John looks good before he leaps.",
+                "John looks well before he leaps.",
+            ],
+            answer: "John looks good before he leaps.",
+        },
+        {
+            id: 866,
+            question:
+                "Keep to the left. The imperative structure above expresses _______",
+            options: ["a command", "a solemn advice", "a prayer", "a petition"],
+            answer: "a command",
+        },
+        {
+            id: 867,
+            question:
+                "Which of the following is an example of a statement expressing imperative mood?",
+            options: [
+                "We are taught Sanskrit",
+                "The child is alive.",
+                "He walks as though he were drunk.",
+                "Give us this day our daily bread.",
+            ],
+            answer: "Give us this day our daily bread.",
+        },
+        {
+            id: 868,
+            question:
+                "He said, “I shall go there today.’ Change this sentence into the indirect form.",
+            options: [
+                "He said that he should go there that day.",
+                "He said that he would go there that day.",
+                "He said that he should go there today.",
+                "He said that he would go there today.",
+            ],
+            answer: "He said that he would go there that day.",
+        },
+        {
+            id: 869,
+            question:
+                "He said, “The man has been coming.” The correct indirect narration is _______",
+            options: [
+                "He said the man was coming.",
+                "He said that the man had been coming.",
+                "He said that the man have been coming.",
+                "He told that the man has been coming.",
+            ],
+            answer: "He said that the man had been coming.",
+        },
+        {
+            id: 870,
+            question:
+                "Change the following into indirect speech. He says, “It is a fine day”",
+            options: [
+                "He said it is a fine day.",
+                "He said that it was a fine day.",
+                "He says that it was a fine day.",
+                "He says that it is a fine day.",
+            ],
+            answer: "He says that it is a fine day.",
+        },
+        {
+            id: 871,
+            question:
+                "Choose the correct alternative of Reported speech. Rahul said, 'I go home every day'.",
+            options: [
+                "Rahul pleaded he goes home every day.",
+                "Rahul exclaimed he would go home every day.",
+                "Rahul shouted he has to go home every day.",
+                "Rahul said that he went home every day.",
+            ],
+            answer: "Rahul said that he went home every day.",
+        },
+        {
+            id: 872,
+            question:
+                "Choose the correct reported speech of the following sentence : He said, 'I can write a book on grammar.'",
+            options: [
+                "He said that he can write a book on grammar.",
+                "He said that he wrote a book on grammar.",
+                "He said that he will be writing a book on grammar.",
+                "He said that he could write a book on grammar.",
+            ],
+            answer: "He said that he could write a book on grammar.",
+        },
+        {
+            id: 873,
+            question:
+                "Ram says, 'I will not go’. 'Which of the following options would represent the above sentence in indirect narration?",
+            options: [
+                "Ram says that he will not go.",
+                "Ram says that he won’t go.",
+                "Ram said that he will not go.",
+                "Ram said that he would not go.",
+            ],
+            answer: "Ram says that he will not go.",
+        },
+        {
+            id: 874,
+            question:
+                "Choose the correct indirect form from the given alternatives : Neha said, 'virtue is its own reward.'",
+            options: [
+                "Neha said that virtue was its own reward.",
+                "Neha said that virtue is its own reward.",
+                "Neha said that virtue will be its own reward.",
+                "Neha said that virtue has been its own reward.",
+            ],
+            answer: "Neha said that virtue is its own reward.",
+        },
+        {
+            id: 875,
+            question:
+                "'Mr. Joshi', she said, 'this is Mr. Varma. Mr.Varma, Mr. Joshi'. Put into indirect speech, the sentences should be:",
+            options: [
+                "She introduced Mr. Joshi and Mr. Varma to each other.",
+                "She said Mr. Joshi that that was Mr. Varma., She said Mr. Varma that Mr. Joshi.",
+                "She told Mr. Joshi that that was Mr. Varma. She told Mr. Varma that Mr. Joshi.",
+                "She told Mr. Joshi that that was Mr. Varma. She told Mr. Varma that that was Mr. Joshi.",
+            ],
+            answer: "She introduced Mr. Joshi and Mr. Varma to each other.",
+        },
+        {
+            id: 876,
+            question:
+                "'Eek! There's a fly in the soup, Waiter!' screamed Sarita. Put into indirect speech, the sentence should be:",
+            options: [
+                "Sarita screamed that eek, there was a fly in “the soup. She added waiter.",
+                "Sarita screamed at the waiter that there was a fly in the soup.",
+                "Sarita saw a fly in her soup and screamed for the waiter.",
+                "Sarita saw a fly in the soup and screamed at the waiter.",
+            ],
+            answer: "Sarita screamed at the waiter that there was a fly in the soup.",
+        },
+        {
+            id: 877,
+            question:
+                "Choose the correct option and change the following into indirect speech. He said, 'I have read this novel.'",
+            options: [
+                "He said that he had read that novel.",
+                "He said that he red this novel.",
+                "He said that he has read this novel.",
+                "He said that he had been reading this novel.",
+            ],
+            answer: "He said that he had read that novel.",
+        },
+        {
+            id: 878,
+            question:
+                "Rewrite the following as reported speech : 'You woke everyone up last night,' said my mother. 'You must try to be quieter tonight.'",
+            options: [
+                "My mother said that we had woken everyone up the previous night, and that we must try to be quieter the next night.",
+                "My mother told that we had woken everyone up the previous night, and that we must try to be quieter that night.",
+                "My mother told to me that we had woken everyone up the previous night, and that we must try to be quieter that night.",
+                "My mother said that we had woken everyone up the previous night, and that we must try to be quieter that night.",
+            ],
+            answer: "My mother said that we had woken everyone up the previous night, and that we must try to be quieter that night.",
+        },
+        {
+            id: 879,
+            question:
+                "You said to her, 'I have called my friends.' Select the correct indirect narration of the above sentence.",
+            options: [
+                "You said to her that I have called my friends.",
+                "You told to her that I had called my friends.",
+                "You told her that you have called my friends.",
+                "You told her that you had called your friends.",
+            ],
+            answer: "You told her that you had called your friends.",
+        },
+        {
+            id: 880,
+            question:
+                "Convert the sentence into indirect speech : The prince said, 'It gives me great pleasure to be here this evening.'",
+            options: [
+                "The prince says, that it gives him great pleasure to be here that evening.",
+                "The prince said that it gave him great pleasure to be there that evening.",
+                "The prince said, that it gave him great pleasure to be there that evening.",
+                "The prince said that it gives him great pleasure to be there that evening.",
+            ],
+            answer: "The prince said that it gave him great pleasure to be there that evening.",
+        },
+        {
+            id: 881,
+            question:
+                "The following sentences are on the same theme, but only one sentence is grammatically correct. Choose the correct sentence.",
+            options: [
+                "The students were taught that the earth moved round the sun.",
+                "The students were taught that the earth is moving round the sun.",
+                "The students were taught that the earth moves around the sun.",
+                "The students were taught that the earth would move round the sun.",
+            ],
+            answer: "The students were taught that the earth moves around the sun.",
+        },
+        {
+            id: 882,
+            question:
+                "Change the following into indirect speech : She said to him, 'I know you.'",
+            options: [
+                "She said to him that I knew him.",
+                "She said to him that she knew me.",
+                "She said to him that she knew him.",
+                "She said to him that she knows him.",
+            ],
+            answer: "She said to him that she knew him.",
+        },
+        {
+            id: 883,
+            question:
+                "The sun rises in the east,” he said. Which of the following sentence/s /is / are correct indirect narration of the above sentence:",
+            options: [
+                "He told me that the sun rises in the east.",
+                "He told me that the sun rose in the east.",
+                "He tells me that the sun rises in the east.",
+                "He tells me that the sun rose in the east.",
+            ],
+            answer: "He told me that the sun rises in the east.",
+        },
+        {
+            id: 884,
+            question:
+                "'You should take the job, Frank.' Said Lee, Select the most appropriate indirect narration of the above sentence.",
+            options: [
+                "Lee said that Frank should take the job.",
+                "Lee suggested that Frank should take the job.",
+                "Lee encouraged Frank to take the job.",
+                "Lee said to Frank that he should have taken the job.",
+            ],
+            answer: "Lee encouraged Frank to take the job.",
+        },
+        {
+            id: 885,
+            question:
+                "Change the following sentence into indirect speech : He said, 'The horse died in the night.'",
+            options: [
+                "He said that the horse died in the night.",
+                "He says that the horse died in the night.",
+                "He said that the horse was died in the night.",
+                "He said that the horse had died in the night.",
+            ],
+            answer: "He said that the horse had died in the night.",
+        },
+        {
+            id: 886,
+            question:
+                "Choose the correct indirect narration of the following sentence. Hari said to him, 'I shall not come to you tomorrow.'",
+            options: [
+                "Hari told him that he would not come to him the next day.",
+                "Hari told him that he would not come to him tomorrow.",
+                "Hari told him that he would not go to him the next day.",
+                "Hari said to him that I should not go to you tomorrow.",
+            ],
+            answer: "Hari told him that he would not come to him the next day.",
+        },
+        {
+            id: 887,
+            question:
+                "Choose the correct indirect speech of the following sentence : He said, 'I was writing letters.'",
+            options: [
+                "He said that he was writing letters.",
+                "He said that he had been writing letters.",
+                "He told that he was writing letters.",
+                "He said that he had written letters.",
+            ],
+            answer: "He said that he had been writing letters.",
+        },
+        {
+            id: 888,
+            question:
+                "Jenny said: a) 'My parents are very well.' b) 'I can't come to the party tomorrow.' c) 'I don't have much free time.' d) 'I will phone you when I get back.'",
+            options: [
+                "Jenny said that her parents were very well. She said that she could not come to the party tomorrow.",
+                "Jenny said that she had no much free time. She said that she would phone you when I get back.",
+                "Jenny said that her parents were very well. She said that she had no much free time.",
+                "Jenny said that she could not come to the party tomorrow. She said that she would phone you when I get back.",
+            ],
+            answer: "Jenny said that her parents were very well. She said that she could not come to the party tomorrow.",
+        },
+        {
+            id: 889,
+            question:
+                "Identify the correct indirect expression from the following: (a) He says that I have done my duty. (b) He said that he has done his duty. (c) He said that he had done his duty. (d) He said whether he has done his duty.",
+            options: ["(a) and (b)", "Only (c)", "(b) and (d)", "Only (d)"],
+            answer: "Only (c)",
+        },
+        {
+            id: 890,
+            question:
+                "He said, 'I went to my friend’s house yesterday.' Identify the sentence written in correct indirect narration.",
+            options: [
+                "He said that he had gone to his friend’s house yesterday.",
+                "He said that he had gone to his friend’s house the day before.",
+                "He told he had went to his friend’s house the day before.",
+                "He informed that he went to his friend’s house the previous day.",
+            ],
+            answer: "He said that he had gone to his friend’s house the day before.",
+        },
+        {
+            id: 891,
+            question:
+                "Choose correct sentence in indirect speech of the given sentence. The Sub-inspector told the constable, 'You shall do extra duty for three days.'",
+            options: [
+                "The Sub-inspector told the constable You should do extra duty for three days.",
+                "The Sub-inspector told the constable that he should do extra duty for three days.",
+                "The Sub-inspector told the constable that he shall do extra duty for three days.",
+                "The Sub-inspector asked the constable that he shall do extra duty for three days.",
+            ],
+            answer: "The Sub-inspector told the constable that he should do extra duty for three days.",
+        },
+        {
+            id: 892,
+            question:
+                "Complete the following sentence. 'The watchman asked the stranger ______",
+            options: [
+                "What was he?",
+                "When he was.",
+                "Who he was.",
+                "Who was he?",
+            ],
+            answer: "Who he was.",
+        },
+        {
+            id: 893,
+            question:
+                "Select the correct Indirect form of following sentence. The teacher asked me, 'Why were you absent yesterday?'",
+            options: [
+                "The teacher said to me why I had been absent yesterday.",
+                "The teacher asked me why I was absent yesterday.",
+                "The teacher asked me why I had been absent the previous day.",
+                "The teacher asked me why I were absent the day before.",
+            ],
+            answer: "The teacher asked me why I had been absent the previous day.",
+        },
+        {
+            id: 894,
+            question:
+                "Choose the correct indirect form of given sentence. He said, 'How do you manage to finish your work always in time?'",
+            options: [
+                "He inquired how I managed to finish my work always in time.",
+                "He asked me how did I manage to finish my work always in time.",
+                "He demanded that how do I manage to finish my work always in time.",
+                "He questioned me as to how did I manage to finish my work always in time.",
+            ],
+            answer: "He inquired how I managed to finish my work always in time.",
+        },
+        {
+            id: 895,
+            question: "'Where do you live?' asked the stranger.",
+            options: [
+                "The stranger asked where do you live?",
+                "The stranger asked where do I live?",
+                "The stranger asked where I lived.",
+                "The stranger asked where he lives.",
+            ],
+            answer: "The stranger asked where I lived.",
+        },
+        {
+            id: 896,
+            question:
+                "She said to me, 'What can I do for you?' Change into indirect speech.",
+            options: [
+                "She asked me affectionately what she could do for me.",
+                "She said me that what can she do for me.",
+                "She said that what she do for me.",
+                "None.",
+            ],
+            answer: "She asked me affectionately what she could do for me.",
+        },
+        {
+            id: 897,
+            question:
+                "Change the following into indirect speech : He said to me, 'Where are you going?'",
+            options: [
+                "He told me where was I going.",
+                "He asked me that where was I going?",
+                "He asked me where I was going.",
+                "He asked to me where I was going.",
+            ],
+            answer: "He asked me where I was going.",
+        },
+        {
+            id: 898,
+            question:
+                "In indirect speech, how would the following sentence read? 'Why are you peeping through the keyhole?' I said.",
+            options: [
+                "I said, why you are peeping through the keyhole?",
+                "I said him why you have to peep through keyhole?",
+                "I asked you are peeping through keyhole why?",
+                "I asked him why he was peeping through the keyhole?",
+            ],
+            answer: "I asked him why he was peeping through the keyhole?",
+        },
+        {
+            id: 899,
+            question:
+                "Which is the correct indirect speech of the following sentence? Mohit said, 'Where did they park the car?'",
+            options: [
+                "Mohit said that where they had parked the car.",
+                "Mohit enquired where they had parked the car.",
+                "Mohit asked that where they had parked the car.",
+                "Mohit wanted to know where they had parked the car.",
+            ],
+            answer: "Mohit enquired where they had parked the car.",
+        },
+        {
+            id: 900,
+            question: "He said, 'How many books are there in the cupboard?'",
+            options: [
+                "He asked how many books were there in the cupboard.",
+                "He asked how many books are there in the cupboard.",
+                "He asked that how many books are there in the cupboard.",
+                "He asked that how many books were here in the cupboard.",
+            ],
+            answer: "He asked how many books were there in the cupboard.",
+        },
+        {
+            id: 901,
+            question:
+                "Change into Indirect Speech : She said to him, 'What is it that makes you so much stronger and braver than any other man?'",
+            options: [
+                "She asked him what it was that made him so much stronger and braver than any other man.",
+                "She asked him that what was it that made him so braver and stronger than any other man.",
+                "She said him that what was that, that made him so braver and stronger than any other man.",
+                "She stated him that what was that, that made him so braver and stronger than any other man.",
+            ],
+            answer: "She asked him what it was that made him so much stronger and braver than any other man.",
+        },
+        {
+            id: 902,
+            question:
+                "Joya said to the girl, 'Why are you crying?' Point out the correct indirect narration.",
+            options: [
+                "Joya said to the girl why she is crying.",
+                "Joya asked the girl why she was crying.",
+                "Joya inquired of the girl why was she crying.",
+                "Joya asked the girl to cry.",
+            ],
+            answer: "Joya asked the girl why she was crying.",
+        },
+        {
+            id: 903,
+            question:
+                "Point out the correct indirect narration of the following sentence : My mother said to Malati, 'Why are you nervous today?'",
+            options: [
+                "My mother asked Malati whether she was nervous yesterday.",
+                "My mother asked Malati why she nervous that day.",
+                "My mother asked Malati why she was nervous that day.",
+                "My mother asked Malati if she was nervous yesterday.",
+            ],
+            answer: "My mother asked Malati why she was nervous that day.",
+        },
+        {
+            id: 904,
+            question:
+                "He said to me, 'Why did you strike me?' Select the correct indirect narration of the above sentence.",
+            options: [
+                "He inquired to me why did I strike him.",
+                "He inquired of me why I had struck him.",
+                "He asked me why did I strike him.",
+                "He said me that why I struck him.",
+            ],
+            answer: "He inquired of me why I had struck him.",
+        },
+        {
+            id: 905,
+            question:
+                "'When shall I know the result of the test?' she asked. Select the correct indirect narration of the above sentence.",
+            options: [
+                "She asked when she would know the result of the test.",
+                "She asked when would she know the result of the test.",
+                "She asked if she would know the result of the test.",
+                "She asked whether she knew the result of the test.",
+            ],
+            answer: "She asked when she would know the result of the test.",
+        },
+        {
+            id: 906,
+            question:
+                "Choose the correct alternative to complete the sentence. 'Geeta asked Rita whether ______'",
+            options: [
+                "She is going with her for a swim.",
+                "She will be going with her for a swim.",
+                "She were going with her for a swim.",
+                "She was going with her for a swim.",
+            ],
+            answer: "She was going with her for a swim.",
+        },
+        {
+            id: 907,
+            question: "He said to him, 'Is not your name Ahmed?'",
+            options: [
+                "He asked to him if his name was Ahmed.",
+                "He questioned to him whether whose name was Ahmed.",
+                "He enquired whether his name was not Ahmed.",
+                "He asked to him if his name were Ahmed.",
+            ],
+            answer: "He enquired whether his name was not Ahmed.",
+        },
+        {
+            id: 908,
+            question: "‘Have you finished the job, David,’ asked John.",
+            options: [
+                "John asked David if he had finished the job.",
+                "John asked David why he had finished the job.",
+                "John asked David that you have finished the job.",
+                "John asked David it if has finished the job.",
+            ],
+            answer: "John asked David if he had finished the job.",
+        },
+        {
+            id: 909,
+            question:
+                "Two students asked each other about their studies and one said to another, 'Have you finished your tutorial?'",
+            options: [
+                "Two students asked each other about their studies and one asked another you had finished your work.",
+                "Two students asked each other about their studies and one asked another if he had finished his work.",
+                "Two students asked each other about their studies and one asked another had you finished your work.",
+                "Two students asked each other about their studies and one asked another if you have finished your work.",
+            ],
+            answer: "Two students asked each other about their studies and one asked another if he had finished his work.",
+        },
+        {
+            id: 910,
+            question:
+                "Which is the correct indirect narration of the following sentence? The King said to his minister, 'Are these my brave heroes?'",
+            options: [
+                "The king asked his minister if those were his brave heroes.",
+                "The king asked his minister that those were his brave heroes.",
+                "The king told his minister those were his brave heroes.",
+                "The king ordered his minister if those were his brave heroes.",
+            ],
+            answer: "The king asked his minister if those were his brave heroes.",
+        },
+        {
+            id: 911,
+            question: "I asked him, 'Do you read plays?'",
+            options: [
+                "None",
+                "I asked him whether he read plays.",
+                "I told him to read plays.",
+                "I enquired him about reading plays.",
+            ],
+            answer: "I asked him whether he read plays.",
+        },
+        {
+            id: 912,
+            question: "John asked Mary whether ______",
+            options: [
+                "she is accompanying him.",
+                "she accompanying him.",
+                "She would accompany him.",
+                "she will have been accompanying him.",
+            ],
+            answer: "She would accompany him.",
+        },
+        {
+            id: 913,
+            question:
+                "Choose the correct alternative to complete the sentence. Monica asked Ronica if ______",
+            options: [
+                "She joins the group",
+                "She will join the group",
+                "She would join the group",
+                "She should not join the group",
+            ],
+            answer: "She would join the group",
+        },
+        {
+            id: 914,
+            question:
+                "‘Could you turn the TV up?’ I said to her. This sentence could be put in reported speech as ______",
+            options: [
+                "I asked her that she should turn the TV up.",
+                "I told her if she could turn the TV up.",
+                "I asked her if she could turn the TV up.",
+                "I said her if she could turn the TV up.",
+            ],
+            answer: "I asked her if she could turn the TV up.",
+        },
+        {
+            id: 915,
+            question:
+                "Pick out the correct indirect form : Mohini told Rita, 'Did you meet Rahul at the station?'",
+            options: [
+                "Mohini asked Rita if she had met Rahul at the station.",
+                "Mohini replied Rita if she had met Rahul at the station.",
+                "Mohini told Rita if she had met Rahul at the station.",
+                "Mohini asked Rita that she had met Rahul at the station.",
+            ],
+            answer: "Mohini asked Rita if she had met Rahul at the station.",
+        },
+        {
+            id: 916,
+            question:
+                "Choose the correct alternative to complete the sentence: Rohan asked Mohan if:",
+            options: [
+                "he will accompany the parents.",
+                "he accompanies the parents.",
+                "he would accompany the parents.",
+                "he can accompany the parents.",
+            ],
+            answer: "he would accompany the parents.",
+        },
+        {
+            id: 917,
+            question:
+                "'Could you post this letter?' I said to her. Transform into indirect speech.",
+            options: [
+                "I said her if she could post that letter.",
+                "I told her if she could post that letter.",
+                "I asked her if she could post that letter.",
+                "I asked her that she should post that letter.",
+            ],
+            answer: "I asked her if she could post that letter.",
+        },
+        {
+            id: 918,
+            question:
+                "Select the correct indirect form of the sentence. He said, 'Can you swim?'",
+            options: [
+                "He asked me if I could swim.",
+                "He asked me if I can swim.",
+                "He enquired whether I swam.",
+                "He asked me if you could swim.",
+            ],
+            answer: "He asked me if I could swim.",
+        },
+        {
+            id: 919,
+            question:
+                "'Could you come to my birthday party?' said Ameya to Ajeya. Select the most correct indirect narration of the sentence.",
+            options: [
+                "Ameya asked Ajeya to come to his birthday party.",
+                "Ameya invited Ajeya to his birthday party.",
+            ],
+            answer: "Ameya invited Ajeya to his birthday party.",
+        },
+        {
+            id: 920,
+            question:
+                "The manager said to the customer, 'Have you brought the project report?' Identify the correct indirect narration of the above sentence.",
+            options: [
+                "The manager asked the customer whether he brought the project report.",
+                "The manager asked the customer whether he had brought the project report.",
+                "The manager asked the customer that if he had brought the project report.",
+                "The manager asked to the customer whether he brought the project report.",
+            ],
+            answer: "The manager asked the customer whether he had brought the project report.",
+        },
+        {
+            id: 921,
+            question:
+                "Choose the right option given below. Convert the following into indirect speech. 'Have you finished your lesson, Hari?' Said Mr. Sharma to his son.",
+            options: [
+                "Mr. Sharma said to Hari if he had finished his lesson.",
+                "Mr. Sharma said to his son Hari that have you finished your lesson.",
+                "Mr. Sharma asked his son Hari whether he had finished his lesson.",
+                "Mr. Sharma enquired of his son Hari that whether had he finished his lesson.",
+            ],
+            answer: "Mr. Sharma asked his son Hari whether he had finished his lesson.",
+        },
+        {
+            id: 922,
+            question: "I said to her, 'Will you teach me knitting?'",
+            options: [
+                "I said to her whether you teach me knitting.",
+                "I asked her whether she would teach me knitting.",
+                "I asked her that she will teach me knitting.",
+                "I told her that if she will teach me knitting.",
+            ],
+            answer: "I asked her whether she would teach me knitting.",
+        },
+        {
+            id: 923,
+            question:
+                "Select the correct alternative that transforms the following sentences into indirect narration: \ni) The student said, 'Shall we bring the book again tomorrow, sir ?'\nii) 'Come out of the building,' said the inspector.",
+            options: [
+                "a) i) The student asked the teacher if they were to bring the book again the next day. ii) The inspector ordered him to come out of the building.",
+                "b) i) The student questioned the teacher if they shall bring the book again the next day. ii) The inspector begged him to come out of the building.",
+                "c) i) The student questioned the teacher whether to bring the book again tomorrow. ii) The inspector invited him to come out of the building.",
+            ],
+            answer: "Only a",
+        },
+        {
+            id: 924,
+            question:
+                "Kamala said to Akshay, 'Are you not ashamed of yourself?' The correct indirect narration of this sentence is:",
+            options: [
+                "Kamala asked Akshay if he is not ashamed of himself.",
+                "Kamala asked Akshay if you are not ashamed of yourself.",
+                "Kamala asked Akshay if he was not ashamed of himself.",
+                "Kamala asked Akshay if she is not ashamed of herself.",
+            ],
+            answer: "Kamala asked Akshay if he was not ashamed of himself.",
+        },
+        {
+            id: 925,
+            question:
+                "Choose the correct indirect narration of the following sentence: 'Do you wish to open an account?' the accountant said to the man.",
+            options: [
+                "The accountant asked the man that he wished to open an account.",
+                "The accountant asked the man if he wished to open an account.",
+                "The accountant questioned the man that he wished to open an account.",
+                "The accountant asked the man if you wished to open an account.",
+            ],
+            answer: "The accountant asked the man if he wished to open an account.",
+        },
+        {
+            id: 926,
+            question:
+                "'Shall I begin the discussion?' The indirect narration corresponding to the question above is:",
+            options: [
+                "He asked me if he should begin the discussion.",
+                "He asked me if I should begin the discussion.",
+                "He requested whether I shall begin the discussion.",
+                "He asked if he should begin the discussion.",
+            ],
+            answer: "Only (d)",
+        },
+        {
+            id: 931,
+            question:
+                "Complete the given sentence with a suitable clause: He is the best boy of the class. He is better than _______",
+            options: [
+                "all the boys of the class.",
+                "no boy of the class.",
+                "any boys of the class.",
+                "any other boy of the class.",
+            ],
+            answer: "any other boy of the class.",
+        },
+        {
+            id: 932,
+            question: "Choose the correct sentence:",
+            options: [
+                "Ram is the strongest boy in the class.",
+                "Ram is most strongest boy in the class.",
+                "Ram is strongest boy in the class.",
+                "Ram is much stronger boy in the class.",
+            ],
+            answer: "Ram is the strongest boy in the class.",
+        },
+        {
+            id: 933,
+            question: "Choose the correct alternative.",
+            options: [
+                "Delhi is the large city in India.",
+                "Delhi is the largest city in India.",
+                "Delhi is most large city in India.",
+                "Very few cities in India are the largest than Delhi.",
+            ],
+            answer: "Delhi is the largest city in India.",
+        },
+        {
+            id: 934,
+            question:
+                "Find the correct comparative degree for the given sentence: 'Ketki is the most beautiful girl in the class.'",
+            options: [
+                "Ketki is much beautiful than any other girl in the class.",
+                "Ketki is more beautiful than any other girl in the class.",
+                "Ketki is more beautiful than most other girl in the class.",
+                "Ketki is beautifuler than any other girl in the class.",
+            ],
+            answer: "Ketki is more beautiful than any other girl in the class.",
+        },
+        {
+            id: 935,
+            question:
+                "Change the following sentence into a positive one: Delhi is larger than any other city of India.",
+            options: [
+                "Delhi is the largest city of India.",
+                "Delhi is most large city of India.",
+                "Delhi is not larger than any other city of India.",
+                "No other city of India is as large as Delhi.",
+            ],
+            answer: "No other city of India is as large as Delhi.",
+        },
+        {
+            id: 936,
+            question:
+                "'Lead is the heaviest of all metals.' Choose the correct comparative degree of the above sentence.",
+            options: [
+                "Lead is heavy then all other metals.",
+                "Lead is as heavy as any other metals.",
+                "Lead is heavier than all other metals.",
+                "Lead is not heavier of all other metals.",
+            ],
+            answer: "Lead is heavier than all other metals.",
+        },
+        {
+            id: 937,
+            question:
+                "The Sun is the biggest planet. Change it into comparative.",
+            options: [
+                "The Sun is more biggest than any other planet.",
+                "The Sun is as big as any other planet.",
+                "The Sun is bigger than any other planet.",
+                "No other planet is as big as the Sun.",
+            ],
+            answer: "The Sun is bigger than any other planet.",
+        },
+        {
+            id: 938,
+            question:
+                "Mumbai is the biggest city in India. The correct transformation of this sentence into positive degree is:",
+            options: [
+                "All cities in India are as big as Mumbai is.",
+                "A fewer cities in India are as big as Mumbai is.",
+                "No other city in India is as big as Mumbai is.",
+                "India has no less cities as big as Mumbai is.",
+            ],
+            answer: "No other city in India is as big as Mumbai is.",
+        },
+        {
+            id: 939,
+            question:
+                "No other metal is as useful as Iron. Change into superlative degree.",
+            options: [
+                "Iron is more useful than any other metal.",
+                "Iron is the most useful of all metals.",
+                "Iron is not the most useful of all metals.",
+                "Iron is not more useful than any other metals.",
+            ],
+            answer: "Iron is the most useful of all metals.",
+        },
+        {
+            id: 940,
+            question:
+                "Sachin Tendulkar is the **best** batsman in India. Choose an option giving the comparative degree of the underlined adjective.",
+            options: [
+                "No other batsman in India is as good as Sachin Tendulkar.",
+                "All batsmen in India are inferior to Sachin Tendulkar.",
+                "Sachin Tendulkar is better than any other batsman in India.",
+                "None of the above.",
+            ],
+            answer: "Sachin Tendulkar is better than any other batsman in India.",
+        },
+        {
+            id: 941,
+            question:
+                "Eagle flies highest of all the birds. Choose the correct positive degree of the sentence.",
+            options: [
+                "No other bird flies as high as eagle.",
+                "Very few birds fly as high as eagle.",
+                "Some other birds fly as high as eagle.",
+                "Eagle flies higher than any other birds.",
+            ],
+            answer: "No other bird flies as high as eagle.",
+        },
+        {
+            id: 942,
+            question:
+                "The **happiest** hour of my life was spent recently in the company of a woman who had just turned eighty. The above sentence has been re-written, changing the degree of the underlined adjective.",
+            options: [
+                "(a) The hour I spent recently in the company of a woman who had just turned eighty was happier than any other hour of my life.",
+                "(b) No other hour of my life was happier than the one I spent recently in the company of a woman who had just turned eighty.",
+                "(c) No other hour of my life was as happy as the one I spent recently in the company of a woman who had just turned eighty.",
+                "(d) The happier hour of my life was spent recently in the company of a woman who had just turned eighty.",
+            ],
+            answer: "(b) and (c) are right",
+        },
+        {
+            id: 943,
+            question:
+                "Do as directed as per the instructions given in the bracket: She is the best girl in the school. (Make it positive)",
+            options: [
+                "No other girl in the school is as good as she is.",
+                "She is the only good girl in the school.",
+                "In the school only she is the good girl.",
+                "She is good girl only in the school.",
+            ],
+            answer: "No other girl in the school is as good as she is.",
+        },
+        {
+            id: 944,
+            question:
+                "The comparative degree of the sentence: 'Mumbai is a rich city of India.'",
+            options: [
+                "Mumbai is one of the richest cities in India.",
+                "Very few cities in India are as rich as Mumbai.",
+                "No other city is as rich as Mumbai.",
+                "Mumbai is richer than most other cities in India.",
+            ],
+            answer: "Mumbai is richer than most other cities in India.",
+        },
+        {
+            id: 945,
+            question:
+                "Shakespeare is the greatest of English dramatists. (Change into the comparative degree)",
+            options: [
+                "Shakespeare is as great as other English dramatists.",
+                "Shakespeare is the greatest English dramatist.",
+                "Shakespeare is the best English dramatist.",
+                "Shakespeare is greater than any other English dramatist.",
+            ],
+            answer: "Shakespeare is greater than any other English dramatist.",
+        },
+        {
+            id: 946,
+            question:
+                "There is nothing greater than the freedom of the human spirit in this world. The superlative degree of the above sentence is:",
+            options: [
+                "The freedom of the human spirit is greater than anything else in this world.",
+                "Nothing is as great as the freedom of the human spirit in this world.",
+                "The freedom of the human spirit is in this world, the greatest thing.",
+                "The freedom of the human spirit is the greatest thing in this world.",
+            ],
+            answer: "The freedom of the human spirit is the greatest thing in this world.",
+        },
+        {
+            id: 947,
+            question:
+                "Choose the correct positive degree of the sentence below: Shakespeare was the greatest English poet.",
+            options: [
+                "All English poets were not great.",
+                "Shakespeare was a great Poet.",
+                "None of the poets were greater than Shakespeare.",
+                "Shakespeare was greatest.",
+            ],
+            answer: "None of the poets were greater than Shakespeare.",
+        },
+        {
+            id: 948,
+            question:
+                "Swimming is the best exercise. Select the correct form of positive degree of the above sentence.",
+            options: [
+                "No other exercise is as good as swimming.",
+                "Very few exercises are as good as swimming.",
+            ],
+            answer: "Both",
+        },
+        {
+            id: 949,
+            question:
+                "Positive degree: No other metal is as heavy as lead. Comparative degree: Lead is heavier than any other metal.",
+            options: [
+                "Only (a) is correct",
+                "Only (b) is correct",
+                "Both (a) and (b) are correct",
+                "None of the above",
+            ],
+            answer: "Both (a) and (b) are correct",
+        },
+        {
+            id: 950,
+            question:
+                "No other man was so strong as Hercules. Which one of the following changes the above sentence into superlative degree?",
+            options: [
+                "Hercules was the strongest man.",
+                "Hercules was the strongest of all man.",
+                "Hercules was the most strong of the man.",
+                "Hercules was the strongest of man.",
+            ],
+            answer: "Hercules was the strongest man.",
+        },
+        {
+            id: 951,
+            question:
+                "Eagle flies higher than any other bird. Identify the correct positive degree of the above sentence.",
+            options: [
+                "Eagle flies highest of all birds.",
+                "No other bird flies as high as eagle.",
+                "Very few birds fly as high as eagle.",
+                "No birds flies higher than eagle.",
+            ],
+            answer: "No other bird flies as high as eagle.",
+        },
+        {
+            id: 952,
+            question:
+                "No other train is as comfortable as the Tejas Express. (Change the sentence into Comparative Degree)",
+            options: [
+                "No other train is comfortable than the Tejas Express",
+                "The Tejas Express is more comfortable than any other train.",
+                "Tejas Express is comfortable of all trains.",
+                "The Tejas Express is the most comfortable than any other train.",
+            ],
+            answer: "Only (b) correct",
+        },
+        {
+            id: 953,
+            question:
+                "(a) She is more charming than any other woman living. (b) I have no ulterior motive than helping you. (c) He has greater popularity than any other leader. Choose the correct sentence/s.",
+            options: [
+                "Only (a)",
+                "Only (b)",
+                "Only (a) and (c)",
+                "Only (b) and (c)",
+            ],
+            answer: "Only (a) and (c)",
+        },
+
+        {
+            id: 954,
+            question:
+                "India is one of the most beautiful countries in the world. Rewrite using positive Degree of adjective.",
+            options: [
+                "No other country of the world is so beautiful as India.",
+                "No country of the world is as beautiful as India.",
+                "Very few countries of the world are so beautiful as India.",
+                "Few countries of the world are as beautiful as India.",
+            ],
+            answer: "Very few countries of the world are so beautiful as India.",
+        },
+        {
+            id: 955,
+            question:
+                "Very few girls in the locality are as beautiful as Zia. Choose the correct alternative in which, the superlative degree of the adjective is used.",
+            options: [
+                "Zia is the most beautiful girl in the locality.",
+                "Zia is one of the most beautiful girls in the locality.",
+                "The most beautiful girl in the locality is Zia.",
+                "Zia is one of the few most beautiful girls in the locality.",
+            ],
+            answer: "Zia is one of the most beautiful girls in the locality.",
+        },
+        {
+            id: 956,
+            question:
+                "Very few towns in India are as rich as Bombay. Change it into comparative Degree.",
+            options: [
+                "No other town in India is as rich as Bombay.",
+                "Bombay is richer from only other towns in India.",
+                "Bombay is one of the richest towns in India.",
+                "Bombay is richer than most other towns in India.",
+            ],
+            answer: "Bombay is richer than most other towns in India.",
+        },
+        {
+            id: 957,
+            question:
+                "Courage is one of the noblest human virtues. Change into positive.",
+            options: [
+                "Courage is noble human virtue.",
+                "Very few other human virtues are as noble as courage.",
+                "Noble human virtue is courage.",
+                "Courage is the noblest virtue.",
+            ],
+            answer: "Very few other human virtues are as noble as courage.",
+        },
+        {
+            id: 958,
+            question:
+                "Very few men are as generous as he is. Change the degree of comparison.",
+            options: [
+                "He is the most generous man.",
+                "He is one of the most generous man.",
+                "He is one of the most generous men.",
+                "He is one of the few generous men.",
+            ],
+            answer: "He is one of the most generous men.",
+        },
+        {
+            id: 959,
+            question:
+                "Very few things are as useful as wood. Select the alternative which can be the correct comparative degree of the above sentence.",
+            options: [
+                "Wood is more useful than any other things.",
+                "Wood is more useful than many other things.",
+                "Wood is more useful than most other things.",
+                "No other thing is as useful as wood.",
+            ],
+            answer: "Wood is more useful than most other things.",
+        },
+        {
+            id: 960,
+            question:
+                "He is one of the tallest boys in class. The above sentence has been re-written below, changing the degree of the underlined adjective. Choose the grammatically correct option.",
+            options: [
+                "He is taller than all other boys in class.",
+                "He is taller than any other boy in class.",
+                "He is taller than most other boys in class.",
+                "No one is as tall in class as he is.",
+            ],
+            answer: "He is taller than most other boys in class.",
+        },
+        {
+            id: 961,
+            question:
+                "Very few flowers are as lovely as the rose. Identify the correct comparative degree of the above sentence.",
+            options: [
+                "Rose is lovelier than many other flowers.",
+                "Rose is lovelier than most other flowers.",
+                "Rose is more lovely than many other flower.",
+                "Rose is lovelier than any other flower.",
+            ],
+            answer: "Rose is lovelier than most other flowers.",
+        },
+        {
+            id: 962,
+            question:
+                "Kolkata is more popular than most other cities of India. Which of the following option is correctly converted from the above sentence?",
+            options: [
+                "Kolkata is the most popular city of India.",
+                "There is no other city in India as popular as Kolkata.",
+                "Some other cities of India are not more popular than Kolkata.",
+                "Kolkata is one of the most popular cities of India.",
+            ],
+            answer: "Kolkata is one of the most popular cities of India.",
+        },
+        {
+            id: 963,
+            question: "Find out the incorrect sentence/s:",
+            options: [
+                "He was as white as a sheet.",
+                "It was more expensive than I thought.",
+                "This is the most oldest theatre in London.",
+                "She is one of the kindest woman.",
+            ],
+            answer: "(c) and (d)",
+        },
+        {
+            id: 964,
+            question:
+                "Ashoka was one of the greatest Indian rulers. Identify the correct positive degree of the above sentence.",
+            options: [
+                "Very few Indian rulers were as great as Ashoka.",
+                "No other Indian ruler was as great as Ashoka.",
+                "Some Indian rulers were as great as Ashoka.",
+                "Ashoka was greater than many other rulers in India.",
+            ],
+            answer: "Very few Indian rulers were as great as Ashoka.",
+        },
+        {
+            id: 965,
+            question:
+                "Arsenic is an extremely poisonous element. Identify the correct positive degree of the above sentence.",
+            options: [
+                "Arsenic is a highly poisonous element.",
+                "Arsenic is one of the highly poisonous elements.",
+                "Very few elements are as poisonous as Arsenic.",
+                "Most of the elements are less poisonous than Arsenic.",
+            ],
+            answer: "Very few elements are as poisonous as Arsenic.",
+        },
+        {
+            id: 966,
+            question:
+                "Indira Gandhi was one of the greatest women in India. Choose the correct alternative that transforms the above sentence into positive degree.",
+            options: [
+                "No other woman in India was as great as Indira Gandhi.",
+                "Very few women in India were as great as Indira Gandhi.",
+                "Indira Gandhi was as great as any other women in India.",
+                "Indira Gandhi was greater than all other women in India.",
+            ],
+            answer: "Very few women in India were as great as Indira Gandhi.",
+        },
+        {
+            id: 967,
+            question:
+                "Delhi is one of the biggest cities in India. Which one of the following sentences is the correct positive degree corresponding to the sentence above?",
+            options: [
+                "No other city is so big as Delhi in India.",
+                "No other city in India is as big as Delhi.",
+                "Very few cities in India are as big as Delhi.",
+                "Delhi is a big city in India.",
+            ],
+            answer: "Very few cities in India are as big as Delhi.",
+        },
+        {
+            id: 968,
+            question:
+                "Choose the correct version of No sooner ..... than 'As soon as the day of sunlight is over, the day of moonlight begins.'",
+            options: [
+                "No sooner does the day of sunlight over than the day of moon light begins.",
+                "No sooner the day of sunlight is over than the day of moonlight begins.",
+                "No sooner is the day of sunlight over than the day of moonlight begins.",
+                "No sooner did the day of sunlight over than the day of moonlight begins.",
+            ],
+            answer: "No sooner is the day of sunlight over than the day of moonlight begins.",
+        },
+        {
+            id: 969,
+            question:
+                "Which one of the following is the correct sentence after using too. 'We are so late that we cannot catch the train'.",
+            options: [
+                "We are very late so we cannot catch the train.",
+                "We are too late to catch the train.",
+                "We are too late so we cannot catch the train.",
+                "We are so late for the train.",
+            ],
+            answer: "We are too late to catch the train.",
+        },
+        {
+            id: 970,
+            question:
+                "Rewrite the sentence using ‘Unless'. If it rains, farmers will be happy.",
+            options: [
+                "Unless it does not rain, farmers will not be happy.",
+                "Unless it rains, farmers will happy.",
+                "Unless it rains, farmers will not be happy.",
+                "Unless it does not rains, farmers will be happy.",
+            ],
+            answer: "Unless it rains, farmers will not be happy.",
+        },
+        {
+            id: 971,
+            question:
+                "Rewrite using 'too'. The tea is so hot that it can not be drunk.",
+            options: [
+                "The tea is too hot to drink.",
+                "The tea is too hot it can be drink.",
+                "The tea is too hot as it cannot be drunk.",
+                "The tea is too hot not to drink.",
+            ],
+            answer: "The tea is too hot to drink.",
+        },
+        {
+            id: 972,
+            question: "Choose the acceptable sentence.",
+            options: [
+                "No sooner did he received the telegram than he started crying.",
+                "No sooner he had received the telegram than he started crying.",
+                "No sooner had he received the telegram than he started crying.",
+                "No sooner had he received the telegram when he started crying.",
+            ],
+            answer: "No sooner had he received the telegram than he started crying.",
+        },
+        {
+            id: 973,
+            question:
+                "Use No sooner ..... than. 'All were silent as soon as he rose to speak.'",
+            options: [
+                "No sooner than he rose to speak all were silent.",
+                "No sooner did he rise to speak than all were silent.",
+                "No sooner does he rise to speak than all were silent.",
+                "No sooner he rose to speak than all were silent.",
+            ],
+            answer: "No sooner did he rise to speak than all were silent.",
+        },
+        {
+            id: 974,
+            question:
+                "Everybody loves beauty. Change into a negative sentence without changing the meaning.",
+            options: [
+                "There is nobody who does not love beauty.",
+                "There is nobody but loves beauty.",
+                "No one loves beauty.",
+                "There is nobody who hates beauty.",
+            ],
+            answer: "There is nobody who does not love beauty.",
+        },
+        {
+            id: 975,
+            question:
+                "Change the following sentence into an assertive sentence and choose the correct alternative. 'O that I were young again!'",
+            options: [
+                "I would have liked to be young again.",
+                "I wish I were young again.",
+                "Could I become young again.",
+                "I want to become young again.",
+            ],
+            answer: "I wish I were young again.",
+        },
+        {
+            id: 976,
+            question:
+                "Choose the correct exclamatory sentence from the given alternatives. 'It is a good suggestion.'",
+            options: [
+                "What good suggestion it is!",
+                "What a good suggestion it is!",
+                "What is it a good suggestion!",
+                "What it is a good suggestion!",
+            ],
+            answer: "What a good suggestion it is!",
+        },
+        {
+            id: 977,
+            question:
+                "Give me that book and I will read it. Change into complex sentence.",
+            options: [
+                "If you give me that book, I will read it.",
+                "Give me that book to read.",
+                "Giving me that book, I will read it.",
+                "None.",
+            ],
+            answer: "If you give me that book, I will read it.",
+        },
+        {
+            id: 978,
+            question: "Tell me the truth. Make it into complex sentence.",
+            options: [
+                "You should tell me the truth.",
+                "Tell me what is true.",
+                "You shall tell me truth.",
+                "Truth should be told to me.",
+            ],
+            answer: "Tell me what is true.",
+        },
+        {
+            id: 979,
+            question:
+                "Walk quickly and you will overtake him. Tick mark the simple sentence.",
+            options: [
+                "Walking quickly you will overtake him.",
+                "Walk quickly so that you will overtake him.",
+                "Walk quickly. you will overtake him.",
+                "None.",
+            ],
+            answer: "Walking quickly you will overtake him.",
+        },
+        {
+            id: 980,
+            question: "Which of the following is the simple sentence?",
+            options: [
+                "He went in and wrote a letter.",
+                "He went in the room to write a letter.",
+                "He went in the room for a letter.",
+                "He went in the room and wrote a letter.",
+            ],
+            answer: "He went in and wrote a letter.",
+        },
+        {
+            id: 981,
+            question:
+                "'I was counting the forms when you entered the room'. 'The simple form of the sentence has been represented by'.",
+            options: [
+                "I was counting the forms and you entered the room.",
+                "I was counting the forms at the time of your entry in the room.",
+                "I was counting the forms while you entered the room.",
+                "I was counting the forms as you entered the room.",
+            ],
+            answer: "I was counting the forms as you entered the room.",
+        },
+        {
+            id: 982,
+            question:
+                "Choose the correct alternative which is the best complex sentence form of the following sentence: 'My cousin, a journalist, wrote this article.'",
+            options: [
+                "My cousin who is a journalist wrote this article.",
+                "My cousin wrote this article as he is a journalist.",
+                "My cousin wrote this article and he is a journalist.",
+                "Being a journalist, my cousin wrote this article.",
+            ],
+            answer: "My cousin who is a journalist wrote this article.",
+        },
+        {
+            id: 983,
+            question: "Pick out the simple sentence from the following.",
+            options: [
+                "We believe that he is innocent.",
+                "He complained of being unjustly treated.",
+                "Tell me where you live.",
+                "The lion was wounded but not killed.",
+            ],
+            answer: "He complained of being unjustly treated.",
+        },
+        {
+            id: 984,
+            question:
+                "Everything seemed quite normal. Choose the correct exclamatory expression.",
+            options: [
+                "Everything is really normal!",
+                "How seemed everything normal!",
+                "How normal everything seemed!",
+                "Normal, seemed everything!",
+            ],
+            answer: "How normal everything seemed!",
+        },
+        {
+            id: 985,
+            question:
+                "It was a very fine morning. Which of the options best represents the exclamatory form of the above sentence?",
+            options: [
+                "What was the fine morning!",
+                "How fine was the morning!",
+                "The Morning was very fine!",
+                "What a fine morning it was!",
+            ],
+            answer: "What a fine morning it was!",
+        },
+        {
+            id: 986,
+            question:
+                "What a terrible fire this is. Choose the right punctuation at the end of the sentence.",
+            options: ["Full stop", "Comma", "Exclamation", "Question mark"],
+            answer: "Exclamation",
+        },
+        {
+            id: 987,
+            question:
+                "I did my work. I went to college. Which one of the following sentences combines the above sentences into a single simple sentence?",
+            options: [
+                "After doing my work I went to college.",
+                "Having done my work I went to college.",
+                "I did and went to college.",
+                "I went to college doing my work.",
+            ],
+            answer: "Having done my work I went to college.",
+        },
+        {
+            id: 988,
+            question:
+                "Choose the affirmative of the following: Nobody was absent.",
+            options: [
+                "All were present.",
+                "Everyone was present.",
+                "Everyone was absent.",
+                "All were not absent.",
+            ],
+            answer: "All were present.",
+        },
+        {
+            id: 989,
+            question:
+                "He is so old that he cannot walk. Which of the following option is correctly converted from the above complex sentence into a simple sentence?",
+            options: [
+                "He is very much old that he could not walk.",
+                "He can’t walk because he was so old.",
+                "He is too old to walk.",
+                "He is too old too walk.",
+            ],
+            answer: "He is too old to walk.",
+        },
+        {
+            id: 990,
+            question:
+                "Choose the option of complex sentence of the following. She worked hard to get the promotion.",
+            options: [
+                "She worked hard and got promotion.",
+                "She worked hard getting promotion.",
+                "She worked hard so that she could get promotion.",
+                "She worked hard, got success.",
+            ],
+            answer: "She worked hard so that she could get promotion.",
+        },
+        {
+            id: 991,
+            question: "Choose the alternative of compound sentence:",
+            options: [
+                "When he saw the tiger, he paused.",
+                "Seeing the tiger, he paused.",
+                "He paused while seeing the tiger.",
+                "He saw the tiger and paused.",
+            ],
+            answer: "He saw the tiger and paused.",
+        },
+        {
+            id: 992,
+            question:
+                "Teacher asked two students the answer of a question, but _______ of them knew. Choose the option to fill in the blank.",
+            options: ["none", "either", "both", "neither"],
+            answer: "neither",
+        },
+        {
+            id: 993,
+            question:
+                "All that glitters is not gold. The correct transformation of this sentence into simple sentence is:",
+            options: [
+                "All glittering things are gold.",
+                "All glittering things are not gold.",
+                "All things are gold.",
+                "All things are golden.",
+            ],
+            answer: "All glittering things are not gold.",
+        },
+        {
+            id: 994,
+            question:
+                "Choose the correct interrogative sentence from the following alternatives: There is nothing better than a busy life.",
+            options: [
+                "Why there is nothing better than a busy life?",
+                "Why there is something better than a busy life?",
+                "Is there anything better than a busy life?",
+                "Is there something better than a busy life?",
+            ],
+            answer: "Is there anything better than a busy life?",
+        },
+        {
+            id: 995,
+            question:
+                "What does it mean: 'The poem was too difficult for me to understand.'",
+            options: [
+                "I don't understand the poem.",
+                "The poem was very difficult.",
+                "The poem was too hard.",
+                "I could not understand the poem.",
+            ],
+            answer: "b and d only",
+        },
+        {
+            id: 996,
+            question: "Identify the correct sentence:",
+            options: [
+                "The teacher to accepted our invitation come and agreed with us.",
+                "With us agreed the teacher to come invitation and our accepted.",
+                "The teacher accepted our invitation and agreed to come with us.",
+                "Our invitation accepted the teacher and agreed to come with us.",
+            ],
+            answer: "The teacher accepted our invitation and agreed to come with us.",
+        },
+        {
+            id: 997,
+            question:
+                "The fog will disappear as soon as the sun rises. Identify the type of the sentence.",
+            options: ["simple", "complex", "compound", "complex-compound"],
+            answer: "complex",
+        },
+        {
+            id: 998,
+            question:
+                "Rewrite the sentence below using the word 'walking': As they walked on the shore, they could hear the surf.",
+            options: [
+                "They could hear the surf in walking on the shore.",
+                "While walking on the shore, they could hear the surf.",
+                "They could hear the surf walking on the shore.",
+                "During walking on the shore they could hear the surf.",
+            ],
+            answer: "While walking on the shore, they could hear the surf.",
+        },
+        {
+            id: 999,
+            question:
+                "Choose the alternative which is a correct conversion of the following simple sentence into a compound sentence: In spite of being a Russian by birth, he speaks Hindi like his mother tongue.",
+            options: [
+                "He is a Russian by birth, but he speaks Hindi like his mother tongue.",
+                "Though he is a Russian by birth he speaks Hindi like his mother tongue.",
+                "He speaks Hindi like his mother tongue despite being a Russian by birth.",
+                "None of these.",
+            ],
+            answer: "He is a Russian by birth, but he speaks Hindi like his mother tongue.",
+        },
+        {
+            id: 1000,
+            question:
+                "The man with a smiling face is our leader. Which is the correct conversion of the above sentence into the compound one?",
+            options: [
+                "The man has a smiling face and he is our leader.",
+                "The man who has a smiling face is our leader.",
+                "The man having a smiling face is our leader.",
+                "As the man has a smiling face, he is our leader.",
+            ],
+            answer: "The man has a smiling face and he is our leader.",
+        },
+        {
+            id: 1001,
+            question:
+                "Choose the correct option showing the change of the following sentence into assertive. How beautiful is night!",
+            options: [
+                "Night is very beautiful.",
+                "Night is not very beautiful.",
+                "Night was very beautiful.",
+                "Night will be very beautiful.",
+            ],
+            answer: "Night is very beautiful.",
+        },
+        {
+            id: 1002,
+            question:
+                "A compound sentence consists of two or more co-ordinate clauses linked by co-ordinating conjunctions such as 'and', or 'but'. This statement is:",
+            options: [
+                "false",
+                "true",
+                "neither true nor false",
+                "totally incorrect",
+            ],
+            answer: "true",
+        },
+        {
+            id: 1003,
+            question: "It was not sure that it was you. (Remove negative)",
+            options: [
+                "It wasn't sure that it was you.",
+                "It was sure that it was you.",
+                "It was unbelievable that it was you.",
+                "It was doubtful whether it was you.",
+            ],
+            answer: "It was sure that it was you.",
+        },
+        {
+            id: 1004,
+            question:
+                "How sweet the moonlight sleeps upon this bank! (Make it assertive)",
+            options: [
+                "The moonlight is sleeping upon this bank very sweetly.",
+                "The moonlight very sweetly sleeps upon this bank.",
+                "The moonlight sleeps upon very sweetly that bank.",
+                "The moonlight sleeps upon that bank very sweetly.",
+            ],
+            answer: "The moonlight sleeps upon that bank very sweetly.",
+        },
+        {
+            id: 1005,
+            question:
+                "Alfred was the best king that ever reigned in England. (Make it negative)",
+            options: [
+                "Alfred would not be the best king that ever reigned in England.",
+                "No other king was as good as Alfred ever reigned in England.",
+                "Alfred is not the best king that ever reigned in England.",
+                "Alfred was the only king who had never reigned in England.",
+            ],
+            answer: "No other king was as good as Alfred ever reigned in England.",
+        },
+        {
+            id: 1006,
+            question: "They finished the work yesterday. (Make interrogative)",
+            options: [
+                "Do they finish the work yesterday?",
+                "Did they finish the work yesterday?",
+                "Had they finished the work yesterday?",
+                "Have they finished the work yesterday?",
+            ],
+            answer: "Did they finish the work yesterday?",
+        },
+        {
+            id: 1007,
+            question:
+                "An elephant is a wonderful creature. (Make it exclamatory)",
+            options: [
+                "How a wonderful creature an elephant is!",
+                "That a wonderful creature an elephant is!",
+                "O a wonderful creature an elephant is!",
+                "What a wonderful creature an elephant is!",
+            ],
+            answer: "What a wonderful creature an elephant is!",
+        },
+        {
+            id: 1008,
+            question:
+                "Why offer bread to a man who is dying of thirst? (Make it assertive)",
+            options: [
+                "It is useless to offer bread to a man who is dying of thirst.",
+                "Such offer is foolish to a man who is dying of thirst.",
+                "It is extremely foolish to offer bread to a man who is dying of thirst.",
+                "No one can be offered bread to a man who is dying of thirst.",
+            ],
+            answer: "It is extremely foolish to offer bread to a man who is dying of thirst.",
+        },
+        {
+            id: 1009,
+            question:
+                "Rewrite the sentence below using the word 'crossing': As you cross the bridge, you can hear the vibrations.",
+            options: [
+                "You can hear the vibrations, in crossing the bridge.",
+                "While crossing the bridge, you can hear the vibrations.",
+                "You can hear the vibrations crossing the bridge.",
+                "During crossing the bridge you can hear the vibrations.",
+            ],
+            answer: "While crossing the bridge, you can hear the vibrations.",
+        },
+        {
+            id: 1010,
+            question:
+                "Rewrite the given sentence in the exclamatory form: These are very good apples.",
+            options: [
+                "What good apples these are!",
+                "How good apples these are!",
+                "What a good apples these are!",
+                "How very good apples these are!",
+            ],
+            answer: "What good apples these are!",
+        },
+        {
+            id: 1011,
+            question: "He tried every plan. Change it into negative.",
+            options: [
+                "He tried not every plan.",
+                "He left no plan untried.",
+                "He did not try every plan.",
+                "He could not try plan.",
+            ],
+            answer: "He left no plan untried.",
+        },
+        {
+            id: 1012,
+            question:
+                "I wish I were at home. Change it into exclamatory sentence.",
+            options: [
+                "O to be at home!",
+                "I have been at home!",
+                "What at home!",
+                "How good home!",
+            ],
+            answer: "O to be at home!",
+        },
+        {
+            id: 1013,
+            question: "Brutus loved Caesar. Change it into negative.",
+            options: [
+                "Brutus not loved Caesar.",
+                "Brutus was without love for Caesar.",
+                "Brutus was not without love for Caesar.",
+                "There was no love for Caesar from Brutus.",
+            ],
+            answer: "Brutus was not without love for Caesar.",
+        },
+        {
+            id: 1014,
+            question:
+                "I wish I had a good horse. Change into exclamatory sentence.",
+            options: [
+                "How good horse I have!",
+                "I have a very good horse!",
+                "Oh, for a good horse!",
+                "What a good horse!",
+            ],
+            answer: "Oh, for a good horse!",
+        },
+        {
+            id: 1015,
+            question:
+                "Why waste time in reading English? Change it into Assertive sentence.",
+            options: [
+                "It is extremely foolish to waste time in reading English.",
+                "Reading English is a waste of time.",
+                "Waste of time is reading English.",
+                "How foolish it is to read English!",
+            ],
+            answer: "It is extremely foolish to waste time in reading English.",
+        },
+        {
+            id: 1016,
+            question:
+                "Change the following sentence into an assertive sentence: 'O that I were young again!'",
+            options: [
+                "I would have liked to be young again.",
+                "I wish I were young again.",
+                "Could I become young again?",
+                "I want to become young again.",
+            ],
+            answer: "I wish I were young again.",
+        },
+        {
+            id: 1017,
+            question:
+                "How can I bring a child into this world? Make it assertive.",
+            options: [
+                "I cannot bring a child into such a world.",
+                "I cannot brought a child into a world.",
+                "Can I bring a child into such world?",
+                "None of these.",
+            ],
+            answer: "I cannot bring a child into such a world.",
+        },
+        {
+            id: 1018,
+            question: "I couldn’t believe it. Make it affirmative.",
+            options: [
+                "I could not believe it.",
+                "I could hardly believe it.",
+                "I can hardly believe it.",
+                "None",
+            ],
+            answer: "I could hardly believe it.",
+        },
+        {
+            id: 1052,
+            question: "The house is quiet. Make it negative.",
+            options: [
+                "The house is not quiet.",
+                "The house is not noisy.",
+                "The house is noisy.",
+                "None",
+            ],
+            answer: "The house is not noisy.",
+        },
+        {
+            id: 1053,
+            question: "She cannot even sign her name. Remove negative.",
+            options: [
+                "She is unable to sign her name.",
+                "She is not sign her name.",
+                "She is sign her name",
+                "None",
+            ],
+            answer: "She is unable to sign her name.",
+        },
+        {
+            id: 1054,
+            question: "What a feeling! Make assertive.",
+            options: [
+                "It is indeed a great feeling.",
+                "It is a great feeling.",
+                "It is very a great feeling.",
+                "None",
+            ],
+            answer: "It is a great feeling.",
+        },
+        {
+            id: 1055,
+            question:
+                "Is not wisdom better than riches? The above sentence can be changed into assertive sentence as the following:",
+            options: [
+                "Riches are not better than wisdom.",
+                "Wisdom is not better than riches.",
+                "Riches are better than wisdom.",
+                "Wisdom is better than riches.",
+            ],
+            answer: "Wisdom is better than riches.",
+        },
+        {
+            id: 1056,
+            question:
+                "Complete the following sentence by choosing the correct alternative: If you smoke regularly, you will suffer from cancer. This is a _______ sentence.",
+            options: ["simple", "compound", "complex", "complex compound"],
+            answer: "complex",
+        },
+        {
+            id: 1057,
+            question:
+                "Combine the three sentences below to make a Complex-Compound sentence: You have to keep a sharp eye. He should not cheat you. You have to ensure this.",
+            options: [
+                "You have to keep a sharp eye, and ensure that he doesn't cheat you.",
+                "Keeping a sharp eye will ensure that he does not cheat you.",
+                "If you keep a sharp eye, you can ensure that he doesn't cheat you.",
+                "A sharp eye from you will prevent his cheating you.",
+            ],
+            answer: "You have to keep a sharp eye, and ensure that he doesn't cheat you.",
+        },
+        {
+            id: 1058,
+            question:
+                "He is contented. He is poor. Choose the correct combination of simple sentences into one Complex Sentence, containing an adverb clause from the following:",
+            options: [
+                "He is contented but he is poor.",
+                "He is poor still contented.",
+                "He is contented though he is poor.",
+                "He is as poor as contented.",
+            ],
+            answer: "He is contented though he is poor.",
+        },
+        {
+            id: 1059,
+            question:
+                "The Sun having risen, the fog disappeared. Identify the type of sentence.",
+            options: ["simple", "compound", "complex", "complex-compound"],
+            answer: "simple",
+        },
+        {
+            id: 1060,
+            question:
+                "Change into Exclamatory sentence: These are lovely apples.",
+            options: [
+                "How lovely these apples are!",
+                "What lovely these apples are!",
+                "How lovely are these apples!",
+                "What lovely are these apples!",
+            ],
+            answer: "How lovely these apples are!",
+        },
+        {
+            id: 1061,
+            question:
+                "If you speak the truth, you will never regret it. This sentence is _______.",
+            options: ["Simple", "Compound", "Complex", "None of the above"],
+            answer: "Complex",
+        },
+        {
+            id: 1062,
+            question:
+                "Identify the structure of the sentence: Being hard-working is not enough.",
+            options: ["Simple", "Complex", "Compound", "Compound-Complex"],
+            answer: "Simple",
+        },
+        {
+            id: 1063,
+            question:
+                "She was tired. She still went on working. Which of the following sentence/s change/s the above sentences correctly into a complex sentence?",
+            options: [
+                "Although she was tired she still went on working",
+                "She was tired but she still went on working.",
+                "She still went on working despite she was tired.",
+                "She still went on working in spite she was tired.",
+            ],
+            answer: "Although she was tired she still went on working",
+        },
+        {
+            id: 1064,
+            question: "Choose the correct sentence/s.",
+            options: [
+                "When you are leaving?",
+                "Where are you going?",
+                "What I can do for you?",
+            ],
+            answer: "Where are you going?",
+        },
+        {
+            id: 1065,
+            question: "Choose the correct Sentence/s.",
+            options: [
+                "Did you ask somebody to come?",
+                "One must not praise oneself.",
+                "One cannot be too careful of his good name.",
+            ],
+            answer: "Did you ask somebody to come?",
+        },
+        {
+            id: 1066,
+            question:
+                "I have no money that I can spare. Choose the correct alternative that can be replaced for the clause underlined.",
+            options: ["for sparing", "to spare", "with spare", "for spare"],
+            answer: "to spare",
+        },
+        {
+            id: 1067,
+            question:
+                "Form a correct 'wh-' question for the following statement as its answer: 'My father is a doctor'.",
+            options: [
+                "Who is your father?",
+                "What does your father do?",
+                "What is your father?",
+                "Is your father a doctor?",
+            ],
+            answer: "What does your father do?",
+        },
+        {
+            id: 1068,
+            question:
+                "It matters little whether we win or lose. The sentence above correctly changes into an interrogative sentence as",
+            options: [
+                "Does it matter little whether we win or lose?",
+                "Doesn’t it matter whether we win or lose?",
+                "What does it matter whether we win or lose?",
+                "Does we win or lose matter?",
+            ],
+            answer: "Doesn’t it matter whether we win or lose?",
+        },
+        {
+            id: 1069,
+            question:
+                "Nobody is free from sin. The sentence above correctly changes into interrogative form as _______",
+            options: [
+                "Is there anybody free from sin?",
+                "Is there nobody free from sin?",
+                "Who is not free from sin?",
+                "Who is free from sin?",
+            ],
+            answer: "Is there anybody free from sin?",
+        },
+        {
+            id: 1070,
+            question:
+                "Transform simple sentence to complex sentence. Simple: I was glad to know of his success. Complex:",
+            options: [
+                "I was glad to know about his success.",
+                "I was glad to know that he had succeeded.",
+                "I was glad to know if he succeeds.",
+                "I was glad to know that he succeeds.",
+            ],
+            answer: "I was glad to know that he had succeeded.",
+        },
+        {
+            id: 1071,
+            question: "Choose the correct sentences.",
+            options: [
+                "We may have some coffee?",
+                "Shall we have some coffee?",
+                "Please, you may post this letter for me?",
+                "Will you please take your hat off, I can't see the screen.",
+            ],
+            answer: "Shall we have some coffee? and Will you please take your hat off, I can't see the screen.",
+        },
+        {
+            id: 1072,
+            question:
+                "Change the following into interrogative: She drew a picture.",
+            options: [
+                "Was she drawing a picture?",
+                "Have she drawn a picture?",
+                "Did she draw a picture?",
+                "Has she draw a picture?",
+            ],
+            answer: "Did she draw a picture?",
+        },
+        {
+            id: 1073,
+            question:
+                "Change the following simple sentence into compound sentence. Climbing up the tree, he plucked some mangoes.",
+            options: [
+                "He climbed up the tree and plucked some mangoes.",
+                "He climbed up the tree to plucked some mangoes.",
+            ],
+            answer: "He climbed up the tree and plucked some mangoes.",
+        },
+        {
+            id: 1074,
+            question:
+                "Choose the correct replacement of the given sentence: Here is a pool which we can swim in!",
+            options: [
+                "Here is a pool for swim in!",
+                "Here is a pool to swimming!",
+                "Here is a pool to swim in!",
+                "Here is a pool swimming in!",
+            ],
+            answer: "Here is a pool to swim in!",
+        },
+        {
+            id: 1075,
+            question: "Choose the complex sentence(s).",
+            options: [
+                "The tired climbers advanced slowly.",
+                "They moved with great effort.",
+                "I telephoned my home in England as soon as I arrived in New York.",
+            ],
+            answer: "I telephoned my home in England as soon as I arrived in New York.",
+        },
+        {
+            id: 1076,
+            question:
+                "Although he is a hard master, his intentions are good. Identify the types of sentence.",
+            options: ["Complex", "Compound", "Simple", "Complex-compound"],
+            answer: "Complex",
+        },
+        {
+            id: 1077,
+            question:
+                "Choose the correct complex version of the following sentence: He aimed at winning the prize and he worked hard.",
+            options: [
+                "He worked hard so that he will win the prize.",
+                "He worked hard so that he might win the prize.",
+                "He had to work hard that he will win the prize.",
+                "He will work hard so that he might win the prize.",
+            ],
+            answer: "He worked hard so that he might win the prize.",
+        },
+        {
+            id: 1078,
+            question:
+                "Choose the correct substitute for the following sentence: He thought that he was safe there.",
+            options: [
+                "He thought him to be safe there.",
+                "He thought about himself safe there.",
+                "He thought himself to be safe there.",
+                "He thought himself was safe there.",
+            ],
+            answer: "He thought himself to be safe there.",
+        },
+        {
+            id: 1079,
+            question:
+                "Change into simple sentence. The fact that he is silent proves his guilt.",
+            options: [
+                "The silence proves guilt.",
+                "The silence has proved his guilt.",
+                "His guilt has been proved by his silence.",
+                "His being silent proves his guilt.",
+            ],
+            answer: "His being silent proves his guilt.",
+        },
+        {
+            id: 1080,
+            question:
+                "Combine the following sentences into simple sentence. He had many faults. But he was a good man at heart.",
+            options: [
+                "Though he had many faults, he was a good man at heart.",
+                "In spite of having many faults, he was a good man at heart.",
+                "As he was a good man at heart, he had many faults.",
+                "While he had many faults, he was a good man at heart.",
+            ],
+            answer: "In spite of having many faults, he was a good man at heart.",
+        },
+        {
+            id: 1081,
+            question:
+                "Change the following sentence into a simple one. 'You must work hard or you will not pass.'",
+            options: [
+                "Unless you work hard, you will not pass.",
+                "If you work hard, you will not pass.",
+                "You must work hard, in order to pass.",
+                "Work hard and you will pass.",
+            ],
+            answer: "You must work hard, in order to pass.",
+        },
+        {
+            id: 1082,
+            question:
+                "Combine the following sentences into simple one. 'He finished his work and put away his books.'",
+            options: [
+                "Putting away his books, he finished his work.",
+                "To put away his books, he finished his work",
+                "Having finished his work, he put away his books.",
+                "He put away his books because he finished his work.",
+            ],
+            answer: "Having finished his work, he put away his books.",
+        },
+        {
+            id: 1083,
+            question: "Pick out the simple sentence from the following:",
+            options: [
+                "We believe that he is innocent.",
+                "He complained of being unjustly treated.",
+                "Tell me where you live.",
+                "The lion was wounded but not killed.",
+            ],
+            answer: "He complained of being unjustly treated.",
+        },
+        {
+            id: 1084,
+            question:
+                "Replace a clause by an infinitive. 'It was my intention that I would write him a letter.'",
+            options: [
+                "Writing a letter to him was my intention.",
+                "It was my intention of writing him a letter.",
+                "I intended to write him a letter.",
+                "It was my intention to write him a letter.",
+            ],
+            answer: "I intended to write him a letter.",
+        },
+        {
+            id: 1085,
+            question:
+                "'I was counting the forms when you entered the room.' The simple form of this sentence has been represented by _______",
+            options: [
+                "I was counting the forms and you entered the room.",
+                "I was counting the forms at the time of your entry in the room.",
+                "I was counting the forms while you entered the room.",
+                "I was counting the forms as you entered the room.",
+            ],
+            answer: "I was counting the forms as you entered the room.",
+        },
+        {
+            id: 1086,
+            question:
+                "Make one sentence of the two: (a) Ann took some photographs (b) Have you seen them?",
+            options: [
+                "Have you seen the photographs Ann took?",
+                "Ann took some photographs and have you seen them.",
+                "Have you seen the photographs that Ann took?",
+                "Have you seen the photographs which Ann took?",
+            ],
+            answer: "Have you seen the photographs Ann took?",
+        },
+        {
+            id: 1087,
+            question:
+                "Choose a suitable replacement for the underlined phrase. He found the gold coins <u>as he cleans</u> the floor.",
+            options: [
+                "as he had cleaned",
+                "while he cleans",
+                "while he is cleaning",
+                "while cleaning",
+            ],
+            answer: "while cleaning",
         },
     ],
     marathi: [

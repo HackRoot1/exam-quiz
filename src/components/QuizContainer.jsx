@@ -19,6 +19,8 @@ const QuizContainer = () => {
     const [hasStarted, setHasStarted] = useState(false);
     const location = useLocation();
 
+    console.log(answers);
+
     useEffect(() => {
         if (location.pathname === "/ntpc-question-paper-1") {
             setQuestions(getRandomQuestions(questionsData, location.pathname));
@@ -135,6 +137,7 @@ const QuizContainer = () => {
                                         }
                                         questionNo={currentQuestionIndex}
                                         onAnswerSelect={handleAnswerSelect}
+                                        resultTrue={false}
                                     />
                                 )}
 
@@ -204,9 +207,92 @@ const QuizContainer = () => {
                     </div>
                 </>
             ) : (
-                <div className="flex justify-center items-center h-full">
-                    <Result answers={answers} questions={questions} />
-                </div>
+                <>
+                    <div className="h-[30px] md:h-[50px] flex justify-center items-center">
+                        <Result answers={answers} questions={questions} />
+                    </div>
+                    <div className="flex flex-col md:flex-row h-full px-3 md:px-10 pt-10">
+                        <section className="w-full md:w-4/5 p-5 pb-10 flex flex-col mb-2 justify-between">
+                            <>
+                                {questions.length > 0 && (
+                                    <Question
+                                        questionData={
+                                            questions[currentQuestionIndex]
+                                        }
+                                        selectedAnswer={
+                                            answers[currentQuestionIndex]
+                                        }
+                                        questionNo={currentQuestionIndex}
+                                        onAnswerSelect={handleAnswerSelect}
+                                        resultTrue={true}
+                                    />
+                                )}
+
+                                <div className="flex justify-between mt-10">
+                                    <button
+                                        className="bg-blue-400 hover:bg-blue-500 rounded-lg md:rounded-none font-bold text-white px-2 py-1 md:px-5 md:py-2"
+                                        onClick={handleMarkQuestion}
+                                    >
+                                        Mark for Review
+                                    </button>
+
+                                    <div className="flex">
+                                        <button
+                                            className="bg-red-500 hover:bg-red-600 rounded-lg md:rounded-none font-bold text-white px-2 py-1 md:px-5 md:py-2"
+                                            onClick={() => {
+                                                if (currentQuestionIndex > 0) {
+                                                    setCurrentQuestionIndex(
+                                                        (prev) => prev - 1
+                                                    );
+                                                }
+                                            }}
+                                            disabled={
+                                                currentQuestionIndex === 0
+                                            }
+                                        >
+                                            Previous
+                                        </button>
+                                        <button
+                                            className="bg-green-400 hover:bg-green-500 rounded-lg md:rounded-none font-bold text-white px-2 py-1 md:px-5 md:py-2"
+                                            onClick={() => {
+                                                if (
+                                                    currentQuestionIndex <
+                                                    questions.length - 1
+                                                ) {
+                                                    setCurrentQuestionIndex(
+                                                        (prev) => prev + 1
+                                                    );
+                                                }
+                                            }}
+                                            disabled={
+                                                currentQuestionIndex ===
+                                                questions.length - 1
+                                            }
+                                        >
+                                            Next
+                                        </button>
+                                        <button
+                                            className="bg-blue-500 hover:bg-blue-600 rounded-lg md:rounded-none font-bold text-white px-2 py-1 md:px-5 md:py-2"
+                                            onClick={handleSubmit}
+                                        >
+                                            Submit
+                                        </button>
+                                    </div>
+                                </div>
+                            </>
+                        </section>
+
+                        <section className="w-full md:w-1/5 p-5 flex flex-col gap-2">
+                            <QuestionList
+                                questions={questions}
+                                onNavigateToQuestion={handleNavigateToQuestion}
+                                currentQuestionIndex={currentQuestionIndex}
+                                answers={answers}
+                                markedQuestions={markedQuestions} // Pass markedQuestions here
+                            />
+                        </section>
+                    </div>
+                </>
             )}
         </>
     );

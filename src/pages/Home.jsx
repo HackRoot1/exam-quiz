@@ -42,6 +42,12 @@ const Home = () => {
                     >
                         PPSACI
                     </a>
+                    <a
+                        href="/english-vocabulary"
+                        className="w-full md:w-48 h-20 md:h-48 bg-blue-200 shadow-lg flex justify-center items-center rounded-xl font-bold text-center"
+                    >
+                        English
+                    </a>
                 </div>
             </main>
             <Footer />

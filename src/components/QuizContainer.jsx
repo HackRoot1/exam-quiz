@@ -4,6 +4,7 @@ import Timer from "./Timer";
 import Result from "./Result";
 import QuestionList from "./QuestionList";
 import ppsaciQuestionData from "../data/questions";
+import englishVocabulary from "../data/vocabulary";
 import questionsData from "../data/questionPaperNtpc";
 import { getRandomQuestions } from "../utils/shuffleQuestions";
 import { useLocation } from "react-router-dom";
@@ -19,8 +20,6 @@ const QuizContainer = () => {
     const [hasStarted, setHasStarted] = useState(false);
     const location = useLocation();
 
-    console.log(answers);
-
     useEffect(() => {
         if (location.pathname === "/ntpc-question-paper-1") {
             setQuestions(getRandomQuestions(questionsData, location.pathname));
@@ -31,6 +30,10 @@ const QuizContainer = () => {
         } else if (location.pathname === "/ppsaci-english") {
             setQuestions(
                 getRandomQuestions(ppsaciQuestionData, location.pathname)
+            );
+        } else if (location.pathname === "/english-vocabulary") {
+            setQuestions(
+                getRandomQuestions(englishVocabulary, location.pathname)
             );
         } else if (location.pathname === "/ppsaci-maths-reasoning") {
             setQuestions(
@@ -73,6 +76,7 @@ const QuizContainer = () => {
             setShowMarkedPrompt(true);
         } else {
             setIsSubmitted(true);
+            setCurrentQuestionIndex(0);
         }
     };
 
@@ -85,6 +89,7 @@ const QuizContainer = () => {
     const handleConfirmSubmit = () => {
         setShowMarkedPrompt(false);
         setIsSubmitted(true);
+        setCurrentQuestionIndex(0);
     };
 
     useEffect(() => {
@@ -227,6 +232,45 @@ const QuizContainer = () => {
                                         resultTrue={true}
                                     />
                                 )}
+
+                                <div className="flex justify-end mt-10">
+                                    <div className="flex">
+                                        <button
+                                            className="bg-red-500 hover:bg-red-600 rounded-lg md:rounded-none font-bold text-white px-2 py-1 md:px-5 md:py-2"
+                                            onClick={() => {
+                                                if (currentQuestionIndex > 0) {
+                                                    setCurrentQuestionIndex(
+                                                        (prev) => prev - 1
+                                                    );
+                                                }
+                                            }}
+                                            disabled={
+                                                currentQuestionIndex === 0
+                                            }
+                                        >
+                                            Previous
+                                        </button>
+                                        <button
+                                            className="bg-green-400 hover:bg-green-500 rounded-lg md:rounded-none font-bold text-white px-2 py-1 md:px-5 md:py-2"
+                                            onClick={() => {
+                                                if (
+                                                    currentQuestionIndex <
+                                                    questions.length - 1
+                                                ) {
+                                                    setCurrentQuestionIndex(
+                                                        (prev) => prev + 1
+                                                    );
+                                                }
+                                            }}
+                                            disabled={
+                                                currentQuestionIndex ===
+                                                questions.length - 1
+                                            }
+                                        >
+                                            Next
+                                        </button>
+                                    </div>
+                                </div>
                             </>
                         </section>
 

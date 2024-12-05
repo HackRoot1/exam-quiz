@@ -13,6 +13,10 @@ export const getRandomQuestions = (questions, pathname) => {
         selectedQuestions.push(
             ...questions.english.sort(() => 0.5 - Math.random()).slice(0, 25)
         );
+    } else if (pathname === "/english-vocabulary") {
+        selectedQuestions.push(
+            ...questions.english.sort(() => 0.5 - Math.random()).slice(0, 25)
+        );
     } else if (pathname === "/ppsaci-maths-reasoning") {
         selectedQuestions.push(
             ...questions.mathsReasoning

@@ -1,38 +1,32 @@
-"I have a PDF document containing multiple-choice questions, each with the following format:  
+**Task:** Shuffle the options for each question in the following list.
 
-1. A question, written in plain text.  
-2. Four or more options (e.g., a, b, c, d).  
-3. The correct answer listed after the options.  
+**Instructions:**  
+1. The task involves taking each question in the list and shuffling its options randomly while ensuring that the correct answer remains associated with its option.
+2. The correct answer for each question is already provided in the "answer" field.
+3. After shuffling, the list of options should remain random, with the correct answer still present in the shuffled list.
 
-The task is to:  
-1. Extract all the questions from the PDF sequentially by their question numbers.  
-2. Structure the data into a JSON format as shown below:  
+**Data Format Example (JSON):**
 
 ```json
 {
     "questions": {
         "english": [
             {
-                "id": 1,
-                "question": "What is the capital of France?",
-                "options": ["Paris", "London", "Berlin", "Madrid"],
-                "answer": "Paris"
+                "id": 101,
+                "question": "Decorate",
+                "options": ["रंगवणे", "सजावट करणे", "साध्य करणे", "वाढवणे"],
+                "answer": "सजावट करणे"
             },
             {
-                "id": 2,
-                "question": "What is 2 + 2?",
-                "options": ["3", "4", "5", "6"],
-                "answer": "4"
-            }
+                "id": 102,
+                "question": "Depend",
+                "options": ["अवलंबून असणे", "टाळणे", "वाढवणे", "संपूर्ण करणे"],
+                "answer": "अवलंबून असणे"
+            },
+            ...
         ]
     }
 }
 ```
 
-Make sure to:  
-1. Preserve the original formatting and sequence of the questions.  
-2. Validate that each question includes its options and correct answer.  
-
-If OCR or text recognition is needed, ensure the extracted content is accurate and consistent with the document.  
-
-Output the final JSON structure for review."
+For each question, shuffle the options randomly but keep the correct answer intact.

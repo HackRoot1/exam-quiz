@@ -32,6 +32,7 @@ function App() {
                     />
                     <Route path="/ppsaci-marathi" element={<QuestionPage />} />
                     <Route path="/ppsaci-english" element={<QuestionPage />} />
+                    <Route path="/english-vocabulary" element={<QuestionPage />} />
                     <Route
                         path="/ppsaci-maths-reasoning"
                         element={<QuestionPage />}

@@ -9316,6 +9316,1294 @@ const questions = {
             ],
             answer: "while cleaning",
         },
+        {
+            id: 1088,
+            question:
+                "He asked me if I knew who that girl was. Which one of the following is the correct Yes-No question corresponding to the sentence above?",
+            options: [
+                "Do you know who is that girl?",
+                "Did you know who is that girl?",
+                "Did you know who that girl was?",
+                "Did you ask me who that girl was?",
+            ],
+            answer: "Did you know who that girl was?",
+        },
+        {
+            id: 1089,
+            question:
+                "Change the following simple sentence into compound sentence. To his great disappointment, he failed in the examination.",
+            options: [
+                "He failed in the examination and he was greatly disappointed.",
+                "His great disappointment is he failed in the examination.",
+            ],
+            answer: "He failed in the examination and he was greatly disappointed.",
+        },
+        {
+            id: 1090,
+            question:
+                "Seeta is very beautiful. Tick mark the exclamatory sentence of the given:",
+            options: [
+                "Seeta is really beautiful!",
+                "How beautiful Seeta is!",
+                "What a beauty Seeta has!",
+                "None",
+            ],
+            answer: "How beautiful Seeta is!",
+        },
+        {
+            id: 1091,
+            question:
+                "Choose the correct ‘Exclamatory sentence’ for the given sentence: He is a very stupid boy.",
+            options: [
+                "How a stupid boy he is!",
+                "What a stupid boy is he!",
+                "What a stupid boy he is!",
+                "How stupid boy he is!",
+            ],
+            answer: "What a stupid boy he is!",
+        },
+        {
+            id: 1092,
+            question:
+                "Identify the kind of sentence given below: It's not in my capacity to help him.",
+            options: ["Simple", "Compound", "Complex", "Compound-Complex"],
+            answer: "Simple",
+        },
+        {
+            id: 1093,
+            question:
+                "Change the sentence into exclamatory sentence: I wish I had met you ten years ago.",
+            options: [
+                "Had I met you ten years ago!",
+                "Ah that I had met you ten years ago!",
+                "Ten years ago I met you!",
+                "I met you ten years ago!",
+            ],
+            answer: "Ah that I had met you ten years ago!",
+        },
+        {
+            id: 1094,
+            question:
+                "Now everyone is convinced of your honesty so you are free to go. Identify the type of the sentence.",
+            options: ["Complex", "Compound", "Simple", "Complex-Compound"],
+            answer: "Compound",
+        },
+        {
+            id: 1095,
+            question:
+                "Recognise the type of the following sentence: We appointed her our delegate to the convention.",
+            options: ["Simple", "Compound", "Complex", "Complex-Compound"],
+            answer: "Simple",
+        },
+        {
+            id: 1096,
+            question:
+                "Though she was late, she finished her work in time. Select the correct simple sentence of the above.",
+            options: [
+                "She was late but she finished her work in time.",
+                "In spite of being late, she finished her work in time.",
+            ],
+            answer: "In spite of being late, she finished her work in time.",
+        },
+        {
+            id: 1099,
+            question:
+                "Choose the correct transformation of the following sentences:",
+            options: [
+                "It is a very wonderful opportunity - what a wonderful opportunity!",
+                "It is very kind of you to help him like that - How kind of you to help him like that!",
+                "These are awful shoes - what awful shoes!",
+            ],
+            answer: "All (a), (b), and (c) are correct.",
+        },
+        {
+            id: 1100,
+            question:
+                "Change the compound sentence into complex sentence: Search his pockets and you will find the watch.",
+            options: [
+                "You will find the watch in his pockets.",
+                "Search his pockets to find the watch.",
+                "If you search his pockets, you will find the watch.",
+            ],
+            answer: "If you search his pockets, you will find the watch.",
+        },
+        {
+            id: 1101,
+            question:
+                "Choose the complex sentence among the following examples:",
+            options: [
+                "It is a pity that we should have to undergo this disgrace.",
+                "Our having to undergo this disgrace is a pity.",
+            ],
+            answer: "It is a pity that we should have to undergo this disgrace.",
+        },
+        {
+            id: 1102,
+            question: "Identify the simple sentence.",
+            options: [
+                "He worked hard so that he might gain a prize.",
+                "Having no money, he had to barter goods.",
+                "That was a fault which was not to be forgiven.",
+                "He must confess his fault or he will be fined.",
+            ],
+            answer: "Having no money, he had to barter goods.",
+        },
+        {
+            id: 1103,
+            question:
+                "He has a busy schedule, so he will be late. Which of the following is the simple form of the sentence?",
+            options: [
+                "On account of his busy schedule, he will be late.",
+                "He will be late because his schedule is busy.",
+                "His schedule is busy, that's why he will be late.",
+                "He will be late as his schedule is busy.",
+            ],
+            answer: "On account of his busy schedule, he will be late.",
+        },
+        {
+            id: 1104,
+            question:
+                "Choose the correct exclamatory sentence option of the following statement: It is sad to think that youth should pass away.",
+            options: [
+                "Oh, sad to think that youth should pass away!",
+                "Alas that youth should pass away!",
+                "Wow, youth is so beautiful!",
+                "How if youth will never pass away!",
+            ],
+            answer: "Alas that youth should pass away!",
+        },
+        {
+            id: 1105,
+            question:
+                "Which of the following sentence/sentences is/are correct?",
+            options: [
+                "Going up the hill, an old temple was seen.",
+                "Entering the room, I found the light quite dazzling.",
+                "Standing at the gate, a scorpion stung him.",
+            ],
+            answer: "Entering the room, I found the light quite dazzling.",
+        },
+        {
+            id: 1106,
+            question:
+                "Choose the correct Yes-No type question form for the given example: They go to the park every evening.",
+            options: [
+                "Does they went to the park every evening?",
+                "Did they went to the park every evening?",
+                "Shall they go to the park every evening?",
+                "Do they go to the park every evening?",
+            ],
+            answer: "Do they go to the park every evening?",
+        },
+        {
+            id: 1107,
+            question:
+                "Choose the correct question form of the given sentence: You can weigh these letters.",
+            options: [
+                "Can you weighed these letters?",
+                "Can you weigh these letters?",
+                "Do you weigh these letters?",
+                "Have you weighed these letters?",
+            ],
+            answer: "Can you weigh these letters?",
+        },
+        {
+            id: 1108,
+            question:
+                "As soon as I saw the advertisement, I emailed my C.V. [Make it Negative without changing its meaning]",
+            options: [
+                "I did not see the advertisement and emailed my C.V.",
+                "I saw the advertisement and did not email my C.V.",
+                "I never saw the advertisement but emailed my C.V.",
+                "No sooner did I see the advertisement than I emailed my C.V.",
+            ],
+            answer: "No sooner did I see the advertisement than I emailed my C.V.",
+        },
+        {
+            id: 1109,
+            question:
+                "A rolling stone gathers no mass. Which one of the following sentences is a complex sentence corresponding to the simple sentence above?",
+            options: [
+                "A stone, that rolls, gathers no mass",
+                "A stone, that gathers no mass, rolls.",
+                "A stone that rolls, however, gathers no mass",
+                "A stone which rolls gathers no mass.",
+            ],
+            answer: "A stone which rolls gathers no mass.",
+        },
+        {
+            id: 1110,
+            question:
+                "I am not worried about what he says, _______. Choose the appropriate question tag from the following to fill in the blank.",
+            options: ["am I?", "aren’t I?", "is it?", "don’t I?"],
+            answer: "am I?",
+        },
+        {
+            id: 1111,
+            question:
+                "Choose the correct question tag: We have received all the assignments.",
+            options: ["isn’t it?", "aren’t we?", "didn’t we?", "haven’t we?"],
+            answer: "haven’t we?",
+        },
+        {
+            id: 1112,
+            question: "Choose the appropriate question tag: You’d rather go?",
+            options: [
+                "hadn’t you",
+                "didn’t you",
+                "doesn’t you",
+                "wouldn’t you",
+            ],
+            answer: "wouldn’t you",
+        },
+        {
+            id: 1113,
+            question:
+                "Choose the correct question tag for the following sentence: Being paralytic, he could not walk.",
+            options: ["couldn’t he?", "did he?", "didn’t he?", "could he?"],
+            answer: "could he?",
+        },
+        {
+            id: 1114,
+            question:
+                "Choose the correct question tag: You must not be late, _______",
+            options: [
+                "must you?",
+                "mustn’t you?",
+                "must they?",
+                "mustn’t they",
+            ],
+            answer: "must you?",
+        },
+        {
+            id: 1115,
+            question: "I am punctual, _______?",
+            options: ["don’t I", "aren’t I", "won’t I", "haven’t I"],
+            answer: "aren’t I",
+        },
+        {
+            id: 1116,
+            question: "Close the door, _______?",
+            options: ["don’t you", "aren’t you", "will you", "shall you"],
+            answer: "will you",
+        },
+        {
+            id: 1117,
+            question: "Children love ice-cream, _______?",
+            options: ["do they?", "aren’t they?", "isn’t it?", "don’t they?"],
+            answer: "don’t they?",
+        },
+        {
+            id: 1118,
+            question: "He works very hard, _______?",
+            options: ["doesn’t he", "shouldn’t he", "isn’t he", "won’t he"],
+            answer: "doesn’t he",
+        },
+        {
+            id: 1119,
+            question:
+                "Thank him according to our customs. Identify the sentence entailing the correct question to the above sentence",
+            options: [
+                "Thank him according to our customs, won’t you?",
+                "Thank him according to our customs, will you?",
+                "Thank him according to our customs, do you?",
+                "Thank him according to our customs, don’t you?",
+            ],
+            answer: "Thank him according to our customs, will you?",
+        },
+        {
+            id: 1120,
+            question: "I could do something about that (Add tag question)",
+            options: [
+                "couldn’t I?",
+                "didn’t I?",
+                "wouldn’t I?",
+                "shouldn’t I?",
+            ],
+            answer: "couldn’t I?",
+        },
+        {
+            id: 1121,
+            question:
+                "“You have got a new shirt.” The correct question tag of this sentence is _______",
+            options: [
+                "hasn’t you?",
+                "doesn’t you?",
+                "don’t you?",
+                "haven’t you?",
+            ],
+            answer: "haven’t you?",
+        },
+        {
+            id: 1122,
+            question: "Ramesh is not a teacher. Add a question tag.",
+            options: [
+                "Ramesh is not a teacher, isn’t he?",
+                "Ramesh is not a teacher, is he?",
+                "Ramesh is not a teacher, was he?",
+                "Ramesh is not a teacher, won’t he?",
+            ],
+            answer: "Ramesh is not a teacher, is he?",
+        },
+        {
+            id: 1123,
+            question: "Children like to play, _______?",
+            options: [
+                "don’t they?",
+                "doesn’t he?",
+                "will they?",
+                "doesn’t they?",
+            ],
+            answer: "don’t they?",
+        },
+        {
+            id: 1124,
+            question: "They have received all the books.",
+            options: [
+                "haven’t they?",
+                "didn’t they?",
+                "aren’t they?",
+                "aren’t we?",
+            ],
+            answer: "haven’t they?",
+        },
+        {
+            id: 1125,
+            question: "He will accept the proposal. Add a question tag.",
+            options: ["will he?", "won’t he?", "He won’t?", "He will?"],
+            answer: "won’t he?",
+        },
+        {
+            id: 1126,
+            question:
+                "The prince saw them. Tick mark correct question tag of above statement:",
+            options: ["doesn’t he?", "none", "didn’t he?", "did he?"],
+            answer: "didn’t he?",
+        },
+        {
+            id: 1127,
+            question:
+                "She found a purse full of money, _______? Choose the suitable question tag from the following options.",
+            options: ["didn’t she?", "doesn’t she?", "don’t she?", "will she?"],
+            answer: "didn’t she?",
+        },
+        {
+            id: 1128,
+            question: "Add a question tag. “He does not like you.”",
+            options: [
+                "No, he does not, does he?",
+                "You are not liked by him, does he?",
+                "Does he like you?",
+                "You are liked, isn’t it?",
+            ],
+            answer: "No, he does not, does he?",
+        },
+        {
+            id: 1129,
+            question:
+                "I am not worried about what he says — Choose the appropriate question tag from the following to fill in the blank.",
+            options: ["am I?", "aren’t I?", "isn’t it?", "don’t I?"],
+            answer: "am I?",
+        },
+        {
+            id: 1130,
+            question: "Use your common sense _______? Supply a question tag.",
+            options: ["won’t you?", "can’t you", "will you?", "shouldn’t you?"],
+            answer: "won’t you?",
+        },
+        {
+            id: 1131,
+            question:
+                "Pick out the question tag correctly for the following sentence: “She could not say it.”",
+            options: ["could she?", "can she?", "couldn’t she?", "can’t she?"],
+            answer: "could she?",
+        },
+        {
+            id: 1132,
+            question:
+                "Pick out the correct question tag to the following sentence. Animals also need space.",
+            options: [
+                "don’t they?",
+                "aren’t they?",
+                "can’t they?",
+                "was they?",
+            ],
+            answer: "don’t they?",
+        },
+        {
+            id: 1133,
+            question:
+                "Pick out the correct question tag to the following sentence. Tomorrow is Monday.",
+            options: ["isn’t it?", "aren’t it?", "can it", "wasn't it?"],
+            answer: "isn’t it?",
+        },
+        {
+            id: 1134,
+            question:
+                "The bags are on the table. Which one of the following is a correct tag question to the above sentence?",
+            options: [
+                "Are they?",
+                "aren’t the bags?",
+                "aren’t they?",
+                "isn’t the table?",
+            ],
+            answer: "aren’t they?",
+        },
+        {
+            id: 1135,
+            question:
+                "Maya seldom visits Mina and Company. Choose the correct question tag.",
+            options: ["does she?", "doesn’t she?", "did she?", "didn’t she?"],
+            answer: "does she?",
+        },
+        {
+            id: 1136,
+            question:
+                "Pick out the correct question tag for the following: You will call me as soon as you reach home, _______",
+            options: ["will you?", "won’t you?", "don’t you?", "do you?"],
+            answer: "won’t you?",
+        },
+        {
+            id: 1137,
+            question: "She’s right _______? Choose the correct option:",
+            options: ["is the", "isn’t it", "she is", "isn’t she"],
+            answer: "isn’t she",
+        },
+        {
+            id: 1138,
+            question:
+                "You thought it was still six _______? Pick out the correct alternative to complete the sentence.",
+            options: ["did you?", "didn’t you?", "was it?", "wasn’t you?"],
+            answer: "didn’t you?",
+        },
+        {
+            id: 1139,
+            question:
+                "Peter broke a jug, _______ Choose the correct question tag from the following alternatives to fill in the blank:",
+            options: ["didn’t he?", "did he?", "didn’t Peter?", "does he?"],
+            answer: "didn’t he?",
+        },
+        {
+            id: 1140,
+            question: "Choose the correct sentence from the following:",
+            options: [
+                "Many Indians are working in Dubai, isn’t it?",
+                "Many Indians work in Dubai, don’t they?",
+                "Many Indians work in Dubai, isn't it?",
+                "Many Indians work in Dubai, aren’t they?",
+            ],
+            answer: "Many Indians work in Dubai, don’t they?",
+        },
+        {
+            id: 1141,
+            question: "Choose the correct question tag for ‘You can drive’.",
+            options: ["can’t you?", "can you?", "don’t you?", "won't you?"],
+            answer: "can’t you?",
+        },
+        {
+            id: 1142,
+            question:
+                "She was happy to come, _______? Complete the sentence with the correct Question Tag.",
+            options: ["was she?", "were she?", "wasn’t she?", "she was?"],
+            answer: "wasn’t she?",
+        },
+        {
+            id: 1143,
+            question:
+                "Pick out the correct ‘question tag’ for the following sentence. John has a bad cold.",
+            options: ["has he?", "hasn’t he?", "did he?", "haven’t he?"],
+            answer: "hasn’t he?",
+        },
+        {
+            id: 1144,
+            question:
+                "Pick out the correct question tag to the following sentence: Amrita speaks German fluently.",
+            options: ["doesn’t she?", "don’t she?", "does she?", "isn’t she?"],
+            answer: "doesn’t she?",
+        },
+        {
+            id: 1145,
+            question:
+                "Few people knew the answer, _______? Which will be the correct question tag of the above sentence?",
+            options: ["do they?", "don’t they?", "did they?", "didn’t they?"],
+            answer: "did they?",
+        },
+        {
+            id: 1146,
+            question:
+                "Fill in the blank with an appropriate question tag. ‘You hadn’t finished your work by noon, _______?",
+            options: ["isn’t it?", "had you?", "hadn’t you?", "have you?"],
+            answer: "had you?",
+        },
+        {
+            id: 1147,
+            question:
+                "Let’s have a game of cricket. ‘Which one of the following is the correct tag question to be added to the above statement?",
+            options: ["have we?", "haven’t we?", "should we?", "shall we?"],
+            answer: "shall we?",
+        },
+        {
+            id: 1148,
+            question: "Select the correct sentence.",
+            options: [
+                "Everyone warned you, didn’t they?",
+                "I'm living in London, Are you?",
+            ],
+            answer: "Everyone warned you, didn’t they?",
+        },
+        {
+            id: 1149,
+            question: "Choose the option containing correct sentences.",
+            options: [
+                "Few people knew the answer, did they?",
+                "A little progress has been made, has it?",
+                "We could scarcely hear what he said, could we?",
+            ],
+            answer: "Few people knew the answer, did they? and We could scarcely hear what he said, could we?",
+        },
+        {
+            id: 1150,
+            question: "Identify the correct sentence/s.",
+            options: [
+                "You need not be in such a hurry, need you?",
+                "We used to play here, don’t we?",
+                "Call the doctor, don’t you?",
+                "Let’s go now, shall we?",
+            ],
+            answer: "You need not be in such a hurry, need you? and Let’s go now, shall we?",
+        },
+        {
+            id: 1151,
+            question: "Point out the sentence that has a correct question tag.",
+            options: [
+                "There is a lot of traffic in the evening, isn’t it?",
+                "Shekhar will not be here soon, won't he?",
+                "It is a nice morning, isn’t it?",
+                "Let’s go out for dining, should we?",
+            ],
+            answer: "It is a nice morning, isn’t it?",
+        },
+        {
+            id: 1152,
+            question:
+                "None of us knew the way. The correct tag question for the sentence above is _______",
+            options: ["did we?", "did us?", "didn't we?", "didn't us?"],
+            answer: "did we?",
+        },
+        {
+            id: 1153,
+            question:
+                "My mother would lift me up. Select the correct tag question to the sentence.",
+            options: ["Wouldn't she?", "Wouldn't I?", "Would she?", "Would I?"],
+            answer: "Wouldn't she?",
+        },
+        {
+            id: 1154,
+            question:
+                "None of us knew the way. Which one of the following is the correct Tag question corresponding to the sentence above?",
+            options: ["didn’t we?", "did we?", "did none?", "did not of us?"],
+            answer: "did we?",
+        },
+        {
+            id: 1155,
+            question: "Fill in the blanks in the given conversation.",
+            options: [
+                "Mukesh : Well, we need a menu, _______? John: We haven't got one here, _______?",
+                "isn’t it, is it not",
+                "don’t we, have we",
+                "do we, haven’t we",
+                "haven’t we, have we",
+            ],
+            answer: "don’t we, have we",
+        },
+        {
+            id: 1156,
+            question: "Identify the correct sentence/s.",
+            options: [
+                "I have a camera, haven’t I?",
+                "Stop that noise, will you?",
+                "I had had a bath, hadn’t I?",
+            ],
+            answer: "Stop that noise, will you? and I had had a bath, hadn’t I?",
+        },
+        {
+            id: 1157,
+            question: "Select the accurate meaning of 'Vamoose'",
+            options: ["to depart quickly", "to and fro", "shrink", "jump over"],
+            answer: "to depart quickly",
+        },
+        {
+            id: 1158,
+            question: "Select the correct synonym of 'Precious'",
+            options: ["Worthless", "Valuable", "Cheap", "Contemptible"],
+            answer: "Valuable",
+        },
+        {
+            id: 1159,
+            question:
+                "Choose the word which will substitute the bold word/group of words: They discussed for almost four hours but there was no consensus.",
+            options: ["agreement", "settlement", "end", "unity"],
+            answer: "agreement",
+        },
+        {
+            id: 1160,
+            question: "Choose the correct synonym of 'Sections'",
+            options: [
+                "collection of thoughts",
+                "combination of units",
+                "bunch of articles",
+                "groups of people",
+            ],
+            answer: "groups of people",
+        },
+        {
+            id: 1161,
+            question: "Choose the correct synonym of 'Predominantly'",
+            options: ["mostly", "extraordinary", "forcefully", "apparently"],
+            answer: "mostly",
+        },
+        {
+            id: 1162,
+            question: "Choose the correct synonym of 'Enlightened'",
+            options: [
+                "clearly visible",
+                "shining brightly",
+                "fully awakened",
+                "economically privileged",
+            ],
+            answer: "fully awakened",
+        },
+        {
+            id: 1163,
+            question: "Herculean means _______",
+            options: [
+                "showing weakness",
+                "showing love for birds",
+                "showing great strength",
+                "showing regards for women",
+            ],
+            answer: "showing great strength",
+        },
+        {
+            id: 1164,
+            question:
+                "Choose one of the alternatives nearest in meaning to the Key-word: MALEVOLENT",
+            options: [
+                "extremely violent",
+                "wishing evil towards others",
+                "in poor voice",
+                "insane",
+            ],
+            answer: "wishing evil towards others",
+        },
+        {
+            id: 1165,
+            question: "Select the correct synonym of ‘Individualist’",
+            options: [
+                "showing friendliness",
+                "Conformist",
+                "elite",
+                "supporter of the complete liberty of belief of individuals",
+            ],
+            answer: "supporter of the complete liberty of belief of individuals",
+        },
+        {
+            id: 1166,
+            question: "Find out the word similar in meaning to Sycophants.",
+            options: ["flippant", "flatterers", "psychopaths", "sadists"],
+            answer: "flatterers",
+        },
+        {
+            id: 1167,
+            question:
+                "Which one of the following pairs of alternatives is correct giving the two meanings of the word 'Submit'?",
+            options: [
+                "to consider & to urge",
+                "to yield & to offer",
+                "to evade & to expose",
+                "to sign & to rebel",
+            ],
+            answer: "to yield & to offer",
+        },
+        {
+            id: 1168,
+            question:
+                "Select the correct meaning of the underlined word: Murder can be a capital offence.",
+            options: ["excellent", "chief", "punishable by death", "wealth"],
+            answer: "punishable by death",
+        },
+        {
+            id: 1169,
+            question:
+                "Choose the word which is nearest in meaning to the word 'conventional'",
+            options: ["modern", "convenient", "democratic", "customary"],
+            answer: "customary",
+        },
+        {
+            id: 1170,
+            question:
+                "Which one of the following is a pair of words not the same in meaning?",
+            options: [
+                "perennial - permanent",
+                "periphery - partial",
+                "dictionary - lexicon",
+                "podium - dais",
+            ],
+            answer: "periphery - partial",
+        },
+        {
+            id: 1171,
+            question: "Find out the correct meaning of ‘solitary’.",
+            options: ["Singular", "Lonely", "Crowded", "Spectacular"],
+            answer: "Lonely",
+        },
+        {
+            id: 1172,
+            question: "His son is industrious. The underlined word means ...",
+            options: [
+                "Industrial",
+                "indulgent",
+                "hardworking",
+                "hardly working",
+            ],
+            answer: "hardworking",
+        },
+        {
+            id: 1173,
+            question:
+                "Three meanings given below are closer to the word ‘integrate’. Choose the one which is wrong.",
+            options: [
+                "Combine parts into a whole.",
+                "Complete by adding parts.",
+                "Join with other social groups or different races.",
+                "Make something by mixing or blending.",
+            ],
+            answer: "Make something by mixing or blending.",
+        },
+        {
+            id: 1174,
+            question:
+                "What is the correct meaning of the word 'credentials' in the sentence: “It is often necessary to submit one’s credentials at the time of interview.”?",
+            options: [
+                "a bank statement",
+                "a letter written in one’s mother tongue",
+                "secret letter",
+                "a letter of a person’s position & trustworthiness",
+            ],
+            answer: "a letter of a person’s position & trustworthiness",
+        },
+        {
+            id: 1175,
+            question:
+                "Select the correct pair of the meanings of the words ‘vale’ and ‘veil’.",
+            options: [
+                "proud : vessel",
+                "useless : utensil",
+                "valley : covering of the face",
+                "velvet : vine",
+            ],
+            answer: "valley : covering of the face",
+        },
+        {
+            id: 1176,
+            question: "Choose the correct synonym of ‘Contradict’",
+            options: ["deny", "accept", "inform", "current"],
+            answer: "deny",
+        },
+        {
+            id: 1177,
+            question:
+                "Which one of the following is a pair of words not the same in meaning?",
+            options: [
+                "advise - inform",
+                "extension - enlargement",
+                "installed - set-up",
+                "fat - thin",
+            ],
+            answer: "advise - inform",
+        },
+        {
+            id: 1178,
+            question:
+                "Select the correct meaning of the underlined word: There is a great affinity between trees and men.",
+            options: ["compassion", "respect", "resemblance", "proximity"],
+            answer: "resemblance",
+        },
+        {
+            id: 1179,
+            question:
+                "What does 'Credulous' mean in the sentence: 'Credulous people accept all the promises of the politicians.'?",
+            options: [
+                "those who believe readily",
+                "kind hearted",
+                "generous",
+                "soft-spoken",
+            ],
+            answer: "those who believe readily",
+        },
+        {
+            id: 1180,
+            question:
+                "You have to wait for ten minutes to break your fast as the clock is fast by ten minutes. Pick out the pair reflecting the meaning of the underlined words in the same order.",
+            options: [
+                "firm - highspeed",
+                "ahead - firm",
+                "starving - high speed",
+                "starving - ahead",
+            ],
+            answer: "starving - ahead",
+        },
+        {
+            id: 1181,
+            question:
+                "Choose the word which is nearest in meaning to the word ‘absurd’.",
+            options: ["wrong", "accurate", "adequate", "inconsistent"],
+            answer: "inconsistent",
+        },
+        {
+            id: 1182,
+            question:
+                "Which of the following is a pair of words not the same in meaning?",
+            options: [
+                "acknowledge - admit",
+                "defend - protect",
+                "sensible - sensitive",
+                "efficient - capable",
+            ],
+            answer: "sensible - sensitive",
+        },
+        {
+            id: 1183,
+            question: "Choose the correct alternative. 'Adulteration’ means:",
+            options: [
+                "voluntary offer",
+                "becoming adult",
+                "making impure",
+                "less in weight",
+            ],
+            answer: "making impure",
+        },
+        {
+            id: 1184,
+            question:
+                "Choose the word which is nearest in meaning to the word 'decease':",
+            options: ["death", "disease", "malady", "injury"],
+            answer: "death",
+        },
+        {
+            id: 1185,
+            question:
+                "Which one of the following is the nearest meaning to the word 'static' as used in the passage?",
+            options: ["unchangeable", "dynamic", "changing", "dimension"],
+            answer: "unchangeable",
+        },
+        {
+            id: 1186,
+            question:
+                "He is every inch a gentleman. Which of the following options best expresses the meaning of the underlined part of the above sentence?",
+            options: ["completely", "partly", "only an inch", "part of inch"],
+            answer: "completely",
+        },
+        {
+            id: 1187,
+            question:
+                "Find out the correct meaning of the following sentence from the given alternatives : The batsman was a sheet anchor to his side as he scored a century.",
+            options: [
+                "The batsman was a good person.",
+                "The batsman was an excellent player.",
+                "The batsman was the chief support.",
+                "The batsman was one of the supports.",
+            ],
+            answer: "The batsman was the chief support.",
+        },
+        {
+            id: 1188,
+            question: "Identify the correct meaning of the expression: viz.",
+            options: ["Namely", "Contrary", "In fact", "In short"],
+            answer: "Namely",
+        },
+        {
+            id: 1189,
+            question:
+                "Choose the word similar in meaning with the word 'Artisan'",
+            options: ["Artist", "Writer", "Craft", "Craftsman"],
+            answer: "Craftsman",
+        },
+        {
+            id: 1190,
+            question: "Choose appropriate synonym for the word ‘Emphasize’.",
+            options: ["Huge", "Stress", "Trace", "Big"],
+            answer: "Stress",
+        },
+        {
+            id: 1191,
+            question: "Choose appropriate synonym for the word 'Auxiliary'",
+            options: ["Subsidiary", "Regent", "Superior", "Oxygen"],
+            answer: "Subsidiary",
+        },
+        {
+            id: 1192,
+            question:
+                "Find out the correct synonyms from the following - ‘Excellent’",
+            options: ["superior", "minor", "Inferior", "major"],
+            answer: "superior",
+        },
+        {
+            id: 1193,
+            question: "COARSE",
+            options: ["academic", "training", "rough", "grain"],
+            answer: "rough",
+        },
+        {
+            id: 1194,
+            question: "IRREPROACHABLE",
+            options: ["remarkable", "immense", "extraordinary", "faultless"],
+            answer: "faultless",
+        },
+        {
+            id: 1195,
+            question: "PRONE",
+            options: ["inclined", "prominent", "deleterious", "absorbed"],
+            answer: "inclined",
+        },
+        {
+            id: 1196,
+            question: "NIMBLE",
+            options: ["clumsy", "agile", "honest", "needless"],
+            answer: "agile",
+        },
+        {
+            id: 1197,
+            question: "PRODIGAL",
+            options: ["huge", "enormous", "wasteful", "prodigious"],
+            answer: "wasteful",
+        },
+        {
+            id: 1198,
+            question: "PARITY",
+            options: ["Similarity", "Vicinity", "Originality", "Versatility"],
+            answer: "Similarity",
+        },
+        {
+            id: 1199,
+            question: "CHRONIC",
+            options: ["Infectious", "Deep-rooted", "incurable", "Contagious"],
+            answer: "Deep-rooted",
+        },
+        {
+            id: 1200,
+            question: "SPORADIC",
+            options: ["frequent", "scattered", "irregular", "irksome"],
+            answer: "irregular",
+        },
+        {
+            id: 1201,
+            question: "CLEMENCY",
+            options: ["Mercy", "Patience", "Politeness", "Relaxed attitude"],
+            answer: "Mercy",
+        },
+        {
+            id: 1202,
+            question: "ABNEGATION",
+            options: [
+                "Abomination",
+                "consummation",
+                "abolition",
+                "renunciation",
+            ],
+            answer: "renunciation",
+        },
+        {
+            id: 1203,
+            question: "TACITURN",
+            options: ["uncommunicative", "timid", "verbose", "fiery"],
+            answer: "uncommunicative",
+        },
+        {
+            id: 1204,
+            question: "GREGARIOUS",
+            options: ["talkative", "sociable", "pugnacious", "impudent"],
+            answer: "sociable",
+        },
+        {
+            id: 1205,
+            question: "'Social malady' refers to.",
+            options: ["population", "Growth", "poverty", "None of above"],
+            answer: "poverty",
+        },
+        {
+            id: 1206,
+            question: "Riot",
+            options: ["order", "disorder", "law", "peace"],
+            answer: "disorder",
+        },
+        {
+            id: 1207,
+            question: "Contentment",
+            options: [
+                "Satisfaction",
+                "dissatisfaction",
+                "bitterness",
+                "discontent",
+            ],
+            answer: "Satisfaction",
+        },
+        {
+            id: 1208,
+            question: "CANDID :",
+            options: ["kind", "generous", "frank", "courteous"],
+            answer: "frank",
+        },
+        {
+            id: 1209,
+            question: "DILIGENT",
+            options: ["brave", "fake", "optimistic", "industrious"],
+            answer: "industrious",
+        },
+        {
+            id: 1210,
+            question: "RUDIMENTARY",
+            options: ["rude", "powerful", "basic", "rumour"],
+            answer: "basic",
+        },
+        {
+            id: 1211,
+            question: "Indeed",
+            options: ["Actually", "Fortunately", "Unfortunately", "Mainly"],
+            answer: "Actually",
+        },
+        {
+            id: 1212,
+            question: "Publish",
+            options: ["Adopt", "Accept", "Promulgate", "Refuse"],
+            answer: "Promulgate",
+        },
+        {
+            id: 1213,
+            question: "The Sun was at its Zenith",
+            options: ["The Sun Set", "The Sun lower", "Sunshine", "None"],
+            answer: "None",
+        },
+        {
+            id: 1214,
+            question: "Alpha & Omega",
+            options: [
+                "A to Z",
+                "Start to End",
+                "start to finish",
+                "None of these",
+            ],
+            answer: "A to Z",
+        },
+        {
+            id: 1215,
+            question: "CORPORAL",
+            options: ["Spiritual", "Moral", "Physical", "Intellectual"],
+            answer: "Physical",
+        },
+        {
+            id: 1216,
+            question: "BLUNDER",
+            options: ["Correct", "Real", "Mistake", "Strong"],
+            answer: "Mistake",
+        },
+        {
+            id: 1217,
+            question: "Select the correct synonym of “Transparent’.",
+            options: ["Clear", "Opaque", "Hazy", "Unclear"],
+            answer: "Clear",
+        },
+        {
+            id: 1218,
+            question:
+                "Select the correct meaning of the underlined word in the sentence. The modern man has grown too materialistic.",
+            options: ["Rich", "Worldly", "Humane", "Callous"],
+            answer: "Worldly",
+        },
+        {
+            id: 1219,
+            question: "Select the accurate meaning of ‘Admonish’",
+            options: ["warning", "punishment", "sentence", "freedom"],
+            answer: "warning",
+        },
+        {
+            id: 1220,
+            question: "She is really fantastic girl. (Choose Similar Word)",
+            options: ["Beautiful", "Intelligent", "Charming", "Wonderful"],
+            answer: "Wonderful",
+        },
+        {
+            id: 1221,
+            question:
+                "Choose the word which is similar in meaning to the given three words: Ceremony, Convention, Custom.",
+            options: ["Communication", "Propitiation", "Ritual", "Sacrifice"],
+            answer: "Ritual",
+        },
+        {
+            id: 1222,
+            question:
+                "Choose the one which best expresses the meaning of the given word: Indolence",
+            options: ["Leniency", "Laziness", "Relaxation", "Stagnation"],
+            answer: "Laziness",
+        },
+        {
+            id: 1223,
+            question:
+                "Choose the correct ‘synonym’ for the given word: direction:",
+            options: ["notice", "instruction", "information", "action"],
+            answer: "instruction",
+        },
+        {
+            id: 1224,
+            question: "Select the synonym ‘PRECIOUS’",
+            options: ["estimated", "marketed", "available", "valuable"],
+            answer: "valuable",
+        },
+        {
+            id: 1225,
+            question:
+                "The end of his working life, the masterly touch of former years was lost. Choose the synonym for the word underlined.",
+            options: ["bossy", "manly", "old fashioned", "skilful"],
+            answer: "skilful",
+        },
+        {
+            id: 1226,
+            question: "Give synonym of : ‘Paternal’",
+            options: [
+                "related to another",
+                "Patterns to divide things",
+                "petals of flower",
+                "Related to father",
+            ],
+            answer: "Related to father",
+        },
+        {
+            id: 1227,
+            question: "Give synonym of : ‘Dishy’",
+            options: [
+                "dashing",
+                "showy",
+                "sexually attractive",
+                "A container of cooking",
+            ],
+            answer: "sexually attractive",
+        },
+        {
+            id: 1228,
+            question: "Choose the word which has familiar meaning to “decree!”",
+            options: ["death", "degree", "order", "declare"],
+            answer: "order",
+        },
+        {
+            id: 1229,
+            question: "Pick out the synonym of : Debilitating",
+            options: [
+                "shameful",
+                "depressing",
+                "encouraging",
+                "weak and fable",
+            ],
+            answer: "weak and fable",
+        },
+        {
+            id: 1230,
+            question: "Choose the correct synonym of — ‘accurate.’",
+            options: ["correct", "right", "exact", "up to the mark"],
+            answer: "exact",
+        },
+        {
+            id: 1231,
+            question: "Choose the correct synonym of — ‘oral.’",
+            options: ["by mouth", "using words", "circular", "dental"],
+            answer: "by mouth",
+        },
+        {
+            id: 1232,
+            question: "Choose the correct synonym of — ‘street.’",
+            options: ["Road", "Avenue", "Airway", "Straight"],
+            answer: "Avenue",
+        },
+        {
+            id: 1233,
+            question: "Choose the correct synonym of — ‘Town.’",
+            options: ["village", "cantonment", "city", "capital"],
+            answer: "city",
+        },
+        {
+            id: 1234,
+            question:
+                "“Callous’ has a meaning very near to one of the following words, which is it?",
+            options: ["law", "brittle", "base", "insensitive"],
+            answer: "insensitive",
+        },
+        {
+            id: 1235,
+            question: "The synonym of — ‘fanciful.’",
+            options: ["beautiful", "imaginative", "romantic", "fashion"],
+            answer: "imaginative",
+        },
+        {
+            id: 1236,
+            question: "‘The synonym of — “fictitious’ is",
+            options: ["false", "foul", "fraud", "faltering"],
+            answer: "false",
+        },
+        {
+            id: 1237,
+            question: "The synonym of ‘fortitude’ is",
+            options: ["envy", "hope", "falsity", "courage"],
+            answer: "courage",
+        },
+        {
+            id: 1238,
+            question: "In illness you must abstain from greasy food.",
+            options: ["keep away", "eat", "carry on", "with"],
+            answer: "keep away",
+        },
+        {
+            id: 1239,
+            question: "He is too intelligent not to solve this knotty problem.",
+            options: ["serious", "tangled", "universal", "petty"],
+            answer: "tangled",
+        },
+        {
+            id: 1240,
+            question:
+                "As that crucial moment, we prayed to god to come to our rescue.",
+            options: ["dangerous", "dreadful", "critical", "none of these"],
+            answer: "critical",
+        },
+        {
+            id: 1241,
+            question: "It is certain that your choice will be her aversion.",
+            options: ["liking", "preference", "priority", "dislike"],
+            answer: "dislike",
+        },
+        {
+            id: 1242,
+            question:
+                "Humility means politeness: Which of the following words is a synonym of it.",
+            options: ["Modesty", "mirth", "frugal", "frown"],
+            answer: "Modesty",
+        },
+        {
+            id: 1243,
+            question: "Choose the correct synonym of — Profusely.",
+            options: ["abundantly", "clumsily", "promptly", "knowing"],
+            answer: "abundantly",
+        },
+        {
+            id: 1244,
+            question: "Choose the correct synonym of — sufficient.",
+            options: ["much", "scarce", "enough", "tolerate"],
+            answer: "enough",
+        },
+        {
+            id: 1245,
+            question: "Choose the correct synonym of — Elegant.",
+            options: ["intelligent", "refined", "intimate", "frugal"],
+            answer: "refined",
+        },
     ],
     marathi: [
         {
@@ -10325,14 +11613,14 @@ const questions = {
     ],
     mathsAlgebra: [
         {
-            id: 19,
-            question: "2 + 2 = ?",
-            options: ["3", "4", "5", "6"],
-            answer: "4",
+            id: 1,
+            question: "बांधकामाचे एक कंत्राट विवक्षित तारखेपर्यंत काम पूर्ण न झाल्यास पुढील दंडाची तरतूद करते : पहिल्या दिवसासाठी 200रू, दुसऱ्या दिवसासाठी 250रू, तिसऱ्या दिवसासाठी 300रू अशाप्रकारे पुढच्या प्रत्येक दिवसासाठी मागच्या दिवसापेक्षा 50रू जास्त. 10 दिवसांचा विलंब केल्यास कंत्राटदारास किती दंड भरावा 2 लागेल?",
+            options: ["4950 रू", "4250 रू", "3600 रू", "650 रू"],
+            answer: "4250 रू",
         },
         {
-            id: 20,
-            question: "5 * 3 = ?",
+            id: 2,
+            question: "",
             options: ["15", "10", "8", "12"],
             answer: "15",
         },

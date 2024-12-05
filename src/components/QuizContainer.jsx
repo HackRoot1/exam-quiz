@@ -207,6 +207,7 @@ const QuizContainer = () => {
                                 currentQuestionIndex={currentQuestionIndex}
                                 answers={answers}
                                 markedQuestions={markedQuestions} // Pass markedQuestions here
+                                resultTrue={false}
                             />
                         </section>
                     </div>
@@ -281,6 +282,7 @@ const QuizContainer = () => {
                                 currentQuestionIndex={currentQuestionIndex}
                                 answers={answers}
                                 markedQuestions={markedQuestions} // Pass markedQuestions here
+                                resultTrue={true}
                             />
                         </section>
                     </div>

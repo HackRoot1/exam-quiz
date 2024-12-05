@@ -6,6 +6,7 @@ const QuestionList = ({
     currentQuestionIndex,
     answers,
     markedQuestions,
+    resultTrue,
 }) => {
     return (
         <div className="flex flex-col gap-5 cursor-pointer md:h-96">
@@ -46,19 +47,46 @@ const QuestionList = ({
                     else if (isMarked) bgColor = "bg-yellow-400 text-black";
 
                     return (
-                        <div key={index}>
-                            <button
-                                className={`h-[50px] w-[50px] flex justify-center items-center ${bgColor} ${
-                                    index === currentQuestionIndex
-                                        ? "border-2 border-blue-500"
-                                        : ""
-                                }`}
-                                onClick={() => onNavigateToQuestion(index)}
-                                aria-label={`Question ${index + 1}`}
-                            >
-                                {index + 1}
-                            </button>
-                        </div>
+                        <>
+                            {resultTrue ? (
+                                <>
+                                    <div key={index}>
+                                        <button
+                                            className={`h-[50px] w-[50px] flex justify-center items-center ${
+                                                answers[index] ===
+                                                questions[index].answer
+                                                    ? "border-2 bg-green-500"
+                                                    : "border-2 bg-red-500"
+                                            }`}
+                                            onClick={() =>
+                                                onNavigateToQuestion(index)
+                                            }
+                                            aria-label={`Question ${index + 1}`}
+                                        >
+                                            {index + 1}
+                                        </button>
+                                    </div>
+                                </>
+                            ) : (
+                                <>
+                                    <div key={index}>
+                                        <button
+                                            className={`h-[50px] w-[50px] flex justify-center items-center ${bgColor} ${
+                                                index === currentQuestionIndex
+                                                    ? "border-2 border-blue-500"
+                                                    : ""
+                                            }`}
+                                            onClick={() =>
+                                                onNavigateToQuestion(index)
+                                            }
+                                            aria-label={`Question ${index + 1}`}
+                                        >
+                                            {index + 1}
+                                        </button>
+                                    </div>
+                                </>
+                            )}
+                        </>
                     );
                 })}
             </div>

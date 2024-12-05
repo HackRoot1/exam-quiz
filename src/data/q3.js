@@ -1,422 +1,296 @@
-101) Decorate         सजावट करणे         
-102) Depend           अवलंबून असणे       
-103) Destroy          नष्ट करणे        
-104) Discover         शोध लावणे        
-105) Divide           विभागणे         
-106) Delay            विलंब करणे        
-107) Demand           मागणी करणे        
-108) Drag             ओढणे            
-109) Earn             कमवणे           
-110) Ease             आराम करणे       
-111) Eat              खा             
-112) Educate          शिक्षित करणे     
-113) Elect            निवडणे          
-114) Employ           नोकरीला ठेवणे    
-115) End              समाप्त होणे       
-116) Enter            प्रवेश करणे      
-117) Establish        स्थापन करणे      
-118) Estimate         अंदाज लावणे       
-119) Exist            अस्तित्व असणे     
-120) Expand           विस्तार करणे      
-121) Excuse           माफी मागणे       
-122) Explain          समजावून सांगणे   
-123) Encourage        प्रोत्साहन देणे    
-124) Express          व्यक्त करणे       
-125) Expose           उघड करणे      
-   
-126) Evacuate         सुरक्षित स्थळी जाणे
-127) Evolve           विकसित होणे      
-128) Engage           गुंतवणूक करणे    
-129) Emphasize        भर देणे          
-130) Enjoy            आनंद घेणे           
-131) Erect            उभा करणे            
-132) Enable           सक्षम करणे           
-133) Exaggerate       अतिशयोक्ती करणे     
-134) Evoke            जागृत करणे          
-135) Elevate          उंचावणे             
-136) Eliminate        वगळणे              
-137) Escape           पळून जाणे           
-138) Emerge           उभरून येणे          
-139) Examine          | तपासणी करणे      
-140) Finish           पूर्ण करणे           
-141) Fix              दुरुस्त करणे         
-142) Follow           अनुसरण करणे         
-143) Fail             अपयशी होणे          
-144) Fasten           घट्ट करणे           
-145) Fear             घाबरणे               
-146) Fall             पडणे                
-147) Feed             खाऊ घालणे           
-148) Fetch            आणणे                
-149) Forgive          माफ करणे            
-150) ) Freeze           गोठवणे              
-151) Flow             वहावे               
-152) Fulfill          पूर्ण करणे           
-153) Forget           विसरणे              
-154) Flatter          चापलूसी करणे        
-155) Frown            नाक मुरडणे          
-156) Fast             उपास करणे           
-157) Fertilize        खत घालणे           
-158) Fight            लढाई करणे         
-159) Fund             निधी गोळा करणे    
-160) Flinch           थोडासा मागे सरकणे  
-161) Fluff            गुळगुळीत करणे      
-162) Fool             मूर्ख बनवणे         
-163) Flick            हलका धक्का देणे    
-164) Feature          वैशिष्ट्य करणे      
-165) Fold             तुकड्यांत मोडणे     
-166) Find             शोधून काढणे        
-167) Form             आकार घेणे          
-168) Gain             मिळवणे            
-169) Gather           गोळा करणे          
-170) Grab             पकडणे             
-171) Guess            अंदाज लावणे         
-172) Guide            मार्गदर्शन करणे     
-173) Go               जा                
-174) Give             द्या               
-175) Guard            रक्षण करणे         
-176) Grant            मंजूर करणे         
-177) Grin             हसणे               
-178) Grasp            पकडणे             
-179) Grip             घट्ट पकडणे        
-180) Grind            पीसणे              
-181) Glance           एक नजर टाकणे       
-182) Glide            सरकणे              
-183) Grow             वाढवणे             
-184) Gamble           जुगार खेळणे        
-185) Gallop           (घोडा)       
-186) Grapple          संघर्ष करणे        
-187) Glisten          चमकणे              
-188) Glimmer          चमकणे              
-189) Groan            करकचणे             
-190) Growl            (प्राणी)     
-191) Gust             झपाटणे             
-192) Grapple          संघर्ष करणे        
-193) Grumble          कुंठणे              
-194) Gallivant        भटकणे              
-195) Grumble          कुंठणे              
-196) Germinate        अंकुरित होणे       
-197) Harvest          पीक काढणे          
-198) Hate             द्वेष करणे          
-199) Have             असणे               
-200) Hear             ऐकणे               
-201) Help             मदत करणे           
-202) Hope             आशा करणे           
-203) Hug              आलिंगन करणे        
-204) Hurt             दुखावणे             
-205) Hide             लपवणे               
-206) Hold             धरून ठेवा          
-207) Hit              मारणे               
-208) Handle           हाताळणे             
-209) Hurry            घाई करणे           
-210) Happen           घडणे               
-211) Heal             बरे करणे             
-212) Hang             लटकवणे              
-213) Harm             हानी करणे            
-214) Hinder           अडथळा आणणे          
-215) Hope             आशा करणे            
-216) Hunt             शिकार करणे           
-217) Hug              आलिंगन करणे         
-218) Hover            उडवणे                
-219) Heat             तापवणे               
-220) Hide             लपवणे                
-221) Heave            उचलणे                
-222) Hurl             फेकणे                
-223) Hasten           घाई करणे            
-224) Hum              गाणे                 
-225) Hack             हॅक करणे             
 226) Harbor           आश्रय देणे           
 227) Hesitate         संकोच करणे           
 228) Honor            सन्मान करणे          
 229) Humiliate        अपमान करणे           
-Hail             गारपाती पडणे        
-Hop              उडी मारणे            
-Harness          नियंत्रण करणे        
-Invent           शोध लावणे           
-Identify         ओळखणे              
-Inspire          प्रेरित करणे        
-Invest           गुंतवणूक करणे       
-Include          समाविष्ट करणे       
-Ignore           दुर्लक्ष करणे  
-Invite           निमंत्रण देणे 
-Impress          प्रभावित करणे
-Introduce        ओळख करणे  
-Influence        प्रभाव टाकणे 
-Illustrate       उदाहरण देणे
-Initiate       प्रारंभ करणे         
-Instruct       शिकवणे               
-Integrate      समाकलित करणे        
-Indicate       दर्शवणे              
-Impact         परिणाम होणे           
-Isolate        वेगळे करणे           
-Improve        सुधारणा करणे         
-Interact       संवाद साधणे          
-Ignite         प्रज्वलित करणे        
-Install        स्थापित करणे         
-Inflict        थोपवणे                
-Intervene      हस्तक्षेप करणे       
-Investigate    तपासणी करणे         
-Illuminate     प्रकाशित करणे        
-Induce         प्रेरित करणे         
-Increase       वाढवणे               
-Insist         ठाम राहणे            
-Inquire        चौकशी करणे          
-Infuse         घालणे                 
-Inhibit        प्रतिबंध करणे        
-Jump           उडी मारणे            
-Join           सामील होणे           
-Joke           विनोद करणे           
-Judge          न्याय करणे           
-Jeopardize     धोका निर्माण करणे   
-Juggle         झुगल करणे            
-Jam            अडथळा आणणे           
-Jolt           धक्का देणे           
-Jinx           दुर्भाग्य आणणे       
-Jostle         धक्का देणे           
-Justify        न्यायसंगत ठरवणे     
-Jibe           उपहास करणे           
-Jog            हळूहळू धावणे         
-Jet            प्रवाहित करणे        
-Jerk           झटका देणे            
-Jubilate       आनंदित होणे          
-Jack           उचलणे                
-Jeer           चेष्टा करणे           
-Jot            टिपणे                
-Jumpstart      प्रारंभ करणे         
-Keep           ठेवणे               
-Know           माहिती असणे         
-Knock          ठोठवणे               
-Knit           विणणे                
-Kick           लाथ मारणे            
-Kneel          घुटणे                
-Kill           मारणे                
-Kiss           चुंबन देणे           
-Knead          गुठळा करणे           
-Kettle         उकळणे                
-Keel           संतुलन राखणे         
-Laugh          हसणे                 
-Listen         ऐकणे                 
-Learn          शिकणे                
-Leap           उडी मारणे            
-Leave          सोडून देणे           
-Lock           बंद करणे             
-Lie            खोटं बोलणे           
-Lend           उधार देणे            
-Lurk           लपवून राहणे          
-Live           राहणे                 
-Look           पाहणे                 
-Lift           उचलणे                
-Languish       शिथिल होणे           
-Lead           नेतृत्व करणे          
-Let            परवानगी देणे         
-Leap           उडी मारणे             
-Lubricate      चिकटवणे              
-Lasso          फास बांधणे            
-Make           बनवणे                
-Move           हलवणे                
-Meet           भेटणे                
-Melt           वितळवणे              
-Miss           चुकवणे                
-Monitor        निरीक्षण करणे        
-Mend           दुरुस्त करणे          
-Manage         व्यवस्थापित करणे      
-Mock           हसू करणे              
-Marvel         आश्चर्य करणे          
-Measure        मोजणे                 
-Mow            घास कापणे            
-March          मार्च करणे            
-Mobilize       सक्रिय करणे           
-Magnify        मोठे करणे             
-Meditate       ध्यान करणे            
-Mold           आकार देणे             
-Multiply       गुणाकार करणे         
-Minimize       कमी करणे              
-Magnify        मोठे करणे             
-Mobilize       सक्रिय करणे           
-Monitor        निरीक्षण करणे        
-Mold           आकार देणे             
-Mention        उल्लेख करणे          
-Name           नाव ठेवणे            
-Need           आवश्यकता असणे       
-Notice         लक्ष देणे            
-Negotiate      वाटाघाटी करणे        
-Nourish        पोषण करणे            
-Nod            डोकं हलवणे           
-Narrate        कथन करणे             
-Nurture        पालन करणे            
-Nominate       नामांकन करणे         
-Neaten         नीट करणे             
-Navigate       मार्गदर्शन करणे      
-Numb           झोपवणे                
-Neglect        दुर्लक्ष करणे         
-Nurture        देखभाल करणे          
-Open           उघडणे               
-Observe        निरीक्षण करणे       
-Obtain         मिळवणे               
-Offer          ऑफर करणे             
-Oppose         विरोध करणे           
-Organize       आयोजित करणे         
-Overcome       मात करणे             
-Overlook       दुर्लक्ष करणे         
-Outshine       छान दिसणे            
-Outgrow        वाढून जाऊन           
-Outsmart       मात करणे             
-Outline        रूपरेषा तयार करणे    
-Overestimate   जास्त प्रमाणात काढणे
-Overhear       ऐकणे                 
-Overwhelm      अचंबित करणे         
-Play           खेळणे               
-Pass           पास करणे             
-Paint          रंगवणे               
-Provide        पुरवठा करणे          
-Ponder         विचार करणे           
-Prefer         प्राधान्य देणे        
-Protect        संरक्षण करणे         
-Pursue         पाठपुरावा करणे       
-Plan           योजना बनवणे          
-Perceive       जाणणे                
-Postpone       उशीर करणे            
-Pray           प्रार्थना करणे        
-Produce        उत्पादन करणे         
-Pursue         धुंडाळणे              
-Prevent        प्रतिबंधित करणे       
-Prove          सिद्ध करणे           
-Pursue         मागोवा घेणे           
-Plunge         पाडणे          
-Pledge           प्रतिज्ञा करणे       
-Promote          पदोन्नती देणे       
-Pierce           छेदणे               
-Park             पार्किंग करणे        
-Pair             जोडणे               
-Poke             खोडणे               
-Procrastinate    विलंब करणे           
-Perpetuate       कायम ठेवणे          
-Pledge           प्रतिज्ञा करणे       
-Publish          प्रकाशित करणे        
-Pluck            टिपणे                
-Quake            कंपने              
-Qualify          पात्र होणे          
-Quantify         मात्राबद्ध करणे      
-Question         प्रश्न विचारणे      
-Quench           शमवणे              
-Quibble          किचकट करणे          
-Quilt            गोधडी तयार करणे     
-Quarantine       अलग ठेवणे           
-Quash            नष्ट करणे           
-Quiver           कंपवणे              
-Read             वाचणे              
-Ride             घोडेस्वारी करणे     
-Run              धावणे              
-Raise            वाढवणे              
-Relax            आराम करणे           
-Reach            पोहोचणे              
-Remind           आठवण देणे          
-Repair           दुरुस्त करणे         
-Remove           काढणे               
-Respect          आदर करणे            
-Reflect          प्रतिबिंबित करणे     
-Rejoice          आनंदित होणे          
-Rebuild          पुन्हा बांधणे        
-Resume           पुनः सुरू करणे      
-Revolve          फिरवणे              
-Repeat           पुनरावृत्ती करणे     
-Recover          पुनर्प्राप्त करणे    
-Respond          उत्तर देणे           
-Reveal           उघड करणे            
-Reject           नाकारणे              
-Speak            बोलणे              
-Stand            उभे राहणे          
-See              पाहणे              
-Sing             गात असणे            
-Sit              बसणे               
-Sell             विकणे              
-Send             पाठवणे              
-Solve            सोडवणे              
-Sleep            झोपणे              
-Show             दाखवणे              
-Save             वाचवणे              
-Slip             घसरवणे              
-Stir             हलवणे               
-Steal            चोरले               
-Strengthen       बळकट करणे          
-Seek             शोधणे              
-Start            सुरू करणे           
-Succeed          यशस्वी होणे         
-Shake            हलविणे              
-Save             वाचवणे              
-Support          समर्थन करणे         
-Take             घेणे               
-Teach            शिकवणे             
-Talk             बोलणे              
-Try              प्रयत्न करणे        
-Think            विचार करणे          
-Turn             वळणे               
-Travel           प्रवास करणे         
-Take             घेणे               
-Tear             फाडणे              
-Threaten         धमकी देणे           
-Throw            फेकणे               
-Target           लक्ष्य करणे         
-Tolerate         सहन करणे           
-Track            ट्रॅक करणे          
-Taste            चाखणे               
-Treat            उपचार करणे          
-Triumph          विजय मिळवणे        
-Terminate        समाप्त करणे         
-Transmit         प्रसारित करणे       
-Tidy             नीट करणे            
-Use              वापर करणे           
-Understand       समजून घेणे         
-Urge             आग्रह करणे         
-Uncover          उघडणे               
-Unite            एकत्र होणे          
-Unfold           उलगडणे               
-Upgrade          सुधारणा करणे        
-Unveil           उघड करणे            
-Understand       समजणे               
-Unleash          मुक्त करणे          
-Undo             पूर्ववत करणे        
-Utilize          उपयोग करणे          
-Upend            उलटवणे               
-Untangle         उलथवणे               
-Unravel          उलगडणे               
-Value            मूल्य देणे          
-Visit            भेट देणे            
-Venture          साहस करणे           
-Verify           पडताळणे             
-Vary             बदलवणे              
-Vex              त्रास देणे           
-Vanish           लुप्त होणे           
-Voice            आवाज काढणे          
-Vacate           रिकामा करणे         
-Value            किमत ठेवणे          
-Veil             पट्टी लावणे           
-Visualize        प्रतिमादर्श करणे   
-Violate        उल्लंघन करणे        
-Vouch          शपथ घेणे            
-Vaporize       बाष्पित करणे         
-Work           काम करणे            
-Wait           वाट पाहणे           
-Win            जिंकणे              
-Wander         भटकणे              
-Worry          काळजी करणे         
-Wish           इच्छा करणे         
-Warn           इशारा देणे          
-Weigh          वजन मोजणे           
-Wonder         आश्चर्य करणे        
-Wrap           गुंडाळणे             
-Win            जिंकणे              
-Widen          रुंद करणे           
-Walk           चालणे              
-Wreck          चुकवणे              
-Withstand      प्रतिकार करणे       
-Xenogeny       बाह्य उत्पादन     
-Yell           ओरडणे              
-Yoke           जोडलं जाणं          
-Yield          देणे, परत मिळवणे   
-Yawn           आळस देणे            
-Yell           ओरडणे              
-Zip            झिप लावणे           
-Zigzag         वळणे, वळण घेत जाऊन जाणे
-Zoom           जलद गतीने जाणे      
-Zero           शून्य करणे          
-Zap            वीज वाजवणे, झटका द
+230) Hail             गारपाती पडणे        
+231) Hop              उडी मारणे            
+232) Harness          नियंत्रण करणे        
+233) Invent           शोध लावणे           
+234) Identify         ओळखणे              
+235) Inspire          प्रेरित करणे        
+236) Invest           गुंतवणूक करणे       
+237) Include          समाविष्ट करणे       
+238) Ignore           दुर्लक्ष करणे  
+239) Invite           निमंत्रण देणे 
+240) Impress          प्रभावित करणे
+241) Introduce        ओळख करणे  
+242) Influence        प्रभाव टाकणे 
+243) Illustrate       उदाहरण देणे
+244) Initiate       प्रारंभ करणे         
+245) Instruct       शिकवणे               
+246) Integrate      समाकलित करणे        
+247) Indicate       दर्शवणे              
+248) Impact         परिणाम होणे           
+249) Isolate        वेगळे करणे           
+250) Improve        सुधारणा करणे         
+251) Interact       संवाद साधणे          
+252) Ignite         प्रज्वलित करणे        
+253) Install        स्थापित करणे         
+254) Inflict        थोपवणे                
+255) Intervene      हस्तक्षेप करणे       
+256) Investigate    तपासणी करणे         
+257) Illuminate     प्रकाशित करणे        
+258) Induce         प्रेरित करणे         
+259) Increase       वाढवणे               
+260) Insist         ठाम राहणे            
+261) Inquire        चौकशी करणे          
+262) Infuse         घालणे                 
+263) Inhibit        प्रतिबंध करणे        
+264) Jump           उडी मारणे            
+265) Join           सामील होणे           
+266) Joke           विनोद करणे           
+267) Judge          न्याय करणे           
+268) Jeopardize     धोका निर्माण करणे   
+269) Juggle         झुगल करणे            
+270) Jam            अडथळा आणणे           
+271) Jolt           धक्का देणे           
+272) Jinx           दुर्भाग्य आणणे       
+273) Jostle         धक्का देणे           
+274) Justify        न्यायसंगत ठरवणे     
+275) Jibe           उपहास करणे           
+276) Jog            हळूहळू धावणे         
+277) Jet            प्रवाहित करणे        
+278) Jerk           झटका देणे            
+279) Jubilate       आनंदित होणे          
+280) Jack           उचलणे                
+281) Jeer           चेष्टा करणे           
+282) Jot            टिपणे                
+283) Jumpstart      प्रारंभ करणे         
+284) Keep           ठेवणे               
+285) Know           माहिती असणे         
+286) Knock          ठोठवणे               
+287) Knit           विणणे                
+288) Kick           लाथ मारणे            
+289) Kneel          घुटणे                
+290) Kill           मारणे                
+291) Kiss           चुंबन देणे           
+292) Knead          गुठळा करणे           
+293) Kettle         उकळणे                
+294) Keel           संतुलन राखणे         
+295) Laugh          हसणे                 
+296) Listen         ऐकणे                 
+297) Learn          शिकणे                
+298) Leap           उडी मारणे            
+299) Leave          सोडून देणे           
+300) Lock           बंद करणे             
+301) Lie            खोटं बोलणे           
+302) Lend           उधार देणे            
+303) Lurk           लपवून राहणे          
+304) Live           राहणे                 
+305) Look           पाहणे                 
+306) Lift           उचलणे                
+307) Languish       शिथिल होणे           
+308) Lead           नेतृत्व करणे          
+309) Let            परवानगी देणे         
+310) Leap           उडी मारणे             
+311) Lubricate      चिकटवणे              
+312) Lasso          फास बांधणे            
+313) Make           बनवणे                
+314) Move           हलवणे                
+315) Meet           भेटणे                
+316) Melt           वितळवणे              
+317) Miss           चुकवणे                
+318) Monitor        निरीक्षण करणे        
+319) Mend           दुरुस्त करणे          
+320) Manage         व्यवस्थापित करणे      
+321) Mock           हसू करणे              
+322) Marvel         आश्चर्य करणे          
+323) Measure        मोजणे                 
+324) Mow            घास कापणे            
+325) March          मार्च करणे            
+326) Mobilize       सक्रिय करणे           
+327) Magnify        मोठे करणे             
+328) Meditate       ध्यान करणे            
+329) Mold           आकार देणे             
+330) Multiply       गुणाकार करणे         
+331) Minimize       कमी करणे              
+332) Magnify        मोठे करणे             
+333) Mobilize       सक्रिय करणे           
+334) Monitor        निरीक्षण करणे        
+335) Mold           आकार देणे             
+336) Mention        उल्लेख करणे          
+337) Name           नाव ठेवणे            
+338) Need           आवश्यकता असणे       
+339) Notice         लक्ष देणे            
+340) Negotiate      वाटाघाटी करणे        
+341) Nourish        पोषण करणे            
+342) Nod            डोकं हलवणे           
+343) Narrate        कथन करणे             
+344) Nurture        पालन करणे            
+345) Nominate       नामांकन करणे         
+346) Neaten         नीट करणे             
+347) Navigate       मार्गदर्शन करणे      
+348) Numb           झोपवणे                
+349) Neglect        दुर्लक्ष करणे         
+350) Nurture        देखभाल करणे          
+351) Open           उघडणे               
+352) Observe        निरीक्षण करणे       
+353) Obtain         मिळवणे               
+354) Offer          ऑफर करणे             
+355) Oppose         विरोध करणे           
+356) Organize       आयोजित करणे         
+357) Overcome       मात करणे             
+358) Overlook       दुर्लक्ष करणे         
+359) Outshine       छान दिसणे            
+360) Outgrow        वाढून जाऊन           
+361) Outsmart       मात करणे             
+362) Outline        रूपरेषा तयार करणे    
+363) Overestimate   जास्त प्रमाणात काढणे
+364) Overhear       ऐकणे                 
+365) Overwhelm      अचंबित करणे         
+366) Play           खेळणे               
+367) Pass           पास करणे             
+368) Paint          रंगवणे               
+369) Provide        पुरवठा करणे          
+370) Ponder         विचार करणे           
+371) Prefer         प्राधान्य देणे        
+372) Protect        संरक्षण करणे         
+373) Pursue         पाठपुरावा करणे       
+374) Plan           योजना बनवणे          
+375) Perceive       जाणणे                
+376) Postpone       उशीर करणे            
+377) Pray           प्रार्थना करणे        
+378) Produce        उत्पादन करणे         
+379) Pursue         धुंडाळणे              
+380) Prevent        प्रतिबंधित करणे       
+381) Prove          सिद्ध करणे           
+382) Pursue         मागोवा घेणे           
+383) Plunge         पाडणे          
+384) Pledge           प्रतिज्ञा करणे       
+385) Promote          पदोन्नती देणे       
+386) Pierce           छेदणे               
+387) Park             पार्किंग करणे        
+388) Pair             जोडणे               
+389) Poke             खोडणे               
+390) Procrastinate    विलंब करणे           
+391) Perpetuate       कायम ठेवणे          
+392) Pledge           प्रतिज्ञा करणे       
+393) Publish          प्रकाशित करणे        
+394) Pluck            टिपणे                
+395) Quake            कंपने              
+396) Qualify          पात्र होणे          
+397) Quantify         मात्राबद्ध करणे      
+398) Question         प्रश्न विचारणे      
+399) Quench           शमवणे              
+400) Quibble          किचकट करणे          
+401) Quilt            गोधडी तयार करणे     
+402) Quarantine       अलग ठेवणे           
+403) Quash            नष्ट करणे           
+404) Quiver           कंपवणे              
+405) Read             वाचणे              
+406) Ride             घोडेस्वारी करणे     
+407) Run              धावणे              
+408) Raise            वाढवणे              
+409) Relax            आराम करणे           
+410) Reach            पोहोचणे              
+411) Remind           आठवण देणे          
+412) Repair           दुरुस्त करणे         
+413) Remove           काढणे               
+414) Respect          आदर करणे            
+415) Reflect          प्रतिबिंबित करणे     
+416) Rejoice          आनंदित होणे          
+417) Rebuild          पुन्हा बांधणे        
+418) Resume           पुनः सुरू करणे      
+419) Revolve          फिरवणे              
+420) Repeat           पुनरावृत्ती करणे     
+421) Recover          पुनर्प्राप्त करणे    
+422) Respond          उत्तर देणे           
+423) Reveal           उघड करणे            
+424) Reject           नाकारणे              
+425) Speak            बोलणे              
+426) Stand            उभे राहणे          
+427) See              पाहणे              
+428) Sing             गात असणे            
+429) Sit              बसणे               
+430) Sell             विकणे              
+431) Send             पाठवणे              
+432) Solve            सोडवणे              
+433) Sleep            झोपणे              
+434) Show             दाखवणे              
+435) Save             वाचवणे              
+436) Slip             घसरवणे              
+437) Stir             हलवणे               
+438) Steal            चोरले               
+439) Strengthen       बळकट करणे          
+440) Seek             शोधणे              
+441) Start            सुरू करणे           
+442) Succeed          यशस्वी होणे         
+443) Shake            हलविणे              
+444) Save             वाचवणे              
+445) Support          समर्थन करणे         
+446) Take             घेणे               
+447) Teach            शिकवणे             
+448) Talk             बोलणे              
+449) Try              प्रयत्न करणे        
+450) Think            विचार करणे          
+451) Turn             वळणे               
+452) Travel           प्रवास करणे         
+453) Take             घेणे               
+454) Tear             फाडणे              
+455) Threaten         धमकी देणे           
+456) Throw            फेकणे               
+457) Target           लक्ष्य करणे         
+458) Tolerate         सहन करणे           
+459) Track            ट्रॅक करणे          
+460) Taste            चाखणे               
+461) Treat            उपचार करणे          
+462) Triumph          विजय मिळवणे        
+463) Terminate        समाप्त करणे         
+464) Transmit         प्रसारित करणे       
+465) Tidy             नीट करणे            
+466) Use              वापर करणे           
+467) Understand       समजून घेणे         
+468) Urge             आग्रह करणे         
+469) Uncover          उघडणे               
+470) Unite            एकत्र होणे          
+471) Unfold           उलगडणे               
+472) Upgrade          सुधारणा करणे        
+473) Unveil           उघड करणे            
+474) Understand       समजणे               
+475) Unleash          मुक्त करणे          
+476) Undo             पूर्ववत करणे        
+477) Utilize          उपयोग करणे          
+478) Upend            उलटवणे               
+479) Untangle         उलथवणे               
+480) Unravel          उलगडणे               
+481) Value            मूल्य देणे          
+482) Visit            भेट देणे            
+483) Venture          साहस करणे           
+484) Verify           पडताळणे             
+485) Vary             बदलवणे              
+486) Vex              त्रास देणे           
+487) Vanish           लुप्त होणे           
+488) Voice            आवाज काढणे          
+489) Vacate           रिकामा करणे         
+490) Value            किमत ठेवणे          
+491) Veil             पट्टी लावणे           
+492) Visualize        प्रतिमादर्श करणे   
+493) Violate        उल्लंघन करणे        
+494) Vouch          शपथ घेणे            
+495) Vaporize       बाष्पित करणे         
+496) Work           काम करणे            
+497) Wait           वाट पाहणे           
+498) Win            जिंकणे              
+499) Wander         भटकणे              
+500) Worry          काळजी करणे         
+501) Wish           इच्छा करणे         
+502) Warn           इशारा देणे          
+503) Weigh          वजन मोजणे           
+504) Wonder         आश्चर्य करणे        
+505) Wrap           गुंडाळणे             
+506) Win            जिंकणे              
+507) Widen          रुंद करणे           
+508) Walk           चालणे              
+509) Wreck          चुकवणे              
+510) Withstand      प्रतिकार करणे       
+511) Xenogeny       बाह्य उत्पादन     
+512) Yell           ओरडणे              
+513) Yoke           जोडलं जाणं          
+514) Yield          देणे, परत मिळवणे   
+515) Yawn           आळस देणे            
+516) Yell           ओरडणे              
+517) Zip            झिप लावणे           
+518) Zigzag         वळणे, वळण घेत जाऊन जाणे
+519) Zoom           जलद गतीने जाणे      
+520) Zero           शून्य करणे          
+521) Zap            वीज वाजवणे, झटका द

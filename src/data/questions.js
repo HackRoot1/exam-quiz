@@ -11886,847 +11886,3515 @@ const questions = {
             answer: "Clear",
         },
         {
-            "id": 1462,
-            "question": "Choose the correct antonym of - Toilsome",
-            "options": ["ugly", "attractive", "light", "fast"],
-            "answer": "light"
-          },
-          {
-            "id": 1463,
-            "question": "Choose the correct antonym of - Defiant",
-            "options": ["respectful", "obedient", "disciplined", "timid"],
-            "answer": "obedient"
-          },
-          {
-            "id": 1464,
-            "question": "Choose the correct antonym of - Radical",
-            "options": ["hollow", "obedient", "superficial", "basic"],
-            "answer": "basic"
-          },
-          {
-            "id": 1465,
-            "question": "What is the opposite of 'Necessary'?",
-            "options": ["useless", "general", "trivial", "unimportant"],
-            "answer": "unimportant"
-          },
-          {
-            "id": 1466,
-            "question": "Select the correct antonym of 'Pride'",
-            "options": ["friendship", "humility", "shame", "co-operation"],
-            "answer": "humility"
-          },
-          {
-            "id": 1467,
-            "question": "Which of the following pairs are correctly matched as Antonyms?",
-            "options": ["breed : generate", "scorn (V) : despise", "coarse : refined", "violation : adherence"],
-            "answer": "coarse : refined"
-          },
-          {
-            "id": 1468,
-            "question": "Select the correct antonym of 'Sour'.",
-            "options": ["Sweet", "Bitter", "Fresh", "Sorrow"],
-            "answer": "Sweet"
-          },
-          {
-            "id": 1469,
-            "question": "Select the correct antonym of 'faultless'.",
-            "options": ["defective", "flawless", "perfect", "accurate"],
-            "answer": "defective"
-          },
-          {
-            "id": 1470,
-            "question": "Choose appropriate antonym for the word “Gloomy”",
-            "options": ["Idle", "Wise", "Cheerful", "Sad"],
-            "answer": "Cheerful"
-          },
-          {
-            "id": 1471,
-            "question": "Choose appropriate antonym for the word 'Drowsy'.",
-            "options": ["Active", "Sleepy", "Famous", "Lethargic"],
-            "answer": "Active"
-          },
-          {
-            "id": 1472,
-            "question": "Find out the correct antonym from the following: MAXIMUM",
-            "options": ["sufficient", "Minimum", "More", "Less"],
-            "answer": "Minimum"
-          },
-          {
-            "id": 1473,
-            "question": "Find out the correct antonyms from the following : SHALLOW",
-            "options": ["deep", "shawl", "wide", "shower"],
-            "answer": "deep"
-          },
-          {
-            "id": 1474,
-            "question": "ZEAL",
-            "options": ["apathy", "disinterest", "carelessness", "hatred"],
-            "answer": "apathy"
-          },
-          {
-            "id": 1475,
-            "question": "MELODIOUS",
-            "options": ["hammonious", "odious", "tuneless", "ymellifluous"],
-            "answer": "tuneless"
-          },
-          {
-            "id": 1476,
-            "question": "RADIANT",
-            "options": ["absorptive", "uncritical", "casual", "dull"],
-            "answer": "dull"
-          },
-          {
-            "id": 1477,
-            "question": "LEGITIMATE",
-            "options": ["delicious", "decisive", "improper", "lethargic"],
-            "answer": "improper"
-          },
-          {
-            "id": 1478,
-            "question": "OBVIOUS",
-            "options": ["vague", "diminished", "motivate", "miserable"],
-            "answer": "vague"
-          },
-          {
-            "id": 1479,
-            "question": "DISCOUNT",
-            "options": ["Profit", "Concession", "Interest", "Premium"],
-            "answer": "Profit"
-          },
-          {
-            "id": 1480,
-            "question": "GUILTY",
-            "options": ["Pure", "Innocent", "Virtuous", "Angelic"],
-            "answer": "Innocent"
-          },
-          {
-            "id": 1481,
-            "question": "AMBIGUOUS",
-            "options": ["Secular", "Obscure", "Agreement", "Explicit"],
-            "answer": "Explicit"
-          },
-          {
-            "id": 1482,
-            "question": "ILLEGIBLE",
-            "options": ["clear", "readable", "clean", "imitable"],
-            "answer": "clear"
-          },
-          {
-            "id": 1483,
-            "question": "LASSITUDE",
-            "options": ["aptitude", "capacity", "vivacity", "magnitude"],
-            "answer": "vivacity"
-          },
-          {
-            "id": 1484,
-            "question": "SABBATICAL",
-            "options": ["prayerful", "vacation", "evil", "work"],
-            "answer": "vacation"
-          },
-          {
-            "id": 1485,
-            "question": "OPPOSITE",
-            "options": ["similar", "same", "estranged", "inappropriate"],
-            "answer": "similar"
-          },
-          {
-            "id": 1486,
-            "question": "Choose the most appropriate word having meaning apposite to given word Resist.",
-            "options": ["Assist", "Insist", "Welcome", "Fight"],
-            "answer": "Assist"
-          },
-          {
-            "id": 1487,
-            "question": "Fortunate",
-            "options": ["Sad", "Unhappy", "Unfortunate", "None"],
-            "answer": "Unfortunate"
-          },
-          {
-            "id": 1488,
-            "question": "Orthodox",
-            "options": ["Unorthodox", "Secular", "Socialist", "None"],
-            "answer": "Unorthodox"
-          }, 
-          {
-            "id": 1489,
-            "question": "Choose the correct antonym of 'Savagery'",
-            "options": ["Culture", "Wilderness", "Wildness", "Religion"],
-            "answer": "Culture"
-          },
-          {
-            "id": 1490,
-            "question": "Choose the antonym - 'Challenge'",
-            "options": ["Favour", "Praise", "Accept", "Admire"],
-            "answer": "Accept"
-          },
-          {
-            "id": 1491,
-            "question": "Choose the correct antonym of : Nightmare",
-            "options": ["dreams", "daylight", "occasions", "provisions"],
-            "answer": "daylight"
-          },
-          {
-            "id": 1492,
-            "question": "Select the correct antonym of 'Ignorance'?",
-            "options": ["Cleverness", "Stupidity", "Folly", "Absurdity"],
-            "answer": "Cleverness"
-          },
-          {
-            "id": 1493,
-            "question": "Choose the given options which best expresses the opposite meaning of the word. AFFLUENCE.",
-            "options": ["Influence", "Poverty", "Indifference", "Riches"],
-            "answer": "Poverty"
-          },
-          {
-            "id": 1494,
-            "question": "Modesty",
-            "options": ["Thoughtlessness", "Pride", "Extravagance", "Restlessness"],
-            "answer": "Pride"
-          },
-          {
-            "id": 1495,
-            "question": "Give the antonym of the word 'former'.",
-            "options": ["latter", "later", "before", "last"],
-            "answer": "latter"
-          },
-          {
-            "id": 1496,
-            "question": "Select correct ‘Antonym’ for ‘accept’.",
-            "options": ["reject", "refuse", "disqualify", "left"],
-            "answer": "reject"
-          },
-          {
-            "id": 1497,
-            "question": "Self reliance has been <u>adopted</u> as an important objective of economic planning in modern India. Choose the antonym for the underlined word.",
-            "options": ["refused", "forsaken", "denied", "discarded"],
-            "answer": "refused"
-          },
-          {
-            "id": 1498,
-            "question": "Select correct ‘Antonym’ for the following word. CHOLERIC.",
-            "options": ["Malaria", "healthy", "good-tempered", "cupid"],
-            "answer": "good-tempered"
-          },
-          {
-            "id": 1499,
-            "question": "Choose the correct opposite word for the underlined word. There is a great <u>affinity</u> between the two girls.",
-            "options": ["apathy", "empathy", "antipathy", "sympathy"],
-            "answer": "antipathy"
-          },
-          {
-            "id": 1500,
-            "question": "Select the antonym for the underlined word : I like his friendly attitude.",
-            "options": ["jealous", "emulous", "hostile", "vicious"],
-            "answer": "hostile"
-          },
-          {
-            "id": 1501,
-            "question": "One should be <u>loyal</u> to one’s profession. Which of the given alternatives can be used to form the antonym of underlined word?",
-            "options": ["un-", "in-", "dis-", "ab"],
-            "answer": "dis-"
-          },
-          {
-            "id": 1502,
-            "question": "Which of the given alternatives best expresses the opposite meaning of the word 'LAVISH'",
-            "options": ["frugal", "slavish", "peevish", "fragile"],
-            "answer": "frugal"
-          },
-          {
-            "id": 1503,
-            "question": "Give antonym of 'Essential'",
-            "options": ["unessential", "very essential", "not so useful", "un useful"],
-            "answer": "unessential"
-          },
-          {
-            "id": 1504,
-            "question": "Give antonym of 'Bright'",
-            "options": ["sparkling", "dark", "fade", "dull"],
-            "answer": "dull"
-          },
-          {
-            "id": 1505,
-            "question": "Give antonym of : 'Attack'",
-            "options": ["Counter attack", "Defend", "to fight", "re attack"],
-            "answer": "Defend"
-          },
-          {
-            "id": 1506,
-            "question": "Give antonym of — DEFICIT,",
-            "options": ["drawback", "detect", "surplus", "budget"],
-            "answer": "surplus"
-          },
-          {
-            "id": 1507,
-            "question": "Give antonym of — METECULOUS",
-            "options": ["thankful", "lavish", "imaginary", "careless"],
-            "answer": "careless"
-          },
-          {
-            "id": 1508,
-            "question": "He liked the <u>pungent</u> sauce prepared by his mother. Choose the correct antonym for the word underlined.",
-            "options": ["gentle", "mild", "insipid", "unsavoury"],
-            "answer": "mild"
-          },
-          {
-            "id": 1509,
-            "question": "The antonym of <u>misanthrope</u> is ________",
-            "options": ["loveless", "lovely", "loving", "loveable"],
-            "answer": "loveable"
-          },
-          {
-            "id": 1510,
-            "question": "Select the antonym of 'Pride'.",
-            "options": ["friendship", "cooperation", "humility", "shame"],
-            "answer": "humility"
-          },
-          {
-            "id": 1511,
-            "question": "Select the word that is opposite in meaning to: Acumen.",
-            "options": ["Intelligence", "Imbecility", "Potentiality", "Unfamiliarity"],
-            "answer": "Imbecility"
-          },
-          {
-            "id": 1512,
-            "question": "Select the word that is opposite in meaning to: Profane.",
-            "options": ["Arrogant", "Praiseworthy", "Respectful", "Pious"],
-            "answer": "Pious"
-          },
-          {
-            "id": 1513,
-            "question": "Select the word that is opposite in meaning to: Accord.",
-            "options": ["concord", "Policy", "Dissent", "Act"],
-            "answer": "Dissent"
-          },
-          {
-            "id": 1514,
-            "question": "Select the word that is opposite in meaning to: Brazen.",
-            "options": ["Helpful", "Delicious", "Innocent", "Respectful"],
-            "answer": "Respectful"
-          }, 
-          {
-        "id": 1515,
-        "question": "Select the word that is opposite in meaning to <u>languid</u>.",
-        "options": ["Fast", "Energetic", "Ferocious", "smart"],
-        "answer": "Energetic"
-      },
-      {
-        "id": 1516,
-        "question": "Choose the correct Antonym of : SCARCE",
-        "options": ["Pretty", "exquisite", "abundant", "redundant"],
-        "answer": "abundant"
-      },
-      {
-        "id": 1517,
-        "question": "Choose the correct antonym of : Tainted",
-        "options": ["fainted", "hinted", "shaded", "pure"],
-        "answer": "pure"
-      },
-      {
-        "id": 1518,
-        "question": "Choose the correct antonym of : Deprive",
-        "options": ["detach", "fetch", "attach", "snatch"],
-        "answer": "attach"
-      },
-      {
-        "id": 1519,
-        "question": "Choose the correct antonym of : Mediocre",
-        "options": ["excellent", "medieval", "prevalent", "scare"],
-        "answer": "excellent"
-      },
-      {
-        "id": 1520,
-        "question": "Choose the most appropriate antonym for the underlined word from the options given below: The organization is known for its <u>probity</u>.",
-        "options": ["weakness", "dullness", "wealth", "dishonesty"],
-        "answer": "dishonesty"
-      },
-      {
-        "id": 1521,
-        "question": "This Person is liberal in his opinion. Choose the antonym of the word ‘liberal’ in this sentence :",
-        "options": ["hostile", "generous", "conservative", "broad minded"],
-        "answer": "conservative"
-      },
-      {
-        "id": 1522,
-        "question": "Choose the correct antonym of — 'cold'.",
-        "options": ["warm", "hot", "dry", "freezed"],
-        "answer": "warm"
-      },
-      {
-        "id": 1523,
-        "question": "Choose the correct antonym of — ‘adversity’",
-        "options": ["opportunity", "variety", "virtue", "boon"],
-        "answer": "boon"
-      },
-      {
-        "id": 1524,
-        "question": "What the antonym of — 'liberty'",
-        "options": ["deliverance", "slavery", "bondage", "shackles"],
-        "answer": "slavery"
-      },
-      {
-        "id": 1525,
-        "question": "Choose the word which has meaning opposite to— 'prudent'",
-        "options": ["A foolish", "slave", "imprudent", "thrifty"],
-        "answer": "imprudent"
-      },
-      {
-        "id": 1526,
-        "question": "Choose the correct antonym of — profound.",
-        "options": ["plenty", "scanty", "deep", "vast"],
-        "answer": "scanty"
-      },
-      {
-        "id": 1527,
-        "question": "Choose the antonym of — confess",
-        "options": ["deny", "refuse", "reject", "shallow"],
-        "answer": "deny"
-      },
-      {
-        "id": 1528,
-        "question": "Choose the correct antonym to the bold word in the sentence : The world is only an ‘ILLUSION’ said the odd man.",
-        "options": ["fiction", "transitory", "reality", "short-live"],
-        "answer": "reality"
-      },
-      {
-        "id": 1529,
-        "question": "Bacon was an intellectual giant but a moral <u>DWARF</u>.",
-        "options": ["giant", "fresh", "budge", "big"],
-        "answer": "giant"
-      },
-      {
-        "id": 1530,
-        "question": "God and his glory are <u>ETERNAL</u>. Choose the correct antonym to the word in capitals in the sentence.",
-        "options": ["transient", "external", "destructive", "obscure"],
-        "answer": "transient"
-      },
-      {
-        "id": 1531,
-        "question": "My plans may sound rather <u>NEBULOUS</u> to you but they are very ________ to me.",
-        "options": ["clear", "concrete", "prominent", "conspicuous"],
-        "answer": "clear"
-      },
-      {
-        "id": 1532,
-        "question": "I <u>NEVER</u> drive to work, I ________ walk.",
-        "options": ["often", "always", "sometimes", "seldom"],
-        "answer": "always"
-      },
-      {
-        "id": 1533,
-        "question": "My uncle is very wealthy, but rather PARSIMONTOUS in his habits.",
-        "options": ["cordless", "stick", "generous", "extravagant"],
-        "answer": "generous"
-      },
-      {
-        "id": 1534,
-        "question": "Choose the correct antonym of <u>fade</u>,",
-        "options": ["faint", "bright", "soft", "hard"],
-        "answer": "bright"
-      },
-      {
-        "id": 1535,
-        "question": "Choose the correct antonym of <u>contract</u>.",
-        "options": ["agreement", "bargain", "stop", "disagreement"],
-        "answer": "disagreement"
-      },
-      {
-        "id": 1536,
-        "question": "Choose the correct antonym of <u>Reveal</u>.",
-        "options": ["Unravel", "Relate", "Lament", "Hide"],
-        "answer": "Hide"
-      },
-      {
-        "id": 1537,
-        "question": "The bag is very <u>heavy</u>. Choose the opposite word of the underlined word from the following.",
-        "options": ["light", "dark", "soft", "weak"],
-        "answer": "light"
-      },
-      {
-        "id": 1538,
-        "question": "Choose the correct antonym of <u>Vertical</u>.",
-        "options": ["Parallel", "Horizontal", "Vicious", "Perpendicular"],
-        "answer": "Horizontal"
-      },
-      {
-        "id": 1539,
-        "question": "Choose the correct antonym of <u>Resident</u>.",
-        "options": ["Habitat", "To reside", "To live", "Foreigner"],
-        "answer": "Foreigner"
-      }, 
-      {
-        "id": 1540,
-        "question": "Choose the correct antonym of <u>suppressed</u>.",
-        "options": ["Free", "Liberal", "Operation", "Healthy"],
-        "answer": "Free"
-      },
-      {
-        "id": 1541,
-        "question": "Choose the correct antonym of fiasco.",
-        "options": ["Cure-all", "success", "determination", "result"],
-        "answer": "success"
-      },
-      {
-        "id": 1542,
-        "question": "Choose the correct antonym of Loyal.",
-        "options": ["Faithful", "Legal", "Disloyal", "Honest"],
-        "answer": "Disloyal"
-      },
-      {
-        "id": 1543,
-        "question": "Choose the correct antonym of Compassion.",
-        "options": ["indifference", "distress", "timidity", "sobriety"],
-        "answer": "indifference"
-      },
-      {
-        "id": 1544,
-        "question": "Choose the correct antonym of — demon.",
-        "options": ["fair-minded", "kind-hearted", "garrulous", "angel"],
-        "answer": "kind-hearted"
-      },
-      {
-        "id": 1545,
-        "question": "Choose the correct antonym of — Concise.",
-        "options": ["short", "ignorant", "abundant", "wordy"],
-        "answer": "wordy"
-      },
-      {
-        "id": 1546,
-        "question": "Choose the correct antonym of — remote.",
-        "options": ["close", "disappear", "separate", "weak"],
-        "answer": "close"
-      },
-      {
-        "id": 1547,
-        "question": "Choose the carrect antonym of - Forbid.",
-        "options": ["permit", "admit", "entry", "neglect"],
-        "answer": "permit"
-      },
-      {
-        "id": 1548,
-        "question": "Choose the correct antonym of — equality.",
-        "options": ["inequality", "inequality", "unequally", "similarly"],
-        "answer": "inequality"
-      },
-      {
-        "id": 1549,
-        "question": "Choose the word or the phrase from the following that is most nearly opposite in the meaning of the numbered word <u>weary</u>.",
-        "options": ["Weak", "Energetic", "Powerful", "airy"],
-        "answer": "Energetic"
-      },
-      {
-        "id": 1550,
-        "question": "Choose the correct antonym for the following word : 'Frugal'",
-        "options": ["Extravagant", "Fragile", "Miserly", "Fictitious"],
-        "answer": "Extravagant"
-      },
-      {
-        "id": 1551,
-        "question": "The growing <u>disparity</u> among the several states has been a subject of discussion for the politicians in India. Choose the word opposite to the meaning of 'disparity'.",
-        "options": ["brotherhood", "equality", "diversity", "fraternity"],
-        "answer": "equality"
-      },
-      {
-        "id": 1552,
-        "question": "She was a religious lady, but her son was ________. Choose the word opposite in meaning of the underlined word :",
-        "options": ["pious", "an atheist", "unreligious", "philosopher"],
-        "answer": "an atheist"
-      },
-      {
-        "id": 1553,
-        "question": "She was a very <u>attractive</u> girl. Choose the alternative giving an opposite of the underlined adjective :",
-        "options": ["Bad", "Worse", "Repulsive", "Good"],
-        "answer": "Repulsive"
-      },
-      {
-        "id": 1554,
-        "question": "The floods have caused ________ harm. Choose the right antonym of the word ‘calculable’ for filling the blank :",
-        "options": ["uncalculable", "discalculable", "miscalculable", "incalculable"],
-        "answer": "uncalculable"
-      },
-      {
-        "id": 1555,
-        "question": "Choose the word or phrase from the following that is most nearly opposite in meaning of the numbered word : Marvellous ________",
-        "options": ["wonderful", "splendid", "ugly", "fantastic"],
-        "answer": "ugly"
-      },
-      {
-        "id": 1556,
-        "question": "Choose the antonym for the word underlined in the sentence given : Absolute powers con not be vested in an individual.",
-        "options": ["Perfect", "Unqualified", "Partial", "Arbitrary"],
-        "answer": "Partial"
-      },
-      {
-        "id": 1557,
-        "question": "Everybody called it a lavish party. Choose the correct antonym of the word underlined.",
-        "options": ["expensive", "big", "frugal", "wasteful"],
-        "answer": "frugal"
-      },
-      {
-        "id": 1558,
-        "question": "Identify the correct pair of antonyms.",
-        "options": ["confirm x contradict", "foreign x native", "encourage x embolden", "distant x remote"],
-        "answer": "confirm x contradict"
-      },
-      {
-        "id": 1559,
-        "question": "Choose the correct word, opposite in meaning for the word given below : Rigid",
-        "options": ["stiff", "unbending", "unyielding", "flexible"],
-        "answer": "flexible"
-      },
-      {
-        "id": 1560,
-        "question": "Give antonym of the underlined word. His <u>parsimonious</u> habits are known to all his friends.",
-        "options": ["plentiful", "lavish", "luxuriant", "ample"],
-        "answer": "lavish"
-      },
-      {
-        "id": 1561,
-        "question": "Which of the following is not the antonym of old?",
-        "options": ["young", "new", "past", "latest"],
-        "answer": "past"
-      },
-      {
-        "id": 1562,
-        "question": "Choose the correct antonym of : rural",
-        "options": ["polite", "well-bred", "polished", "urban"],
-        "answer": "urban"
-      }, 
-      {
-        "id": 1563,
-        "question": "Choose the correct antonym of 'glad':",
-        "options": ["happy", "sad", "pleased", "delighted"],
-        "answer": "sad"
-      },
-      {
-        "id": 1564,
-        "question": "Choose the correct antonym of 'bottom':",
-        "options": ["base", "foundation", "foot", "top"],
-        "answer": "top"
-      },
-      {
-        "id": 1565,
-        "question": "Choose the correct antonym of 'wet':",
-        "options": ["moist", "soaked", "damp", "dry"],
-        "answer": "dry"
-      },
-      {
-        "id": 1566,
-        "question": "Choose the correct antonym of Frank.",
-        "options": ["good-mixer", "reserved", "friendly", "proud"],
-        "answer": "reserved"
-      },
-      {
-        "id": 1567,
-        "question": "Choose the word or phrase from the following that is most nearly opposite in meaning of the numbered word: Repudiate ________",
-        "options": ["reject", "accept", "deny", "disown"],
-        "answer": "accept"
-      },
-      {
-        "id": 1568,
-        "question": "Choose the word or phrase from the following that is most nearly opposite in meaning of the numbered word: Savage ________",
-        "options": ["brutal", "primitive", "wild", "civilized"],
-        "answer": "civilized"
-      },
-      {
-        "id": 1569,
-        "question": "Choose the most appropriate antonym of the underlined word from the options given below: He is known for his <u>gregarious</u> nature.",
-        "options": ["congenial", "amiable", "straightforward", "unsociable"],
-        "answer": "unsociable"
-      },
-      {
-        "id": 1570,
-        "question": "Give antonym of 'covetous': a) greedy b) avaricious c) grasping d) renouncing",
-        "options": ["a and b", "b and c", "c and d", "d"],
-        "answer": "d"
-      },
-      {
-        "id": 1571,
-        "question": "Give antonym of the word 'Spiritual':",
-        "options": ["mundane", "intangible", "irreparable", "uninnovative"],
-        "answer": "mundane"
-      },
-      {
-        "id": 1572,
-        "question": "Many of the incidents in the autobiography appear to be <u>fictitious</u>. Select the word which is opposite in meaning of the underlined.",
-        "options": ["imaginary", "boring", "creative", "genuine"],
-        "answer": "genuine"
-      },
-      {
-        "id": 1573,
-        "question": "Which one of the following words is opposite in meaning to the word 'transparent'?",
-        "options": ["clear", "translucent", "sharp", "opaque"],
-        "answer": "opaque"
-      },
-      {
-        "id": 1574,
-        "question": "Find out the antonym for the following word: Strange",
-        "options": ["familiar", "unfamiliar", "weak", "strong"],
-        "answer": "familiar"
-      },
-      {
-        "id": 1575,
-        "question": "Choose the correct antonym of - Absolve.",
-        "options": ["bless", "repent", "melt", "blame"],
-        "answer": "blame"
-      },
-      {
-        "id": 1576,
-        "question": "Give antonym of the following word: concur, devious \n(a) agreement, tricky \n(b) approve, useful \n(c) collaborate, cunning \n(d) disagree, straight",
-        "options": ["(a) and (b) only", "(c) only", "(d) only", "(c) and (d) only"],
-        "answer": "(c) and (d) only"
-      },
-      {
-        "id": 1577,
-        "question": "Choose the most appropriate antonym for the underlined word: Our teacher was a very <u>strict</u> person.",
-        "options": ["lenient", "relaxed", "kind", "humorous"],
-        "answer": "lenient"
-      },
-      {
-        "id": 1578,
-        "question": "Select the word that is most nearly opposite in meaning to the word given: Incessantly",
-        "options": ["Frequently", "Periodically", "Regularly", "Submissive"],
-        "answer": "Periodically"
-      },
-      {
-        "id": 1579,
-        "question": "Choose the word which is most opposite in meaning of the given word: Comparison",
-        "options": ["Separate", "Different", "Distinct", "Contrast"],
-        "answer": "Contrast"
-      },
-      {
-        "id": 1580,
-        "question": "Choose the best alternative from the following which expresses the opposite meaning of the given word: Recede",
-        "options": ["Rush", "Advance", "Approach", "Forward"],
-        "answer": "Advance"
-      },
-      {
-        "id": 1581,
-        "question": "Which word is opposite in meaning to the word printed in capitals in the given sentence? Eating bananas can be HEALTHY for babies.",
-        "options": ["salubrious", "luscious", "deleterious", "disservice"],
-        "answer": "deleterious"
-      }, 
-      {
-        "id": 1582,
-        "question": "Choose the word opposite in meaning to the given word. - Forbidden",
-        "options": ["Allowed", "Prohibited", "Agreed", "Forsaken"],
-        "answer": "Allowed"
-      },
-      {
-        "id": 1583,
-        "question": "Which of the word/s is/are opposite in meaning to the word printed in capitals in the given sentence? He is an ASTUTE businessman. \na) Simpleton b) Shrewd c) Foolish",
-        "options": [
-          "a and b only",
-          "b and c only",
-          "a and c only",
-          "a, b and c"
-        ],
-        "answer": "a and c only"
-      },
-      {
-        "id": 1584,
-        "question": "Choose the best opposite meaning of the word printed in capitals in the following sentence. Today will be mostly fine and sunny, with INTERMITTENT showers.",
-        "options": ["Incredible", "Termittent", "Incessant", "Heavy"],
-        "answer": "Incessant"
-      },
-      {
-        "id": 1585,
-        "question": "Choose the word opposite in meaning to OSTENTATIOUS.",
-        "options": ["Unpretentious", "Conscientious", "Advantageous", "None of the above"],
-        "answer": "Unpretentious"
-      },
-      {
-        "id": 1586,
-        "question": "Choose the word having meaning opposite to the word in Capital. All other considerations are SUBSERVIENT to the need for quick profit.",
-        "options": ["Solvent", "Predicament", "Resonance", "Dominant"],
-        "answer": "Dominant"
-      },
-      {
-        "id": 1587,
-        "question": "He is very <u>diligent</u> young man, you won’t find him wasting his time. Select the word which is opposite in meaning of the word underlined.",
-        "options": ["Brilliant", "Idle", "Curious", "Inattentive"],
-        "answer": "Idle"
-      },
-      {
-        "id": 1588,
-        "question": "Write the antonym of the word given below: Ancestor",
-        "options": ["Descendant", "Forefather", "Precursor", "Grandparent"],
-        "answer": "Descendant"
-      },
-      {
-        "id": 1589,
-        "question": "Choose the words having meaning opposite of: IMMACULATE \n(a) Soiled (b) Spotted (c) Unblemished (d) Stained",
-        "options": [
-          "(a) and (d) only",
-          "(b) and (d) only",
-          "(a), (b) and (d)",
-          "(a), (c) and (d)"
-        ],
-        "answer": "(a), (b) and (d)"
-      },
-      {
-        "id": 1590,
-        "question": "What is the correct antonym for the word? 'Memorable'",
-        "options": ["Forgettable", "Memorial", "Immemorial", "Immoral"],
-        "answer": "Forgettable"
-      },
-      {
-        "id": 1591,
-        "question": "Choose the most suitable word opposite in meaning of the word: 'Casual'",
-        "options": ["Accidental", "Formal", "Informal", "Systematic"],
-        "answer": "Formal"
-      },
-      {
-        "id": 1592,
-        "question": "Which of the following pairs of antonyms is incorrect: \na) Accept x Reject b) Bloom x Fade c) Defend x Suspend d) Progress x Regress",
-        "options": [
-          "(a) only",
-          "(a) and (b)",
-          "(c) only",
-          "(c) and (d)"
-        ],
-        "answer": "(c) only"
-      },
-      {
-        "id": 1593,
-        "question": "Choose from the given alternatives the word which is opposite in meaning of the underlined word: He issues only <u>verbal</u> orders to escape the inquiry against those orders in future.",
-        "options": ["Oral", "Vague", "Informal", "Written"],
-        "answer": "Written"
-      },
-      {
-        "id": 1594,
-        "question": "Give antonym of the following words: Lament, Scatter.",
-        "options": ["Rejoice, Gather", "Sad, Collect", "Mourn, Store", "Chaste, Gay"],
-        "answer": "Rejoice, Gather"
-      },
-      {
-        "id": 1595,
-        "question": "Give antonym of the following words: Convex, Famous, Kernel.",
-        "options": [
-          "Curved, Known, Officer",
-          "Concave, Obscure, Shell",
-          "Dusk, Gloomy, Attack",
-          "Stale, Reputed, Cover"
-        ],
-        "answer": "Concave, Obscure, Shell"
-      },
-      {
-        "id": 1596,
-        "question": "Choose the words having meaning opposite to that of INTREPID: \n(a) Pusillanimous b) Timorous c) Timid d) Undaunted",
-        "options": [
-          "(c) only",
-          "(a) and (c) only",
-          "(a), (b) and (c) only",
-          "(a), (b), (c) and (d)"
-        ],
-        "answer": "(a), (b) and (c) only"
-      },
-      {
-        "id": 1597,
-        "question": "The priest entered the <u>sacred</u> place. Select the correct antonym to the word underlined.",
-        "options": ["Holy", "Profane", "Religious", "Auspicious"],
-        "answer": "Profane"
-      }, 
-
+            id: 1462,
+            question: "Choose the correct antonym of - Toilsome",
+            options: ["ugly", "attractive", "light", "fast"],
+            answer: "light",
+        },
+        {
+            id: 1463,
+            question: "Choose the correct antonym of - Defiant",
+            options: ["respectful", "obedient", "disciplined", "timid"],
+            answer: "obedient",
+        },
+        {
+            id: 1464,
+            question: "Choose the correct antonym of - Radical",
+            options: ["hollow", "obedient", "superficial", "basic"],
+            answer: "basic",
+        },
+        {
+            id: 1465,
+            question: "What is the opposite of 'Necessary'?",
+            options: ["useless", "general", "trivial", "unimportant"],
+            answer: "unimportant",
+        },
+        {
+            id: 1466,
+            question: "Select the correct antonym of 'Pride'",
+            options: ["friendship", "humility", "shame", "co-operation"],
+            answer: "humility",
+        },
+        {
+            id: 1467,
+            question:
+                "Which of the following pairs are correctly matched as Antonyms?",
+            options: [
+                "breed : generate",
+                "scorn (V) : despise",
+                "coarse : refined",
+                "violation : adherence",
+            ],
+            answer: "coarse : refined",
+        },
+        {
+            id: 1468,
+            question: "Select the correct antonym of 'Sour'.",
+            options: ["Sweet", "Bitter", "Fresh", "Sorrow"],
+            answer: "Sweet",
+        },
+        {
+            id: 1469,
+            question: "Select the correct antonym of 'faultless'.",
+            options: ["defective", "flawless", "perfect", "accurate"],
+            answer: "defective",
+        },
+        {
+            id: 1470,
+            question: "Choose appropriate antonym for the word “Gloomy”",
+            options: ["Idle", "Wise", "Cheerful", "Sad"],
+            answer: "Cheerful",
+        },
+        {
+            id: 1471,
+            question: "Choose appropriate antonym for the word 'Drowsy'.",
+            options: ["Active", "Sleepy", "Famous", "Lethargic"],
+            answer: "Active",
+        },
+        {
+            id: 1472,
+            question:
+                "Find out the correct antonym from the following: MAXIMUM",
+            options: ["sufficient", "Minimum", "More", "Less"],
+            answer: "Minimum",
+        },
+        {
+            id: 1473,
+            question:
+                "Find out the correct antonyms from the following : SHALLOW",
+            options: ["deep", "shawl", "wide", "shower"],
+            answer: "deep",
+        },
+        {
+            id: 1474,
+            question: "ZEAL",
+            options: ["apathy", "disinterest", "carelessness", "hatred"],
+            answer: "apathy",
+        },
+        {
+            id: 1475,
+            question: "MELODIOUS",
+            options: ["hammonious", "odious", "tuneless", "ymellifluous"],
+            answer: "tuneless",
+        },
+        {
+            id: 1476,
+            question: "RADIANT",
+            options: ["absorptive", "uncritical", "casual", "dull"],
+            answer: "dull",
+        },
+        {
+            id: 1477,
+            question: "LEGITIMATE",
+            options: ["delicious", "decisive", "improper", "lethargic"],
+            answer: "improper",
+        },
+        {
+            id: 1478,
+            question: "OBVIOUS",
+            options: ["vague", "diminished", "motivate", "miserable"],
+            answer: "vague",
+        },
+        {
+            id: 1479,
+            question: "DISCOUNT",
+            options: ["Profit", "Concession", "Interest", "Premium"],
+            answer: "Profit",
+        },
+        {
+            id: 1480,
+            question: "GUILTY",
+            options: ["Pure", "Innocent", "Virtuous", "Angelic"],
+            answer: "Innocent",
+        },
+        {
+            id: 1481,
+            question: "AMBIGUOUS",
+            options: ["Secular", "Obscure", "Agreement", "Explicit"],
+            answer: "Explicit",
+        },
+        {
+            id: 1482,
+            question: "ILLEGIBLE",
+            options: ["clear", "readable", "clean", "imitable"],
+            answer: "clear",
+        },
+        {
+            id: 1483,
+            question: "LASSITUDE",
+            options: ["aptitude", "capacity", "vivacity", "magnitude"],
+            answer: "vivacity",
+        },
+        {
+            id: 1484,
+            question: "SABBATICAL",
+            options: ["prayerful", "vacation", "evil", "work"],
+            answer: "vacation",
+        },
+        {
+            id: 1485,
+            question: "OPPOSITE",
+            options: ["similar", "same", "estranged", "inappropriate"],
+            answer: "similar",
+        },
+        {
+            id: 1486,
+            question:
+                "Choose the most appropriate word having meaning apposite to given word Resist.",
+            options: ["Assist", "Insist", "Welcome", "Fight"],
+            answer: "Assist",
+        },
+        {
+            id: 1487,
+            question: "Fortunate",
+            options: ["Sad", "Unhappy", "Unfortunate", "None"],
+            answer: "Unfortunate",
+        },
+        {
+            id: 1488,
+            question: "Orthodox",
+            options: ["Unorthodox", "Secular", "Socialist", "None"],
+            answer: "Unorthodox",
+        },
+        {
+            id: 1489,
+            question: "Choose the correct antonym of 'Savagery'",
+            options: ["Culture", "Wilderness", "Wildness", "Religion"],
+            answer: "Culture",
+        },
+        {
+            id: 1490,
+            question: "Choose the antonym - 'Challenge'",
+            options: ["Favour", "Praise", "Accept", "Admire"],
+            answer: "Accept",
+        },
+        {
+            id: 1491,
+            question: "Choose the correct antonym of : Nightmare",
+            options: ["dreams", "daylight", "occasions", "provisions"],
+            answer: "daylight",
+        },
+        {
+            id: 1492,
+            question: "Select the correct antonym of 'Ignorance'?",
+            options: ["Cleverness", "Stupidity", "Folly", "Absurdity"],
+            answer: "Cleverness",
+        },
+        {
+            id: 1493,
+            question:
+                "Choose the given options which best expresses the opposite meaning of the word. AFFLUENCE.",
+            options: ["Influence", "Poverty", "Indifference", "Riches"],
+            answer: "Poverty",
+        },
+        {
+            id: 1494,
+            question: "Modesty",
+            options: [
+                "Thoughtlessness",
+                "Pride",
+                "Extravagance",
+                "Restlessness",
+            ],
+            answer: "Pride",
+        },
+        {
+            id: 1495,
+            question: "Give the antonym of the word 'former'.",
+            options: ["latter", "later", "before", "last"],
+            answer: "latter",
+        },
+        {
+            id: 1496,
+            question: "Select correct ‘Antonym’ for ‘accept’.",
+            options: ["reject", "refuse", "disqualify", "left"],
+            answer: "reject",
+        },
+        {
+            id: 1497,
+            question:
+                "Self reliance has been <u>adopted</u> as an important objective of economic planning in modern India. Choose the antonym for the underlined word.",
+            options: ["refused", "forsaken", "denied", "discarded"],
+            answer: "refused",
+        },
+        {
+            id: 1498,
+            question:
+                "Select correct ‘Antonym’ for the following word. CHOLERIC.",
+            options: ["Malaria", "healthy", "good-tempered", "cupid"],
+            answer: "good-tempered",
+        },
+        {
+            id: 1499,
+            question:
+                "Choose the correct opposite word for the underlined word. There is a great <u>affinity</u> between the two girls.",
+            options: ["apathy", "empathy", "antipathy", "sympathy"],
+            answer: "antipathy",
+        },
+        {
+            id: 1500,
+            question:
+                "Select the antonym for the underlined word : I like his friendly attitude.",
+            options: ["jealous", "emulous", "hostile", "vicious"],
+            answer: "hostile",
+        },
+        {
+            id: 1501,
+            question:
+                "One should be <u>loyal</u> to one’s profession. Which of the given alternatives can be used to form the antonym of underlined word?",
+            options: ["un-", "in-", "dis-", "ab"],
+            answer: "dis-",
+        },
+        {
+            id: 1502,
+            question:
+                "Which of the given alternatives best expresses the opposite meaning of the word 'LAVISH'",
+            options: ["frugal", "slavish", "peevish", "fragile"],
+            answer: "frugal",
+        },
+        {
+            id: 1503,
+            question: "Give antonym of 'Essential'",
+            options: [
+                "unessential",
+                "very essential",
+                "not so useful",
+                "un useful",
+            ],
+            answer: "unessential",
+        },
+        {
+            id: 1504,
+            question: "Give antonym of 'Bright'",
+            options: ["sparkling", "dark", "fade", "dull"],
+            answer: "dull",
+        },
+        {
+            id: 1505,
+            question: "Give antonym of : 'Attack'",
+            options: ["Counter attack", "Defend", "to fight", "re attack"],
+            answer: "Defend",
+        },
+        {
+            id: 1506,
+            question: "Give antonym of — DEFICIT,",
+            options: ["drawback", "detect", "surplus", "budget"],
+            answer: "surplus",
+        },
+        {
+            id: 1507,
+            question: "Give antonym of — METECULOUS",
+            options: ["thankful", "lavish", "imaginary", "careless"],
+            answer: "careless",
+        },
+        {
+            id: 1508,
+            question:
+                "He liked the <u>pungent</u> sauce prepared by his mother. Choose the correct antonym for the word underlined.",
+            options: ["gentle", "mild", "insipid", "unsavoury"],
+            answer: "mild",
+        },
+        {
+            id: 1509,
+            question: "The antonym of <u>misanthrope</u> is ________",
+            options: ["loveless", "lovely", "loving", "loveable"],
+            answer: "loveable",
+        },
+        {
+            id: 1510,
+            question: "Select the antonym of 'Pride'.",
+            options: ["friendship", "cooperation", "humility", "shame"],
+            answer: "humility",
+        },
+        {
+            id: 1511,
+            question: "Select the word that is opposite in meaning to: Acumen.",
+            options: [
+                "Intelligence",
+                "Imbecility",
+                "Potentiality",
+                "Unfamiliarity",
+            ],
+            answer: "Imbecility",
+        },
+        {
+            id: 1512,
+            question:
+                "Select the word that is opposite in meaning to: Profane.",
+            options: ["Arrogant", "Praiseworthy", "Respectful", "Pious"],
+            answer: "Pious",
+        },
+        {
+            id: 1513,
+            question: "Select the word that is opposite in meaning to: Accord.",
+            options: ["concord", "Policy", "Dissent", "Act"],
+            answer: "Dissent",
+        },
+        {
+            id: 1514,
+            question: "Select the word that is opposite in meaning to: Brazen.",
+            options: ["Helpful", "Delicious", "Innocent", "Respectful"],
+            answer: "Respectful",
+        },
+        {
+            id: 1515,
+            question:
+                "Select the word that is opposite in meaning to <u>languid</u>.",
+            options: ["Fast", "Energetic", "Ferocious", "smart"],
+            answer: "Energetic",
+        },
+        {
+            id: 1516,
+            question: "Choose the correct Antonym of : SCARCE",
+            options: ["Pretty", "exquisite", "abundant", "redundant"],
+            answer: "abundant",
+        },
+        {
+            id: 1517,
+            question: "Choose the correct antonym of : Tainted",
+            options: ["fainted", "hinted", "shaded", "pure"],
+            answer: "pure",
+        },
+        {
+            id: 1518,
+            question: "Choose the correct antonym of : Deprive",
+            options: ["detach", "fetch", "attach", "snatch"],
+            answer: "attach",
+        },
+        {
+            id: 1519,
+            question: "Choose the correct antonym of : Mediocre",
+            options: ["excellent", "medieval", "prevalent", "scare"],
+            answer: "excellent",
+        },
+        {
+            id: 1520,
+            question:
+                "Choose the most appropriate antonym for the underlined word from the options given below: The organization is known for its <u>probity</u>.",
+            options: ["weakness", "dullness", "wealth", "dishonesty"],
+            answer: "dishonesty",
+        },
+        {
+            id: 1521,
+            question:
+                "This Person is liberal in his opinion. Choose the antonym of the word ‘liberal’ in this sentence :",
+            options: ["hostile", "generous", "conservative", "broad minded"],
+            answer: "conservative",
+        },
+        {
+            id: 1522,
+            question: "Choose the correct antonym of — 'cold'.",
+            options: ["warm", "hot", "dry", "freezed"],
+            answer: "warm",
+        },
+        {
+            id: 1523,
+            question: "Choose the correct antonym of — ‘adversity’",
+            options: ["opportunity", "variety", "virtue", "boon"],
+            answer: "boon",
+        },
+        {
+            id: 1524,
+            question: "What the antonym of — 'liberty'",
+            options: ["deliverance", "slavery", "bondage", "shackles"],
+            answer: "slavery",
+        },
+        {
+            id: 1525,
+            question:
+                "Choose the word which has meaning opposite to— 'prudent'",
+            options: ["A foolish", "slave", "imprudent", "thrifty"],
+            answer: "imprudent",
+        },
+        {
+            id: 1526,
+            question: "Choose the correct antonym of — profound.",
+            options: ["plenty", "scanty", "deep", "vast"],
+            answer: "scanty",
+        },
+        {
+            id: 1527,
+            question: "Choose the antonym of — confess",
+            options: ["deny", "refuse", "reject", "shallow"],
+            answer: "deny",
+        },
+        {
+            id: 1528,
+            question:
+                "Choose the correct antonym to the bold word in the sentence : The world is only an ‘ILLUSION’ said the odd man.",
+            options: ["fiction", "transitory", "reality", "short-live"],
+            answer: "reality",
+        },
+        {
+            id: 1529,
+            question:
+                "Bacon was an intellectual giant but a moral <u>DWARF</u>.",
+            options: ["giant", "fresh", "budge", "big"],
+            answer: "giant",
+        },
+        {
+            id: 1530,
+            question:
+                "God and his glory are <u>ETERNAL</u>. Choose the correct antonym to the word in capitals in the sentence.",
+            options: ["transient", "external", "destructive", "obscure"],
+            answer: "transient",
+        },
+        {
+            id: 1531,
+            question:
+                "My plans may sound rather <u>NEBULOUS</u> to you but they are very ________ to me.",
+            options: ["clear", "concrete", "prominent", "conspicuous"],
+            answer: "clear",
+        },
+        {
+            id: 1532,
+            question: "I <u>NEVER</u> drive to work, I ________ walk.",
+            options: ["often", "always", "sometimes", "seldom"],
+            answer: "always",
+        },
+        {
+            id: 1533,
+            question:
+                "My uncle is very wealthy, but rather PARSIMONTOUS in his habits.",
+            options: ["cordless", "stick", "generous", "extravagant"],
+            answer: "generous",
+        },
+        {
+            id: 1534,
+            question: "Choose the correct antonym of <u>fade</u>,",
+            options: ["faint", "bright", "soft", "hard"],
+            answer: "bright",
+        },
+        {
+            id: 1535,
+            question: "Choose the correct antonym of <u>contract</u>.",
+            options: ["agreement", "bargain", "stop", "disagreement"],
+            answer: "disagreement",
+        },
+        {
+            id: 1536,
+            question: "Choose the correct antonym of <u>Reveal</u>.",
+            options: ["Unravel", "Relate", "Lament", "Hide"],
+            answer: "Hide",
+        },
+        {
+            id: 1537,
+            question:
+                "The bag is very <u>heavy</u>. Choose the opposite word of the underlined word from the following.",
+            options: ["light", "dark", "soft", "weak"],
+            answer: "light",
+        },
+        {
+            id: 1538,
+            question: "Choose the correct antonym of <u>Vertical</u>.",
+            options: ["Parallel", "Horizontal", "Vicious", "Perpendicular"],
+            answer: "Horizontal",
+        },
+        {
+            id: 1539,
+            question: "Choose the correct antonym of <u>Resident</u>.",
+            options: ["Habitat", "To reside", "To live", "Foreigner"],
+            answer: "Foreigner",
+        },
+        {
+            id: 1540,
+            question: "Choose the correct antonym of <u>suppressed</u>.",
+            options: ["Free", "Liberal", "Operation", "Healthy"],
+            answer: "Free",
+        },
+        {
+            id: 1541,
+            question: "Choose the correct antonym of fiasco.",
+            options: ["Cure-all", "success", "determination", "result"],
+            answer: "success",
+        },
+        {
+            id: 1542,
+            question: "Choose the correct antonym of Loyal.",
+            options: ["Faithful", "Legal", "Disloyal", "Honest"],
+            answer: "Disloyal",
+        },
+        {
+            id: 1543,
+            question: "Choose the correct antonym of Compassion.",
+            options: ["indifference", "distress", "timidity", "sobriety"],
+            answer: "indifference",
+        },
+        {
+            id: 1544,
+            question: "Choose the correct antonym of — demon.",
+            options: ["fair-minded", "kind-hearted", "garrulous", "angel"],
+            answer: "kind-hearted",
+        },
+        {
+            id: 1545,
+            question: "Choose the correct antonym of — Concise.",
+            options: ["short", "ignorant", "abundant", "wordy"],
+            answer: "wordy",
+        },
+        {
+            id: 1546,
+            question: "Choose the correct antonym of — remote.",
+            options: ["close", "disappear", "separate", "weak"],
+            answer: "close",
+        },
+        {
+            id: 1547,
+            question: "Choose the carrect antonym of - Forbid.",
+            options: ["permit", "admit", "entry", "neglect"],
+            answer: "permit",
+        },
+        {
+            id: 1548,
+            question: "Choose the correct antonym of — equality.",
+            options: ["inequality", "inequality", "unequally", "similarly"],
+            answer: "inequality",
+        },
+        {
+            id: 1549,
+            question:
+                "Choose the word or the phrase from the following that is most nearly opposite in the meaning of the numbered word <u>weary</u>.",
+            options: ["Weak", "Energetic", "Powerful", "airy"],
+            answer: "Energetic",
+        },
+        {
+            id: 1550,
+            question:
+                "Choose the correct antonym for the following word : 'Frugal'",
+            options: ["Extravagant", "Fragile", "Miserly", "Fictitious"],
+            answer: "Extravagant",
+        },
+        {
+            id: 1551,
+            question:
+                "The growing <u>disparity</u> among the several states has been a subject of discussion for the politicians in India. Choose the word opposite to the meaning of 'disparity'.",
+            options: ["brotherhood", "equality", "diversity", "fraternity"],
+            answer: "equality",
+        },
+        {
+            id: 1552,
+            question:
+                "She was a religious lady, but her son was ________. Choose the word opposite in meaning of the underlined word :",
+            options: ["pious", "an atheist", "unreligious", "philosopher"],
+            answer: "an atheist",
+        },
+        {
+            id: 1553,
+            question:
+                "She was a very <u>attractive</u> girl. Choose the alternative giving an opposite of the underlined adjective :",
+            options: ["Bad", "Worse", "Repulsive", "Good"],
+            answer: "Repulsive",
+        },
+        {
+            id: 1554,
+            question:
+                "The floods have caused ________ harm. Choose the right antonym of the word ‘calculable’ for filling the blank :",
+            options: [
+                "uncalculable",
+                "discalculable",
+                "miscalculable",
+                "incalculable",
+            ],
+            answer: "uncalculable",
+        },
+        {
+            id: 1555,
+            question:
+                "Choose the word or phrase from the following that is most nearly opposite in meaning of the numbered word : Marvellous ________",
+            options: ["wonderful", "splendid", "ugly", "fantastic"],
+            answer: "ugly",
+        },
+        {
+            id: 1556,
+            question:
+                "Choose the antonym for the word underlined in the sentence given : Absolute powers con not be vested in an individual.",
+            options: ["Perfect", "Unqualified", "Partial", "Arbitrary"],
+            answer: "Partial",
+        },
+        {
+            id: 1557,
+            question:
+                "Everybody called it a lavish party. Choose the correct antonym of the word underlined.",
+            options: ["expensive", "big", "frugal", "wasteful"],
+            answer: "frugal",
+        },
+        {
+            id: 1558,
+            question: "Identify the correct pair of antonyms.",
+            options: [
+                "confirm x contradict",
+                "foreign x native",
+                "encourage x embolden",
+                "distant x remote",
+            ],
+            answer: "confirm x contradict",
+        },
+        {
+            id: 1559,
+            question:
+                "Choose the correct word, opposite in meaning for the word given below : Rigid",
+            options: ["stiff", "unbending", "unyielding", "flexible"],
+            answer: "flexible",
+        },
+        {
+            id: 1560,
+            question:
+                "Give antonym of the underlined word. His <u>parsimonious</u> habits are known to all his friends.",
+            options: ["plentiful", "lavish", "luxuriant", "ample"],
+            answer: "lavish",
+        },
+        {
+            id: 1561,
+            question: "Which of the following is not the antonym of old?",
+            options: ["young", "new", "past", "latest"],
+            answer: "past",
+        },
+        {
+            id: 1562,
+            question: "Choose the correct antonym of : rural",
+            options: ["polite", "well-bred", "polished", "urban"],
+            answer: "urban",
+        },
+        {
+            id: 1563,
+            question: "Choose the correct antonym of 'glad':",
+            options: ["happy", "sad", "pleased", "delighted"],
+            answer: "sad",
+        },
+        {
+            id: 1564,
+            question: "Choose the correct antonym of 'bottom':",
+            options: ["base", "foundation", "foot", "top"],
+            answer: "top",
+        },
+        {
+            id: 1565,
+            question: "Choose the correct antonym of 'wet':",
+            options: ["moist", "soaked", "damp", "dry"],
+            answer: "dry",
+        },
+        {
+            id: 1566,
+            question: "Choose the correct antonym of Frank.",
+            options: ["good-mixer", "reserved", "friendly", "proud"],
+            answer: "reserved",
+        },
+        {
+            id: 1567,
+            question:
+                "Choose the word or phrase from the following that is most nearly opposite in meaning of the numbered word: Repudiate ________",
+            options: ["reject", "accept", "deny", "disown"],
+            answer: "accept",
+        },
+        {
+            id: 1568,
+            question:
+                "Choose the word or phrase from the following that is most nearly opposite in meaning of the numbered word: Savage ________",
+            options: ["brutal", "primitive", "wild", "civilized"],
+            answer: "civilized",
+        },
+        {
+            id: 1569,
+            question:
+                "Choose the most appropriate antonym of the underlined word from the options given below: He is known for his <u>gregarious</u> nature.",
+            options: ["congenial", "amiable", "straightforward", "unsociable"],
+            answer: "unsociable",
+        },
+        {
+            id: 1570,
+            question:
+                "Give antonym of 'covetous': a) greedy b) avaricious c) grasping d) renouncing",
+            options: ["a and b", "b and c", "c and d", "d"],
+            answer: "d",
+        },
+        {
+            id: 1571,
+            question: "Give antonym of the word 'Spiritual':",
+            options: ["mundane", "intangible", "irreparable", "uninnovative"],
+            answer: "mundane",
+        },
+        {
+            id: 1572,
+            question:
+                "Many of the incidents in the autobiography appear to be <u>fictitious</u>. Select the word which is opposite in meaning of the underlined.",
+            options: ["imaginary", "boring", "creative", "genuine"],
+            answer: "genuine",
+        },
+        {
+            id: 1573,
+            question:
+                "Which one of the following words is opposite in meaning to the word 'transparent'?",
+            options: ["clear", "translucent", "sharp", "opaque"],
+            answer: "opaque",
+        },
+        {
+            id: 1574,
+            question: "Find out the antonym for the following word: Strange",
+            options: ["familiar", "unfamiliar", "weak", "strong"],
+            answer: "familiar",
+        },
+        {
+            id: 1575,
+            question: "Choose the correct antonym of - Absolve.",
+            options: ["bless", "repent", "melt", "blame"],
+            answer: "blame",
+        },
+        {
+            id: 1576,
+            question:
+                "Give antonym of the following word: concur, devious \n(a) agreement, tricky \n(b) approve, useful \n(c) collaborate, cunning \n(d) disagree, straight",
+            options: [
+                "(a) and (b) only",
+                "(c) only",
+                "(d) only",
+                "(c) and (d) only",
+            ],
+            answer: "(c) and (d) only",
+        },
+        {
+            id: 1577,
+            question:
+                "Choose the most appropriate antonym for the underlined word: Our teacher was a very <u>strict</u> person.",
+            options: ["lenient", "relaxed", "kind", "humorous"],
+            answer: "lenient",
+        },
+        {
+            id: 1578,
+            question:
+                "Select the word that is most nearly opposite in meaning to the word given: Incessantly",
+            options: ["Frequently", "Periodically", "Regularly", "Submissive"],
+            answer: "Periodically",
+        },
+        {
+            id: 1579,
+            question:
+                "Choose the word which is most opposite in meaning of the given word: Comparison",
+            options: ["Separate", "Different", "Distinct", "Contrast"],
+            answer: "Contrast",
+        },
+        {
+            id: 1580,
+            question:
+                "Choose the best alternative from the following which expresses the opposite meaning of the given word: Recede",
+            options: ["Rush", "Advance", "Approach", "Forward"],
+            answer: "Advance",
+        },
+        {
+            id: 1581,
+            question:
+                "Which word is opposite in meaning to the word printed in capitals in the given sentence? Eating bananas can be HEALTHY for babies.",
+            options: ["salubrious", "luscious", "deleterious", "disservice"],
+            answer: "deleterious",
+        },
+        {
+            id: 1582,
+            question:
+                "Choose the word opposite in meaning to the given word. - Forbidden",
+            options: ["Allowed", "Prohibited", "Agreed", "Forsaken"],
+            answer: "Allowed",
+        },
+        {
+            id: 1583,
+            question:
+                "Which of the word/s is/are opposite in meaning to the word printed in capitals in the given sentence? He is an ASTUTE businessman. \na) Simpleton b) Shrewd c) Foolish",
+            options: [
+                "a and b only",
+                "b and c only",
+                "a and c only",
+                "a, b and c",
+            ],
+            answer: "a and c only",
+        },
+        {
+            id: 1584,
+            question:
+                "Choose the best opposite meaning of the word printed in capitals in the following sentence. Today will be mostly fine and sunny, with INTERMITTENT showers.",
+            options: ["Incredible", "Termittent", "Incessant", "Heavy"],
+            answer: "Incessant",
+        },
+        {
+            id: 1585,
+            question: "Choose the word opposite in meaning to OSTENTATIOUS.",
+            options: [
+                "Unpretentious",
+                "Conscientious",
+                "Advantageous",
+                "None of the above",
+            ],
+            answer: "Unpretentious",
+        },
+        {
+            id: 1586,
+            question:
+                "Choose the word having meaning opposite to the word in Capital. All other considerations are SUBSERVIENT to the need for quick profit.",
+            options: ["Solvent", "Predicament", "Resonance", "Dominant"],
+            answer: "Dominant",
+        },
+        {
+            id: 1587,
+            question:
+                "He is very <u>diligent</u> young man, you won’t find him wasting his time. Select the word which is opposite in meaning of the word underlined.",
+            options: ["Brilliant", "Idle", "Curious", "Inattentive"],
+            answer: "Idle",
+        },
+        {
+            id: 1588,
+            question: "Write the antonym of the word given below: Ancestor",
+            options: ["Descendant", "Forefather", "Precursor", "Grandparent"],
+            answer: "Descendant",
+        },
+        {
+            id: 1589,
+            question:
+                "Choose the words having meaning opposite of: IMMACULATE \n(a) Soiled (b) Spotted (c) Unblemished (d) Stained",
+            options: [
+                "(a) and (d) only",
+                "(b) and (d) only",
+                "(a), (b) and (d)",
+                "(a), (c) and (d)",
+            ],
+            answer: "(a), (b) and (d)",
+        },
+        {
+            id: 1590,
+            question: "What is the correct antonym for the word? 'Memorable'",
+            options: ["Forgettable", "Memorial", "Immemorial", "Immoral"],
+            answer: "Forgettable",
+        },
+        {
+            id: 1591,
+            question:
+                "Choose the most suitable word opposite in meaning of the word: 'Casual'",
+            options: ["Accidental", "Formal", "Informal", "Systematic"],
+            answer: "Formal",
+        },
+        {
+            id: 1592,
+            question:
+                "Which of the following pairs of antonyms is incorrect: \na) Accept x Reject b) Bloom x Fade c) Defend x Suspend d) Progress x Regress",
+            options: ["(a) only", "(a) and (b)", "(c) only", "(c) and (d)"],
+            answer: "(c) only",
+        },
+        {
+            id: 1593,
+            question:
+                "Choose from the given alternatives the word which is opposite in meaning of the underlined word: He issues only <u>verbal</u> orders to escape the inquiry against those orders in future.",
+            options: ["Oral", "Vague", "Informal", "Written"],
+            answer: "Written",
+        },
+        {
+            id: 1594,
+            question: "Give antonym of the following words: Lament, Scatter.",
+            options: [
+                "Rejoice, Gather",
+                "Sad, Collect",
+                "Mourn, Store",
+                "Chaste, Gay",
+            ],
+            answer: "Rejoice, Gather",
+        },
+        {
+            id: 1595,
+            question:
+                "Give antonym of the following words: Convex, Famous, Kernel.",
+            options: [
+                "Curved, Known, Officer",
+                "Concave, Obscure, Shell",
+                "Dusk, Gloomy, Attack",
+                "Stale, Reputed, Cover",
+            ],
+            answer: "Concave, Obscure, Shell",
+        },
+        {
+            id: 1596,
+            question:
+                "Choose the words having meaning opposite to that of INTREPID: \n(a) Pusillanimous b) Timorous c) Timid d) Undaunted",
+            options: [
+                "(c) only",
+                "(a) and (c) only",
+                "(a), (b) and (c) only",
+                "(a), (b), (c) and (d)",
+            ],
+            answer: "(a), (b) and (c) only",
+        },
+        {
+            id: 1597,
+            question:
+                "The priest entered the <u>sacred</u> place. Select the correct antonym to the word underlined.",
+            options: ["Holy", "Profane", "Religious", "Auspicious"],
+            answer: "Profane",
+        },
+        {
+            id: 1598,
+            question:
+                "Select the word or group of words that is opposite in meaning to the word given below: 'Disparage'",
+            options: ["Criticize", "Cajole", "Justify", "Honour"],
+            answer: "Honour",
+        },
+        {
+            id: 1599,
+            question:
+                "Choose the word opposite in meaning to the one in capitals in the given sentence. She didn't have slightest COMPUNCTION about telling me a lie.",
+            options: ["Conflagration", "Audacity", "Abstemious", "Abjuration"],
+            answer: "Audacity",
+        },
+        {
+            id: 1600,
+            question:
+                "Choose the correct word which is the most opposite to the meaning of the underlined word in the sentence. At night much of the activity comes to rest.",
+            options: ["Cessation", "Tranquility", "Pause", "Exertion"],
+            answer: "Exertion",
+        },
+        {
+            id: 1601,
+            question:
+                "Choose the words having opposite to that of BOISTEROUS \n(a) Rowdy (b) Calm (c) Quiet (d) Tumultuous",
+            options: [
+                "(a) and (c) only",
+                "(b) and (c) only",
+                "(b), (c), and (d)",
+                "(b) and (d) only",
+            ],
+            answer: "(b) and (c) only",
+        },
+        {
+            id: 1602,
+            question:
+                "Which one of the following words is antonymous with the word 'Extravagant'? \n(a) Costly (b) Showy (c) Thrifty (d) Abundant",
+            options: ["(c) only", "(b) only", "(a) only", "(d) only"],
+            answer: "(c) only",
+        },
+        {
+            id: 1603,
+            question:
+                "Select the most appropriate ANTONYM of the given word. 'Barren'",
+            options: ["Fertile", "Fallow", "Swampy", "Rocky"],
+            answer: "Fertile",
+        },
+        {
+            id: 1604,
+            question:
+                "Select the most appropriate ANTONYM of the given word. 'Cogent'",
+            options: ["Relevant", "Urgent", "Ineffective", "Forceful"],
+            answer: "Ineffective",
+        },
+        {
+            id: 1605,
+            question:
+                "Select the most appropriate ANTONYM of the given word. 'Spontaneous'",
+            options: ["Deliberate", "Voluntary", "Casual", "Natural"],
+            answer: "Deliberate",
+        },
+        {
+            id: 1606,
+            question:
+                "Select the most appropriate ANTONYM of the given word. 'Lavish'",
+            options: ["Generous", "Wasteful", "Lacking", "Liberal"],
+            answer: "Lacking",
+        },
+        {
+            id: 1607,
+            question:
+                "Select the most appropriate ANTONYM of the given word. 'Retreat'",
+            options: ["Retire", "Withdrawal", "Advance", "Flight"],
+            answer: "Advance",
+        },
+        {
+            id: 1608,
+            question:
+                "Select the most appropriate ANTONYM of the given word. 'Thrive'",
+            options: ["Flourish", "Destroy", "Decline", "Prosper"],
+            answer: "Decline",
+        },
+        {
+            id: 1609,
+            question:
+                "Select the most appropriate ANTONYM of the given word. 'Crude'",
+            options: ["Remote", "Rigid", "Refined", "Rough"],
+            answer: "Refined",
+        },
+        {
+            id: 1610,
+            question:
+                "Select the most appropriate ANTONYM of the given word. 'Sparse'",
+            options: ["Calm", "Dense", "Opaque", "Stiff"],
+            answer: "Dense",
+        },
+        {
+            id: 1611,
+            question:
+                "Select the most appropriate ANTONYM of the given word. 'Defer'",
+            options: ["Delay", "Waive", "Prolong", "Advance"],
+            answer: "Advance",
+        },
+        {
+            id: 1612,
+            question:
+                "We will not entertain any <u>anonymous</u> complaint. Give antonym of underlined word.",
+            options: ["Identified", "Friendly", "Mailed", "Signed"],
+            answer: "Identified",
+        },
+        {
+            id: 1613,
+            question:
+                "His <u>procrastinating</u> did not impress me, and I threw him out of the job.",
+            options: ["Advancing", "Honesty", "Freeing", "Courageous"],
+            answer: "Advancing",
+        },
+        {
+            id: 1614,
+            question: "Give antonym of underlined word. - <u>Enfeeble</u>",
+            options: ["Brutal", "Devitalize", "Engulf", "Strengthen"],
+            answer: "Strengthen",
+        },
+        {
+            id: 1615,
+            question: "In the minds of many, the Falls were <u>obsolete</u>.",
+            options: ["Outdated", "Remote", "Rigid", "Recent"],
+            answer: "Recent",
+        },
+        {
+            id: 1616,
+            question: "Mala is always <u>obedient</u> to the elders.",
+            options: ["Pleasant", "Meek", "Rebellious", "Friendly"],
+            answer: "Rebellious",
+        },
+        {
+            id: 1617,
+            question: "I am working <u>incessantly</u>.",
+            options: ["honestly", "regularly", "occasionally", "seriously"],
+            answer: "occasionally",
+        },
+        {
+            id: 1618,
+            question:
+                "The father was upset by his son’s <u>hostile</u> attitude.",
+            options: ["Positive", "Friendly", "Negative", "Motivating"],
+            answer: "Friendly",
+        },
+        {
+            id: 1619,
+            question:
+                "Mr. Manmohan Singh is always <u>reserved</u> in his behaviour.",
+            options: ["respected", "social", "silent", "enthusiastic"],
+            answer: "social",
+        },
+        {
+            id: 1620,
+            question: "This is a <u>moot point</u> to raise.",
+            options: ["Arguable", "Irrelevant", "Insignificant", "Resolved"],
+            answer: "Resolved",
+        },
+        {
+            id: 1621,
+            question:
+                "The Prime Minister said that we are looking for a long-term strategy to uplift the standard of the <u>marginalized</u> sections of society.",
+            options: ["Miterate", "Tribal", "Side-lined", "Privileged"],
+            answer: "Privileged",
+        },
+        {
+            id: 1622,
+            question:
+                "If <u>launched</u>, the missile can wreak havoc on countries. Give antonym of underlined word.",
+            options: ["Inflict", "Throw", "Fail", "Cause"],
+            answer: "Fail",
+        },
+        {
+            id: 1623,
+            question:
+                "Tyler was convicted but was granted a royal <u>pardon</u>. Give antonym of underlined word.",
+            options: ["grace", "mercy", "punish", "kindness"],
+            answer: "punish",
+        },
+        {
+            id: 1624,
+            question: "The patient was writhing on the bed in <u>agony</u>.",
+            options: ["distress", "comfort", "anxiety", "misery"],
+            answer: "comfort",
+        },
+        {
+            id: 1625,
+            question:
+                "There has been a mass <u>exodus</u> of workers from the village to the towns.",
+            options: ["Insulting", "Outdated", "Imagine", "Arrival"],
+            answer: "Arrival",
+        },
+        {
+            id: 1626,
+            question:
+                "He extended <u>cordial</u> greetings to the delegates of these countries.",
+            options: ["Stoic", "Palpable", "Hostile", "Amicable"],
+            answer: "Hostile",
+        },
+        {
+            id: 1627,
+            question:
+                "A <u>massive</u> explosion went off, shaking the ground beneath them.",
+            options: ["microscopic", "enormous", "derail", "heavy"],
+            answer: "microscopic",
+        },
+        {
+            id: 1628,
+            question:
+                "A <u>multitude</u> of dining options exists in and around the city.",
+            options: ["surplus", "heap", "secular", "scarcity"],
+            answer: "scarcity",
+        },
+        {
+            id: 1629,
+            question:
+                "Choose the alternative meaning opposite of the word in capitals in the given sentence. The plan, as yet, only exists in EMBRYONIC form.",
+            options: ["Early stage", "Advanced", "Embroil", "Emanation"],
+            answer: "Advanced",
+        },
+        {
+            id: 1630,
+            question:
+                "Identify a word of opposite meaning by adding prefix to the word. <u>domitable</u>",
+            options: [
+                "undomitable",
+                "indomitable",
+                "indomitable",
+                "misdomitable",
+            ],
+            answer: "indomitable",
+        },
+        {
+            id: 1631,
+            question: "Choose appropriate antonym of the word- “Abominable”",
+            options: ["nauseating", "obnoxious", "appalling", "pleasing"],
+            answer: "pleasing",
+        },
+        {
+            id: 1632,
+            question:
+                "Point out the sentence that have antonyms: \n(a) Early or late, one has to meet one's death. \n(b) A wise man knows that he is no better than a fool. \n(c) They were drenched in the rain from top to bottom. \n(d) A saint has his past, and a sinner, his future.",
+            options: [
+                "(a), (b) and (c)",
+                "(b), (c) and (d)",
+                "None of these",
+                "All of these",
+            ],
+            answer: "(4) All of these",
+        },
+        {
+            id: 1633,
+            question: "'Millionaire' is a person.",
+            options: [
+                "Whose salary is one million.",
+                "Who owns many mills.",
+                "Who has many sources of income.",
+                "Who is very rich.",
+            ],
+            answer: "Who is very rich.",
+        },
+        {
+            id: 1634,
+            question:
+                "Choose the word which will substitute the bold word. Group of words: “Those who pass through this gate without permission will be prosecuted.”",
+            options: [
+                "Bypassers",
+                "Absconders",
+                "Thoroughfares",
+                "Trespassers",
+            ],
+            answer: "Trespassers",
+        },
+        {
+            id: 1635,
+            question:
+                "Select from the alternatives given below one word for the following expression: SET OF ROOMS ________",
+            options: ["Suit", "Suite", "Block", "Sweet"],
+            answer: "Suite",
+        },
+        {
+            id: 1636,
+            question: "Give correct word for 'burning question'.",
+            options: [
+                "a question of fire",
+                "a serious problem",
+                "a difficult query",
+                "a sensitive problem",
+            ],
+            answer: "a sensitive problem",
+        },
+        {
+            id: 1637,
+            question: "<u>Ambidextrous</u> is a person who is -",
+            options: [
+                "unable to use both his hands.",
+                "able to use left hand better than right hand.",
+                "able to use right hand better than left hand.",
+                "able to use both hands equally well.",
+            ],
+            answer: "able to use both hands equally well.",
+        },
+        {
+            id: 1638,
+            question:
+                "A word may have more than one meaning. Three meanings given below come closer to the word 'Cast'. Choose the one which is entirely wrong.",
+            options: [
+                "a hereditary social class.",
+                "allow to throw or fall.",
+                "pour into a mould",
+                "set of actors in a play.",
+            ],
+            answer: "allow to throw or fall.",
+        },
+        {
+            id: 1639,
+            question:
+                "Fill in the blank. A remedy for all diseases is called _______",
+            options: ["Panacea", "Medicia", "Reincdia", "Cure"],
+            answer: "Panacea",
+        },
+        {
+            id: 1640,
+            question:
+                "Give the correct word for the phrase, ‘the system of government by paid officials’:",
+            options: ["aristocracy", "technocracy", "bureaucracy", "polyarchy"],
+            answer: "bureaucracy",
+        },
+        {
+            id: 1641,
+            question:
+                "The garden where animals are kept for show is called _______.",
+            options: ["Museum", "Zoo", "Forest", "Cage"],
+            answer: "Zoo",
+        },
+        {
+            id: 1642,
+            question:
+                "Choose the correct word for the phrase ‘one who can speak many languages.’",
+            options: [
+                "a linguist",
+                "a multilingual",
+                "a polyglot",
+                "a phonetician",
+            ],
+            answer: "a polyglot",
+        },
+        {
+            id: 1643,
+            question: "Audible means _______.",
+            options: [
+                "Something that can be audited",
+                "Something that can be avoided",
+                "Something that can be auctioned",
+                "Something that can be heard",
+            ],
+            answer: "Something that can be heard",
+        },
+        {
+            id: 1644,
+            question:
+                "Choose the correct alternative : ‘Franchise’ means _______",
+            options: [
+                "French goods",
+                "study of the French language",
+                "the right to vote at elections",
+                "foreign goods",
+            ],
+            answer: "the right to vote at elections",
+        },
+        {
+            id: 1645,
+            question: "Choose the correct synonym of ‘Omnipotent’.",
+            options: ["All knowing", "Everlasting", "All powerful", "Merciful"],
+            answer: "All powerful",
+        },
+        {
+            id: 1646,
+            question:
+                "Choose the appropriate word to complete the sentence. The man who receives guests is called _______",
+            options: ["owner", "master", "host", "friend"],
+            answer: "host",
+        },
+        {
+            id: 1647,
+            question: "‘Cemetery’ is _______",
+            options: [
+                "a playground of cement.",
+                "an area of land for the burial of dead people.",
+                "a cement platform.",
+                "a stage to perform functions.",
+            ],
+            answer: "an area of land for the burial of dead people.",
+        },
+        {
+            id: 1648,
+            question: "Indicate the correct, meaning of the word ‘probation.’",
+            options: [
+                "an attempt to discover the best side of a person.",
+                "an inquiry of a person’s conduct, abilities, qualities etc.",
+                "testing of a person’s conduct, qualities, abilities etc.",
+                "handing over temporary charge.",
+            ],
+            answer: "testing of a person’s conduct, qualities, abilities etc.",
+        },
+        {
+            id: 1649,
+            question:
+                "Give the correct word for, ‘a branch of philosophy that deals with knowledge.”",
+            options: ["Ecology", "Epistemology", "Archaeology", "Philology"],
+            answer: "Epistemology",
+        },
+        {
+            id: 1650,
+            question:
+                "Choose the alternative which is nearest in meaning to the word 'bilabial'.",
+            options: [
+                "of two labels",
+                "of two levels",
+                "of two sides",
+                "of two lips",
+            ],
+            answer: "of two lips",
+        },
+        {
+            id: 1651,
+            question:
+                "Give the correct word for phrase ‘a complete absence of law and government’.",
+            options: ["autocracy", "democracy", "anarchy", "aristocracy"],
+            answer: "anarchy",
+        },
+        {
+            id: 1652,
+            question:
+                "Choose the correct word for the expression “the accepted code of behaviour in a particular situation”.",
+            options: ["authority", "discipline", "protocol", "hierarchy"],
+            answer: "protocol",
+        },
+        {
+            id: 1653,
+            question: "A person who studies the celestial bodies at night is:",
+            options: [
+                "a meteorologist",
+                "an astronomer",
+                "an astrologer",
+                "a philosopher",
+            ],
+            answer: "an astronomer",
+        },
+        {
+            id: 1654,
+            question:
+                "Choose the correct alternative : Adulteration means _______",
+            options: [
+                "Voluntary offer",
+                "becoming adult",
+                "making impure",
+                "Less in weight",
+            ],
+            answer: "making impure",
+        },
+        {
+            id: 1655,
+            question:
+                "Choose correct one word for the following That which cannot be heard",
+            options: ["Auditable", "Inaudible", "Invisible", "Audible"],
+            answer: "Inaudible",
+        },
+        {
+            id: 1656,
+            question:
+                "Choose the correct one word substitute: Animals that eat both flesh and grass.",
+            options: [
+                "Herbivorous",
+                "Carnivorous",
+                "Omnivorous",
+                "None of these",
+            ],
+            answer: "Omnivorous",
+        },
+        {
+            id: 1657,
+            question:
+                "Choose the correct word for denoting science: The study of animal life.",
+            options: ["Botany", "Ecology", "Agronomy", "Zoology"],
+            answer: "Zoology",
+        },
+        {
+            id: 1659,
+            question: "A man of odd habits.",
+            options: ["Moody", "Cynical", "Introvert", "Eccentric"],
+            answer: "Eccentric",
+        },
+        {
+            id: 1660,
+            question: "One who studies the element of weather -",
+            options: ["Glazier", "Metrologist", "Lexicographer", "Antiquary"],
+            answer: "Metrologist",
+        },
+        {
+            id: 1661,
+            question: "A drug which causes vomiting.",
+            options: ["Antidote", "Chloroform", "Deodorant", "Emetic"],
+            answer: "Emetic",
+        },
+        {
+            id: 1662,
+            question: "A wooden stand on which a dead body is carried.",
+            options: ["Cemetery", "Bier", "Buyer", "Carcass"],
+            answer: "Bier",
+        },
+        {
+            id: 1663,
+            question: "Trade by exchanging one commodity for another -",
+            options: ["Barter", "Exchange", "Commerce", "Interchange"],
+            answer: "Barter",
+        },
+        {
+            id: 1664,
+            question:
+                "'Some birds leave their abodes in winter and go to another place where the weather is warm.' Here ‘abodes’ mean",
+            options: ["Fields", "Factories", "Cities", "Living places"],
+            answer: "Living places",
+        },
+        {
+            id: 1665,
+            question:
+                "Choose the correct one-word substitute: ‘One who possesses many talents’.",
+            options: ["Talented", "Host", "Versatile", "None of these"],
+            answer: "Versatile",
+        },
+        {
+            id: 1666,
+            question: "'To take last breath' means",
+            options: ["Live long", "Enter", "Shut down", "Die"],
+            answer: "Die",
+        },
+        {
+            id: 1667,
+            question: "A period of ten years is called _______.",
+            options: ["Decade", "Decay", "Teen", "Tenth"],
+            answer: "Decade",
+        },
+        {
+            id: 1668,
+            question:
+                "Choose the word which will substitute the bold word/group of words: A careful preservation and protection of forest life, is the need of the hour.",
+            options: [
+                "Management",
+                "Embarkment",
+                "Enhancement",
+                "Conservation",
+            ],
+            answer: "Conservation",
+        },
+        {
+            id: 1669,
+            question:
+                "A person who strongly believes in the existence of God in this universe is:",
+            options: ["Atheist", "Existentialist", "Theist", "Agnostic"],
+            answer: "Theist",
+        },
+        {
+            id: 1670,
+            question: "The place where coins are made is called _______.",
+            options: ["Tanksal", "Mint", "Printing press", "Treasury"],
+            answer: "Mint",
+        },
+        {
+            id: 1671,
+            question:
+                "Choose the most suitable 'one word' for the phrase: An officer or a post with no work but high pay.",
+            options: ["Honorary", "Ex-officio", "Gratis", "Sinecure"],
+            answer: "Sinecure",
+        },
+        {
+            id: 1672,
+            question:
+                "Choose the most suitable 'one word' for the phrase: The act of looking back upon past events, experience.",
+            options: ["Analysis", "Critical", "Historical", "Retrospection"],
+            answer: "Retrospection",
+        },
+        {
+            id: 1673,
+            question:
+                "Choose the most appropriate one word from the following to describe the meaning of the phrase: One who makes an official examination of account.",
+            options: ["Auditor", "Director", "Audience", "None"],
+            answer: "Auditor",
+        },
+        {
+            id: 1674,
+            question:
+                "Replace the underlined portion of sentence by a suitable alternative: He is a mercenary.",
+            options: [
+                "He is a miser",
+                "He deals in goods",
+                "He is motivated by profits only",
+                "He is merciful",
+            ],
+            answer: "He is motivated by profits only",
+        },
+        {
+            id: 1675,
+            question: "An aeroplane was hijacked.",
+            options: [
+                "Destroyed",
+                "Misguided",
+                "Carried away by force",
+                "Driven",
+            ],
+            answer: "Carried away by force",
+        },
+        {
+            id: 1676,
+            question:
+                "Which of the following word means ‘an old unmarried woman’?",
+            options: ["Bachelor", "Spinster", "Virgin", "Widow"],
+            answer: "Spinster",
+        },
+        {
+            id: 1677,
+            question: "One who is very particular about small details?",
+            options: ["Meticulous", "Connoisseur", "Artisan", "Immaculate"],
+            answer: "Meticulous",
+        },
+        {
+            id: 1678,
+            question: "A book which gives information on all subjects.",
+            options: ["Encyclopaedia", "Catalogue", "Directory", "Album"],
+            answer: "Encyclopaedia",
+        },
+        {
+            id: 1679,
+            question:
+                "One who tells fortunes by watching the movements of stars and planets.",
+            options: ["Astrologer", "Palmist", "Numerologist", "Astronaut"],
+            answer: "Astrologer",
+        },
+        {
+            id: 1680,
+            question: "A fertile spot in desert where water is found:",
+            options: ["Forest", "Greenery", "Green valley", "Oasis"],
+            answer: "Oasis",
+        },
+        {
+            id: 1681,
+            question: "The object that cannot be seen is called _______.",
+            options: ["Invisible", "Visible", "Valuable", "Important"],
+            answer: "Invisible",
+        },
+        {
+            id: 1682,
+            question:
+                "Choose the correct one word substitution for the phrase: One who has knowledge of many languages.",
+            options: [
+                "Linguist",
+                "Polylinguistic",
+                "Multilinguistic",
+                "Clever",
+            ],
+            answer: "Linguist",
+        },
+        {
+            id: 1683,
+            question:
+                "Choose the correct one word substitution for the phrase: A person who loves his country.",
+            options: ["Militant", "Patriot", "Extremist", "Nationalist"],
+            answer: "Patriot",
+        },
+        {
+            id: 1684,
+            question:
+                "Choose the correct one word substitution for the phrase: A snake in the grass.",
+            options: [
+                "A secret or hidden enemy.",
+                "Good opportunity",
+                "Bane in disguise",
+                "Good friend",
+            ],
+            answer: "A secret or hidden enemy.",
+        },
+        {
+            id: 1685,
+            question:
+                "Choose the correct one word substitution for the phrase: The area near the place where one lives.",
+            options: ["Neighbour", "Neighbourhood", "Vicinity", "Closed by"],
+            answer: "Vicinity",
+        },
+        {
+            id: 1686,
+            question:
+                "The original inhabitants of the place: Choose the proper substitute.",
+            options: ["Aborigines", "Slaves", "Original", "Masters"],
+            answer: "Aborigines",
+        },
+        {
+            id: 1687,
+            question:
+                "Choose the correct one word substitution for the phrase: Things which kill insects and germs.",
+            options: ["Acid", "Solution", "Insecticide", "Antiseptic"],
+            answer: "Insecticide",
+        },
+        {
+            id: 1688,
+            question:
+                "Choose the correct one word substitution for the phrase: A person who has no regards for others' feelings.",
+            options: ["Inconsiderate", "Unkind", "Boastful", "Haughty"],
+            answer: "Inconsiderate",
+        },
+        {
+            id: 1689,
+            question: "Animals that feed on grass:",
+            options: [
+                "Carnivorous",
+                "Herbivorous",
+                "Insectivorous",
+                "Graminivorous",
+            ],
+            answer: "Graminivorous",
+        },
+        {
+            id: 1690,
+            question: "An insect which has many legs:",
+            options: ["Vertebrate", "Mammal", "Herbivores", "Centipede"],
+            answer: "Centipede",
+        },
+        {
+            id: 1691,
+            question: "A hater of learning and knowledge:",
+            options: [
+                "Mysologist",
+                "Misogynist",
+                "Bibliophile",
+                "Misanthropist",
+            ],
+            answer: "Mysologist",
+        },
+        {
+            id: 1692,
+            question:
+                "She was caught by a sudden pang of conscience for scolding the girl. The underlined word contextually means:",
+            options: [
+                "A faculty of mind that decides right or wrong.",
+                "An understanding that makes you alert.",
+                "A feeling of guilt about something you have done.",
+                "A mental state that does not allow using your senses.",
+            ],
+            answer: "A feeling of guilt about something you have done.",
+        },
+        {
+            id: 1693,
+            question:
+                "One who lives on the earnings of others is called _______",
+            options: ["Paralytic", "Paradise", "Parasite", "Para selfish"],
+            answer: "Parasite",
+        },
+        {
+            id: 1694,
+            question:
+                "Choose the correct option: One who eats human flesh is called _______",
+            options: ["Savage", "Nomadic", "Non-vegetarian", "Cannibal"],
+            answer: "Cannibal",
+        },
+        {
+            id: 1695,
+            question:
+                "Choose the most suitable word for the expression: 'Belief in the existence of God'",
+            options: ["Atheism", "Theism", "Fanaticism", "Scepticism"],
+            answer: "Theism",
+        },
+        {
+            id: 1696,
+            question:
+                "Use one word for the underlined group of words: 'A man who spends too much is not a sensible person.'",
+            options: [
+                "A spendthrift",
+                "A waster",
+                "A spender",
+                "An uneconomical man",
+            ],
+            answer: "A spendthrift",
+        },
+        {
+            id: 1697,
+            question:
+                "Choose the correct word for the underlined words in the sentence: Small-pox is a disease which is commonly caught from others.",
+            options: ["Infectious", "Contagious", "Parasitic", "Communicative"],
+            answer: "Contagious",
+        },
+        {
+            id: 1698,
+            question:
+                "Give a single word for 'A school for infants and young children'.",
+            options: ["Infantile", "Infirmary", "Creche", "Nursery"],
+            answer: "Nursery",
+        },
+        {
+            id: 1699,
+            question:
+                "Choose the correct option and fill in the blank: A person who is a hundred or more years old is called _______.",
+            options: ["Centurion", "Centenarian", "Octogenarian", "Centurion"],
+            answer: "Centenarian",
+        },
+        {
+            id: 1700,
+            question:
+                "Fill in the blank with the correct option: People who watch a match or a show are called _______.",
+            options: ["Spectacles", "Speculators", "Spectators", "Senators"],
+            answer: "Spectators",
+        },
+        {
+            id: 1701,
+            question:
+                "Complete the following sentence choosing the correct alternative: Allegory means _______.",
+            options: [
+                "An animal story with a moral.",
+                "A story of detached incidents.",
+                "A short story with a moral.",
+                "A story in which the characters represent moral or spiritual ideas.",
+            ],
+            answer: "A story in which the characters represent moral or spiritual ideas.",
+        },
+        {
+            id: 1702,
+            question: "Complete the following sentence: Sanatorium is _______.",
+            options: [
+                "A place for the sick to recover health.",
+                "A place for old people.",
+                "A home for orphans.",
+                "A home for lunatics.",
+            ],
+            answer: "A place for the sick to recover health.",
+        },
+        {
+            id: 1703,
+            question:
+                "Choose the correct alternative: Bibliography is _______.",
+            options: [
+                "Knowledge of the Bible.",
+                "List of books about the Bible.",
+                "Character from the Bible.",
+                "List of books and writings of one author/about one subject.",
+            ],
+            answer: "List of books and writings of one author/about one subject.",
+        },
+        {
+            id: 1704,
+            question:
+                "Select one word for the following phrase: Someone who has an excellent knowledge of language.",
+            options: ["Interpreter", "Translator", "Linguist", "Critic"],
+            answer: "Linguist",
+        },
+        {
+            id: 1705,
+            question: "The word immigrant means:",
+            options: [
+                "One who comes to a foreign land to settle there.",
+                "One who leaves the foreign country and comes back to his own country.",
+                "One who loves his country.",
+                "The person who acts against his own country.",
+            ],
+            answer: "One who comes to a foreign land to settle there.",
+        },
+        {
+            id: 1706,
+            question: "Choose the correct synonym of ‘Omnipotent’.",
+            options: ["All knowing", "Everlasting", "All powerful", "Merciful"],
+            answer: "All powerful",
+        },
+        {
+            id: 1707,
+            question:
+                "Choose the correct alternative for the following word: Monastery.",
+            options: [
+                "The place for luggage at a railway station.",
+                "The place for monks.",
+                "The place where artists work.",
+                "The place where young plants are grown.",
+            ],
+            answer: "The place for monks.",
+        },
+        {
+            id: 1708,
+            question:
+                "Choose the correct word for the following sentence: One who can speak two languages.",
+            options: ["Biennial", "Bilingual", "Centennial", "Linguist"],
+            answer: "Bilingual",
+        },
+        {
+            id: 1709,
+            question:
+                "Fill in the blank with the correct word from the alternative given below: Incapable of being heard _______.",
+            options: ["In hearable", "Invisible", "Inaudible", "Inexplicable"],
+            answer: "Inaudible",
+        },
+        {
+            id: 1710,
+            question:
+                "Give the correct word for 'a specialist in diseases and defects of the eye'.",
+            options: ["Osler", "Oculist", "Optician", "Optics"],
+            answer: "Oculist",
+        },
+        {
+            id: 1711,
+            question:
+                "Choose the correct answer from the following and fill in the blank: A doctor who studies and treats mental illness _______.",
+            options: [
+                "Psychiatrist",
+                "Psychologist",
+                "Psychoanalyst",
+                "Psychiatry",
+            ],
+            answer: "Psychiatrist",
+        },
+        {
+            id: 1712,
+            question:
+                "Which is the correct meaning of the following? ‘Court that hears cases involving minor children’.",
+            options: ["Juvenile", "Supreme", "High", "Session"],
+            answer: "Juvenile",
+        },
+        {
+            id: 1713,
+            question:
+                "Choose the correct answer: The last meal of the day _______.",
+            options: ["Dinner", "Breakfast", "Lunch", "Supper"],
+            answer: "Dinner",
+        },
+        {
+            id: 1714,
+            question:
+                "Which is the correct meaning of the following? 'A list of questions to be filled in.'",
+            options: [
+                "Assignment",
+                "Questionnaire",
+                "Question Sets",
+                "Answer Sets",
+            ],
+            answer: "Questionnaire",
+        },
+        {
+            id: 1715,
+            question: "‘Spinster’ is Complete the sentence.",
+            options: [
+                "An unmarried woman",
+                "A crooked woman",
+                "A childless woman",
+                "A virgin woman",
+            ],
+            answer: "An unmarried woman",
+        },
+        {
+            id: 1716,
+            question:
+                "In this question out of the four alternatives, choose the one which can be substituted for the given word/sentence: A place where ships are loaded and unloaded.",
+            options: ["Resort", "Quay", "Scullery", "Refectory"],
+            answer: "Quay",
+        },
+        {
+            id: 1717,
+            question:
+                "In this question out of the four alternatives, choose the one which can be substituted for the given word/sentence. A resting place of wild animals.",
+            options: ["Lair", "Kennel", "Stable", "Sty"],
+            answer: "Lair",
+        },
+        {
+            id: 1718,
+            question:
+                "Substitute the phrase “one who hates women” with one of the following correct words:",
+            options: ["Saddist", "Misogynist", "Misogamist", "Misanthrope"],
+            answer: "Misogynist",
+        },
+        {
+            id: 1719,
+            question:
+                "Plutocracy is _______. Choose the correct alternative to complete the sentence meaningfully.",
+            options: [
+                "Government by the rich",
+                "Government by the nobles",
+                "Government by the officials",
+                "Government by the people",
+            ],
+            answer: "Government by the rich",
+        },
+        {
+            id: 1720,
+            question:
+                "Out of the given options choose the one that suits the description given below: One who has a compulsive desire to steal.",
+            options: ["Pilferer", "Poacher", "Plagiarist", "Kleptomaniac"],
+            answer: "Kleptomaniac",
+        },
+        {
+            id: 1721,
+            question:
+                "Pick out the correct word to complete the sentence. The art of spelling words correctly is called _______.",
+            options: [
+                "Philology",
+                "Orthography",
+                "Calligraphy",
+                "Palaeography",
+            ],
+            answer: "Orthography",
+        },
+        {
+            id: 1722,
+            question: "Choose the correct antonym of pragmatic.",
+            options: ["Angry", "Unpractical", "Experimental", "Deceitful"],
+            answer: "Unpractical",
+        },
+        {
+            id: 1723,
+            question:
+                "Choose the correct alternative which would replace the underlined part in the following sentence. He delivered a speech at once without preparation.",
+            options: ["Impulsive", "Compulsive", "Expressive", "Impromptu"],
+            answer: "Impromptu",
+        },
+        {
+            id: 1724,
+            question:
+                "Choose the word which can be substituted for the given words/sentence. The custom of having many wives.",
+            options: ["Monogamy", "Bigamy", "Polygamy", "Matrimony"],
+            answer: "Polygamy",
+        },
+        {
+            id: 1725,
+            question:
+                "Choose an expression that explains the given word correctly. - Iconoclast.",
+            options: [
+                "One who is opposed to popular beliefs.",
+                "One who is opposed to idol worship.",
+                "One who is specially sent by God to preach a particular religion.",
+                "One who is against all forms of government.",
+            ],
+            answer: "One who is opposed to idol worship.",
+        },
+        {
+            id: 1726,
+            question:
+                "Choose the correct word for the following. A person who is womanish in his habits.",
+            options: ["Feminist", "Effeminate", "Philanderer", "Philogynist"],
+            answer: "Effeminate",
+        },
+        {
+            id: 1727,
+            question:
+                "Choose the word which most closely fits the definition. A person against whom legal action is instituted.",
+            options: ["Defendant", "Litigant", "Appellant", "Deponent"],
+            answer: "Defendant",
+        },
+        {
+            id: 1728,
+            question:
+                "A person who eats too much. Choose the right substitution to the phrase.",
+            options: ["Glutton", "Reveller", "Sensualist", "Omnivore"],
+            answer: "Glutton",
+        },
+        {
+            id: 1729,
+            question:
+                "An atheist is the one _______. Pick out the correct alternative to complete the sentence.",
+            options: [
+                "Who believes in God",
+                "Who does not believe in God",
+                "Who loves mankind",
+                "Who knows everything",
+            ],
+            answer: "Who does not believe in God",
+        },
+        {
+            id: 1730,
+            question:
+                "Which of the following words meaning ‘a government official’ has been spelt correctly?",
+            options: ["Bureaucrat", "Bureocrat", "Bureaocrat", "Buoreaocrat"],
+            answer: "Bureaucrat",
+        },
+        {
+            id: 1731,
+            question:
+                "What is the meaning of ‘Gratis’? Choose the meaning from.",
+            options: [
+                "To be grateful",
+                "To be paid well",
+                "To be paid later",
+                "Without payment",
+            ],
+            answer: "Without payment",
+        },
+        {
+            id: 1732,
+            question:
+                "Choose the correct word for the following: An act of killing one’s own family.",
+            options: ["Genocide", "Homicide", "Suicide", "Patricide"],
+            answer: "Patricide",
+        },
+        {
+            id: 1733,
+            question:
+                "Choose the one which can be substituted for the given words/sentence. A short, usually amusing story about some real person or event.",
+            options: ["Anecdote", "Antidote", "Tale", "Allegory"],
+            answer: "Anecdote",
+        },
+        {
+            id: 1734,
+            question:
+                "Which one of the following explains the phrase: “One who is a great lover of books?”",
+            options: ["Bigot", "Blonde", "Bibliophile", "Bookie"],
+            answer: "Bibliophile",
+        },
+        {
+            id: 1735,
+            question:
+                "Radha is an _______ of the Women’s College, Varanasi. Choose the correct word to complete the sentence meaningfully.",
+            options: ["Alumni", "Alumna", "Alumnac", "Alumni"],
+            answer: "Alumna",
+        },
+        {
+            id: 1736,
+            question:
+                "Give one word for the following phrase: Living for years and years",
+            options: ["Perennial", "Permanent", "Annual", "Continuous"],
+            answer: "Perennial",
+        },
+        {
+            id: 1737,
+            question:
+                "Select a word for underlined words in the sentence. In ancient England there was the <u>Government by the king or queen.</u>",
+            options: ["Anarchy", "Plutocracy", "Monarchy", "Aristocracy"],
+            answer: "Monarchy",
+        },
+        {
+            id: 1738,
+            question:
+                "Which of the following word is synonymous to 'light hooded waterproof jacket'?",
+            options: ["Wind cheater", "Cagoule", "Wind coat", "Clarify"],
+            answer: "Cagoule",
+        },
+        {
+            id: 1739,
+            question:
+                "Complete the following sentence by choosing the correct alternative: A stoic is a person who",
+            options: [
+                "Is in charge of the goods of a company",
+                "Buys and sells the stocks and shares",
+                "Does not endure anything painful and unpleasant",
+                "Silently suffers & endures without any complaints",
+            ],
+            answer: "Silently suffers & endures without any complaints",
+        },
+        {
+            id: 1740,
+            question: "Anushka is ambidextrous, which means:",
+            options: [
+                "Able to think two ways simultaneously",
+                "Able to use both hands equally well",
+                "Able to deal with critical circumstances",
+                "Able to see two different views",
+            ],
+            answer: "Able to use both hands equally well",
+        },
+        {
+            id: 1741,
+            question:
+                "_______ means a number of lines of writing for example a poem or a word puzzle, in which particular letters from each line form a word or phrase.",
+            options: ["Acrostic", "Acrylic", "Acronym", "Acrobat"],
+            answer: "Acrostic",
+        },
+        {
+            id: 1742,
+            question:
+                "In the sentence '<u>Lions</u> are dangerous animals.' Which of the following is the correct reference to the underlined word?",
+            options: ["Specific", "Generic", "General", "Contextual"],
+            answer: "Generic",
+        },
+        {
+            id: 1743,
+            question:
+                "Choose the correct word for the phrase ‘an imaginary story connected with <u>religion</u>.’",
+            options: ["Mythology", "Philosophy", "Legend", "Veneer"],
+            answer: "Mythology",
+        },
+        {
+            id: 1744,
+            question:
+                "Which one of the following words correctly matches the explanation: ‘A person who fails in the performance of his duty or commits an offence’?",
+            options: ["Derelict", "Delinquent", "Culprit", "Dilettante"],
+            answer: "Delinquent",
+        },
+        {
+            id: 1745,
+            question:
+                "Which one of the following explanations expresses the meaning of the word - genealogy?",
+            options: [
+                "The study of the earth’s surface",
+                "The study of a person’s genius",
+                "Account of a person’s descent from his ancestors",
+                "The study of the earth’s inner part",
+            ],
+            answer: "Account of a person’s descent from his ancestors",
+        },
+        {
+            id: 1746,
+            question:
+                "In the following question, out of the four alternatives, select the alternative which is the best substitute of the phrase: The branch of zoology that studies insects.",
+            options: ["Ethnology", "Genealogy", "Etymology", "Entomology"],
+            answer: "Entomology",
+        },
+        {
+            id: 1747,
+            question:
+                "Choose the best substitution for the given phrase: A very clear or typical example of something.",
+            options: ["Paradigm", "Hypothetical", "Parallel", "Paramount"],
+            answer: "Paradigm",
+        },
+        {
+            id: 1748,
+            question:
+                "Which one of the following phrases expresses the correct meaning of the word 'Neologism'?",
+            options: [
+                "A new generation that has emerged lately",
+                "A new logic that derives conclusion",
+                "A new language that only the younger generation knows",
+                "A new word coined by an author",
+            ],
+            answer: "A new word coined by an author",
+        },
+        {
+            id: 1749,
+            question:
+                "Choose the appropriate alternative for the phrase: ‘impossible to read’ from the alternatives given below:",
+            options: ["Indelible", "Illegible", "Invisible", "Infallible"],
+            answer: "Illegible",
+        },
+        {
+            id: 1750,
+            question:
+                "Fill in the blank with the correct alternative. There are many _______ in Indian politics responsible for bringing instability in the system.",
+            options: [
+                "Turncoats",
+                "Sleeping members",
+                "Roaring lions",
+                "Men of principles",
+            ],
+            answer: "Turncoats",
+        },
+        {
+            id: 1751,
+            question:
+                "Indicate the correct meaning of the underlined phrase in the following sentence- Veerapalli was a juvenile delinquent.",
+            options: [
+                "Victimised child",
+                "Regular defaulter",
+                "Adult misbehaviour",
+                "Child criminal",
+            ],
+            answer: "Child criminal",
+        },
+        {
+            id: 1752,
+            question:
+                "The excessive use of computers <u>can stultify</u> child’s capacity to do mental calculations.",
+            options: ["Improve", "Strengthen", "Help", "Destroy"],
+            answer: "Destroy",
+        },
+        {
+            id: 1753,
+            question:
+                "Choose a correct word for the phrase given. 'an experienced person'\n a)a mentor b) a trusten c)an employee d) a worker \nWhich of the above options is /are correct?",
+            options: ["a only", "a and b only", "b only", "c and d only"],
+            answer: "a only",
+        },
+        {
+            id: 1754,
+            question:
+                "It became an instant <u>truism</u> that politics meant selfishness. Substitute the underlined word with a phrase nearest in meaning.",
+            options: [
+                "Universal belief",
+                "Quick judgement",
+                "Obvious truth",
+                "Immediate guess",
+            ],
+            answer: "Obvious truth",
+        },
+        {
+            id: 1755,
+            question:
+                "Samiksha is <u>homesick</u>. The underlined word is commonly understood as:",
+            options: [
+                "One who is sick at home",
+                "One who is sad for being away from home",
+                "One who needs home",
+                "One who is sick home",
+            ],
+            answer: "One who is sad for being away from home",
+        },
+        {
+            id: 1756,
+            question:
+                "Write a correct phrase for the word given. <u>a blockhead</u> \na) a dull person b) a head of the block c) an arrogant one d) a blocked head \nWhich of the above options is are correct?",
+            options: ["a and b only", "a only", "c and d only", "b only"],
+            answer: "a only",
+        },
+        {
+            id: 1757,
+            question:
+                "Choose the correct meaning from the given alternatives.  Mrs. Patil spoke in a <u>plaintive</u> voice.",
+            options: [
+                "She spoke in a plain voice.",
+                "She spoke in a soft voice",
+                "She spoke without any result",
+                "She spoke in a sad and mournful voice",
+            ],
+            answer: "She spoke in a sad and mournful voice",
+        },
+        {
+            id: 1758,
+            question:
+                "Choose the correct alternative to mean <u>to be better than somebody or something</u>.",
+            options: ["Outshine", "Outstanding", "Outnumber", "Outrun"],
+            answer: "Outshine",
+        },
+        {
+            id: 1759,
+            question:
+                "Vanita is a <u>past master</u> at getting the things done. The underlined part suggests -",
+            options: [
+                "Vanita is the owner of the past things.",
+                "Getting things done was easy for Vanita in the past.",
+                "Vanita commands the work process as the master of house.",
+                "Vanita is an expert in getting the things done.",
+            ],
+            answer: "Vanita is an expert in getting the things done.",
+        },
+        {
+            id: 1760,
+            question: "Which of the following does not mean 'blackout'?",
+            options: [
+                "Temporary or permanent loss of vision",
+                "A loss of power",
+                "Give black colour to the outside wall",
+                "A sudden darkening of a theatre stage",
+            ],
+            answer: "Give black colour to the outside wall",
+        },
+        {
+            id: 1761,
+            question:
+                "I cannot give <u>consent</u> to this proposal. The underlined phrase means:",
+            options: ["Permission", "Anger", "Command", "Prevention"],
+            answer: "Permission",
+        },
+        {
+            id: 1762,
+            question: "The overall cause of <u>sleep walking</u> is not known.",
+            options: ["Somnambulism", "Philistine", "Sonorous", "Omnipotent"],
+            answer: "Somnambulism",
+        },
+        {
+            id: 1763,
+            question:
+                "There is a <u>strong feeling of happiness</u> in me after winning this championship.",
+            options: ["Euphoria", "Erudite", "Discrepancy", "Contrite"],
+            answer: "Euphoria",
+        },
+        {
+            id: 1764,
+            question:
+                "She always wants to be a <u>center of attraction</u> in a party.",
+            options: ["Cynosure", "Frenzy", "Deist", "Emeritus"],
+            answer: "Cynosure",
+        },
+        {
+            id: 1765,
+            question:
+                "The officer informed the soldier about <u>a place for storage of arms and ammunition</u>.",
+            options: ["Voyage", "Kennel", "Arsenal", "Hangar"],
+            answer: "Arsenal",
+        },
+        {
+            id: 1766,
+            question:
+                "Keep your speech brief, you are <u>using more words than are necessary</u>.",
+            options: ["Perversion", "Smother", "Juxtapose", "Verbose"],
+            answer: "Verbose",
+        },
+        {
+            id: 1767,
+            question:
+                "I don’t know how to teach him <u>to spend his money carefully</u>.",
+            options: ["Cognate", "Economical", "Boorish", "Sojourn"],
+            answer: "Economical",
+        },
+        {
+            id: 1768,
+            question:
+                "Have you arranged a meeting with <u>a person who compiles dictionaries</u>?",
+            options: [
+                "Linguist",
+                "Philatelist",
+                "Cartographer",
+                "Lexicographer",
+            ],
+            answer: "Lexicographer",
+        },
+        {
+            id: 1769,
+            question: "I am planning a stay for a short time in Vienna.",
+            options: ["Reconnaissance", "Peroration", "Sojourn", "Voyage"],
+            answer: "Sojourn",
+        },
+        {
+            id: 1770,
+            question:
+                "<u>He killed his own mother</u> to acquire her property.",
+            options: ["Matricide", "Patricide", "Filicide", "Fratricide"],
+            answer: "Matricide",
+        },
+        {
+            id: 1771,
+            question:
+                "The practice of marrying multiple spouses which is forbidden in many countries.",
+            options: ["Monotheist", "Altruist", "Polygamy", "Concubinage"],
+            answer: "Polygamy",
+        },
+        {
+            id: 1772,
+            question: "<u>Fear of heights</u> is very common these days.",
+            options: ["Nomophobia", "Acrophobia", "Cynophobia", "Agoraphobia"],
+            answer: "Acrophobia",
+        },
+        {
+            id: 1773,
+            question: "I found a <u>place where wild animals were living</u>.",
+            options: ["Lair", "Kennel", "Imbroglio", "Flock"],
+            answer: "Lair",
+        },
+        {
+            id: 1774,
+            question:
+                "He was sentenced to life imprisonment for <u>killing his wife</u>.",
+            options: ["Homicide", "Filicide", "Uxoricide", "Matricide"],
+            answer: "Uxoricide",
+        },
+        {
+            id: 1775,
+            question:
+                "Choose the correct alternative. Accents do not reflect intelligence, and nor are they related to our ________ in a language.",
+            options: ["Atrocity", "Gratuity", "Servility", "Proficiency"],
+            answer: "Proficiency",
+        },
+        {
+            id: 1776,
+            question:
+                "After losing all his wealth he has become <u>extremely poor</u>.",
+            options: ["Misnomer", "Tenacious", "Nascent", "Destitute"],
+            answer: "Destitute",
+        },
+        {
+            id: 1777,
+            question:
+                "My brother <u>always looks at the brighter side of everything</u>.",
+            options: ["Gourmet", "Optimist", "Recluse", "Narcissist"],
+            answer: "Optimist",
+        },
+        {
+            id: 1782,
+            question:
+                "Various researchers are trying their best to <u>study the human population</u>.",
+            options: [
+                "Anthropology",
+                "Cartography",
+                "Demography",
+                "Terminology",
+            ],
+            answer: "Demography",
+        },
+        {
+            id: 1783,
+            question: "Loss of complete hope is called ________",
+            options: ["Neurotic", "Despondency", "Metamorphism", "Indignant"],
+            answer: "Despondency",
+        },
+        {
+            id: 1784,
+            question: "My infrastructure meeting was a <u>complete failure</u>",
+            options: ["Fiasco", "Forgery", "Fluke", "Fatal"],
+            answer: "Fiasco",
+        },
+        {
+            id: 1785,
+            question: "Fear of women is called ________",
+            options: ["Heliophobia", "Gynophobia", "Philophobia", "Gamophobia"],
+            answer: "Gynophobia",
+        },
+        {
+            id: 1786,
+            question:
+                "<u>Animals living both, on land and in water</u> words are small vertebrates that need water or a moist environment to survive.",
+            options: ["Amphibians", "Cannibals", "Cacophonies", "Nocturnals"],
+            answer: "Amphibians",
+        },
+        {
+            id: 1787,
+            question:
+                "My manager is always <u>giving undue favour to his relatives</u> when it comes to appraisals.",
+            options: ["Nepotism", "Neogamist", "Naturalism", "Nuance"],
+            answer: "Nepotism",
+        },
+        {
+            id: 1788,
+            question:
+                "Zebras are widespread across vast areas of southern and eastern Africa. They are <u>fourfooted animals</u>.",
+            options: ["Quadratus", "Quadratics", "Quadriceps", "Quadrupeds"],
+            answer: "Quadrupeds",
+        },
+        {
+            id: 1789,
+            question: "A short statement of a general truth is called ________",
+            options: ["Intercede", "Epitome", "Maxim", "Fallacy"],
+            answer: "Maxim",
+        },
+        {
+            id: 1790,
+            question:
+                "I took up Spanish to become <u>someone who can speak more than one language</u>.",
+            options: ["Cosmopolitan", "Polyglot", "Linguist", "Numismatics"],
+            answer: "Polyglot",
+        },
+        {
+            id: 1791,
+            question: "He <u>killed his own sister</u> and ran away.",
+            options: ["Parricide", "Feticide", "Sororicide", "Genocide"],
+            answer: "Sororicide",
+        },
+        {
+            id: 1792,
+            question:
+                "<u>A group of sheep</u> is moving in the south direction.",
+            options: ["Colony", "Flock", "Swarm", "Drove"],
+            answer: "Flock",
+        },
+        {
+            id: 1793,
+            question:
+                "Find a suitable word, out of the given choices, for the disease discussed below. Within one month, Corona has taken the whole world in its grasp with millions of people infected by it.",
+            options: ["Pandemic", "Mysterious", "Chronic", "Recurring"],
+            answer: "Pandemic",
+        },
+        {
+            id: 1794,
+            question:
+                "One who copies someone's idea and writings is called ________",
+            options: ["Cardiologist", "Optimist", "Atheist", "Plagiarist"],
+            answer: "Plagiarist",
+        },
+        {
+            id: 1795,
+            question:
+                "A hospital for people with mental illnesses is called ________",
+            options: ["Arena", "Aquarium", "Arsenal", "Asylum"],
+            answer: "Asylum",
+        },
+        {
+            id: 1796,
+            question:
+                "Someone who is quiet and easy to influence, persuade, or control is called ________",
+            options: ["Docile", "Delirious", "Delinquent", "Deviant"],
+            answer: "Docile",
+        },
+        {
+            id: 1797,
+            question: "A medicine to counteract poison is called ________",
+            options: ["Allopathy", "Antidote", "Stethoscope", "Antibiotic"],
+            answer: "Antidote",
+        },
+        {
+            id: 1798,
+            question: "One who is new to a profession is called ________",
+            options: ["Senior", "Professional", "Expert", "Novice"],
+            answer: "Novice",
+        },
+        {
+            id: 1799,
+            question:
+                "Find the option that can be defined as: The genuineness of some statement or something.",
+            options: ["Naiveness", "Veracity", "Genial", "Simplicity"],
+            answer: "Veracity",
+        },
+        {
+            id: 1800,
+            question:
+                "A person considering himself to be superior in culture and intellect is called ________",
+            options: ["Highbrow", "Iconoclast", "Imposter", "Henpecked"],
+            answer: "Highbrow",
+        },
+        {
+            id: 1801,
+            question:
+                "Home sickness or sentimental longing for the past is called ________",
+            options: ["Namesake", "Neurotic", "Nostalgia", "Nemesis"],
+            answer: "Nostalgia",
+        },
+        {
+            id: 1802,
+            question: "Something perfectly neat and tidy is called ________",
+            options: ["Unkempt", "Shabby", "Dishonourable", "Immaculate"],
+            answer: "Immaculate",
+        },
+        {
+            id: 1803,
+            question:
+                "Exclusive possession or control of anyone thing is called ________",
+            options: ["Polygamy", "Monopoly", "Monoplane", "Alibi"],
+            answer: "Monopoly",
+        },
+        {
+            id: 1804,
+            question:
+                "One who is interested in the welfare of other people is called ________",
+            options: ["Elite", "Philanthropist", "Altruist", "Atheist"],
+            answer: "Altruist",
+        },
+        {
+            id: 1805,
+            question:
+                "A record of one’s life journey written by oneself means ________",
+            options: ["Autobiography", "Calligraphy", "Oligarchy", "Biography"],
+            answer: "Autobiography",
+        },
+        {
+            id: 1806,
+            question: "That which cannot be heard",
+            options: ["Audible", "Noise", "Whisper", "Inaudible"],
+            answer: "Inaudible",
+        },
+        {
+            id: 1807,
+            question: "House of Eskimo.",
+            options: ["Flat", "Igloo", "House", "Kennel"],
+            answer: "Igloo",
+        },
+        {
+            id: 1808,
+            question: "A game where no one wins",
+            options: ["Lost", "Drawn", "Withdrawn", "Forfeited"],
+            answer: "Drawn",
+        },
+        {
+            id: 1809,
+            question:
+                "Find a suitable word out of the given choices, for the given expression. 'An integral part'",
+            options: ["Redundant", "Intuitive", "Interesting", "Indispensable"],
+            answer: "Indispensable",
+        },
+        {
+            id: 1810,
+            question:
+                "Find the option that can be defined as: An appearance of objects often giving an impression of water on hot roads",
+            options: ["Image", "Mirage", "Reflection", "Lightening"],
+            answer: "Mirage",
+        },
+        {
+            id: 1811,
+            question:
+                "The <u>ambience</u> of this restaurant attracts me, ‘What is the meaning of the word ‘ambience’?",
+            options: [
+                "A feeling of royales",
+                "A feeling of comfort",
+                "The character and atmosphere of a place",
+                "A feeling of richness",
+            ],
+            answer: "The character and atmosphere of a place",
+        },
+        {
+            id: 1812,
+            question:
+                "Fill in the blank with the proper one-word substitution. The court has decided that she would get Rs.10000/- per month from her husband’s salary as ______ after divorce.",
+            options: ["matrimony", "patrimony", "colony", "alimony"],
+            answer: "alimony",
+        },
+        {
+            id: 1813,
+            question:
+                "Mr. Bill Gates is a philanthropist by choice. What is the meaning of the word 'philanthropist'?",
+            options: ["Rich", "Technical", "Reserved", "Charitable"],
+            answer: "Charitable",
+        },
+        {
+            id: 1814,
+            question:
+                "Choose the word that means an extreme fear of being in a small confined place:",
+            options: [
+                "Homicide",
+                "Xenophobia",
+                "Claustrophobia",
+                "Hydrophobia",
+            ],
+            answer: "Claustrophobia",
+        },
+        {
+            id: 1815,
+            question:
+                "Choose the correct alternative describing the following phrase. <u>Extempore speech</u>",
+            options: [
+                "A speech made without preparation",
+                "An official announcement",
+                "A speech made with preparation",
+                "Eloquent speech",
+            ],
+            answer: "A speech made without preparation",
+        },
+        {
+            id: 1816,
+            question:
+                "Arbitrator is Complete the sentence choose the correct alternative.",
+            options: [
+                "A person who buys goods from the producer and sells them to customers.",
+                "A person who gives you social assistance.",
+                "A person who advocates a particular company’s product.",
+                "A person who is appointed by the parties to settle their disputes.",
+            ],
+            answer: "A person who is appointed by the parties to settle their disputes.",
+        },
+        {
+            id: 1817,
+            question:
+                "One who poses to be better than what he really is. Complete the sentence choosing the correct alternative.",
+            options: ["highbrow", "humbug", "smart", "hoodoo"],
+            answer: "humbug",
+        },
+        {
+            id: 1818,
+            question: "Choose the correct meaning of the word “uninhabitable”.",
+            options: [
+                "Unsuitable for living in",
+                "Suitable for living in",
+                "Not habitual",
+                "Habitual",
+            ],
+            answer: "Unsuitable for living in",
+        },
+        {
+            id: 1819,
+            question:
+                "At the very prime stage of his life he reached the <u>zenith of power</u>. Identify the correct meaning of the underlined.",
+            options: [
+                "Top position",
+                "Idle state",
+                "State of maturity",
+                "State of extreme pressure",
+            ],
+            answer: "Top position",
+        },
+        {
+            id: 1820,
+            question:
+                "Identify the correct word for the explanation - 'willing to do what is desired of you'.",
+            options: ["complacent", "complasent", "complaisant", "complaicent"],
+            answer: "complaisant",
+        },
+        {
+            id: 1821,
+            question:
+                "Choose the best alternative to describe the type of person in the given sentence. He fears being in public places where there are many other people.",
+            options: [
+                "Claustrophobic",
+                "Agoraphobic",
+                "Hydrophobic",
+                "Eccentric",
+            ],
+            answer: "Agoraphobic",
+        },
+        {
+            id: 1822,
+            question:
+                "Strong dislike between two persons. (Choose the correct word which is mostly fit to the definition)",
+            options: ["Aversion", "Antipathy", "Apathy", "Despite"],
+            answer: "Antipathy",
+        },
+        {
+            id: 1823,
+            question:
+                "Choose the word or phrase nearest to the given word. Affluent",
+            options: ["miserly", "Wealthy", "Spend thrift", "Frugal"],
+            answer: "Wealthy",
+        },
+        {
+            id: 1824,
+            question: "Choose noun form of ‘advise’",
+            options: ["Advisable", "advisably", "advice", "advise"],
+            answer: "advice",
+        },
+        {
+            id: 1825,
+            question: "Choose noun form of ‘govern’",
+            options: ["government", "governed", "governing", "govern"],
+            answer: "government",
+        },
+        {
+            id: 1826,
+            question: "Give verb form of 'beautiful’",
+            options: ["beautify", "beauty", "beautification", "beautiful"],
+            answer: "beautify",
+        },
+        {
+            id: 1827,
+            question: "Choose the correct adverb of 'courage’",
+            options: ["courage", "courageous", "courageously", "encourage"],
+            answer: "courageously",
+        },
+        {
+            id: 1828,
+            question: "Choose correct adjective from given alternatives.",
+            options: ["high", "height", "highly", "heighten"],
+            answer: "high",
+        },
+        {
+            id: 1829,
+            question: "What is the verb form of ‘length’",
+            options: ["length", "long", "longly", "lengthen"],
+            answer: "lengthen",
+        },
+        {
+            id: 1830,
+            question: "Give adjective form of ‘friend’",
+            options: ["be friend", "friendship", "friendly", "friend"],
+            answer: "friendly",
+        },
+        {
+            id: 1831,
+            question: "Choose the correct noun form of 'free’",
+            options: ["frank", "frankly", "freedom", "free"],
+            answer: "freedom",
+        },
+        {
+            id: 1832,
+            question: "Choose the correct noun form of ‘rich’",
+            options: ["enrich", "richly", "richness", "rich"],
+            answer: "richness",
+        },
+        {
+            id: 1833,
+            question: "Give noun form of ‘deep’",
+            options: ["deepen", "deeping", "deeply", "depth"],
+            answer: "depth",
+        },
+        {
+            id: 1834,
+            question:
+                "Complete the following sentence using the correct choice. <u>Life</u> is related to <u>death</u> in the same way as <u>hope</u> is related to ________",
+            options: ["sad", "despair", "pain", "cry"],
+            answer: "despair",
+        },
+        {
+            id: 1835,
+            question:
+                "Choose the correct pair of words to fill in the blanks : \n a) It was a ________ choice \n b) The ________ proceedings are over.",
+            options: [
+                "judicial, judicious",
+                "judicious, judicial",
+                "judicious, judicious",
+                "judicial, judicial",
+            ],
+            answer: "judicious, judicial",
+        },
+        {
+            id: 1836,
+            question:
+                "He proved his ________ by facing the situation with supreme tact and confidence. Which one of the following words fills correctly the blank in the sentence above?",
+            options: ["Metal", "Mettle", "Mettel", "Meatal"],
+            answer: "Mettle",
+        },
+        {
+            id: 1837,
+            question:
+                "a) Ghosts are not corporal beings. \nb) In our schools the children are not given any corporal punishment. Identify the correct sentence/s.",
+            options: ["only a", "only b", "both a and b", "Neither a nor b"],
+            answer: "both a and b",
+        },
+        {
+            id: 1838,
+            question:
+                "Pupil’s progress is a far better measure of school’s ________ (effect). Choose the correct form of the word given in the bracket to complete the sentence.",
+            options: ["effect", "effectiveness", "ineffectivity", "effection"],
+            answer: "effectiveness",
+        },
+        {
+            id: 1839,
+            question:
+                "Fill in the blank with the correct word from the given options : Walking twenty kilometres non-stop is quite a ________.",
+            options: ["feat", "feet", "fit", "foot"],
+            answer: "feat",
+        },
+        {
+            id: 1840,
+            question:
+                "Identify the correct sentence : \na) A thief lurks in the Shadows. \nb) A hunter walks through the jungle for hunting down an animal.",
+            options: ["Only a", "Both", "Only b", "Neither"],
+            answer: "Only a",
+        },
+        {
+            id: 1841,
+            question:
+                "Fill in the blank using appropriate alternative. Candidates are not allowed to ________ for votes on the day of election.",
+            options: ["canvass", "canvas", "canavass", "canavas"],
+            answer: "canvass",
+        },
+        {
+            id: 1842,
+            question:
+                "Fill the blank with the appropriate word. Should the state ________ news before it goes to print?",
+            options: ["censer", "censor", "sensor", "senser"],
+            answer: "censor",
+        },
+        {
+            id: 1843,
+            question:
+                "Choose a word from the given options that can be used in both the blank spaces below :\n a)It ________ all night. \n b)He ________ a cab to take him to office.",
+            options: ["rained", "snowed", "hailed", "thundered"],
+            answer: "rained",
+        },
+        {
+            id: 1844,
+            question:
+                "Which one of the following two sentences is incorrect?\n a) I am learning a new poetry.\n b) Our boarding house is full.",
+            options: ["only a", "only b", "Both", "Neither"],
+            answer: "only a",
+        },
+        {
+            id: 1845,
+            question:
+                "Choose a word from the given options that can be used with different meanings in both the blank spaces below.\n a) The entire covey of birds ________ upon one single tree.\n b) On seeing his daughter, his face ________ up.",
+            options: ["lit", "sat", "shone", "landed"],
+            answer: "landed",
+        },
+        {
+            id: 1846,
+            question:
+                "Choose the pair of words that would most appropriately fill in the blanks in the following sentences sequentially.\n a) His ________ manner annoyed her.\n b) They denied that was any ________ connection between unemployment and crime.",
+            options: [
+                "causal, casual",
+                "causal, casually",
+                "casual, causal",
+                "causally, casually",
+            ],
+            answer: "casual, causal",
+        },
+        {
+            id: 1847,
+            question:
+                "Fill in the blank with the appropriate word : I can't ________ with this cruelty.",
+            options: ["bear", "beer", "baer", "none of the above"],
+            answer: "bear",
+        },
+        {
+            id: 1848,
+            question:
+                "Fill in the blank : My Father ________ me to go to picnic with my friends.",
+            options: ["aloud", "allowed", "Pray", "Prey"],
+            answer: "allowed",
+        },
+        {
+            id: 1849,
+            question:
+                "Read the following sentences carefully and decide on their correctness on the basis of the underlined words :\n a) An <u>ordnance</u> declaring President's rule in the State has been issued today.\n b) The <u>ordnance</u> depot is situated far away from this city.",
+            options: [
+                "Only a is correct",
+                "Only b is correct",
+                "Both a and b are correct",
+                "Both a and b are incorrect",
+            ],
+            answer: "Only b is correct",
+        },
+        {
+            id: 1850,
+            question:
+                "Read the following sentences carefully and decide on their correctness on the basis of underlined words.\n a) Yot should talk to your boss in a reverent manner.\n b) Our reverend principal is coming.",
+            options: [
+                "a is correct",
+                "b is correct",
+                "Both a and b are correct",
+                "Both a and b are wrong",
+            ],
+            answer: "b is correct",
+        },
+        {
+            id: 1851,
+            question: "Select the sentence that is correct.",
+            options: [
+                "It is very difficult to put Gandhian principals into practise.",
+                "lt is very difficult to put Gandhian principles into practise.",
+                "It is very difficult to put Gandhian principals into practice.",
+                "It is very difficult to put Gandhian principles into practice.",
+            ],
+            answer: "It is very difficult to put Gandhian principles into practice.",
+        },
+        {
+            id: 1852,
+            question:
+                "Select the correct sentences.\n a) Will you borrow me your pen?\n b) I borrowed a pen from my brother.\n c) I lent a pen from my brother.\n d) Will you lend me your pen?",
+            options: [
+                "only a and b are correct",
+                "only c and d are correct",
+                "only a and c are correct",
+                "only b and d are correct",
+            ],
+            answer: "only b and d are correct",
+        },
+        {
+            id: 1853,
+            question:
+                "a) The descent of the hill is very dangerous.\n b) She always wears descent clothes.\nIdentify the correct sentence/s.",
+            options: ["Only a", "Only b", "Both a and b", "Neither a nor b"],
+            answer: "Only a",
+        },
+        {
+            id: 1854,
+            question:
+                "Identify the correct sentence :\n a) We have adopted the hotels to suit their needs.\n b) The people adopted him as their Patron Saint.\n c) He has adapted well to his new home.",
+            options: ["Only a and c", "Only b", "Only b and c", "All"],
+            answer: "Only b and c",
+        },
+        {
+            id: 1855,
+            question:
+                'Fill in the blanks with suitable words :\n a) His attack on her honesty offends against the ________ of good taste. \n b) The exhibition displayed a 15" century ________',
+            options: [
+                "cannon, canons",
+                "cannon, cannon",
+                "canons, cannon",
+                "cannon, contours",
+            ],
+            answer: "cannon, canons",
+        },
+        {
+            id: 1856,
+            question:
+                "Fill in the blanks with appropriate words.\n a) Even the most ________ doctors could not cure him.\n b) There is storm ________",
+            options: [
+                "imminent, eminent",
+                "eminent, imminent",
+                "eminent, eminent",
+                "eminent, immanent",
+            ],
+            answer: "eminent, imminent",
+        },
+        {
+            id: 1857,
+            question:
+                "Identify the correct sentence :\n a) She denied that she had gone to the movie last night.\n b) She refused that she had gone to the movie last night\n c) She refused to return the money I lent her yesterday.\n d) She denied to return the money I lent her yesterday.",
+            options: [
+                "only a and c",
+                "only a and d",
+                "only b and d",
+                "only b and c",
+            ],
+            answer: "only a and c",
+        },
+        {
+            id: 1858,
+            question: "Choose the most correct sentence.",
+            options: [
+                "I lived there for five days.",
+                "I left there for five days.",
+                "I stayed there for five days.",
+                "I stopped there for five days.",
+            ],
+            answer: "I stayed there for five days.",
+        },
+        {
+            id: 1859,
+            question:
+                "Identify the sentences with same pronunciation of the word '/ROW'.\n a) He is always having rows with his wife.\n b) She won the competition three times in a row.\n c) He rowed us across the lake.",
+            options: [
+                "a and b only",
+                "a and c only",
+                "b and c only",
+                "a, b and c",
+            ],
+            answer: "a and b only",
+        },
+        {
+            id: 1860,
+            question:
+                "Fill in the blank choosing the correct word. His problems had a bad _______ on him.",
+            options: ["affect", "effect", "afaect", "consequent"],
+            answer: "effect",
+        },
+        {
+            id: 1861,
+            question:
+                "Choose the correct option for the underlined word in the following sentence. ‘The <u>hide</u> of a lion was recovered from the poacher’.",
+            options: [
+                "a place where lions hide themselves",
+                "a cave of the lion",
+                "a skin of a lion",
+                "a place from where one can watch animals or birds",
+            ],
+            answer: "a skin of a lion",
+        },
+        {
+            id: 1862,
+            question:
+                'Fill in the gap with a correct alternative from those given below : "He was sure to win his boss’s heart as he had always proved to be a close _______ to him".',
+            options: ["confident", "confidential", "confidant", "credentials"],
+            answer: "confidant",
+        },
+        {
+            id: 1863,
+            question:
+                "Choose the correct word to fill in the blank in the following sentence : Baptisms, Weddings and Funerals are examples of _______",
+            options: ["Rights", "Writes", "Rites", "None of these"],
+            answer: "Rites",
+        },
+        {
+            id: 1864,
+            question:
+                "Read the following sentences carefully and decide on their correctness on the basis of the underlined words. \n a) The Government plans to take some <u>sanitary</u> measures in the State. \n b) The <u>sanitary</u> conditions of the town are not good.",
+            options: [
+                "Only a is correct",
+                "Only b is correct",
+                "Both a and b are correct",
+                "Both a and b are incorrect",
+            ],
+            answer: "Both a and b are correct",
+        },
+        {
+            id: 1865,
+            question:
+                "Choose the correct pair of words to fill in the blanks. \n a) In the end, she _______ to our request. \n b) The amount of money we raised _______ all our expectations.",
+            options: [
+                "acceded, exceeded",
+                "exceeded, acceded",
+                "acceded, exceeding",
+                "None of the above",
+            ],
+            answer: "acceded, exceeded",
+        },
+        {
+            id: 1866,
+            question:
+                "Fill in the blank with the correct word choosing from the given options. The _______ of our house was leaking because of heavy rain.",
+            options: ["Sealing", "Ceiling", "Sailing", "Ciling"],
+            answer: "Ceiling",
+        },
+        {
+            id: 1867,
+            question:
+                "Which of the sentences is/are correct? \n a) Our water meter is one metre. \n b) Our water metre is one meter. \n c) Our water meter is one meter.",
+            options: ["a only", "both a and c", "b only", "both a and b"],
+            answer: "b only",
+        },
+        {
+            id: 1868,
+            question:
+                "Which of the following words are written alike but pronounced differently? \n a) raid \n b) read \n c) red \n d) read \n Which of the above is/are correct?",
+            options: [
+                "a and c only",
+                "b and d only",
+                "a and d only",
+                "b and c only",
+            ],
+            answer: "b and d only",
+        },
+        {
+            id: 1869,
+            question:
+                "Fill the blank with the most appropriate word from the ones given below : The _______ of the fire reached up to the roof.",
+            options: ["flair", "flear", "flayer", "flare"],
+            answer: "flare",
+        },
+        {
+            id: 1870,
+            question:
+                "a) He went through the content of the letter. \n b) He went through the contents of the letter. \n Identify the correct sentence :",
+            options: [
+                "Only (a) is correct",
+                "Only (b) is correct",
+                "Only (a) and (b) are correct",
+                "Both (a) and (b) are incorrect",
+            ],
+            answer: "Only (b) is correct",
+        },
+        {
+            id: 1871,
+            question:
+                "The minister’s latest _______ on taxes has caused great anxiety. Choose the right form of the word ‘pronounce’ for filling the blank :",
+            options: [
+                "Pronounciation",
+                "pronunciation",
+                "Pronouncement",
+                "pronuncement",
+            ],
+            answer: "Pronouncement",
+        },
+        {
+            id: 1872,
+            question:
+                "The new _______ is quite spacious; but the structure does not look _______. Pick any one of the following words that fits both the blank spaces :",
+            options: ["stable", "sty", "building", "dandy"],
+            answer: "building",
+        },
+        {
+            id: 1873,
+            question:
+                "He drank milk in one _______. Complete the sentence meaningfully by choosing the correct alternative.",
+            options: ["draught", "drought", "draft", "bite"],
+            answer: "draught",
+        },
+        {
+            id: 1874,
+            question:
+                "In the desert the _______ of water is as precious as gold. Pick out the correct alternative to complete the sentence.",
+            options: ["draft", "draught", "drought", "druaft"],
+            answer: "drought",
+        },
+        {
+            id: 1875,
+            question:
+                "Choose the grammatically correct sentence. \n a) The village counsel was a very effective body in the past. \n b) The defence counsel wanted to cross examine the witness.",
+            options: ["Only a", "Only b", "both", "Neither"],
+            answer: "Only b",
+        },
+        {
+            id: 1876,
+            question:
+                "Fill in the blank with the most appropriate among the given options. His _______ makes him a bad negotiator.",
+            options: ["adamancy", "adamance", "adamantness", "adamansion"],
+            answer: "adamancy",
+        },
+        {
+            id: 1877,
+            question:
+                "Choose the correct sentences. \n a. I advice you to wait. \n b. My advice to you is to wait. \n c. I advise you to wait. \n d. My advise to you to wait.",
+            options: [
+                "all a, b, c and d are correct",
+                "only a and d are correct",
+                "only b and c are correct",
+                "all a, b, c and d are wrong",
+            ],
+            answer: "only b and c are correct",
+        },
+        {
+            id: 1878,
+            question:
+                "I note in my _______ whenever I take extra milk from the _______ . Select the correct alternative to complete the sentence meaningfully.",
+            options: [
+                "dairy - diary",
+                "diary - dairy",
+                "dairy - dairy",
+                "dairy - dreary",
+            ],
+            answer: "diary - dairy",
+        },
+        {
+            id: 1879,
+            question:
+                "a. She founded a <u>refuge</u> for mountain gorilla. \n b. Kamala and her mother came to Mumbai as <u>refugee</u> during the Bengal drought. \n Identify the correct meaning of the underlined words in their respective contexts.",
+            options: [
+                "Sanctuary - Migrants",
+                "Rubbish - Fugitive",
+                "Migrant - Shelters",
+                "Waste - Security",
+            ],
+            answer: "Sanctuary - Migrants",
+        },
+        {
+            id: 1880,
+            question:
+                "Choose the correct pair to fill in the blanks : \n a) Only the most _______ person would believe such a feeble excuse. \n b) What an _______ excuse!",
+            options: [
+                "ingenuous, ingenious",
+                "ingenious, ingenuous",
+                "ingenious, inexperienced",
+                "none of the above",
+            ],
+            answer: "ingenious, ingenuous",
+        },
+        {
+            id: 1881,
+            question:
+                "(a) She had an <u>edge</u> in her voice. \n (b) They have an <u>edge</u> over their rivals. \n Identify the meaning of the underlined words in their respective contexts.",
+            options: [
+                "(a) margin - (b) bite",
+                "(a) advantage - (b) sharpness",
+                "(a) bounds - (b) severity",
+                "(a) sharpness - (b) advantage",
+            ],
+            answer: "(a) sharpness - (b) advantage",
+        },
+        {
+            id: 1882,
+            question:
+                "Choose the meanings of the word given in capitals in the given sentence (base form). The vegetables were planted in neat <u>ROWS</u>. \n (a) A serious disagreement/argument \n (b) A loud unpleasant noise \n (c) To move a boat through water \n (d) A number of objects arranged in a line",
+            options: [
+                "Only (a)",
+                "Only (a) and (b)",
+                "Only (b) and (c)",
+                "Only (d)",
+            ],
+            answer: "Only (d)",
+        },
+        {
+            id: 1883,
+            question:
+                "They _______ the merchant for his purse. Select the correct word to complete the sentence meaningfully.",
+            options: ["Killed", "Murdered", "Hanged", "Slained"],
+            answer: "Murdered",
+        },
+        {
+            id: 1884,
+            question:
+                "Choose the correct pair of words to fill in the blanks. \n (a) Columbus set out to _______ India, but discovered America. \n (b) Eddison _______ the electric lamp.",
+            options: [
+                "discover,discovered",
+                "invented,invented",
+                "invented,discovered",
+                "discover,invented",
+            ],
+            answer: "discover,invented",
+        },
+        {
+            id: 1885,
+            question:
+                "They perform the same _______ tasks all day. Select the correct word to complete the sentence meaningfully.",
+            options: ["repetition", "replete", "repetitive", "replacing"],
+            answer: "repetitive",
+        },
+        {
+            id: 1886,
+            question:
+                "The building was <u>badly</u> damaged. Identify the correct meaning of the word underlined.",
+            options: ["completely", "slightly", "severely", "partially"],
+            answer: "severely",
+        },
+        {
+            id: 1887,
+            question:
+                "Fill in the blank in the given sentence. He was the _______ tough guy.",
+            options: ["Quintet", "Quintillion", "Quintessential", "Quintile"],
+            answer: "Quintessential",
+        },
+        {
+            id: 1888,
+            question:
+                "Choose the best option to fill in the blanks with the same word. \n (a) Her poetry has a great deal of political _______. \n (b) He had to be _______ with third place.",
+            options: ["Contend", "Contain", "Contents", "Content"],
+            answer: "Content",
+        },
+        {
+            id: 1889,
+            question: "And you want to smile, but you have to sigh.",
+            options: ["Alliteration", "Metonymy", "Antithesis", "Climax"],
+            answer: "Antithesis",
+        },
+        {
+            id: 1890,
+            question: "I want to sow many, small, small moons of light.",
+            options: ["Repetition", "Simile", "Alliteration", "Inversion"],
+            answer: "Repetition",
+        },
+        {
+            id: 1891,
+            question: "The pages of history.",
+            options: [
+                "Anti-climax",
+                "Metaphor",
+                "Inversion",
+                "Personification",
+            ],
+            answer: "Metaphor",
+        },
+        {
+            id: 1892,
+            question: "My slate remains black in spite of writing.",
+            options: ["Simile", "Paradox", "Metaphor", "Antithesis"],
+            answer: "Paradox",
+        },
+        {
+            id: 1893,
+            question: "Dense forests block the passage of the midday sun.",
+            options: ["Inversion", "Metonymy", "Personification", "Climax"],
+            answer: "Personification",
+        },
+        {
+            id: 1894,
+            question:
+                "The dancers dance, the musicians play for them, The show passes.",
+            options: ["Repetition", "Paradox", "Tautology", "Climax"],
+            answer: "Repetition",
+        },
+        {
+            id: 1895,
+            question: "Many times, many many times!",
+            options: ["Metaphor", "Repetition", "Simile", "Antithesis"],
+            answer: "Repetition",
+        },
+        {
+            id: 1896,
+            question:
+                "The forest comprises hills and valleys, waterfalls and brooks _______",
+            options: ["Inversion", "Anti-climax", "Simile", "Alliteration"],
+            answer: "Alliteration",
+        },
+        {
+            id: 1897,
+            question: "_______ In that yard, the rangoli.",
+            options: ["Inversion", "Metaphor", "Antithesis", "Simile"],
+            answer: "Inversion",
+        },
+        {
+            id: 1898,
+            question: "The whole village goes to the city daily to work.",
+            options: ["Simile", "Metaphor", "Personification", "Synecdoche"],
+            answer: "Synecdoche",
+        },
+        {
+            id: 1899,
+            question: "The cloudy summits of our time.",
+            options: ["Epithet", "Personification", "Simile", "Tautology"],
+            answer: "Epithet",
+        },
+        {
+            id: 1900,
+            question: "From his late sobbing wet.",
+            options: ["Climax", "Inversion", "Personification", "Repetition"],
+            answer: "Inversion",
+        },
+        {
+            id: 1901,
+            question: "If you don't you will only grow flabby and fat.",
+            options: [
+                "Interrogation",
+                "Onomatopoeia",
+                "Tautology",
+                "Alliteration",
+            ],
+            answer: "Tautology",
+        },
+        {
+            id: 1902,
+            question: "I want to land on coral isles, far in the ocean blue.",
+            options: [
+                "Alliteration",
+                "Inversion",
+                "Personification",
+                "Anti-climax",
+            ],
+            answer: "Alliteration",
+        },
+        {
+            id: 1903,
+            question: "She had never known when she had been so galled.",
+            options: ["Onomatopoeia", "Inversion", "Hyperbole", "Simile"],
+            answer: "Hyperbole",
+        },
+        {
+            id: 1904,
+            question: "Queenly treasure is not in her store.",
+            options: [
+                "Personification",
+                "Alliteration",
+                "Interrogation",
+                "Tautology",
+            ],
+            answer: "Personification",
+        },
+        {
+            id: 1905,
+            question: "Blue as the wing of a halcyon wild.",
+            options: ["Antithesis", "Tautology", "Onomatopoeia", "Simile"],
+            answer: "Simile",
+        },
+        {
+            id: 1906,
+            question: "Before my eyes are closed for ever.",
+            options: ["Anti-climax", "Euphemism", "Inversion", "Simile"],
+            answer: "Euphemism",
+        },
+        {
+            id: 1907,
+            question: "With grousing, a sportsman can have no truck.",
+            options: ["Onomatopoeia", "Antithesis", "Hyperbole", "Inversion"],
+            answer: "Hyperbole",
+        },
+        {
+            id: 1908,
+            question: "To comfort his sad heart.",
+            options: [
+                "Transferred Epithet",
+                "Euphemism",
+                "Climax",
+                "Inversion",
+            ],
+            answer: "Transferred Epithet",
+        },
+        {
+            id: 1909,
+            question:
+                "At times in the open, holding his whip or inside the closed cage.",
+            options: ["Metaphor", "Antithesis", "Climax", "Personification"],
+            answer: "Antithesis",
+        },
+        {
+            id: 1910,
+            question: "The dark serpent of fate _______",
+            options: ["Simile", "Metaphor", "Climax", "Repetition"],
+            answer: "Metaphor",
+        },
+        {
+            id: 1911,
+            question: "The city goes on growing.",
+            options: ["Antithesis", "Personification", "Metaphor", "Climax"],
+            answer: "Personification",
+        },
+        {
+            id: 1912,
+            question: "Instead of fog the jungle is now enveloped in smoke.",
+            options: ["Repetition", "Anti-climax", "Antithesis", "Simile"],
+            answer: "Anti-climax",
+        },
+        {
+            id: 1913,
+            question: "Let the sweat soak into the black soil.",
+            options: ["Inversion", "Personification", "Synecdoche", "Metonymy"],
+            answer: "Personification",
+        },
+        {
+            id: 1914,
+            question: "All the world's bellies are fed by her.",
+            options: ["Tautology", "Climax", "Synecdoche", "Apostrophe"],
+            answer: "Synecdoche",
+        },
+        {
+            id: 1915,
+            question: "Her love knows no bounds.",
+            options: ["Hyperbole", "Apostrophe", "Tautology", "Inversion"],
+            answer: "Hyperbole",
+        },
+        {
+            id: 1916,
+            question: "Please help keep it safe, O God!",
+            options: ["Synecdoche", "Simile", "Apostrophe", "Anti-climax"],
+            answer: "Apostrophe",
+        },
+        {
+            id: 1917,
+            question: "Controlled and cleanly night and day.",
+            options: ["Repetition", "Hyperbole", "Tautology", "Alliteration"],
+            answer: "Alliteration",
+        },
+        {
+            id: 1918,
+            question: "World, you are beautifully dressed.",
+            options: [
+                "Apostrophe",
+                "Personification",
+                "Synecdoche",
+                "Metaphor",
+            ],
+            answer: "Apostrophe",
+        },
+        {
+            id: 1919,
+            question:
+                "Identify the correct figure of speech of the given lines: \nAlone, alone, all, all alone\nAlone on a wide, wide sea",
+            options: ["Personification", "Alliteration", "Apostrophe", "Irony"],
+            answer: "Alliteration",
+        },
     ],
     marathi: [
         {
